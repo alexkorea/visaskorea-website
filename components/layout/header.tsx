@@ -121,9 +121,9 @@ export function Header({ locale, dict }: HeaderProps) {
         {
           groupLabel: "법인설립",
           items: [
-            { href: "/services/foreign-invested-company", label: "외국인투자기업설립" },
-            { href: "/services/branch-office", label: "지사설치" },
-            { href: "/services/liaison-office", label: "연락사무소설치" },
+            { href: "/business/foreign-invested-company", label: "외국인투자기업설립" },
+            { href: "/business/branch-office", label: "지점/지사/영업소 설치" },
+            { href: "/business/liaison-office", label: "연락사무소 설치" },
           ],
         },
       ],

@@ -476,7 +476,7 @@ export function getBusinessDetail(slug: string, locale: Locale): BusinessDetailD
         ],
         relatedServices: [
           { slug: "branch-office", title: "Branch Office Setup" },
-          { slug: "subsidiary", title: "Subsidiary Establishment" },
+          { slug: "foreign-invested-company", title: "Foreign-Invested Company Setup" },
         ],
       },
       zh: {
@@ -552,7 +552,7 @@ export function getBusinessDetail(slug: string, locale: Locale): BusinessDetailD
         ],
         relatedServices: [
           { slug: "branch-office", title: "分公司设立" },
-          { slug: "subsidiary", title: "子公司设立" },
+          { slug: "foreign-invested-company", title: "外商投资企业设立" },
         ],
       },
       ja: {
@@ -628,7 +628,7 @@ export function getBusinessDetail(slug: string, locale: Locale): BusinessDetailD
         ],
         relatedServices: [
           { slug: "branch-office", title: "支店設立" },
-          { slug: "subsidiary", title: "現地法人設立" },
+          { slug: "foreign-invested-company", title: "外国人投資企業設立" },
         ],
       },
     },

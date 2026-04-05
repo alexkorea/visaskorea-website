@@ -111,7 +111,9 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     title: { ko: "법인설립", en: "Company Formation", zh: "法人设立", ja: "法人設立" },
     desc: { ko: "외국인투자기업, 지사, 연락사무소 설립", en: "FDI company, branch office, liaison office setup", zh: "外国投资企业、分公司、联络处设立", ja: "外国人投資企業、支社、連絡事務所設立" },
     items: [
-      { slug: "investment", label: "외국인투자기업설립 / 지사·지점·영업소 / 연락사무소" },
+      { slug: "foreign-invested-company", label: "외국인투자기업설립" },
+      { slug: "branch-office", label: "지점/지사/영업소 설치" },
+      { slug: "liaison-office", label: "연락사무소 설치" },
     ],
   },
 };
@@ -147,7 +149,7 @@ export default async function VisaListPage({ params }: PageProps) {
             <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
               {Object.entries(categories).map(([key, cat]) => {
                 const Icon = cat.icon;
-                const basePath = key === "business" ? "/services" : "/visa";
+                const basePath = key === "business" ? "/business" : "/visa";
                 return (
                   <div key={key} className="rounded-2xl border border-blue-200 bg-white p-6 hover:border-blue-400 hover:shadow-lg transition-shadow">
                     <div className="flex items-center gap-3 mb-4">
