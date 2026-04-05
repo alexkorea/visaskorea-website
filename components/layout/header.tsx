@@ -153,58 +153,52 @@ export function Header({ locale, dict }: HeaderProps) {
           </div>
         </Link>
 
-        {/* Desktop Navigation */}
+        {/* Desktop Navigation - hover dropdown */}
         <nav className="hidden items-center gap-1 md:flex">
-          <NavigationMenu>
-            <NavigationMenuList>
-              {navItems.map((item) => {
-                if (item.type === "link") {
-                  return (
-                    <NavigationMenuItem key={item.href}>
-                      <Link
-                        href={`/${locale}${item.href}`}
-                        className="inline-flex h-9 items-center justify-center rounded-md px-4 py-2 text-sm font-medium text-muted-foreground transition-colors hover:text-foreground"
-                      >
-                        {item.label}
-                      </Link>
-                    </NavigationMenuItem>
-                  );
-                }
-                return (
-                  <NavigationMenuItem key={item.label}>
-                    <NavigationMenuTrigger className="text-sm font-medium text-muted-foreground">
-                      {item.label}
-                    </NavigationMenuTrigger>
-                    <NavigationMenuContent>
-                      <div className="grid w-[500px] gap-3 p-4 md:w-[600px] md:grid-cols-3">
-                        {item.groups.map((group) => (
-                          <div key={group.groupLabel}>
-                            <h4 className="mb-2 text-sm font-semibold text-foreground">
-                              {group.groupLabel}
-                            </h4>
-                            <ul className="space-y-1">
-                              {group.items.map((subItem) => (
-                                <li key={subItem.href}>
-                                  <NavigationMenuLink asChild>
-                                    <Link
-                                      href={`/${locale}${subItem.href}`}
-                                      className="block rounded-md px-2 py-1.5 text-sm text-muted-foreground transition-colors hover:bg-accent hover:text-accent-foreground"
-                                    >
-                                      {subItem.label}
-                                    </Link>
-                                  </NavigationMenuLink>
-                                </li>
-                              ))}
-                            </ul>
-                          </div>
-                        ))}
+          {navItems.map((item) => {
+            if (item.type === "link") {
+              return (
+                <Link
+                  key={item.href}
+                  href={`/${locale}${item.href}`}
+                  className="px-3 py-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors rounded-md hover:bg-accent"
+                >
+                  {item.label}
+                </Link>
+              );
+            }
+            return (
+              <div key={item.label} className="relative group">
+                <button className="flex items-center gap-1 px-3 py-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors rounded-md hover:bg-accent">
+                  {item.label}
+                  <ChevronDown className="h-3 w-3" />
+                </button>
+                <div className="absolute left-0 top-full pt-1 z-50 hidden group-hover:block">
+                  <div className="bg-background rounded-lg shadow-lg border border-border p-4 grid gap-4" style={{ gridTemplateColumns: `repeat(${Math.min(item.groups.length, 3)}, minmax(180px, 1fr))` }}>
+                    {item.groups.map((group) => (
+                      <div key={group.groupLabel}>
+                        <h4 className="mb-2 text-xs font-semibold text-foreground uppercase tracking-wider">
+                          {group.groupLabel}
+                        </h4>
+                        <ul className="space-y-0.5">
+                          {group.items.map((subItem) => (
+                            <li key={subItem.href}>
+                              <Link
+                                href={`/${locale}${subItem.href}`}
+                                className="block rounded-md px-2 py-1.5 text-sm text-muted-foreground transition-colors hover:bg-accent hover:text-foreground"
+                              >
+                                {subItem.label}
+                              </Link>
+                            </li>
+                          ))}
+                        </ul>
                       </div>
-                    </NavigationMenuContent>
-                  </NavigationMenuItem>
-                );
-              })}
-            </NavigationMenuList>
-          </NavigationMenu>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            );
+          })}
         </nav>
 
         {/* Actions */}
