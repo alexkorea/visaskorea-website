@@ -77,43 +77,34 @@ export default async function HomePage({ params }: PageProps) {
     },
   };
 
-  // Services
+  // Services - 3 categories
   const services = [
     {
       icon: <FileCheck className="h-6 w-6" />,
-      title: locale === "ko" ? "비자 컨설팅" : "Visa Consulting",
+      title: locale === "ko" ? "비자 컨설팅" : locale === "zh" ? "签证咨询" : locale === "ja" ? "ビザコンサルティング" : "Visa Consulting",
       description:
         locale === "ko"
-          ? "D-8, E-7, F-5 등 모든 비자 유형에 대한 전문 컨설팅"
-          : "Expert consulting for all visa types including D-8, E-7, F-5",
+          ? "D-8 기업투자, E-7 취업, F-5 영주권, F-2 거주, F-4 재외동포 등 모든 비자 유형에 대한 전문 컨설팅"
+          : locale === "zh" ? "D-8企业投资、E-7就业、F-5永住权等所有签证类型的专业咨询" : locale === "ja" ? "D-8企業投資、E-7就労、F-5永住権など全ビザタイプの専門コンサルティング" : "Expert consulting for all visa types: D-8 investment, E-7 employment, F-5 PR, F-2 residence, F-4 overseas Korean",
       href: "/visa",
     },
     {
       icon: <Building2 className="h-6 w-6" />,
-      title: locale === "ko" ? "법인 설립" : "Company Setup",
+      title: locale === "ko" ? "투자 및 법인설립" : locale === "zh" ? "投资及法人设立" : locale === "ja" ? "投資・法人設立" : "Investment & Company Setup",
       description:
         locale === "ko"
-          ? "연락사무소, 지사, 현지법인 설립 원스톱 서비스"
-          : "One-stop service for liaison office, branch, and subsidiary setup",
-      href: "/business",
-    },
-    {
-      icon: <Globe className="h-6 w-6" />,
-      title: locale === "ko" ? "외국인 투자" : "Foreign Investment",
-      description:
-        locale === "ko"
-          ? "외국인투자촉진법에 따른 투자 신고 및 인센티브 안내"
-          : "Investment registration and incentives under FIPA",
-      href: "/business/subsidiary",
+          ? "외국인투자기업 설립, 지사 설치, 연락사무소 설치 원스톱 서비스"
+          : locale === "zh" ? "外国投资企业设立、分公司设置、联络处设置一站式服务" : locale === "ja" ? "外国人投資企業設立、支社設置、連絡事務所設置ワンストップサービス" : "One-stop service for FDI company, branch office, and liaison office setup",
+      href: "/services/foreign-invested-company",
     },
     {
       icon: <Shield className="h-6 w-6" />,
-      title: locale === "ko" ? "입국심사 대응" : "Entry Review",
+      title: locale === "ko" ? "사범심사" : locale === "zh" ? "犯罪审查" : locale === "ja" ? "犯罪審査" : "Criminal Review",
       description:
         locale === "ko"
-          ? "범죄경력, 입국금지 등 복잡한 사안 전문 대응"
-          : "Expert handling of criminal records and entry restrictions",
-      href: "/business/criminal-review",
+          ? "범죄경력, 입국금지, 입국제한 등 복잡한 사안에 대한 전문 심사 대응"
+          : locale === "zh" ? "犯罪记录、入境禁止等复杂事案的专业审查应对" : locale === "ja" ? "犯罪経歴、入国禁止等複雑な事案の専門審査対応" : "Expert handling of criminal records, entry bans, and complex immigration cases",
+      href: "/visa/criminal-review",
     },
   ];
 
@@ -143,13 +134,10 @@ export default async function HomePage({ params }: PageProps) {
 
   // Stats
   const stats = [
-    { value: "20+", label: locale === "ko" ? "년 경력" : "Years Experience" },
-    {
-      value: "5,000+",
-      label: locale === "ko" ? "성공 사례" : "Successful Cases",
-    },
-    { value: "98%", label: locale === "ko" ? "성공률" : "Success Rate" },
-    { value: "4", label: locale === "ko" ? "개 언어 지원" : "Languages" },
+    { value: "8+", label: locale === "ko" ? "년 경력" : locale === "zh" ? "年经验" : locale === "ja" ? "年の経験" : "Years Experience" },
+    { value: "1,000+", label: locale === "ko" ? "성공 사례" : locale === "zh" ? "成功案例" : locale === "ja" ? "成功事例" : "Successful Cases" },
+    { value: "98%", label: locale === "ko" ? "성공률" : locale === "zh" ? "成功率" : locale === "ja" ? "成功率" : "Success Rate" },
+    { value: "4", label: locale === "ko" ? "개 언어 지원" : locale === "zh" ? "种语言支持" : locale === "ja" ? "言語対応" : "Languages Supported" },
   ];
 
   return (
@@ -292,13 +280,13 @@ export default async function HomePage({ params }: PageProps) {
               <div>
                 <h2 className="text-3xl font-bold tracking-tight text-slate-800">
                   {locale === "ko"
-                    ? "왜 5000Meter인가요?"
-                    : "Why Choose 5000Meter?"}
+                    ? "왜 비전행정사사무소인가요?"
+                    : "Why Choose VISION?"}
                 </h2>
                 <p className="mt-4 text-slate-600">
                   {locale === "ko"
-                    ? "20년 이상의 경험과 전문성으로 고객의 성공적인 한국 정착을 돕습니다."
-                    : "With over 20 years of experience, we help our clients successfully settle in Korea."}
+                    ? "8년 이상의 경험과 전문성으로 고객의 성공적인 한국 정착을 돕습니다."
+                    : "With over 8 years of experience, we help our clients successfully settle in Korea."}
                 </p>
                 <ul className="mt-8 space-y-4">
                   {[
@@ -351,8 +339,8 @@ export default async function HomePage({ params }: PageProps) {
               <div className="rounded-2xl border border-blue-200 bg-blue-50/50 p-8">
                 <blockquote className="text-lg italic text-slate-600">
                   {locale === "ko"
-                    ? '"5000Meter 덕분에 복잡한 D-8 비자 과정을 순조롭게 마칠 수 있었습니다. 전문적인 상담과 꼼꼼한 서류 준비에 감사드립니다."'
-                    : '"Thanks to 5000Meter, I was able to smoothly complete the complex D-8 visa process. Thank you for the professional consultation and thorough document preparation."'}
+                    ? '"비전행정사사무소 덕분에 복잡한 D-8 비자 과정을 순조롭게 마칠 수 있었습니다. 전문적인 상담과 꼼꼼한 서류 준비에 감사드립니다."'
+                    : '"Thanks to 비전행정사사무소, I was able to smoothly complete the complex D-8 visa process. Thank you for the professional consultation and thorough document preparation."'}
                 </blockquote>
                 <div className="mt-4">
                   <p className="font-semibold text-slate-800">
