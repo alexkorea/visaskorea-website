@@ -264,19 +264,11 @@ export default async function ContactPage({ params }: PageProps) {
                         <span className="text-muted-foreground">
                           {isKo ? "월-금" : "Mon-Fri"}
                         </span>
-                        <span className="font-medium">09:00 - 18:00</span>
+                        <span className="font-medium">9:30 AM - 5:30 PM</span>
                       </div>
                       <div className="flex justify-between">
                         <span className="text-muted-foreground">
-                          {isKo ? "토요일" : "Saturday"}
-                        </span>
-                        <span className="font-medium">
-                          {isKo ? "예약제" : "By appointment"}
-                        </span>
-                      </div>
-                      <div className="flex justify-between">
-                        <span className="text-muted-foreground">
-                          {isKo ? "일/공휴일" : "Sun/Holidays"}
+                          {isKo ? "토/일/공휴일" : "Sat/Sun/Holidays"}
                         </span>
                         <span className="font-medium">
                           {isKo ? "휴무" : "Closed"}
