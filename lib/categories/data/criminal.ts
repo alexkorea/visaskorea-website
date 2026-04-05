@@ -178,7 +178,7 @@ export const criminalCategoryKo: CategoryData = {
       {
         step: 4,
         title: '면제 심사',
-        description: 'USCIS 또는 영사관 면제 심사',
+        description: '출입국관리사무소 또는 법무부 심사',
       },
       {
         step: 5,

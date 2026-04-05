@@ -1,35 +1,31 @@
 // SEO Configuration for Multilingual Visa & Immigration Website
 
 export const SITE_CONFIG = {
-  name: "5000Meter Immigration",
-  shortName: "5000Meter",
-  domain: "https://5000meter.com",
+  name: "비전행정사사무소",
+  shortName: "VISION",
+  domain: "https://visaskorea.co.kr",
   defaultLocale: "ko" as const,
   locales: ["ko", "en", "zh", "ja"] as const,
   organization: {
-    name: "5000Meter Immigration Consulting",
-    legalName: "5000Meter Co., Ltd.",
-    url: "https://5000meter.com",
-    logo: "https://5000meter.com/logo.png",
-    foundingDate: "2020",
+    name: "비전행정사사무소",
+    legalName: "비전행정사사무소",
+    url: "https://visaskorea.co.kr",
+    logo: "https://visaskorea.co.kr/icon.svg",
+    foundingDate: "2018",
     address: {
-      streetAddress: "123 Gangnam-daero, Gangnam-gu",
-      addressLocality: "Seoul",
-      addressRegion: "Seoul",
-      postalCode: "06000",
+      streetAddress: "퇴계로 324, 3층 (성우빌딩)",
+      addressLocality: "중구",
+      addressRegion: "서울특별시",
+      postalCode: "04614",
       addressCountry: "KR",
     },
     contactPoint: {
-      telephone: "+82-2-1234-5678",
-      email: "contact@5000meter.com",
+      telephone: "02-363-2251",
+      email: "5000meter@gmail.com",
       contactType: "customer service",
       availableLanguage: ["Korean", "English", "Chinese", "Japanese"],
     },
-    sameAs: [
-      "https://www.facebook.com/5000meter",
-      "https://www.linkedin.com/company/5000meter",
-      "https://blog.naver.com/5000meter",
-    ],
+    sameAs: [] as string[],
   },
 };
 
@@ -59,7 +55,7 @@ export const DEFAULT_SEO: Record<
   }
 > = {
   ko: {
-    title: "5000Meter | 전문 비자 및 이민 컨설팅",
+    title: "비전행정사사무소 | 전문 비자 및 이민 컨설팅",
     description:
       "대한민국 비자, 영주권, 법인 설립 전문 컨설팅. D-8, E-7, F-5 비자부터 외국인 투자법인 설립까지 원스톱 서비스를 제공합니다.",
     keywords: [
@@ -73,7 +69,7 @@ export const DEFAULT_SEO: Record<
     ],
   },
   en: {
-    title: "5000Meter | Professional Visa & Immigration Consulting",
+    title: "VISION Administrative Office | Visa & Immigration Consulting",
     description:
       "Expert visa, permanent residency, and corporate establishment consulting in South Korea. From D-8, E-7, F-5 visas to foreign investment company setup.",
     keywords: [
@@ -87,7 +83,7 @@ export const DEFAULT_SEO: Record<
     ],
   },
   zh: {
-    title: "5000Meter | 专业签证及移民咨询",
+    title: "VISION行政士事务所 | 专业签证及移民咨询",
     description:
       "韩国签证、永住权、法人设立专业咨询。从D-8、E-7、F-5签证到外国投资法人设立，提供一站式服务。",
     keywords: [
@@ -101,7 +97,7 @@ export const DEFAULT_SEO: Record<
     ],
   },
   ja: {
-    title: "5000Meter | 専門ビザ・移民コンサルティング",
+    title: "VISION行政士事務所 | 専門ビザ・移民コンサルティング",
     description:
       "韓国ビザ、永住権、法人設立専門コンサルティング。D-8、E-7、F-5ビザから外国人投資法人設立まで、ワンストップサービスを提供します。",
     keywords: [
@@ -131,33 +127,6 @@ export const URL_PATTERNS = {
     list: "/blog",
     detail: "/blog/[slug]",
   },
-  qna: {
-    list: "/qna",
-    detail: "/qna/[slug]",
-  },
-  about: "/about",
   contact: "/contact",
-} as const;
-
-// Robots settings for different page types
-export const ROBOTS_CONFIG = {
-  default: {
-    index: true,
-    follow: true,
-    "max-image-preview": "large" as const,
-    "max-snippet": -1,
-    "max-video-preview": -1,
-  },
-  noIndex: {
-    index: false,
-    follow: true,
-  },
-  noFollow: {
-    index: true,
-    follow: false,
-  },
-  none: {
-    index: false,
-    follow: false,
-  },
+  about: "/about",
 };

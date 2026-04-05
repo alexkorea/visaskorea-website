@@ -26,10 +26,10 @@ export function Footer({ locale, dict }: FooterProps) {
   ];
 
   const businessLinks = [
-    { href: "/services/investment", label: dict.common?.business || "법인설립" },
-    { href: "/services/employment", label: dict.common?.visa || "취업비자" },
-    { href: "/services/residence", label: "체류/영주" },
-    { href: "/services/criminal", label: "범죄경력 심사" },
+    { href: "/business/foreign-invested-company", label: "외국인투자기업설립" },
+    { href: "/business/branch-office", label: "지점/지사/영업소 설치" },
+    { href: "/business/liaison-office", label: "연락사무소 설치" },
+    { href: "/visa/criminal-review", label: "사범심사" },
   ];
 
   const companyLinks = [
