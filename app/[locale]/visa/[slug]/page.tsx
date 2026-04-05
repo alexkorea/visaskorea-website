@@ -63,8 +63,8 @@ export default async function VisaDetailPage({ params }: PageProps) {
   ) as Locale;
   const dict = getDictionary(validLocale);
 
-  // Get visa data
-  const visa = getVisaDetail(slug, validLocale);
+  // Get visa data - fallback to Korean if locale data not available
+  const visa = getVisaDetail(slug, validLocale) || getVisaDetail(slug, "ko");
 
   if (!visa) {
     notFound();
