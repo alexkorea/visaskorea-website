@@ -21,7 +21,7 @@ export function Footer({ locale, dict }: FooterProps) {
     { href: "/visa/d-7", label: "D-7 주재원비자" },
     { href: "/visa/e-7", label: "E-7 특정활동비자" },
     { href: "/visa/f-5", label: "F-5 영주권" },
-    { href: "/visa/f-2-7", label: "F-2-7 점수제비자" },
+    { href: "/visa/f-2-points", label: "F-2 점수제비자" },
     { href: "/visa/f-4", label: "F-4 재외동포비자" },
   ];
 

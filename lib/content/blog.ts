@@ -1,7 +1,7 @@
 /**
  * Blog Data
  *
- * Blog posts with multilingual content.
+ * Blog posts with multilingual content about Korean immigration.
  */
 
 import type { BlogPost } from "./types";
@@ -9,161 +9,161 @@ import type { BlogPost } from "./types";
 export const blogPosts: BlogPost[] = [
   {
     id: "1",
-    slug: "navigating-cross-border-ma-transactions",
-    category: "corporate",
+    slug: "e7-visa-application-guide-2024",
+    category: "employment",
     date: "2024-03-15",
     author: {
-      name: "James Park",
-      role: "Senior Partner",
+      name: "이원중 대표행정사",
+      role: "비전행정사사무소",
     },
-    image: "/images/blog/ma-transactions.jpg",
+    image: "/images/blog/employment-visa.jpg",
     title: {
-      en: "Navigating Cross-Border M&A Transactions: Key Considerations",
-      ko: "국경 간 M&A 거래 탐색: 주요 고려 사항",
-      zh: "跨境并购交易导航：关键考虑因素",
-      ja: "クロスボーダーM&A取引：重要な考慮事項",
+      en: "E-7 Special Activities Visa: Complete Application Guide 2024",
+      ko: "E-7 특정활동비자 신청 가이드 2024년 최신판",
+      zh: "E-7特定活动签证：2024年完整申请指南",
+      ja: "E-7特定活動ビザ：2024年完全申請ガイド",
     },
     excerpt: {
-      en: "Understanding the complexities of international mergers and acquisitions requires careful attention to regulatory frameworks, cultural nuances, and strategic planning.",
-      ko: "국제 인수합병의 복잡성을 이해하려면 규제 프레임워크, 문화적 뉘앙스 및 전략적 계획에 세심한 주의가 필요합니다.",
-      zh: "理解国际并购的复杂性需要仔细关注监管框架、文化差异和战略规划。",
-      ja: "国際的なM&Aの複雑さを理解するには、規制枠組み、文化的ニュアンス、戦略的計画への注意が必要です。",
+      en: "A comprehensive guide to applying for the E-7 visa for foreign professionals seeking employment in Korea, including eligibility requirements and document preparation.",
+      ko: "외국인 전문인력이 한국에서 취업하기 위한 E-7 특정활동비자의 자격 요건, 필요 서류, 신청 절차를 상세히 안내합니다.",
+      zh: "为希望在韩国就业的外国专业人才提供E-7特定活动签证的资格要求、所需文件和申请流程的详细指南。",
+      ja: "韓国での就業を目指す外国人専門人材のためのE-7特定活動ビザの資格要件、必要書類、申請手続きを詳しくご案内します。",
     },
     content: {
-      en: `<p>Cross-border mergers and acquisitions present unique challenges that require sophisticated legal expertise and cultural understanding.</p>
-<h2>Regulatory Compliance</h2>
-<p>Each jurisdiction has its own regulatory framework governing M&A activities. Understanding these requirements is essential for successful transaction completion.</p>
-<h2>Due Diligence Considerations</h2>
-<p>International due diligence requires a comprehensive approach that accounts for differences in legal systems, accounting standards, and business practices.</p>
-<h2>Cultural Integration</h2>
-<p>Beyond legal and financial considerations, successful cross-border M&A requires attention to cultural factors.</p>`,
-      ko: `<p>국경 간 인수합병은 정교한 법률 전문성과 문화적 이해가 필요한 독특한 도전을 제시합니다.</p>
-<h2>규제 준수</h2>
-<p>각 관할권은 M&A 활동을 규율하는 고유한 규제 프레임워크를 가지고 있습니다.</p>
-<h2>실사 고려 사항</h2>
-<p>국제 실사는 법률 시스템, 회계 기준 및 비즈니스 관행의 차이를 고려하는 포괄적인 접근 방식이 필요합니다.</p>
-<h2>문화 통합</h2>
-<p>법적 및 재정적 고려 사항 외에도 성공적인 국경 간 M&A는 문화적 요인에 대한 관심이 필요합니다.</p>`,
-      zh: `<p>跨境并购呈现出独特的挑战，需要精湛的法律专业知识和文化理解。</p>
-<h2>监管合规</h2>
-<p>每个司法管辖区都有其自己的监管框架来管理并购活动。</p>
-<h2>尽职调查考虑因素</h2>
-<p>国际尽职调查需要一种综合方法，考虑法律体系、会计准则和商业惯例的差异。</p>
-<h2>文化整合</h2>
-<p>除了法律和财务考虑因素外，成功的跨境并购还需要关注文化因素。</p>`,
-      ja: `<p>クロスボーダーM&Aは、高度な法的専門知識と文化的理解を必要とする独特の課題を提示します。</p>
-<h2>規制遵守</h2>
-<p>各管轄区域には、M&A活動を規制する独自の規制枠組みがあります。</p>
-<h2>デューデリジェンスの考慮事項</h2>
-<p>国際的なデューデリジェンスには、法制度、会計基準、商慣行の違いを考慮した包括的なアプローチが必要です。</p>
-<h2>文化的統合</h2>
-<p>法的・財務的考慮に加えて、クロスボーダーM&Aの成功には文化的要因への配慮が必要です。</p>`,
+      en: `<p>The E-7 visa is one of the most popular work visas for foreign professionals in Korea, covering IT specialists, engineers, translators, and other skilled workers.</p>
+<h2>Eligibility Requirements</h2>
+<p>Applicants must have a bachelor's degree or higher in a relevant field, along with work experience. The employing company must also meet certain requirements.</p>
+<h2>Required Documents</h2>
+<p>Key documents include employment contract, company registration, recommendation letter from the employer, and proof of qualifications.</p>
+<h2>Application Process</h2>
+<p>The process involves employer recommendation, document submission to immigration, and visa issuance typically within 4-8 weeks.</p>`,
+      ko: `<p>E-7 특정활동비자는 IT 전문가, 엔지니어, 통번역사 등 외국인 전문인력이 한국에서 취업할 때 가장 많이 활용하는 비자입니다.</p>
+<h2>자격 요건</h2>
+<p>관련 분야 학사학위 이상의 학력과 경력이 필요합니다. 고용 기업도 일정 요건을 갖추어야 합니다. 직종별로 세부 요건이 다르므로 사전 확인이 중요합니다.</p>
+<h2>필요 서류</h2>
+<p>고용계약서, 사업자등록증, 고용추천서, 학력·경력 증명서 등이 필요합니다. 서류의 정확한 준비가 승인률을 높이는 핵심입니다.</p>
+<h2>신청 절차</h2>
+<p>고용추천서 발급 → 출입국관리사무소 접수 → 심사 → 비자 발급 순으로 진행되며, 통상 4-8주 소요됩니다.</p>`,
+      zh: `<p>E-7特定活动签证是IT专家、工程师、翻译等外国专业人才在韩国就业时最常使用的签证。</p>
+<h2>资格要求</h2>
+<p>需要相关领域学士学位以上学历和工作经验。雇用企业也需满足一定条件。</p>
+<h2>所需文件</h2>
+<p>需要雇佣合同、营业执照、雇用推荐书、学历及经历证明等。</p>
+<h2>申请流程</h2>
+<p>雇用推荐书发放→出入境管理事务所提交→审查→签证发放，通常需要4-8周。</p>`,
+      ja: `<p>E-7特定活動ビザは、IT専門家、エンジニア、通翻訳者など外国人専門人材が韓国で就業する際に最も多く活用されるビザです。</p>
+<h2>資格要件</h2>
+<p>関連分野の学士学位以上の学歴と経歴が必要です。雇用企業も一定の要件を満たす必要があります。</p>
+<h2>必要書類</h2>
+<p>雇用契約書、事業者登録証、雇用推薦書、学歴・経歴証明書などが必要です。</p>
+<h2>申請手続き</h2>
+<p>雇用推薦書発行→出入国管理事務所提出→審査→ビザ発給の順で進行し、通常4-8週間かかります。</p>`,
     },
   },
   {
     id: "2",
-    slug: "immigration-visa-updates-2024",
-    category: "immigration",
+    slug: "f2-points-visa-score-guide",
+    category: "residence",
     date: "2024-03-10",
     author: {
-      name: "Sarah Kim",
-      role: "Immigration Practice Lead",
+      name: "이원중 대표행정사",
+      role: "비전행정사사무소",
     },
-    image: "/images/blog/immigration.jpg",
+    image: "/images/blog/residence-visa.jpg",
     title: {
-      en: "Immigration Visa Updates: What Businesses Need to Know in 2024",
-      ko: "이민 비자 업데이트: 2024년 기업이 알아야 할 사항",
-      zh: "移民签证更新：2024年企业需要了解的内容",
-      ja: "移民ビザアップデート：2024年に企業が知るべきこと",
+      en: "F-2 Points-Based Visa: How to Achieve 80 Points",
+      ko: "F-2 점수제비자: 80점 달성 전략 완전 가이드",
+      zh: "F-2积分制签证：如何达到80分",
+      ja: "F-2ポイント制ビザ：80点達成の完全ガイド",
     },
     excerpt: {
-      en: "Recent changes to immigration policies have significant implications for businesses employing international talent.",
-      ko: "최근 이민 정책 변화는 국제 인재를 고용하는 기업에 중요한 영향을 미칩니다.",
-      zh: "最近的移民政策变化对雇用国际人才的企业有重大影响。",
-      ja: "最近の移民政策の変更は、国際人材を雇用する企業に重大な影響を与えています。",
+      en: "A detailed breakdown of the F-2 points-based visa scoring system and strategies to reach the required 80 points for long-term residence in Korea.",
+      ko: "F-2 점수제비자의 항목별 배점 기준과 80점 달성을 위한 실전 전략을 상세히 분석합니다.",
+      zh: "详细解析F-2积分制签证的各项评分标准和达到80分所需的实战策略。",
+      ja: "F-2ポイント制ビザの項目別配点基準と80点達成のための実践戦略を詳しく分析します。",
     },
     content: {
-      en: `<p>The landscape of business immigration continues to evolve, with significant changes affecting how companies hire and retain international talent.</p>
-<h2>New Visa Categories</h2>
-<p>Several jurisdictions have introduced new visa categories designed to attract highly skilled workers and entrepreneurs.</p>
-<h2>Processing Time Changes</h2>
-<p>Processing times for various visa categories have seen adjustments.</p>
-<h2>Strategic Planning</h2>
-<p>Given these changes, companies should review their immigration strategies and workforce planning.</p>`,
-      ko: `<p>비즈니스 이민 환경은 계속 진화하고 있으며, 기업이 국제 인재를 고용하고 유지하는 방식에 영향을 미치는 중요한 변화가 있습니다.</p>
-<h2>새로운 비자 카테고리</h2>
-<p>여러 관할권에서 고숙련 근로자와 기업가를 유치하기 위해 설계된 새로운 비자 카테고리를 도입했습니다.</p>
-<h2>처리 시간 변경</h2>
-<p>다양한 비자 카테고리의 처리 시간이 조정되었습니다.</p>
-<h2>전략적 계획</h2>
-<p>이러한 변화를 감안하여 기업은 이민 전략과 인력 계획을 검토해야 합니다.</p>`,
-      zh: `<p>商业移民的格局继续演变，重大变化影响着公司如何雇用和留住国际人才。</p>
-<h2>新签证类别</h2>
-<p>几个司法管辖区推出了新的签证类别，旨在吸引高技能工人和企业家。</p>
-<h2>处理时间变更</h2>
-<p>各种签证类别的处理时间已经调整。</p>
-<h2>战略规划</h2>
-<p>鉴于这些变化，公司应该审查其移民策略和劳动力规划。</p>`,
-      ja: `<p>ビジネス移民の環境は進化し続けており、企業が国際人材を雇用・維持する方法に影響を与える重要な変化があります。</p>
-<h2>新しいビザカテゴリー</h2>
-<p>いくつかの管轄区域で、高度技能労働者や起業家を誘致するための新しいビザカテゴリーが導入されました。</p>
-<h2>処理時間の変更</h2>
-<p>様々なビザカテゴリーの処理時間が調整されました。</p>
-<h2>戦略的計画</h2>
-<p>これらの変化を考慮して、企業は移民戦略と人材計画を見直す必要があります。</p>`,
+      en: `<p>The F-2 points-based visa evaluates foreign professionals based on education, income, age, and Korean language ability.</p>
+<h2>Scoring Categories</h2>
+<p>Education (max 35 points), Income (max 30 points), Age (max 20 points), Korean Language/TOPIK (max 20 points), and Social Integration Program.</p>
+<h2>Strategic Tips</h2>
+<p>Focus on improving TOPIK scores and completing the Social Integration Program to maximize your points.</p>
+<h2>Path to Permanent Residency</h2>
+<p>After 3 years on F-2, you can apply for F-5 permanent residency.</p>`,
+      ko: `<p>F-2 점수제비자는 학력, 소득, 나이, 한국어 능력 등을 종합 평가하여 80점 이상인 외국인에게 발급됩니다.</p>
+<h2>점수 항목별 분석</h2>
+<p>학력(최대 35점), 소득(최대 30점), 나이(최대 20점), 한국어/TOPIK(최대 20점), 사회통합프로그램 이수 등으로 구성됩니다.</p>
+<h2>80점 달성 전략</h2>
+<p>TOPIK 점수 향상과 사회통합프로그램 이수가 가장 효율적인 점수 확보 방법입니다. 소득 증빙도 철저히 준비해야 합니다.</p>
+<h2>영주권으로의 경로</h2>
+<p>F-2 점수제비자 취득 후 3년 이상 체류하면 F-5 영주권 신청이 가능합니다.</p>`,
+      zh: `<p>F-2积分制签证通过综合评价学历、收入、年龄、韩语能力等，向达到80分以上的外国人发放。</p>
+<h2>各评分项目分析</h2>
+<p>学历（最高35分）、收入（最高30分）、年龄（最高20分）、韩语/TOPIK（最高20分）、社会统合项目等。</p>
+<h2>达到80分的策略</h2>
+<p>提高TOPIK成绩和完成社会统合项目是最有效的得分方法。</p>
+<h2>通往永住权之路</h2>
+<p>获得F-2积分制签证后居住3年以上，可申请F-5永住权。</p>`,
+      ja: `<p>F-2ポイント制ビザは学歴、所得、年齢、韓国語能力などを総合評価し、80点以上の外国人に発給されます。</p>
+<h2>各配点項目の分析</h2>
+<p>学歴（最大35点）、所得（最大30点）、年齢（最大20点）、韓国語/TOPIK（最大20点）、社会統合プログラム修了等で構成されます。</p>
+<h2>80点達成の戦略</h2>
+<p>TOPIKスコアの向上と社会統合プログラムの修了が最も効率的なポイント確保方法です。</p>
+<h2>永住権への道</h2>
+<p>F-2ポイント制ビザ取得後3年以上滞在すれば、F-5永住権の申請が可能です。</p>`,
     },
   },
   {
     id: "3",
-    slug: "protecting-intellectual-property-digital-age",
-    category: "ip",
+    slug: "foreign-company-setup-korea-guide",
+    category: "corporate",
     date: "2024-03-05",
     author: {
-      name: "David Chen",
-      role: "IP Practice Lead",
+      name: "이원중 대표행정사",
+      role: "비전행정사사무소",
     },
-    image: "/images/blog/ip-protection.jpg",
+    image: "/images/blog/company-setup.jpg",
     title: {
-      en: "Protecting Intellectual Property in the Digital Age",
-      ko: "디지털 시대의 지적재산권 보호",
-      zh: "数字时代的知识产权保护",
-      ja: "デジタル時代の知的財産権保護",
+      en: "Setting Up a Foreign-Invested Company in Korea: Step-by-Step Guide",
+      ko: "외국인 법인설립 완전 가이드: 절차부터 비자까지",
+      zh: "在韩国设立外商投资企业：分步指南",
+      ja: "韓国での外国人法人設立完全ガイド：手続きからビザまで",
     },
     excerpt: {
-      en: "As businesses increasingly operate in digital environments, protecting intellectual property requires new strategies and vigilant enforcement.",
-      ko: "기업이 점점 더 디지털 환경에서 운영됨에 따라 지적재산권 보호에는 새로운 전략과 철저한 집행이 필요합니다.",
-      zh: "随着企业越来越多地在数字环境中运营，保护知识产权需要新的策略和严格的执行。",
-      ja: "企業がデジタル環境での運営を増やす中、知的財産権の保護には新しい戦略と徹底した執行が必要です。",
+      en: "Everything you need to know about establishing a foreign-invested company in Korea, from business registration to obtaining a D-8 investor visa.",
+      ko: "외국인이 한국에서 법인을 설립하고 D-8 기업투자비자를 취득하기까지의 전 과정을 상세히 안내합니다.",
+      zh: "从营业登记到获得D-8投资签证，关于在韩国设立外商投资企业的全部流程。",
+      ja: "韓国での法人設立からD-8企業投資ビザ取得まで、外国人の会社設立の全過程を詳しくご案内します。",
     },
     content: {
-      en: `<p>The digital transformation of business has created both opportunities and challenges for intellectual property protection.</p>
-<h2>Understanding Digital IP Risks</h2>
-<p>Digital assets face unique vulnerabilities including unauthorized copying, distribution, and modification.</p>
-<h2>Registration and Documentation</h2>
-<p>Proper registration of trademarks, patents, and copyrights remains fundamental.</p>
-<h2>Enforcement Strategies</h2>
-<p>When infringement occurs, swift and appropriate action is essential.</p>`,
-      ko: `<p>비즈니스의 디지털 전환은 지적재산권 보호에 기회와 도전을 동시에 만들어냈습니다.</p>
-<h2>디지털 IP 위험 이해</h2>
-<p>디지털 자산은 무단 복제, 배포 및 수정을 포함한 고유한 취약점에 직면합니다.</p>
-<h2>등록 및 문서화</h2>
-<p>상표, 특허 및 저작권의 적절한 등록은 여전히 기본입니다.</p>
-<h2>집행 전략</h2>
-<p>침해가 발생하면 신속하고 적절한 조치가 필수적입니다.</p>`,
-      zh: `<p>商业的数字化转型为知识产权保护创造了机遇和挑战。</p>
-<h2>了解数字IP风险</h2>
-<p>数字资产面临独特的脆弱性，包括未经授权的复制、分发和修改。</p>
-<h2>注册和文档</h2>
-<p>商标、专利和版权的正确注册仍然是基础。</p>
-<h2>执行策略</h2>
-<p>当侵权发生时，迅速和适当的行动是必不可少的。</p>`,
-      ja: `<p>ビジネスのデジタル変革は、知的財産権保護に機会と課題の両方をもたらしました。</p>
-<h2>デジタルIPリスクの理解</h2>
-<p>デジタル資産は、無断コピー、配布、改変などの固有の脆弱性に直面しています。</p>
-<h2>登録と文書化</h2>
-<p>商標、特許、著作権の適切な登録は依然として基本です。</p>
-<h2>執行戦略</h2>
-<p>侵害が発生した場合、迅速かつ適切な対応が不可欠です。</p>`,
+      en: `<p>Korea offers attractive opportunities for foreign investors. Understanding the company setup process is essential for a smooth start.</p>
+<h2>Types of Business Entities</h2>
+<p>Foreign investors can choose between a corporation (Jusik Hoesa), limited liability company (Yuhan Hoesa), branch office, or liaison office.</p>
+<h2>Registration Process</h2>
+<p>The process includes foreign investment notification, company registration, business registration, and bank account setup.</p>
+<h2>D-8 Visa Connection</h2>
+<p>After investing at least 100 million KRW and completing company registration, you can apply for a D-8 investor visa.</p>`,
+      ko: `<p>한국은 외국인 투자자에게 매력적인 기회를 제공합니다. 법인설립 절차를 정확히 이해하는 것이 성공적인 사업의 첫걸음입니다.</p>
+<h2>법인 유형</h2>
+<p>주식회사, 유한회사, 지점, 연락사무소 등 다양한 형태가 있으며, 투자 목적과 규모에 따라 적합한 형태를 선택해야 합니다.</p>
+<h2>설립 절차</h2>
+<p>외국인투자신고 → 법인등기 → 사업자등록 → 은행계좌 개설 순으로 진행됩니다. 각 단계별 구비서류가 다르므로 전문가 상담이 중요합니다.</p>
+<h2>D-8 비자 연계</h2>
+<p>1억원 이상 투자 후 법인등기를 완료하면 D-8 기업투자비자를 신청할 수 있습니다.</p>`,
+      zh: `<p>韩国为外国投资者提供了有吸引力的机会。准确理解法人设立程序是成功事业的第一步。</p>
+<h2>法人类型</h2>
+<p>有株式会社、有限会社、分公司、联络事务所等多种形式。</p>
+<h2>设立流程</h2>
+<p>外国人投资申报→法人登记→营业登记→银行开户。</p>
+<h2>D-8签证关联</h2>
+<p>投资1亿韩元以上并完成法人登记后，可申请D-8企业投资签证。</p>`,
+      ja: `<p>韓国は外国人投資家に魅力的な機会を提供しています。法人設立手続きを正確に理解することが成功の第一歩です。</p>
+<h2>法人の種類</h2>
+<p>株式会社、有限会社、支店、連絡事務所など様々な形態があります。</p>
+<h2>設立手続き</h2>
+<p>外国人投資届出→法人登記→事業者登録→銀行口座開設の順で進行します。</p>
+<h2>D-8ビザとの連携</h2>
+<p>1億ウォン以上投資し法人登記を完了すれば、D-8企業投資ビザを申請できます。</p>`,
     },
   },
 ];

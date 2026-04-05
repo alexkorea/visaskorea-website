@@ -50,15 +50,10 @@ export async function generateMetadata({
 }
 
 const categoryLabels: Record<string, Record<Locale, string>> = {
-  corporate: { ko: "기업법", en: "Corporate Law", zh: "公司法", ja: "企業法" },
-  immigration: { ko: "이민법", en: "Immigration", zh: "移民法", ja: "移民法" },
-  ip: {
-    ko: "지적재산권",
-    en: "Intellectual Property",
-    zh: "知识产权",
-    ja: "知的財産権",
-  },
-  tax: { ko: "세금 및 금융", en: "Tax & Finance", zh: "税务与金融", ja: "税務・金融" },
+  employment: { ko: "취업비자", en: "Employment Visa", zh: "就业签证", ja: "就労ビザ" },
+  residence: { ko: "체류/영주", en: "Residence/PR", zh: "居留/永住", ja: "滞在/永住" },
+  corporate: { ko: "법인설립", en: "Company Setup", zh: "法人设立", ja: "法人設立" },
+  investment: { ko: "투자이민", en: "Investment", zh: "投资移民", ja: "投資移民" },
 };
 
 export default async function BlogListPage({ params, searchParams }: PageProps) {
