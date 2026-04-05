@@ -167,15 +167,15 @@ export default async function HomePage({ params }: PageProps) {
         <Team locale={validLocale} />
 
         {/* Stats Section */}
-        <section className="border-y bg-muted/30 py-12">
+        <section className="border-y bg-slate-900 py-12">
           <div className="mx-auto max-w-7xl px-4">
             <div className="grid grid-cols-2 gap-8 md:grid-cols-4">
               {stats.map((stat, index) => (
                 <div key={index} className="text-center">
-                  <div className="text-3xl font-bold text-primary md:text-4xl">
+                  <div className="text-3xl font-bold text-blue-400 md:text-4xl">
                     {stat.value}
                   </div>
-                  <div className="mt-1 text-sm text-muted-foreground">
+                  <div className="mt-1 text-sm text-slate-300">
                     {stat.label}
                   </div>
                 </div>
@@ -188,10 +188,10 @@ export default async function HomePage({ params }: PageProps) {
         <section className="py-16 md:py-24">
           <div className="mx-auto max-w-7xl px-4">
             <div className="mx-auto mb-12 max-w-2xl text-center">
-              <h2 className="text-3xl font-bold tracking-tight">
+              <h2 className="text-3xl font-bold tracking-tight text-slate-800">
                 {locale === "ko" ? "전문 서비스" : "Our Services"}
               </h2>
-              <p className="mt-4 text-muted-foreground">
+              <p className="mt-4 text-slate-600">
                 {locale === "ko"
                   ? "비자 신청부터 법인 설립까지, 한국 진출의 모든 과정을 지원합니다."
                   : "From visa applications to company setup, we support your entire journey to Korea."}
@@ -204,17 +204,17 @@ export default async function HomePage({ params }: PageProps) {
                   href={`/${validLocale}${service.href}`}
                   className="group"
                 >
-                  <Card className="h-full transition-all hover:border-primary/50 hover:shadow-md">
+                  <Card className="h-full border-blue-200 transition-all hover:border-blue-400 hover:shadow-lg hover:shadow-blue-100/50">
                     <CardHeader>
-                      <div className="mb-2 inline-flex h-12 w-12 items-center justify-center rounded-lg bg-primary/10 text-primary">
+                      <div className="mb-2 inline-flex h-12 w-12 items-center justify-center rounded-lg bg-blue-50 text-blue-600">
                         {service.icon}
                       </div>
-                      <CardTitle className="group-hover:text-primary">
+                      <CardTitle className="text-slate-800 group-hover:text-blue-600">
                         {service.title}
                       </CardTitle>
                     </CardHeader>
                     <CardContent>
-                      <p className="text-sm text-muted-foreground">
+                      <p className="text-sm text-slate-600">
                         {service.description}
                       </p>
                     </CardContent>
@@ -226,20 +226,20 @@ export default async function HomePage({ params }: PageProps) {
         </section>
 
         {/* Featured Visas - Internal Linking */}
-        <section className="bg-muted/30 py-16 md:py-24">
+        <section className="bg-blue-50/50 py-16 md:py-24">
           <div className="mx-auto max-w-7xl px-4">
             <div className="mb-12 flex items-center justify-between">
               <div>
-                <h2 className="text-3xl font-bold tracking-tight">
+                <h2 className="text-3xl font-bold tracking-tight text-slate-800">
                   {locale === "ko" ? "주요 비자 안내" : "Featured Visas"}
                 </h2>
-                <p className="mt-2 text-muted-foreground">
+                <p className="mt-2 text-slate-600">
                   {locale === "ko"
                     ? "가장 많이 문의하시는 비자 유형입니다."
                     : "Most frequently inquired visa types."}
                 </p>
               </div>
-              <Button variant="outline" asChild className="hidden md:flex">
+              <Button variant="outline" asChild className="hidden md:flex border-blue-200 text-blue-600 hover:bg-blue-50 hover:text-blue-700">
                 <Link href={`/${validLocale}/visa`}>
                   {dict.common.viewAll}
                   <ArrowRight className="ml-2 h-4 w-4" />
@@ -253,22 +253,22 @@ export default async function HomePage({ params }: PageProps) {
                   href={`/${validLocale}/visa/${visa.slug}`}
                   className="group"
                 >
-                  <Card className="transition-all hover:border-primary/50 hover:shadow-sm">
+                  <Card className="border-blue-200 transition-all hover:border-blue-400 hover:shadow-lg hover:shadow-blue-100/50">
                     <CardContent className="flex items-center justify-between p-4">
                       <div className="flex items-center gap-3">
-                        <div className="flex h-10 w-10 items-center justify-center rounded-full bg-primary/10">
-                          <Briefcase className="h-5 w-5 text-primary" />
+                        <div className="flex h-10 w-10 items-center justify-center rounded-full bg-blue-50">
+                          <Briefcase className="h-5 w-5 text-blue-600" />
                         </div>
                         <div>
-                          <p className="font-medium group-hover:text-primary">
+                          <p className="font-medium text-slate-800 group-hover:text-blue-600">
                             {visa.title}
                           </p>
-                          <p className="text-xs text-muted-foreground">
+                          <span className="inline-block text-xs bg-blue-50 text-blue-700 border border-blue-200 rounded-full px-2 py-0.5">
                             {visa.badge}
-                          </p>
+                          </span>
                         </div>
                       </div>
-                      <ArrowRight className="h-4 w-4 text-muted-foreground transition-transform group-hover:translate-x-1 group-hover:text-primary" />
+                      <ArrowRight className="h-4 w-4 text-slate-500 transition-transform group-hover:translate-x-1 group-hover:text-blue-600" />
                     </CardContent>
                   </Card>
                 </Link>
@@ -290,12 +290,12 @@ export default async function HomePage({ params }: PageProps) {
           <div className="mx-auto max-w-7xl px-4">
             <div className="grid items-center gap-12 lg:grid-cols-2">
               <div>
-                <h2 className="text-3xl font-bold tracking-tight">
+                <h2 className="text-3xl font-bold tracking-tight text-slate-800">
                   {locale === "ko"
                     ? "왜 5000Meter인가요?"
                     : "Why Choose 5000Meter?"}
                 </h2>
-                <p className="mt-4 text-muted-foreground">
+                <p className="mt-4 text-slate-600">
                   {locale === "ko"
                     ? "20년 이상의 경험과 전문성으로 고객의 성공적인 한국 정착을 돕습니다."
                     : "With over 20 years of experience, we help our clients successfully settle in Korea."}
@@ -335,12 +335,12 @@ export default async function HomePage({ params }: PageProps) {
                     },
                   ].map((item, index) => (
                     <li key={index} className="flex gap-4">
-                      <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-lg bg-primary/10 text-primary">
+                      <div className="flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-lg bg-blue-50 text-blue-600">
                         {item.icon}
                       </div>
                       <div>
-                        <h3 className="font-semibold">{item.title}</h3>
-                        <p className="text-sm text-muted-foreground">
+                        <h3 className="font-semibold text-slate-800">{item.title}</h3>
+                        <p className="text-sm text-slate-600">
                           {item.desc}
                         </p>
                       </div>
@@ -348,17 +348,17 @@ export default async function HomePage({ params }: PageProps) {
                   ))}
                 </ul>
               </div>
-              <div className="rounded-2xl bg-muted/50 p-8">
-                <blockquote className="text-lg italic text-muted-foreground">
+              <div className="rounded-2xl border border-blue-200 bg-blue-50/50 p-8">
+                <blockquote className="text-lg italic text-slate-600">
                   {locale === "ko"
                     ? '"5000Meter 덕분에 복잡한 D-8 비자 과정을 순조롭게 마칠 수 있었습니다. 전문적인 상담과 꼼꼼한 서류 준비에 감사드립니다."'
                     : '"Thanks to 5000Meter, I was able to smoothly complete the complex D-8 visa process. Thank you for the professional consultation and thorough document preparation."'}
                 </blockquote>
                 <div className="mt-4">
-                  <p className="font-semibold">
+                  <p className="font-semibold text-slate-800">
                     {locale === "ko" ? "김민수" : "James Kim"}
                   </p>
-                  <p className="text-sm text-muted-foreground">
+                  <p className="text-sm text-slate-500">
                     {locale === "ko"
                       ? "스타트업 창업자, 미국"
                       : "Startup Founder, USA"}

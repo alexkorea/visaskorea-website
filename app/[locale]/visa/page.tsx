@@ -140,14 +140,14 @@ export default async function VisaListPage({ params }: PageProps) {
                 const Icon = cat.icon;
                 const basePath = key === "business" ? "/services" : "/visa";
                 return (
-                  <div key={key} className="rounded-2xl border border-gray-200 bg-white p-6 hover:shadow-lg transition-shadow">
+                  <div key={key} className="rounded-2xl border border-blue-200 bg-white p-6 hover:border-blue-400 hover:shadow-lg transition-shadow">
                     <div className="flex items-center gap-3 mb-4">
                       <div className="w-10 h-10 bg-blue-100 rounded-lg flex items-center justify-center">
                         <Icon className="h-5 w-5 text-blue-600" />
                       </div>
                       <div>
-                        <h2 className="text-lg font-bold text-gray-900">{cat.title[validLocale] || cat.title.ko}</h2>
-                        <p className="text-xs text-gray-500">{cat.desc[validLocale] || cat.desc.ko}</p>
+                        <h2 className="text-lg font-bold text-slate-800">{cat.title[validLocale] || cat.title.ko}</h2>
+                        <p className="text-xs text-slate-500">{cat.desc[validLocale] || cat.desc.ko}</p>
                       </div>
                     </div>
                     <ul className="space-y-1">
@@ -155,10 +155,10 @@ export default async function VisaListPage({ params }: PageProps) {
                         <li key={item.slug}>
                           <Link
                             href={`/${validLocale}${basePath}/${item.slug}`}
-                            className="flex items-center justify-between py-2 px-3 rounded-lg text-sm text-gray-700 hover:bg-blue-50 hover:text-blue-700 transition-colors group"
+                            className="flex items-center justify-between py-2 px-3 rounded-lg text-sm text-slate-700 hover:bg-blue-50 hover:text-blue-700 transition-colors group"
                           >
                             <span>{item.label}</span>
-                            <ArrowRight className="h-3.5 w-3.5 text-gray-400 group-hover:text-blue-600 transition-colors" />
+                            <ArrowRight className="h-3.5 w-3.5 text-slate-400 group-hover:text-blue-600 transition-colors" />
                           </Link>
                         </li>
                       ))}
