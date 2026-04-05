@@ -35,7 +35,6 @@ export function Footer({ locale, dict }: FooterProps) {
   const companyLinks = [
     { href: "/about", label: dict.common?.about || "회사소개" },
     { href: "/blog", label: dict.common?.blog || "블로그" },
-    { href: "/qa", label: dict.common?.qna || "Q&A" },
     { href: "/contact", label: dict.common?.contact || "상담문의" },
   ];
 
