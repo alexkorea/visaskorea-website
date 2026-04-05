@@ -2508,3 +2508,4 @@ export function getVisaListItems(locale: Locale) {
     description: seo.description[locale],
   }));
 }
+
