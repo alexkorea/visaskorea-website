@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Header } from "@/components/layout/header";
@@ -8,8 +9,8 @@ import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generatePageMetadata } from "@/lib/seo";
-import { blogPosts, getBlogPostsByCategory } from "@/lib/content/blog";
-import { Calendar, ArrowRight, User } from "lucide-react";
+import { getAllPosts } from "@/lib/blog";
+import { Calendar, ArrowRight } from "lucide-react";
 
 interface PageProps {
   params: Promise<{ locale: string }>;
@@ -54,6 +55,10 @@ const categoryLabels: Record<string, Record<Locale, string>> = {
   residence: { ko: "체류/영주", en: "Residence/PR", zh: "居留/永住", ja: "滞在/永住" },
   corporate: { ko: "법인설립", en: "Company Setup", zh: "法人设立", ja: "法人設立" },
   investment: { ko: "투자이민", en: "Investment", zh: "投资移民", ja: "投資移民" },
+  "투자비자": { ko: "투자비자", en: "Investment Visa", zh: "投资签证", ja: "投資ビザ" },
+  "취업비자": { ko: "취업비자", en: "Employment Visa", zh: "就业签证", ja: "就労ビザ" },
+  "체류자격": { ko: "체류자격", en: "Residence Status", zh: "居留资格", ja: "在留資格" },
+  "법인설립": { ko: "법인설립", en: "Company Setup", zh: "法人设立", ja: "法人設立" },
 };
 
 export default async function BlogListPage({ params, searchParams }: PageProps) {
@@ -64,9 +69,13 @@ export default async function BlogListPage({ params, searchParams }: PageProps) 
   ) as Locale;
   const dict = getDictionary(validLocale);
 
+  const allPosts = getAllPosts(validLocale);
   const posts = category
-    ? getBlogPostsByCategory(category)
-    : blogPosts;
+    ? allPosts.filter((p) => p.category === category)
+    : allPosts;
+
+  // Collect unique categories from posts
+  const uniqueCategories = [...new Set(allPosts.map((p) => p.category))];
 
   return (
     <div className="flex min-h-screen flex-col">
@@ -92,13 +101,13 @@ export default async function BlogListPage({ params, searchParams }: PageProps) 
                   {{ ko: "전체", en: "All", zh: "全部", ja: "全て" }[validLocale]}
                 </Badge>
               </Link>
-              {Object.entries(categoryLabels).map(([key, labels]) => (
-                <Link key={key} href={`/${validLocale}/blog?category=${key}`}>
+              {uniqueCategories.map((cat) => (
+                <Link key={cat} href={`/${validLocale}/blog?category=${cat}`}>
                   <Badge
-                    variant={category === key ? "default" : "outline"}
+                    variant={category === cat ? "default" : "outline"}
                     className="cursor-pointer"
                   >
-                    {labels[validLocale]}
+                    {categoryLabels[cat]?.[validLocale] ?? cat}
                   </Badge>
                 </Link>
               ))}
@@ -125,11 +134,21 @@ export default async function BlogListPage({ params, searchParams }: PageProps) 
 
                   return (
                     <Link
-                      key={post.id}
+                      key={post.slug}
                       href={`/${validLocale}/blog/${post.slug}`}
                       className="group"
                     >
-                      <Card className="h-full transition-all hover:border-primary/50 hover:shadow-md">
+                      <Card className="h-full overflow-hidden transition-all hover:border-primary/50 hover:shadow-md">
+                        {post.image && (
+                          <div className="relative h-48 w-full overflow-hidden">
+                            <Image
+                              src={post.image}
+                              alt={post.title}
+                              fill
+                              className="object-cover transition-transform group-hover:scale-105"
+                            />
+                          </div>
+                        )}
                         <CardHeader>
                           <div className="flex items-center gap-2">
                             <Badge variant="secondary">
@@ -138,18 +157,14 @@ export default async function BlogListPage({ params, searchParams }: PageProps) 
                             </Badge>
                           </div>
                           <CardTitle className="line-clamp-2 text-lg group-hover:text-primary">
-                            {post.title[validLocale]}
+                            {post.title}
                           </CardTitle>
                         </CardHeader>
                         <CardContent>
                           <p className="line-clamp-3 text-sm text-muted-foreground">
-                            {post.excerpt[validLocale]}
+                            {post.excerpt}
                           </p>
                           <div className="mt-4 flex items-center gap-4 text-xs text-muted-foreground">
-                            <span className="flex items-center gap-1">
-                              <User className="h-3 w-3" />
-                              {post.author.name}
-                            </span>
                             <span className="flex items-center gap-1">
                               <Calendar className="h-3 w-3" />
                               {formattedDate}
