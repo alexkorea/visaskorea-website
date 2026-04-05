@@ -111,7 +111,7 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     title: { ko: "법인설립", en: "Company Formation", zh: "法人设立", ja: "法人設立" },
     desc: { ko: "외국인투자기업, 지사, 연락사무소 설립", en: "FDI company, branch office, liaison office setup", zh: "外国投资企业、分公司、联络处设立", ja: "外国人投資企業、支社、連絡事務所設立" },
     items: [
-      { slug: "investment", label: "외국인투자기업설립 / 지사설치 / 연락사무소" },
+      { slug: "investment", label: "외국인투자기업설립 / 지사·지점·영업소 / 연락사무소" },
     ],
   },
 };
