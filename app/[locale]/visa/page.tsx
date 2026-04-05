@@ -6,7 +6,7 @@ import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generateListMetadata } from "@/lib/seo";
-import { Briefcase, Home, Award, Shield, Building2, ArrowRight } from "lucide-react";
+import { Briefcase, Home, Award, Shield, Building2, ArrowRight, Flag } from "lucide-react";
 
 interface PageProps {
   params: Promise<{ locale: string }>;
@@ -84,6 +84,15 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     desc: { ko: "입국제한·범죄경력 심사 전문 서비스", en: "Expert services for entry restriction and criminal record review", zh: "入境限制·犯罪记录审查专业服务", ja: "入国制限・犯罪経歴審査専門サービス" },
     items: [
       { slug: "criminal-review", label: "사범심사 안내" },
+    ],
+  },
+  naturalization: {
+    icon: Flag,
+    title: { ko: "귀화 / 국적회복", en: "Naturalization / Nationality Recovery", zh: "归化 / 国籍恢复", ja: "帰化 / 国籍回復" },
+    desc: { ko: "대한민국 국적 취득 및 회복 절차", en: "Korean nationality acquisition and recovery procedures", zh: "韩国国籍取得及恢复手续", ja: "韓国国籍取得・回復手続き" },
+    items: [
+      { slug: "naturalization", label: "귀화 신청" },
+      { slug: "nationality-recovery", label: "국적회복" },
     ],
   },
   business: {

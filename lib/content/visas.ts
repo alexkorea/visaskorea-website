@@ -150,6 +150,16 @@ export const VISA_SEO: Record<
       ja: ["D-9ビザ", "貿易ビザ", "貿易経営ビザ", "D-9-5", "D-9-2"],
     },
   },
+  "naturalization": {
+    title: { ko: "귀화 신청 | 대한민국 국적 취득", en: "Naturalization | Korean Citizenship", zh: "归化申请 | 韩国国籍取得", ja: "帰化申請 | 韓国国籍取得" },
+    description: { ko: "대한민국 귀화 신청 절차, 자격요건, 필요서류를 안내합니다. 일반귀화, 간이귀화, 특별귀화의 차이점을 확인하세요.", en: "Korean naturalization application process, eligibility, and required documents.", zh: "韩国归化申请流程、资格要件、所需文件指南。", ja: "韓国帰化申請手続き、資格要件、必要書類をご案内します。" },
+    keywords: { ko: ["귀화", "귀화신청", "한국국적", "일반귀화", "간이귀화"], en: ["naturalization", "Korean citizenship"], zh: ["归化", "韩国国籍"], ja: ["帰化", "韓国国籍"] },
+  },
+  "nationality-recovery": {
+    title: { ko: "국적회복 | 대한민국 국적 되찾기", en: "Nationality Recovery | Regain Korean Citizenship", zh: "国籍恢复 | 恢复韩国国籍", ja: "国籍回復 | 韓国国籍を取り戻す" },
+    description: { ko: "외국 국적 취득 후 대한민국 국적을 되찾는 국적회복 절차와 요건을 안내합니다. 65세 이상 복수국적 특례도 확인하세요.", en: "Procedures for recovering Korean nationality after acquiring foreign citizenship.", zh: "获取外国国籍后恢复韩国国籍的手续和要件指南。", ja: "外国籍取得後の韓国国籍回復手続きと要件をご案内します。" },
+    keywords: { ko: ["국적회복", "한국국적회복", "복수국적", "65세 국적회복"], en: ["nationality recovery", "Korean citizenship recovery"], zh: ["国籍恢复", "韩国国籍恢复"], ja: ["国籍回復", "韓国国籍回復"] },
+  },
   "e-6": {
     title: {
       ko: "E-6 예술흥행비자 | 공연·연예·스포츠 취업비자",
@@ -2446,6 +2456,38 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 영주권 개요" },
           { slug: "d-8", title: "D-8 기업투자비자" },
         ],
+      },
+    },
+    "naturalization": {
+      ko: {
+        slug: "naturalization",
+        title: "귀화 신청",
+        subtitle: "대한민국 국적을 취득하는 절차",
+        overview: "귀화란 외국인이 대한민국 국적을 취득하는 것입니다. 국적법에 따라 일반귀화, 간이귀화, 특별귀화로 나뉘며, 각각 요건이 다릅니다. 5년 이상 국내 체류, 생계능력, 국어능력 등의 요건을 갖추어야 합니다.",
+        targetApplicants: ["한국에서 5년 이상 체류한 외국인 (일반귀화)", "한국인 배우자 (간이귀화)", "특별공로자 또는 우수인재 (특별귀화)", "한국인 부모를 둔 외국인"],
+        eligibility: ["국내 5년 이상 계속 거주 (일반귀화)", "대한민국 민법상 성년", "품행 단정", "생계유지 능력", "국어능력 및 대한민국 풍습에 대한 이해"],
+        requiredDocuments: ["귀화허가 신청서", "여권 사본", "가족관계 입증서류", "재산 관련 서류", "범죄경력증명서", "국어능력 입증서류 (TOPIK 등)", "기본증명서, 가족관계증명서", "체류지 입증서류"],
+        process: [{ step: 1, title: "자격 확인", description: "귀화 유형별 자격요건 검토" }, { step: 2, title: "서류 준비", description: "필수 서류 준비 및 번역·공증" }, { step: 3, title: "법무부 접수", description: "출입국관리사무소에 귀화허가 신청" }, { step: 4, title: "심사", description: "서류 심사 및 면접 (약 6개월~1년)" }, { step: 5, title: "국적 취득", description: "귀화허가 후 국적 취득" }],
+        processingTime: "약 6개월~1년",
+        importantNotes: ["귀화 시 기존 외국 국적을 포기해야 합니다 (복수국적 예외 있음).", "간이귀화는 한국인 배우자의 경우 혼인 후 2년 이상 한국에 체류하면 신청 가능합니다.", "국어능력시험(KINAT) 또는 사회통합프로그램 이수가 필요합니다."],
+        faqs: [{ question: "귀화와 국적회복의 차이는?", answer: "귀화는 한국 국적이 없었던 외국인이 새로 국적을 취득하는 것이고, 국적회복은 과거 한국 국적을 보유했던 사람이 국적을 되찾는 것입니다." }, { question: "귀화 후 외국 국적은 어떻게 되나요?", answer: "원칙적으로 외국 국적을 포기해야 하지만, 65세 이상 등 일부 경우 외국국적 불행사 서약으로 복수국적 유지가 가능합니다." }, { question: "소요 기간은 얼마나 되나요?", answer: "일반적으로 접수 후 6개월~1년 소요됩니다." }],
+        relatedVisas: [{ slug: "nationality-recovery", title: "국적회복" }, { slug: "f-5", title: "F-5 영주권" }, { slug: "f-6", title: "F-6 결혼비자" }],
+      },
+    },
+    "nationality-recovery": {
+      ko: {
+        slug: "nationality-recovery",
+        title: "국적회복",
+        subtitle: "대한민국 국적을 되찾는 절차",
+        overview: "국적회복은 과거 대한민국 국적을 보유했다가 외국 국적을 취득하여 한국 국적을 상실한 사람이 다시 대한민국 국적을 취득하는 제도입니다. 65세 이상인 경우 외국국적 불행사 서약만으로 복수국적을 유지할 수 있는 특례가 적용됩니다.",
+        targetApplicants: ["과거 대한민국 국적을 보유했던 외국인", "국적상실 신고를 완료한 자", "65세 이상 복수국적 희망자", "해외 입양 출신 한국계"],
+        eligibility: ["과거 대한민국 국적 보유 사실 입증", "품행 단정", "생계유지 능력", "국어능력 및 기본 소양", "국적상실 신고 완료"],
+        requiredDocuments: ["국적회복 허가 신청서", "여권 원본 및 사본", "가족관계증명서(상세)", "기본증명서(상세)", "국적상실 입증 서류", "범죄경력증명서 (아포스티유)", "재산 입증 서류", "사진 1매"],
+        process: [{ step: 1, title: "서류 준비", description: "필수 서류 준비 (해외 서류는 아포스티유 필요)" }, { step: 2, title: "관할 기관 방문", description: "출입국·외국인청에 접수" }, { step: 3, title: "법무부 심사", description: "서류 및 요건 심사 (6개월~1년)" }, { step: 4, title: "국적회복 허가", description: "관보 고시" }, { step: 5, title: "외국국적 처리", description: "65세 이상: 불행사 서약 / 65세 미만: 외국 국적 포기" }],
+        processingTime: "약 6개월~1년",
+        importantNotes: ["65세 이상은 외국국적 불행사 서약으로 복수국적 유지 가능.", "국적회복 후 주민등록 및 대한민국 여권 발급 가능.", "병역을 기피할 목적으로 국적을 상실한 남성은 제한될 수 있음."],
+        faqs: [{ question: "65세 이상이면 외국 국적을 포기해야 하나요?", answer: "아닙니다. 65세 이상은 '외국국적 불행사 서약'만으로 한국 국적과 외국 국적을 모두 유지할 수 있습니다." }, { question: "심사 기간은 얼마나 걸리나요?", answer: "보통 6개월~1년 소요됩니다." }, { question: "국적회복 후 F-4 비자는 어떻게 되나요?", answer: "한국 국적을 취득하므로 F-4 비자는 소멸되고, 주민등록 후 대한민국 여권을 발급받습니다." }],
+        relatedVisas: [{ slug: "naturalization", title: "귀화 신청" }, { slug: "f-5", title: "F-5 영주권" }, { slug: "f-4", title: "F-4 거소증" }],
       },
     },
   };
