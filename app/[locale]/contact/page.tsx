@@ -69,28 +69,28 @@ export default async function ContactPage({ params }: PageProps) {
     {
       icon: <Phone className="h-5 w-5" />,
       title: isKo ? "전화 상담" : "Phone",
-      value: "+82-2-1234-5678",
-      description: isKo ? "월-금 09:00-18:00" : "Mon-Fri 09:00-18:00",
+      value: "02-363-2251",
+      description: isKo ? "월-금 9:30 AM - 5:30 PM" : "Mon-Fri 9:30 AM - 5:30 PM",
     },
     {
       icon: <Mail className="h-5 w-5" />,
       title: isKo ? "이메일" : "Email",
-      value: "contact@5000meter.com",
+      value: "5000meter@gmail.com",
       description: isKo ? "24시간 접수 가능" : "Available 24/7",
     },
     {
       icon: <MessageCircle className="h-5 w-5" />,
       title: isKo ? "카카오톡" : "KakaoTalk",
-      value: "@5000meter",
+      value: "alexkorea",
       description: isKo ? "실시간 상담" : "Real-time chat",
     },
     {
       icon: <MapPin className="h-5 w-5" />,
       title: isKo ? "사무소 위치" : "Office Location",
       value: isKo
-        ? "서울시 강남구 강남대로 123"
-        : "123 Gangnam-daero, Gangnam-gu, Seoul",
-      description: isKo ? "강남역 3번 출구" : "Gangnam Station Exit 3",
+        ? "(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)"
+        : "324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul",
+      description: isKo ? "동대문역사문화공원역 4번출구 10미터" : "Dongdaemun History & Culture Park Stn. Exit 4, 10m",
     },
   ];
 
