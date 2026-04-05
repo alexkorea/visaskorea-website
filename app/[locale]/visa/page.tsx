@@ -6,7 +6,7 @@ import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generateListMetadata } from "@/lib/seo";
-import { Briefcase, Home, Award, Shield, Building2, ArrowRight, Flag } from "lucide-react";
+import { Briefcase, Home, Award, Shield, Building2, ArrowRight, Flag, Globe } from "lucide-react";
 
 interface PageProps {
   params: Promise<{ locale: string }>;
@@ -84,6 +84,17 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     desc: { ko: "입국제한·범죄경력 심사 전문 서비스", en: "Expert services for entry restriction and criminal record review", zh: "入境限制·犯罪记录审查专业服务", ja: "入国制限・犯罪経歴審査専門サービス" },
     items: [
       { slug: "criminal-review", label: "사범심사 안내" },
+    ],
+  },
+  immigration: {
+    icon: Globe,
+    title: { ko: "이민", en: "Immigration", zh: "移民", ja: "移民" },
+    desc: { ko: "투자를 통한 한국 이민 전문 상담", en: "Immigration to Korea through investment", zh: "通过投资移民韩国专业咨询", ja: "投資による韓国移民専門相談" },
+    items: [
+      { slug: "f-2-public-interest", label: "공익사업투자 이민" },
+      { slug: "f-2-real-estate", label: "부동산투자 이민" },
+      { slug: "f-5-16", label: "점수제 영주권" },
+      { slug: "f-5-25", label: "은퇴이민 (조건부)" },
     ],
   },
   naturalization: {

@@ -77,7 +77,7 @@ export default async function HomePage({ params }: PageProps) {
     },
   };
 
-  // Services - 3 categories
+  // Services - 4 categories
   const services = [
     {
       icon: <FileCheck className="h-6 w-6" />,
@@ -85,7 +85,7 @@ export default async function HomePage({ params }: PageProps) {
       description:
         locale === "ko"
           ? "D-8 기업투자, E-7 취업, F-5 영주권, F-2 거주, F-4 재외동포 등 모든 비자 유형에 대한 전문 컨설팅"
-          : locale === "zh" ? "D-8企业投资、E-7就业、F-5永住权等所有签证类型的专业咨询" : locale === "ja" ? "D-8企業投資、E-7就労、F-5永住権など全ビザタイプの専門コンサルティング" : "Expert consulting for all visa types: D-8 investment, E-7 employment, F-5 PR, F-2 residence, F-4 overseas Korean",
+          : locale === "zh" ? "D-8企业投资、E-7就业、F-5永住权等所有签证类型的专业咨询" : locale === "ja" ? "D-8企業投資、E-7就労、F-5永住権など全ビザタイプの専門コンサルティング" : "Expert consulting for all visa types: D-8 investment, E-7 employment, F-5 PR, F-2 residence",
       href: "/visa",
     },
     {
@@ -105,6 +105,15 @@ export default async function HomePage({ params }: PageProps) {
           ? "범죄경력, 입국금지, 입국제한 등 복잡한 사안에 대한 전문 심사 대응"
           : locale === "zh" ? "犯罪记录、入境禁止等复杂事案的专业审查应对" : locale === "ja" ? "犯罪経歴、入国禁止等複雑な事案の専門審査対応" : "Expert handling of criminal records, entry bans, and complex immigration cases",
       href: "/visa/criminal-review",
+    },
+    {
+      icon: <Globe className="h-6 w-6" />,
+      title: locale === "ko" ? "이민" : locale === "zh" ? "移民" : locale === "ja" ? "移民" : "Immigration",
+      description:
+        locale === "ko"
+          ? "공익사업투자, 부동산투자, 점수제영주권, 은퇴이민 등 한국 이민 전문 상담"
+          : locale === "zh" ? "公益投资、房地产投资、积分制永住权、退休移民等专业咨询" : locale === "ja" ? "公益事業投資、不動産投資、ポイント制永住権、退職移民など専門相談" : "Immigration via public interest, real estate investment, points-based PR, retirement visa",
+      href: "/visa/f-5",
     },
   ];
 
@@ -185,7 +194,7 @@ export default async function HomePage({ params }: PageProps) {
                   : "From visa applications to company setup, we support your entire journey to Korea."}
               </p>
             </div>
-            <div className="grid gap-6 md:grid-cols-3">
+            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
               {services.map((service, index) => (
                 <Link
                   key={index}
