@@ -333,23 +333,6 @@ export default async function HomePage({ params }: PageProps) {
                   ))}
                 </ul>
               </div>
-              <div className="rounded-2xl border border-blue-200 bg-blue-50/50 p-8">
-                <blockquote className="text-lg italic text-slate-600">
-                  {locale === "ko"
-                    ? '"비전행정사사무소 덕분에 복잡한 D-8 비자 과정을 순조롭게 마칠 수 있었습니다. 전문적인 상담과 꼼꼼한 서류 준비에 감사드립니다."'
-                    : '"Thanks to 비전행정사사무소, I was able to smoothly complete the complex D-8 visa process. Thank you for the professional consultation and thorough document preparation."'}
-                </blockquote>
-                <div className="mt-4">
-                  <p className="font-semibold text-slate-800">
-                    {locale === "ko" ? "김민수" : "James Kim"}
-                  </p>
-                  <p className="text-sm text-slate-500">
-                    {locale === "ko"
-                      ? "스타트업 창업자, 미국"
-                      : "Startup Founder, USA"}
-                  </p>
-                </div>
-              </div>
             </div>
           </div>
         </section>
