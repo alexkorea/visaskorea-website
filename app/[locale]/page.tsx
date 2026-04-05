@@ -6,6 +6,8 @@ import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { CTABanner } from "@/components/layout/related-services";
 import { HeroSlider } from "@/components/layout/hero-slider";
+import { Messenger } from "@/components/layout/messenger";
+import { Team } from "@/components/layout/team";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generatePageMetadata, SITE_CONFIG, DEFAULT_SEO } from "@/lib/seo";
@@ -157,6 +159,12 @@ export default async function HomePage({ params }: PageProps) {
       <main className="flex-1">
         {/* Hero Slider */}
         <HeroSlider locale={validLocale} />
+
+        {/* Messenger QR */}
+        <Messenger locale={validLocale} />
+
+        {/* Team */}
+        <Team locale={validLocale} />
 
         {/* Stats Section */}
         <section className="border-y bg-muted/30 py-12">
