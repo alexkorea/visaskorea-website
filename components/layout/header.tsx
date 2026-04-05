@@ -129,6 +129,7 @@ export function Header({ locale, dict }: HeaderProps) {
       ],
     },
     { type: "link", href: "/visa/criminal-review", label: "사범심사" },
+    { type: "link", href: "/blog", label: dict.common.blog || "블로그" },
     { type: "link", href: "/contact", label: dict.common.contact },
   ];
 
