@@ -10,6 +10,26 @@ export const BUSINESS_SEO: Record<
     keywords: Record<Locale, string[]>;
   }
 > = {
+  "foreign-invested-company": {
+    title: {
+      ko: "외국인투자기업설립 | 외투법인 설립 가이드",
+      en: "Foreign-Invested Company | FDI Company Setup Korea",
+      zh: "外商投资企业设立 | 韩国外资企业指南",
+      ja: "外国人投資企業設立 | 韓国外資企業ガイド",
+    },
+    description: {
+      ko: "외국인투자촉진법에 따른 외국인투자기업 설립 가이드. 투자신고, 법인설립, 사업자등록까지 전 과정을 안내합니다.",
+      en: "Guide to establishing a foreign-invested company in Korea under FIPA. Complete process from investment report to business registration.",
+      zh: "根据外国投资促进法设立外商投资企业指南。从投资申报到营业执照的全过程。",
+      ja: "外国人投資促進法に基づく外国人投資企業設立ガイド。投資届出から法人設立、事業者登録まで全過程をご案内します。",
+    },
+    keywords: {
+      ko: ["외국인투자기업", "외투법인", "법인설립", "외국인투자", "FIPA"],
+      en: ["foreign-invested company Korea", "FDI Korea", "company setup Korea"],
+      zh: ["外商投资企业", "韩国外资企业", "外资法人设立"],
+      ja: ["外国人投資企業", "韓国外資法人", "法人設立"],
+    },
+  },
   "liaison-office": {
     title: {
       ko: "연락사무소 설립 | 외국기업 한국 진출 첫 단계",
@@ -94,7 +114,167 @@ export const BUSINESS_SEO: Record<
 
 // Sample business detail content
 export function getBusinessDetail(slug: string, locale: Locale): BusinessDetailData | null {
-  const businessData: Record<string, Record<Locale, BusinessDetailData>> = {
+  const businessData: Record<string, Partial<Record<Locale, BusinessDetailData>>> = {
+    "foreign-invested-company": {
+      ko: {
+        slug: "foreign-invested-company",
+        title: "외국인투자기업설립",
+        subtitle: "외국인투자촉진법에 따른 외투법인 설립",
+        serviceIntro:
+          "외국인투자기업설립은 외국인투자촉진법(FIPA)에 따라 외국인이 한국에 1억원 이상을 투자하고 법인을 설립하는 절차입니다. 외국인투자신고, 투자금 송금, 법인등기, 사업자등록, 외국인투자기업등록까지 일련의 과정을 거치며, 세금감면 등 각종 인센티브를 받을 수 있습니다.",
+        targetCompanies: [
+          "한국에 자회사 또는 합작법인을 설립하려는 해외기업",
+          "개인 자격으로 한국에서 법인을 설립하려는 외국인 투자자",
+          "기술창업을 위해 한국 법인을 설립하려는 외국인 스타트업",
+          "외국인투자 인센티브(세금감면 등)를 활용하려는 기업",
+        ],
+        requiredDocuments: [
+          "외국인투자신고서",
+          "투자자 신분증 (여권 사본)",
+          "투자자 또는 모기업 법인등기부등본 (공증·아포스티유)",
+          "투자금 송금 확인서 (해외 송금 증빙)",
+          "법인 정관",
+          "주주명부",
+          "사무실 임대차계약서",
+          "사업계획서",
+          "대표이사 취임승낙서",
+        ],
+        processSteps: [
+          {
+            step: 1,
+            title: "외국인투자신고",
+            description: "KOTRA 또는 외국환은행을 통해 외국인투자신고서 제출",
+          },
+          {
+            step: 2,
+            title: "투자금 송금",
+            description: "해외에서 한국 투자용 계좌로 투자금 송금 (최소 1억원)",
+          },
+          {
+            step: 3,
+            title: "법인설립등기",
+            description: "법원 등기소에서 법인설립등기 (정관, 주주총회 의사록 등 첨부)",
+          },
+          {
+            step: 4,
+            title: "사업자등록",
+            description: "관할 세무서에서 사업자등록증 발급",
+          },
+          {
+            step: 5,
+            title: "외국인투자기업등록",
+            description: "산업통상자원부(KOTRA)에 외국인투자기업 등록 및 등록증 발급",
+          },
+        ],
+        considerations: [
+          "투자금은 반드시 해외에서 송금되어야 하며, 국내 자금은 외국인투자로 인정되지 않습니다.",
+          "법인 설립 후 3개월 이내에 외국인투자기업 등록을 완료해야 인센티브를 받을 수 있습니다.",
+          "대표이사가 외국인인 경우 D-8 기업투자비자 신청이 필요합니다.",
+          "업종에 따라 별도의 인·허가가 필요한 경우가 있습니다 (음식업, 교육업 등).",
+          "수도권과 지방의 인센티브(세금감면 기간·비율)가 다를 수 있습니다.",
+        ],
+        faqs: [
+          {
+            question: "외국인투자기업 설립 비용은 얼마인가요?",
+            answer:
+              "법인설립등기 비용(등록면허세, 교육세 등), 공증비, 번역비, 컨설팅비 등이 발생합니다. 투자금 1억원 기준 약 300-500만원 정도의 부대비용이 예상됩니다.",
+          },
+          {
+            question: "설립까지 얼마나 걸리나요?",
+            answer:
+              "서류 준비 상태에 따라 다르지만, 투자신고부터 사업자등록까지 통상 2-4주 정도 소요됩니다. 해외 서류 공증·아포스티유가 필요한 경우 추가 기간이 소요됩니다.",
+          },
+          {
+            question: "외국인투자기업의 세금 혜택은 무엇인가요?",
+            answer:
+              "고도기술, 산업지원서비스업 등에 해당하면 법인세·소득세 감면, 관세 면제, 지방세 감면 등의 혜택이 있습니다. 투자 규모와 업종에 따라 혜택 범위가 다릅니다.",
+          },
+        ],
+        relatedServices: [
+          { slug: "branch-office", title: "지사 설립" },
+          { slug: "liaison-office", title: "연락사무소 설립" },
+        ],
+      },
+    },
+    "branch-office": {
+      ko: {
+        slug: "branch-office",
+        title: "지사설치",
+        subtitle: "외국기업의 한국 지사(지점) 설립",
+        serviceIntro:
+          "지사(지점)설치는 외국기업이 한국에서 직접 영업활동을 수행하기 위해 설립하는 영업거점입니다. 별도의 법인을 설립하지 않고도 본사 명의로 한국에서 사업을 영위할 수 있으며, 법원에 지점등기 후 사업자등록을 하면 영업활동이 가능합니다.",
+        targetCompanies: [
+          "한국에서 본사 명의로 직접 영업활동을 하려는 외국기업",
+          "별도 법인 설립 없이 한국에서 매출을 발생시키려는 기업",
+          "한국 시장을 테스트하면서 본격적 영업을 시작하려는 기업",
+          "한국 고객사와 직접 계약을 체결해야 하는 기업",
+        ],
+        requiredDocuments: [
+          "본사 법인등기부등본 (공증, 아포스티유)",
+          "본사 정관 (공증, 아포스티유)",
+          "본사 이사회 의사록 (한국 지사 설치 결의)",
+          "한국 대표자 임명장",
+          "한국 대표자 신분증·이력서",
+          "사무실 임대차계약서",
+          "영업기금 송금 증빙",
+        ],
+        processSteps: [
+          {
+            step: 1,
+            title: "서류 준비",
+            description: "본사 서류 공증, 아포스티유, 번역 공증 진행",
+          },
+          {
+            step: 2,
+            title: "영업기금 송금",
+            description: "본사에서 한국 계좌로 영업기금 송금",
+          },
+          {
+            step: 3,
+            title: "지점등기",
+            description: "법원 등기소에 외국회사 국내지점 설치등기",
+          },
+          {
+            step: 4,
+            title: "사업자등록",
+            description: "관할 세무서에서 사업자등록증 발급",
+          },
+          {
+            step: 5,
+            title: "비자 신청",
+            description: "지점장 및 파견직원 D-7 비자 신청 (필요 시)",
+          },
+        ],
+        considerations: [
+          "지사는 법인과 달리 본사의 일부로 간주되므로, 본사가 지사의 채무에 대해 무한책임을 집니다.",
+          "매년 영업보고서를 법원에 제출해야 합니다.",
+          "지사에서 발생한 이익에 대해 한국에서 법인세가 부과됩니다.",
+          "지사를 법인(자회사)으로 전환하려면 별도의 절차가 필요합니다.",
+          "지사장은 한국인 또는 한국 체류 외국인이어야 합니다.",
+        ],
+        faqs: [
+          {
+            question: "지사와 법인(자회사)의 차이는 무엇인가요?",
+            answer:
+              "지사는 본사의 일부로 독립된 법인격이 없으며, 본사가 무한책임을 집니다. 법인(자회사)은 독립된 법인격이 있어 책임이 투자금 한도로 제한됩니다. 세금, 계약, 책임 구조가 다르므로 사업 특성에 맞게 선택해야 합니다.",
+          },
+          {
+            question: "지사 설립에 최소 자본금 요건이 있나요?",
+            answer:
+              "법적 최소 자본금 요건은 없으나, 영업활동을 위한 충분한 영업기금을 본사에서 송금해야 합니다. 실질적으로 사무실 임대, 인건비 등 운영자금이 필요합니다.",
+          },
+          {
+            question: "지사에서 법인으로 전환할 수 있나요?",
+            answer:
+              "네, 지사를 폐쇄하고 새로 법인을 설립하거나, 지사의 자산·부채를 법인으로 이전하는 방법이 있습니다. 세금 및 법률적 고려가 필요하므로 전문가 상담을 권장합니다.",
+          },
+        ],
+        relatedServices: [
+          { slug: "foreign-invested-company", title: "외국인투자기업설립" },
+          { slug: "liaison-office", title: "연락사무소 설립" },
+        ],
+      },
+    },
     "liaison-office": {
       ko: {
         slug: "liaison-office",
