@@ -74,6 +74,7 @@ export default async function VisaListPage({ params }: PageProps) {
           description={VISA_CATEGORY_SEO.description[validLocale]}
           items={items}
           basePath="/visa"
+          heroImage="/slides/passport.jpg"
         />
       </main>
 

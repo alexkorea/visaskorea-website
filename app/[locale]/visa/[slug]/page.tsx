@@ -82,6 +82,7 @@ export default async function VisaDetailPage({ params }: PageProps) {
           dict={dict}
           visa={visa}
           categoryTitle={categoryTitle}
+          heroImage="/slides/passport.jpg"
         />
 
         {/* CTA Section */}

@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
+import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generatePageMetadata } from "@/lib/seo";
@@ -128,18 +129,11 @@ export default async function AboutPage({ params }: PageProps) {
 
       <main className="flex-1">
         {/* Hero */}
-        <section className="border-b bg-muted/30 py-16 md:py-24">
-          <div className="mx-auto max-w-7xl px-4">
-            <div className="mx-auto max-w-3xl text-center">
-              <h1 className="text-balance text-3xl font-bold tracking-tight md:text-4xl lg:text-5xl">
-                {ABOUT_SEO.title[validLocale]}
-              </h1>
-              <p className="mt-4 text-lg text-muted-foreground">
-                {ABOUT_SEO.description[validLocale]}
-              </p>
-            </div>
-          </div>
-        </section>
+        <PageHero
+          title={ABOUT_SEO.title[validLocale]}
+          subtitle={ABOUT_SEO.description[validLocale]}
+          image="/slides/consultation.jpg"
+        />
 
         {/* Strengths */}
         <section className="py-16 md:py-24">

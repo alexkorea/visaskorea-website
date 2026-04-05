@@ -6,6 +6,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
+import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generateBlogMetadata } from "@/lib/seo";
@@ -92,29 +93,30 @@ export default async function BlogDetailPage({ params }: PageProps) {
 
       <main className="flex-1">
         {/* Hero */}
-        <section className="border-b bg-muted/30 py-12 md:py-16">
+        <PageHero
+          title={post.title[validLocale]}
+          subtitle={post.excerpt[validLocale]}
+          image="/slides/documents.jpg"
+        />
+
+        {/* Meta info */}
+        <section className="border-b bg-muted/30 py-4">
           <div className="mx-auto max-w-4xl px-4">
-            <Button asChild variant="ghost" size="sm" className="mb-6 -ml-2">
-              <Link href={`/${validLocale}/blog`}>
-                <ArrowLeft className="mr-2 h-4 w-4" />
-                {dict.common.backToList}
-              </Link>
-            </Button>
-
-            <Badge variant="secondary" className="mb-4">
-              {categoryLabels[post.category]?.[validLocale] ?? post.category}
-            </Badge>
-
-            <h1 className="text-balance text-2xl font-bold tracking-tight md:text-3xl lg:text-4xl">
-              {post.title[validLocale]}
-            </h1>
-
-            <div className="mt-6 flex flex-wrap items-center gap-4 text-sm text-muted-foreground">
-              <span className="flex items-center gap-1.5">
+            <div className="flex flex-wrap items-center gap-4">
+              <Button asChild variant="ghost" size="sm" className="-ml-2">
+                <Link href={`/${validLocale}/blog`}>
+                  <ArrowLeft className="mr-2 h-4 w-4" />
+                  {dict.common.backToList}
+                </Link>
+              </Button>
+              <Badge variant="secondary">
+                {categoryLabels[post.category]?.[validLocale] ?? post.category}
+              </Badge>
+              <span className="flex items-center gap-1.5 text-sm text-muted-foreground">
                 <User className="h-4 w-4" />
                 {post.author.name}, {post.author.role}
               </span>
-              <span className="flex items-center gap-1.5">
+              <span className="flex items-center gap-1.5 text-sm text-muted-foreground">
                 <Calendar className="h-4 w-4" />
                 {dict.blog.publishedOn} {formattedDate}
               </span>

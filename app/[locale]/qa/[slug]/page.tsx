@@ -6,6 +6,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
+import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generateQnaMetadata } from "@/lib/seo";
@@ -75,22 +76,25 @@ export default async function QADetailPage({ params }: PageProps) {
 
       <main className="flex-1">
         {/* Hero */}
-        <section className="border-b bg-muted/30 py-12 md:py-16">
+        <PageHero
+          title={item.question[validLocale]}
+          image="/slides/documents.jpg"
+        />
+
+        {/* Meta info */}
+        <section className="border-b bg-muted/30 py-4">
           <div className="mx-auto max-w-4xl px-4">
-            <Button asChild variant="ghost" size="sm" className="mb-6 -ml-2">
-              <Link href={`/${validLocale}/qa`}>
-                <ArrowLeft className="mr-2 h-4 w-4" />
-                {dict.common.backToList}
-              </Link>
-            </Button>
-
-            <Badge variant="secondary" className="mb-4">
-              {categoryLabels[item.category]?.[validLocale] ?? item.category}
-            </Badge>
-
-            <h1 className="text-balance text-2xl font-bold tracking-tight md:text-3xl">
-              {item.question[validLocale]}
-            </h1>
+            <div className="flex flex-wrap items-center gap-4">
+              <Button asChild variant="ghost" size="sm" className="-ml-2">
+                <Link href={`/${validLocale}/qa`}>
+                  <ArrowLeft className="mr-2 h-4 w-4" />
+                  {dict.common.backToList}
+                </Link>
+              </Button>
+              <Badge variant="secondary">
+                {categoryLabels[item.category]?.[validLocale] ?? item.category}
+              </Badge>
+            </div>
           </div>
         </section>
 

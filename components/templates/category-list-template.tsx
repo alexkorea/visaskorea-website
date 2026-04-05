@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { SEOBreadcrumb } from "@/components/seo/seo-breadcrumb";
+import { PageHero } from "@/components/layout/page-hero";
 import type { Locale } from "@/lib/seo";
 import type { Dictionary } from "@/lib/i18n/dictionaries";
 import { ArrowRight } from "lucide-react";
@@ -21,6 +22,7 @@ interface CategoryListTemplateProps {
   description: string;
   items: CategoryItem[];
   basePath: string; // e.g., "/visa" or "/business"
+  heroImage?: string;
 }
 
 export function CategoryListTemplate({
@@ -30,6 +32,7 @@ export function CategoryListTemplate({
   description,
   items,
   basePath,
+  heroImage,
 }: CategoryListTemplateProps) {
   return (
     <div className="min-h-screen bg-background">
@@ -45,16 +48,20 @@ export function CategoryListTemplate({
       </div>
 
       {/* Hero Section */}
-      <header className="border-b bg-gradient-to-b from-muted/50 to-background py-12 md:py-16">
-        <div className="mx-auto max-w-6xl px-4 text-center">
-          <h1 className="text-balance text-3xl font-bold tracking-tight md:text-4xl lg:text-5xl">
-            {title}
-          </h1>
-          <p className="mx-auto mt-4 max-w-2xl text-pretty text-lg text-muted-foreground">
-            {description}
-          </p>
-        </div>
-      </header>
+      {heroImage ? (
+        <PageHero title={title} subtitle={description} image={heroImage} />
+      ) : (
+        <header className="border-b bg-gradient-to-b from-muted/50 to-background py-12 md:py-16">
+          <div className="mx-auto max-w-6xl px-4 text-center">
+            <h1 className="text-balance text-3xl font-bold tracking-tight md:text-4xl lg:text-5xl">
+              {title}
+            </h1>
+            <p className="mx-auto mt-4 max-w-2xl text-pretty text-lg text-muted-foreground">
+              {description}
+            </p>
+          </div>
+        </header>
+      )}
 
       {/* Items Grid */}
       <section className="py-12 md:py-16">

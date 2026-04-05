@@ -5,6 +5,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
+import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generatePageMetadata } from "@/lib/seo";
@@ -75,18 +76,11 @@ export default async function QAListPage({
 
       <main className="flex-1">
         {/* Hero */}
-        <section className="border-b bg-muted/30 py-16 md:py-20">
-          <div className="mx-auto max-w-7xl px-4">
-            <div className="mx-auto max-w-3xl text-center">
-              <h1 className="text-balance text-3xl font-bold tracking-tight md:text-4xl lg:text-5xl">
-                {QA_SEO.title[validLocale]}
-              </h1>
-              <p className="mt-4 text-lg text-muted-foreground">
-                {QA_SEO.description[validLocale]}
-              </p>
-            </div>
-          </div>
-        </section>
+        <PageHero
+          title={QA_SEO.title[validLocale]}
+          subtitle={QA_SEO.description[validLocale]}
+          image="/slides/documents.jpg"
+        />
 
         {/* Category Filter */}
         <section className="border-b py-4">

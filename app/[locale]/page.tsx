@@ -5,6 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { CTABanner } from "@/components/layout/related-services";
+import { HeroSlider } from "@/components/layout/hero-slider";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generatePageMetadata, SITE_CONFIG, DEFAULT_SEO } from "@/lib/seo";
@@ -154,32 +155,8 @@ export default async function HomePage({ params }: PageProps) {
       <Header locale={validLocale} dict={dict} />
 
       <main className="flex-1">
-        {/* Hero Section */}
-        <section className="relative overflow-hidden bg-gradient-to-b from-muted/50 to-background py-20 md:py-32">
-          <div className="mx-auto max-w-7xl px-4">
-            <div className="mx-auto max-w-3xl text-center">
-              <h1 className="text-balance text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl">
-                {heroContent[validLocale].title}
-              </h1>
-              <p className="mt-6 text-pretty text-lg text-muted-foreground md:text-xl">
-                {heroContent[validLocale].subtitle}
-              </p>
-              <div className="mt-8 flex flex-wrap justify-center gap-4">
-                <Button size="lg" asChild>
-                  <Link href={`/${validLocale}/contact`}>
-                    {heroContent[validLocale].cta}
-                    <ArrowRight className="ml-2 h-4 w-4" />
-                  </Link>
-                </Button>
-                <Button size="lg" variant="outline" asChild>
-                  <Link href={`/${validLocale}/visa`}>
-                    {dict.common.learnMore}
-                  </Link>
-                </Button>
-              </div>
-            </div>
-          </div>
-        </section>
+        {/* Hero Slider */}
+        <HeroSlider locale={validLocale} />
 
         {/* Stats Section */}
         <section className="border-y bg-muted/30 py-12">

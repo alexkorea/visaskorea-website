@@ -6,6 +6,7 @@ import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
+import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generatePageMetadata } from "@/lib/seo";
@@ -98,26 +99,19 @@ export default async function ServiceDetailPage({ params }: PageProps) {
         </div>
 
         {/* Hero */}
-        <section className="border-b bg-muted/30 py-16 md:py-20">
-          <div className="mx-auto max-w-7xl px-4">
-            <div className="mx-auto max-w-3xl text-center">
-              {data.hero.badge && (
-                <Badge variant="secondary" className="mb-4">
-                  {data.hero.badge}
-                </Badge>
-              )}
-              <h1 className="text-balance text-3xl font-bold tracking-tight md:text-4xl lg:text-5xl">
-                {data.hero.title}
-              </h1>
-              <p className="mt-2 text-lg font-medium text-muted-foreground">
-                {data.hero.subtitle}
-              </p>
-              <p className="mt-4 text-muted-foreground">
-                {data.hero.description}
-              </p>
-            </div>
-          </div>
-        </section>
+        <PageHero
+          title={data.hero.title}
+          subtitle={data.hero.subtitle}
+          image={
+            slug === "investment"
+              ? "/slides/business.jpg"
+              : slug === "employment"
+                ? "/slides/city.jpg"
+                : slug === "residence"
+                  ? "/slides/family.jpg"
+                  : "/slides/documents.jpg"
+          }
+        />
 
         {/* Summary */}
         <section className="py-12 md:py-16">

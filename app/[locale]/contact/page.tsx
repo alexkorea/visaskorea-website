@@ -7,6 +7,7 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
+import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generatePageMetadata } from "@/lib/seo";
@@ -106,18 +107,11 @@ export default async function ContactPage({ params }: PageProps) {
 
       <main className="flex-1">
         {/* Hero */}
-        <section className="border-b bg-muted/30 py-16 md:py-20">
-          <div className="mx-auto max-w-7xl px-4">
-            <div className="mx-auto max-w-3xl text-center">
-              <h1 className="text-balance text-3xl font-bold tracking-tight md:text-4xl lg:text-5xl">
-                {CONTACT_SEO.title[validLocale]}
-              </h1>
-              <p className="mt-4 text-lg text-muted-foreground">
-                {CONTACT_SEO.description[validLocale]}
-              </p>
-            </div>
-          </div>
-        </section>
+        <PageHero
+          title={CONTACT_SEO.title[validLocale]}
+          subtitle={CONTACT_SEO.description[validLocale]}
+          image="/slides/business.jpg"
+        />
 
         {/* Contact Methods */}
         <section className="py-12 md:py-16">

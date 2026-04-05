@@ -4,6 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { SEOBreadcrumb } from "@/components/seo/seo-breadcrumb";
 import { SEOFAQ } from "@/components/seo/seo-faq";
 import { ServicePageSchema } from "@/components/seo/page-schema";
+import { PageHero } from "@/components/layout/page-hero";
 import type { Locale } from "@/lib/seo";
 import type { Dictionary } from "@/lib/i18n/dictionaries";
 import type { FAQItem } from "@/lib/seo/structured-data";
@@ -37,6 +38,7 @@ interface VisaDetailTemplateProps {
   dict: Dictionary;
   visa: VisaDetailData;
   categoryTitle: string;
+  heroImage?: string;
 }
 
 export function VisaDetailTemplate({
@@ -44,6 +46,7 @@ export function VisaDetailTemplate({
   dict,
   visa,
   categoryTitle,
+  heroImage,
 }: VisaDetailTemplateProps) {
   return (
     <>
@@ -74,26 +77,34 @@ export function VisaDetailTemplate({
         </div>
 
         {/* Hero Section */}
-        <header className="border-b bg-gradient-to-b from-muted/50 to-background py-12 md:py-16">
-          <div className="mx-auto max-w-5xl px-4">
-            <h1 className="text-balance text-3xl font-bold tracking-tight md:text-4xl lg:text-5xl">
-              {visa.title}
-            </h1>
-            {visa.subtitle && (
-              <p className="mt-4 text-pretty text-lg text-muted-foreground md:text-xl">
-                {visa.subtitle}
-              </p>
-            )}
-            <div className="mt-6 flex flex-wrap gap-3">
-              <Button size="lg" asChild>
-                <Link href={`/${locale}/contact`}>
-                  <Phone className="mr-2 h-4 w-4" />
-                  {dict.common.freeConsultation}
-                </Link>
-              </Button>
+        {heroImage ? (
+          <PageHero
+            title={visa.title}
+            subtitle={visa.subtitle}
+            image={heroImage}
+          />
+        ) : (
+          <header className="border-b bg-gradient-to-b from-muted/50 to-background py-12 md:py-16">
+            <div className="mx-auto max-w-5xl px-4">
+              <h1 className="text-balance text-3xl font-bold tracking-tight md:text-4xl lg:text-5xl">
+                {visa.title}
+              </h1>
+              {visa.subtitle && (
+                <p className="mt-4 text-pretty text-lg text-muted-foreground md:text-xl">
+                  {visa.subtitle}
+                </p>
+              )}
+              <div className="mt-6 flex flex-wrap gap-3">
+                <Button size="lg" asChild>
+                  <Link href={`/${locale}/contact`}>
+                    <Phone className="mr-2 h-4 w-4" />
+                    {dict.common.freeConsultation}
+                  </Link>
+                </Button>
+              </div>
             </div>
-          </div>
-        </header>
+          </header>
+        )}
 
         {/* Main Content */}
         <div className="mx-auto max-w-5xl px-4 py-12">
