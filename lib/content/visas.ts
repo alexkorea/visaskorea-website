@@ -1172,6 +1172,67 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 영주권" },
         ],
       },
+      en: {
+        slug: "e-6",
+        title: "E-6 Arts & Entertainment Visa",
+        subtitle: "Work visa for performance, entertainment, and sports activities",
+        overview:
+          "The E-6 Arts & Entertainment Visa is issued to foreigners who wish to engage in profit-generating activities in music, fine arts, literature, performance, entertainment, or sports in Korea. Sub-types include E-6-1 (Arts/Entertainment), E-6-2 (Hotel/Venue Performance), and E-6-3 (Athletes). A sponsoring organization or contracting party must be confirmed.",
+        targetApplicants: [
+          "Overseas artists and musicians performing in Korea",
+          "Foreigners engaging in broadcasting, advertising, or modeling",
+          "Professional athletes and coaching staff",
+          "Foreign entertainers performing at hotels and resorts in Korea",
+        ],
+        eligibility: [
+          "A confirmed sponsoring organization or contracting party",
+          "Demonstrated expertise through career history or awards in the relevant field",
+          "No criminal record or entry ban history",
+          "Performance recommendation letter from the Ministry of Culture, Sports and Tourism required for E-6-2",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Employment contract or invitation letter",
+          "Career certificate / portfolio",
+          "Sponsoring organization's business registration",
+          "Performance recommendation letter (for E-6-2)",
+          "Degree certificate",
+        ],
+        process: [
+          { step: 1, title: "Contract Signing", description: "Sign a performance or appearance contract with a Korean sponsoring organization" },
+          { step: 2, title: "Performance Recommendation", description: "Apply for recommendation letter from the Ministry of Culture (E-6-2)" },
+          { step: 3, title: "Visa Issuance Certificate", description: "Apply for a Certificate of Visa Issuance at the immigration office" },
+          { step: 4, title: "Visa Application", description: "Apply for E-6 visa at a Korean embassy or consulate" },
+          { step: 5, title: "Entry & Alien Registration", description: "Register as a foreigner within 90 days of entry" },
+        ],
+        processingTime: "Approximately 2-4 weeks",
+        importantNotes: [
+          "E-6-2 (hotel/venue performances) is subject to strict screening to prevent human trafficking.",
+          "You must leave Korea or change your visa status after the contract period ends.",
+          "Engaging in work activities outside the permitted scope is illegal.",
+        ],
+        faqs: [
+          {
+            question: "How long can I stay with an E-6 visa?",
+            answer: "The visa is issued for up to 2 years depending on the contract period, and can be extended if the contract is renewed.",
+          },
+          {
+            question: "Can YouTubers or influencers get an E-6 visa?",
+            answer: "If the activity involves profit-generating entertainment or broadcasting, it may qualify for an E-6 visa. However, specifics depend on the contract details and scope of activities.",
+          },
+          {
+            question: "What is the difference between E-6 and E-7?",
+            answer: "E-6 is exclusively for arts and entertainment (performance, entertainment, sports), while E-7 is for professional occupations (IT, engineering, etc.). You must choose the appropriate visa based on your field of activity.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "e-7", title: "E-7 Special Activities Visa" },
+          { slug: "d-8", title: "D-8 Corporate Investment Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
     },
     "d-8-executive": {
       ko: {
@@ -1230,6 +1291,64 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "d-8", title: "D-8 기업투자비자" },
           { slug: "d-7", title: "D-7 주재원비자" },
           { slug: "d-8-individual", title: "D-8 개인투자비자" },
+        ],
+      },
+      en: {
+        slug: "d-8-executive",
+        title: "D-8 Executive Transfer Visa",
+        subtitle: "Visa for executives dispatched to foreign-invested companies in Korea",
+        overview:
+          "The D-8 Executive Transfer Visa is issued to executives (directors, auditors, etc.) dispatched from an overseas parent company to a foreign-invested company in Korea (subsidiary, joint venture, etc.). The applicant must be registered as an executive officer in the corporate registry of a company qualifying under the Foreign Investment Promotion Act. Investment amount and company performance are key review factors.",
+        targetApplicants: [
+          "Executives dispatched from an overseas parent company to a Korean subsidiary",
+          "Foreigners appointed as registered directors or auditors of a foreign-invested company",
+          "Management dispatched from a partner company to a joint venture",
+          "Foreigners appointed as CEO of a newly established foreign-invested company",
+        ],
+        eligibility: [
+          "Registered as an executive officer (director/auditor) of a foreign-invested company",
+          "Meet investment requirements under the Foreign Investment Promotion Act (minimum KRW 100 million / approx. USD 75,000)",
+          "Evidence of executive activities at the company (board meeting minutes, etc.)",
+          "No criminal record or entry ban history",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Foreign-invested company registration certificate",
+          "Corporate registry (confirming executive registration)",
+          "Dispatch order or executive appointment resolution",
+          "Parent company business registration and corporate registry",
+          "Investment remittance proof",
+          "Business plan",
+        ],
+        process: [
+          { step: 1, title: "Investment & Company Establishment", description: "Foreign investment report and establishment/registration of Korean corporation" },
+          { step: 2, title: "Executive Registration", description: "Register as executive (director/auditor) in corporate registry" },
+          { step: 3, title: "Document Preparation", description: "Prepare dispatch order, investment proof, and other required documents" },
+          { step: 4, title: "Visa Application", description: "Apply for D-8 visa at immigration office or Korean embassy" },
+          { step: 5, title: "Visa Issuance", description: "Visa issued after review (approx. 2-4 weeks)" },
+        ],
+        processingTime: "Approximately 2-4 weeks",
+        importantNotes: [
+          "If you are not registered as an executive in the corporate registry, D-8 executive transfer status will not be recognized.",
+          "Visa extension may be denied if the company has no substantial business activity.",
+          "Spouse and minor children can apply for F-3 dependent visa.",
+        ],
+        faqs: [
+          {
+            question: "What is the difference between D-8 Executive Transfer and D-7 Intra-company Transfer?",
+            answer: "D-8 Executive Transfer is for registered executives of foreign-invested companies, while D-7 is for non-executive employees dispatched from overseas headquarters. D-8 requires meeting investment requirements (KRW 100 million or more).",
+          },
+          {
+            question: "Can I be dispatched as an executive without any investment?",
+            answer: "The D-8 visa requires meeting investment requirements under the Foreign Investment Promotion Act. If only management dispatch is involved without investment, D-7 visa may be more appropriate.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 Corporate Investment Visa" },
+          { slug: "d-7", title: "D-7 Intra-company Transfer Visa" },
+          { slug: "d-8-individual", title: "D-8 Individual Investment Visa" },
         ],
       },
     },
@@ -1297,6 +1416,69 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "d-9", title: "D-9 무역경영비자" },
         ],
       },
+      en: {
+        slug: "d-8-individual",
+        title: "D-8 Individual Investment Visa",
+        subtitle: "Visa for foreigners personally investing in and operating a business in Korea",
+        overview:
+          "The D-8 Individual Investment Visa is for foreigners who invest KRW 100 million (approx. USD 75,000) or more in their own name to establish a corporation in Korea and directly participate in management. The applicant must serve as the CEO or a registered executive of the company, and investment report and registration under the Foreign Investment Promotion Act are required.",
+        targetApplicants: [
+          "Foreigners looking to start a business in Korea with personal capital",
+          "Investors establishing a one-person corporation in Korea for direct management",
+          "Foreigners investing in franchise businesses in Korea",
+          "Foreigners establishing a corporation to enter the Korean market",
+        ],
+        eligibility: [
+          "Investment of KRW 100 million (approx. USD 75,000) or more remitted from overseas",
+          "Completion of foreign investment report under the Foreign Investment Promotion Act",
+          "Registered as CEO or executive officer after company establishment",
+          "No criminal record or entry ban history",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Foreign investment report",
+          "Investment remittance proof (overseas wire transfer confirmation)",
+          "Corporate registry",
+          "Business registration certificate",
+          "Business plan",
+          "Bank balance certificate",
+          "Degree certificate",
+        ],
+        process: [
+          { step: 1, title: "Business Planning", description: "Select business item and determine investment scale" },
+          { step: 2, title: "Foreign Investment Report", description: "File investment report through KOTRA or foreign exchange bank" },
+          { step: 3, title: "Fund Transfer", description: "Wire investment funds from overseas to the investment account" },
+          { step: 4, title: "Company Establishment", description: "Complete corporate registration and business registration" },
+          { step: 5, title: "Visa Application", description: "Apply for D-8 visa at the immigration office" },
+        ],
+        processingTime: "Approximately 2-4 weeks",
+        importantNotes: [
+          "Investment funds must be remitted from overseas; domestic funds are not recognized as investment.",
+          "Visa extension will be difficult if there is no substantial business activity after company establishment.",
+          "Revenue performance and employment status are key factors in visa extension reviews.",
+        ],
+        faqs: [
+          {
+            question: "What is the difference between individual and corporate investment?",
+            answer: "Corporate investment (D-8) involves an overseas corporation investing in Korea, while individual investment is when a foreign individual invests directly. Both fall under the D-8 visa but require different documentation and proof methods.",
+          },
+          {
+            question: "Can I invest less than KRW 100 million?",
+            answer: "In principle, an investment of KRW 100 million or more is required. However, special types like tech startups (D-8-4) may have relaxed requirements if selected for government programs.",
+          },
+          {
+            question: "Can I maintain my visa if business is slow?",
+            answer: "A certain level of revenue and business performance is required for visa extension. Extensions may be denied if the business has been dormant or revenue is poor for an extended period.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 Corporate Investment Visa" },
+          { slug: "d-8-executive", title: "D-8 Executive Transfer Visa" },
+          { slug: "d-9", title: "D-9 Trade Management Visa" },
+        ],
+      },
     },
     "f-1-digital-nomad": {
       ko: {
@@ -1358,6 +1540,67 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-2-points", title: "F-2 점수제비자" },
           { slug: "e-7", title: "E-7 특정활동비자" },
           { slug: "f-5", title: "F-5 영주권" },
+        ],
+      },
+      en: {
+        slug: "f-1-digital-nomad",
+        title: "F-1 Digital Nomad Visa",
+        subtitle: "Residence permit for remote workers employed by overseas companies",
+        overview:
+          "The F-1 Digital Nomad Visa (Workation Visa), introduced in 2024, allows foreigners employed by overseas companies to live in Korea while working remotely. Employment with Korean companies is not permitted; applicants must have income from an overseas employer.",
+        targetApplicants: [
+          "Remote workers currently employed by overseas companies",
+          "Freelancers working with overseas clients",
+          "Foreigners wishing to stay in Korea for an extended period while working remotely",
+          "IT and creative professionals pursuing a digital nomad lifestyle",
+        ],
+        eligibility: [
+          "Employed by an overseas company or a freelancer with overseas income sources (1+ year in the same field)",
+          "Income proof of at least twice the previous year's per capita GNI (Gross National Income)",
+          "Engaged in a profession that allows remote work",
+          "Enrolled in health insurance or travel insurance",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Employment certificate or freelance contract",
+          "Income proof (past 12 months)",
+          "Bank balance certificate",
+          "Health or travel insurance proof",
+          "Accommodation proof (lease agreement or hotel reservation)",
+          "Remote work confirmation letter (issued by employer)",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify income requirements and remote work eligibility" },
+          { step: 2, title: "Document Preparation", description: "Prepare employment certificate, income proof, insurance, etc." },
+          { step: 3, title: "Visa Application", description: "Apply for F-1 Digital Nomad visa at a Korean embassy or consulate" },
+          { step: 4, title: "Visa Issuance", description: "Visa issued after review (approx. 2-3 weeks)" },
+        ],
+        processingTime: "Approximately 2-3 weeks",
+        importantNotes: [
+          "Employment with companies in Korea is not permitted.",
+          "Maximum stay is 2 years, extendable in 1-year increments.",
+          "Accompanying family members (spouse and minor children) can also stay on F-1 dependent status.",
+        ],
+        faqs: [
+          {
+            question: "Can I get a job in Korea with a Digital Nomad visa?",
+            answer: "No, the Digital Nomad visa only permits remote work for overseas employers. To work for a Korean company, you need an employment visa such as E-7.",
+          },
+          {
+            question: "What is the exact income requirement?",
+            answer: "You need to demonstrate income of at least twice the Bank of Korea's announced per capita GNI for the previous year. Freelancers must provide proof of income for the past 12 months.",
+          },
+          {
+            question: "Can my family come with me?",
+            answer: "Yes, your spouse and minor children can stay in Korea on accompanying F-1 status.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-points", title: "F-2 Points-based Visa" },
+          { slug: "e-7", title: "E-7 Special Activities Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
     },
@@ -1424,6 +1667,68 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-2-points", title: "F-2 점수제비자" },
         ],
       },
+      en: {
+        slug: "f-1-visit",
+        title: "F-1 Family Visit Visa",
+        subtitle: "Visa for cohabitation with family members residing in Korea",
+        overview:
+          "The F-1 Family Visit Visa is for family members (parents, parents-in-law, etc.) of foreigners legally residing in Korea or Korean nationals who wish to stay for the purpose of cohabitation. Employment is restricted, and documents proving the family relationship are required.",
+        targetApplicants: [
+          "Parents or grandparents of foreigners residing in Korea",
+          "Foreign parents or parents-in-law of Korean nationals",
+          "Others seeking to stay for family cohabitation purposes",
+          "Relatives entering Korea to care for minor children",
+        ],
+        eligibility: [
+          "Proof of family relationship with a family member residing in Korea",
+          "Sponsor (inviter) must hold a valid residence status",
+          "Sponsor must demonstrate financial ability (income or assets)",
+          "No criminal record or entry ban history",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Family relationship certificate (birth certificate, marriage certificate, etc.)",
+          "Invitation letter",
+          "Sponsor's alien registration card or ID copy",
+          "Sponsor's employment and income certificates",
+          "Accommodation proof (lease agreement)",
+          "Guarantee letter",
+        ],
+        process: [
+          { step: 1, title: "Document Preparation", description: "Translate, notarize, and apostille family relationship documents" },
+          { step: 2, title: "Invitation Letter", description: "Family member in Korea prepares invitation and guarantee letters" },
+          { step: 3, title: "Visa Application", description: "Apply for F-1 Family Visit visa at a Korean embassy or consulate" },
+          { step: 4, title: "Visa Issuance", description: "Visa issued after review (approx. 2-4 weeks)" },
+          { step: 5, title: "Alien Registration", description: "Register as a foreigner within 90 days of entry" },
+        ],
+        processingTime: "Approximately 2-4 weeks",
+        importantNotes: [
+          "Employment is generally not permitted on the F-1 Family Visit visa. A separate work permit (activity outside status) is required for employment.",
+          "If the sponsor's residence status expires, the F-1 visa may also be affected.",
+          "Stay can be extended in 1-year increments, linked to the sponsor's period of stay.",
+        ],
+        faqs: [
+          {
+            question: "Can I work with an F-1 Family Visit visa?",
+            answer: "In principle, no. If you wish to work, you must obtain a separate permission for activities outside your status from the immigration office.",
+          },
+          {
+            question: "Who can be the sponsor (inviter)?",
+            answer: "A family member (child, spouse, etc.) legally residing in Korea serves as the sponsor. The sponsor's residence status and financial ability will be reviewed.",
+          },
+          {
+            question: "How long can I stay on an F-1 visa?",
+            answer: "Typically 1-2 years are granted, and extensions are possible within the scope of the sponsor's period of stay.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-6", title: "F-6 Marriage Visa" },
+          { slug: "f-1-digital-nomad", title: "F-1 Digital Nomad Visa" },
+          { slug: "f-2-points", title: "F-2 Points-based Visa" },
+        ],
+      },
     },
     "f-2-points": {
       ko: {
@@ -1486,6 +1791,68 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-16", title: "F-5-16 점수제 영주자" },
           { slug: "e-7", title: "E-7 특정활동비자" },
           { slug: "f-5", title: "F-5 영주권" },
+        ],
+      },
+      en: {
+        slug: "f-2-points",
+        title: "F-2 Points-based Visa",
+        subtitle: "Residence visa based on comprehensive evaluation of education, income, age, and Korean proficiency",
+        overview:
+          "The F-2 Points-based Visa is a residence visa issued to foreigners who score 80 points or above based on criteria including education, income, age, Korean language proficiency (TOPIK), and completion of the Korea Immigration & Integration Program (KIIP). It is commonly used by holders of E-7 or D-8 visas as a pathway to long-term residence.",
+        targetApplicants: [
+          "Professionals holding E-7 Special Activities visas",
+          "Business owners holding D-8 Corporate Investment visas",
+          "Foreigners employed in Korea after obtaining a Korean degree",
+          "Professional foreigners seeking long-term residence status change",
+        ],
+        eligibility: [
+          "Total score of 80 points or above across all categories",
+          "Currently holding a valid residence status",
+          "No criminal record",
+          "Income and tax payment requirements met",
+        ],
+        requiredDocuments: [
+          "Visa application form (status change application)",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Points calculation sheet and supporting documents",
+          "Education certificate (degree/diploma)",
+          "Income certificate (withholding tax statement, etc.)",
+          "TOPIK score report",
+          "KIIP completion certificate (if applicable)",
+          "Employment certificate",
+          "Tax payment certificate",
+        ],
+        process: [
+          { step: 1, title: "Self-Assessment", description: "Check your score across each points category" },
+          { step: 2, title: "Document Preparation", description: "Gather supporting documents for education, income, Korean proficiency, KIIP, etc." },
+          { step: 3, title: "Status Change Application", description: "Apply for F-2 points-based status change at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "F-2 visa issued after points verification (approx. 3-4 weeks)" },
+        ],
+        processingTime: "Approximately 3-4 weeks",
+        importantNotes: [
+          "Points are based on education (max 35), income (max 30), age (max 20), Korean proficiency (max 20), among other categories.",
+          "After holding F-2 points-based status for 3+ years, you can apply for F-5-16 permanent residency.",
+          "Points requirements must be maintained at the time of extension as well.",
+        ],
+        faqs: [
+          {
+            question: "Can I apply if my score is below 80 points?",
+            answer: "No, the F-2 points-based visa requires a minimum of 80 points. You can improve your score by raising your TOPIK level or completing the KIIP program, then reapply.",
+          },
+          {
+            question: "Can I transition from F-2 points-based to F-5 permanent residency?",
+            answer: "Yes, after holding the F-2 points-based visa for 3+ years and meeting certain requirements, you can apply for F-5-16 points-based permanent residency.",
+          },
+          {
+            question: "Can I apply without a TOPIK score?",
+            answer: "Yes, if you accumulate enough points in other categories. However, you will score 0 in the Korean proficiency category, so you need strong results in other areas.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-16", title: "F-5-16 Points-based Permanent Residency" },
+          { slug: "e-7", title: "E-7 Special Activities Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
     },
@@ -1563,6 +1930,79 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 영주권" },
         ],
       },
+      en: {
+        slug: "f-2-7",
+        title: "F-2-7 Points-based Residence Visa",
+        subtitle: "Residence visa issued to foreigners scoring 80+ points across education, income, age, and Korean proficiency",
+        overview:
+          "The F-2-7 Points-based Residence Visa is a sub-type of the F-2 residence status under Immigration Act enforcement regulations. It evaluates applicants on education, income, age, Korean proficiency (TOPIK), KIIP completion, and other factors, issuing the visa to professional foreigners who score 80 points or above. It is the most common pathway for E-7 and D-8 visa holders seeking long-term residence.",
+        targetApplicants: [
+          "Professionals holding E-7 Special Activities visas",
+          "Business owners holding D-8 Corporate Investment visas",
+          "Foreigners employed in Korea after obtaining a Korean degree",
+          "Professional foreigners seeking long-term residence status change",
+          "Talented professionals in technology and management fields",
+        ],
+        eligibility: [
+          "Total score of 80 points or above across all categories",
+          "Currently holding a valid residence status (E-7, D-8, etc.)",
+          "No criminal record",
+          "Income and tax payment requirements met",
+          "Pass basic background check",
+        ],
+        requiredDocuments: [
+          "Visa application form (status change permit application)",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Points calculation sheet and supporting documents for each category",
+          "Education certificate (degree/diploma, apostille/consular authentication)",
+          "Income certificate (withholding tax statement, income verification)",
+          "TOPIK score report",
+          "KIIP completion certificate (if applicable)",
+          "Employment certificate and employment contract",
+          "Tax payment certificate (national and local taxes)",
+          "Alien registration card copy",
+          "Application fee: KRW 130,000",
+        ],
+        process: [
+          { step: 1, title: "Self-Assessment", description: "Check your score across each category and determine if 80+ points is achievable." },
+          { step: 2, title: "Document Preparation", description: "Gather supporting documents for education, income, TOPIK, KIIP completion, etc." },
+          { step: 3, title: "Status Change Application", description: "Apply for F-2-7 status change at the jurisdictional immigration office." },
+          { step: 4, title: "Review & Issuance", description: "F-2-7 visa issued after points verification and background check (approx. 3-4 weeks)." },
+        ],
+        processingTime: "Approximately 3-4 weeks",
+        importantNotes: [
+          "Points are based on education (max 35), income (max 30), age (max 20), Korean proficiency (max 20), among other categories.",
+          "After holding F-2-7 for 3+ years, you can apply for F-5-16 points-based permanent residency.",
+          "Points requirements must be maintained for extensions; failure to meet the threshold may result in denial.",
+          "TOPIK Level 4 or above earns high points in the Korean proficiency category.",
+          "Completing KIIP Level 5 earns bonus points.",
+        ],
+        faqs: [
+          {
+            question: "Are F-2-7 and F-2 Points-based Visa the same?",
+            answer: "Yes, F-2-7 is the official sub-type code for the points-based category under the F-2 residence visa. What is commonly referred to as the 'F-2 Points-based Visa' is F-2-7.",
+          },
+          {
+            question: "Can I apply if my score is below 80 points?",
+            answer: "No, the F-2-7 visa requires a minimum of 80 points. You can improve your score through higher TOPIK levels, KIIP completion, or increased income, then reapply.",
+          },
+          {
+            question: "Can I transition from F-2-7 to F-5 permanent residency?",
+            answer: "Yes, after holding the F-2-7 visa for 3+ years and meeting requirements (income, conduct, Korean proficiency, etc.), you can apply for F-5-16 points-based permanent residency.",
+          },
+          {
+            question: "Can I apply without a TOPIK score?",
+            answer: "Yes, if you accumulate enough points in other categories (education, income, age, etc.). However, you will score 0 in Korean proficiency, so strong results elsewhere are needed.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-points", title: "F-2 Points-based Visa" },
+          { slug: "f-5-16", title: "F-5-16 Points-based Permanent Residency" },
+          { slug: "e-7", title: "E-7 Special Activities Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
     },
     "f-2-public-interest": {
       ko: {
@@ -1619,6 +2059,62 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-21", title: "F-5-21 공익사업투자자 영주권" },
           { slug: "f-2-real-estate", title: "F-2 부동산투자비자" },
           { slug: "f-5", title: "F-5 영주권" },
+        ],
+      },
+      en: {
+        slug: "f-2-public-interest",
+        title: "F-2 Public Interest Investment Visa",
+        subtitle: "Residence visa for foreigners investing in government-designated public interest projects",
+        overview:
+          "The F-2 Public Interest Investment Visa is issued to foreigners who invest KRW 500 million (approx. USD 375,000) or more in public interest projects (government bonds, public funds, etc.) designated by the Minister of Justice. After maintaining the investment for 5 years or more, holders can transition to F-5-21 permanent residency.",
+        targetApplicants: [
+          "Foreigners looking to invest in Korean public interest projects (government bonds, public funds, etc.)",
+          "Investors seeking long-term residence through a residence visa",
+          "Investors aiming for permanent residency (F-5-21) in the future",
+          "High-net-worth foreigners seeking stable investment-based residence in Korea",
+        ],
+        eligibility: [
+          "Investment of KRW 500 million (approx. USD 375,000) or more in a government-designated public interest project",
+          "Proof of legitimate source of investment funds",
+          "No criminal record or entry ban history",
+          "Obligation to maintain the investment",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Public interest project investment confirmation",
+          "Proof of fund source (overseas remittance confirmation, etc.)",
+          "Bank balance certificate",
+          "Criminal background check",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Identify Investment Target", description: "Confirm government-designated public interest projects (government bonds, funds, etc.)" },
+          { step: 2, title: "Execute Investment", description: "Invest KRW 500 million or more and obtain investment confirmation" },
+          { step: 3, title: "Visa Application", description: "Apply for F-2 Public Interest Investment at the immigration office" },
+          { step: 4, title: "Visa Issuance", description: "F-2 visa issued after review (approx. 3-4 weeks)" },
+        ],
+        processingTime: "Approximately 3-4 weeks",
+        importantNotes: [
+          "The investment must be maintained for 5 years; early withdrawal may result in revocation of residence status.",
+          "After 5 years of maintaining the investment, transition to F-5-21 permanent residency is possible.",
+          "Accompanying family members (spouse and minor children) can stay on F-1 or F-3 visa status.",
+        ],
+        faqs: [
+          {
+            question: "Which public interest projects can I invest in?",
+            answer: "Projects designated by the Minister of Justice (government bond purchases, public fund contributions, etc.) are eligible. Specific investment targets should be confirmed through Ministry of Justice announcements.",
+          },
+          {
+            question: "Do I need to invest KRW 500 million all at once?",
+            answer: "Yes, the full investment of KRW 500 million or more must be completed at the time of application. Installment investments are generally not accepted.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-21", title: "F-5-21 Public Interest Investor Permanent Residency" },
+          { slug: "f-2-real-estate", title: "F-2 Real Estate Investment Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
     },
@@ -1678,6 +2174,63 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-17", title: "F-5-17 부동산투자자 영주권" },
           { slug: "f-2-public-interest", title: "F-2 공익사업투자비자" },
           { slug: "f-5", title: "F-5 영주권" },
+        ],
+      },
+      en: {
+        slug: "f-2-real-estate",
+        title: "F-2 Real Estate Investment Visa",
+        subtitle: "Residence visa through property investment in government-designated areas",
+        overview:
+          "The F-2 Real Estate Investment Visa is issued to foreigners who invest a certain amount or more in real estate (condos, resorts, etc.) in areas designated by the Ministry of Justice (Jeju Island, Gangwon Province, etc.). After maintaining the investment, holders can transition to F-5-17 permanent residency.",
+        targetApplicants: [
+          "Foreigners looking to purchase real estate in designated areas in Korea",
+          "Foreigners investing in condos or resorts in Jeju or Gangwon Province",
+          "Foreigners aiming for residence and permanent residency through real estate investment",
+          "Foreigners wishing to own property in Korea for long-term stay",
+        ],
+        eligibility: [
+          "Real estate investment in a government-designated area (typically KRW 500 million / approx. USD 375,000 or more)",
+          "Investment property meets Ministry of Justice requirements",
+          "Proof of legitimate source of investment funds",
+          "No criminal record or entry ban history",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Property purchase contract or property registry",
+          "Investment fund remittance proof",
+          "Property appraisal report",
+          "Bank balance certificate",
+          "Criminal background check",
+        ],
+        process: [
+          { step: 1, title: "Identify Investment Target", description: "Confirm designated areas and requirements from the Ministry of Justice" },
+          { step: 2, title: "Property Purchase", description: "Sign contract and complete payment for property in a designated area" },
+          { step: 3, title: "Registration Complete", description: "Complete property ownership transfer registration" },
+          { step: 4, title: "Visa Application", description: "Apply for F-2 Real Estate Investment at the immigration office" },
+          { step: 5, title: "Visa Issuance", description: "F-2 visa issued after review" },
+        ],
+        processingTime: "Approximately 3-4 weeks",
+        importantNotes: [
+          "Properties outside designated areas do not qualify for the investment immigration program.",
+          "Selling the investment property may result in revocation of residence status.",
+          "After maintaining the investment for 5+ years, you can apply for F-5-17 permanent residency.",
+        ],
+        faqs: [
+          {
+            question: "Where do I need to invest?",
+            answer: "Recreational properties (condos, resorts, etc.) in designated areas such as Jeju Island and Gangwon Province are eligible. Regular residential properties in Seoul and other areas do not qualify.",
+          },
+          {
+            question: "What is the minimum investment amount?",
+            answer: "Typically KRW 500 million (approx. USD 375,000) or more, though it may vary by region and property type. Exact criteria should be confirmed through Ministry of Justice announcements.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-17", title: "F-5-17 Real Estate Investor Permanent Residency" },
+          { slug: "f-2-public-interest", title: "F-2 Public Interest Investment Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
     },
@@ -1745,6 +2298,69 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 영주권" },
         ],
       },
+      en: {
+        slug: "f-6",
+        title: "F-6 Marriage Visa",
+        subtitle: "Residence status for foreign spouses of Korean nationals",
+        overview:
+          "The F-6 Marriage Visa is issued to foreign spouses who are legally married to Korean nationals. Sub-types include F-6-1 (Korean spouse), F-6-2 (child custody), and F-6-3 (no-fault divorce). A genuine marital relationship must be maintained.",
+        targetApplicants: [
+          "Foreign spouses married to Korean nationals",
+          "Foreigners raising minor children after divorce (F-6-2)",
+          "Foreigners divorced through no fault of their own (F-6-3)",
+          "Foreigners raising children born from a de facto marriage",
+        ],
+        eligibility: [
+          "Proof of legal marriage to a Korean national (marriage registration completed)",
+          "Maintaining a genuine marital relationship (cohabitation, etc.)",
+          "Basic communication ability (Korean or with an interpreter)",
+          "No criminal record or entry ban history",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Marriage certificate",
+          "Korean spouse's basic certificate and family relationship certificate",
+          "Korean spouse's ID copy",
+          "Korean spouse's income and employment certificates",
+          "Accommodation proof (lease agreement, etc.)",
+          "Photos of wedding or relationship evidence",
+          "Guarantee letter",
+        ],
+        process: [
+          { step: 1, title: "Marriage Registration", description: "Complete marriage registration in both countries (Korean district office + home country)" },
+          { step: 2, title: "Document Preparation", description: "Prepare marriage certificate and financial documents" },
+          { step: 3, title: "Visa Application", description: "Apply for F-6 at a Korean embassy/consulate or immigration office" },
+          { step: 4, title: "Interview", description: "Couple interview (to verify the marriage is genuine)" },
+          { step: 5, title: "Visa Issuance", description: "F-6 visa issued after review" },
+        ],
+        processingTime: "Approximately 1-3 months",
+        importantNotes: [
+          "If a sham marriage is suspected, the visa will be denied and the case may be treated as an immigration violation.",
+          "After maintaining a genuine marriage for 2+ years, you can apply for F-5-2 permanent residency.",
+          "In case of divorce, residence status may be changed or revoked (depends on fault).",
+        ],
+        faqs: [
+          {
+            question: "Can I work with an F-6 visa?",
+            answer: "Yes, F-6 visa holders can work freely without a separate work permit.",
+          },
+          {
+            question: "Will my visa be revoked if I get divorced?",
+            answer: "In principle, F-6 status is lost upon divorce. However, if the divorce was due to the Korean spouse's fault (F-6-3) or if you are raising minor children (F-6-2), you may continue to stay.",
+          },
+          {
+            question: "Can I transition from marriage visa to permanent residency?",
+            answer: "Yes, after holding the F-6 visa for 2+ years with a genuine marriage, you can apply for F-5-2 permanent residency. Korean proficiency and basic aptitude tests are required.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-2", title: "F-5-2 Spouse of Korean National Permanent Residency" },
+          { slug: "f-1-visit", title: "F-1 Family Visit Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
     },
     "criminal-review": {
       ko: {
@@ -1808,6 +2424,67 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 영주권" },
         ],
       },
+      en: {
+        slug: "criminal-review",
+        title: "Immigration Criminal Review",
+        subtitle: "Professional representation for immigration violation hearings and appeals",
+        overview:
+          "An immigration criminal review is a hearing process for violations of the Immigration Act, including overstay, unauthorized activities, or submission of false documents, which may result in deportation, departure orders, or entry bans. With the assistance of a professional administrative agent, you can prepare written explanations, file appeals, and seek residence permits.",
+        targetApplicants: [
+          "Foreigners caught for overstay facing deportation or departure orders",
+          "Foreigners caught for unauthorized activities (unlawful employment, etc.)",
+          "Foreigners whose visa applications or stay extensions were denied",
+          "Foreigners subject to entry bans who need to re-enter Korea",
+        ],
+        eligibility: [
+          "Subject to criminal review due to Immigration Act violations",
+          "Need to file an appeal against visa denial or stay extension refusal",
+          "Seeking to lift an entry ban",
+          "Need to provide explanation against a deportation order",
+        ],
+        requiredDocuments: [
+          "Written explanation (describing circumstances and reasons for the violation)",
+          "Passport copy",
+          "Alien registration card copy",
+          "Financial capability proof",
+          "Family relationship evidence (if applicable)",
+          "Letter of apology / petition letter",
+          "Employer confirmation letter (if applicable)",
+          "Other favorable evidence materials",
+        ],
+        process: [
+          { step: 1, title: "Situation Analysis", description: "Identify the violation type and criminal review category" },
+          { step: 2, title: "Written Explanation", description: "Prepare written explanation covering circumstances, reasons, and future plans" },
+          { step: 3, title: "Evidence Preparation", description: "Gather favorable evidence and petition letters" },
+          { step: 4, title: "Criminal Review Response", description: "Attend and respond to the criminal review at the immigration office" },
+          { step: 5, title: "Result & Follow-up", description: "File appeals or proceed with follow-up based on the review outcome" },
+        ],
+        processingTime: "Varies by case (2 weeks to several months)",
+        importantNotes: [
+          "Responding to a criminal review without professional assistance may lead to unfavorable outcomes.",
+          "The quality of the written explanation and supporting evidence has a decisive impact on the outcome.",
+          "Deportation may result in a re-entry ban of 1 to 10 years.",
+        ],
+        faqs: [
+          {
+            question: "Will I be deported immediately if caught for overstay?",
+            answer: "No, you will not be deported immediately. A criminal review process determines whether you face deportation, a departure order, or a fine. You will be given an opportunity to explain your situation.",
+          },
+          {
+            question: "Can an entry ban be lifted?",
+            answer: "Even during an entry ban period, you can apply for a lift on humanitarian grounds (family reunification, medical treatment, etc.). However, approval depends on individual circumstances.",
+          },
+          {
+            question: "Can I reapply after a visa denial?",
+            answer: "Yes, you can reapply after addressing the reasons for denial. Accurate analysis of the denial reasons and proper supplementary documentation are crucial.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-6", title: "F-6 Marriage Visa" },
+          { slug: "e-7", title: "E-7 Special Activities Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
     },
     "f-5-1": {
       ko: {
@@ -1867,6 +2544,63 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-5", title: "F-5-5 고액투자자" },
         ],
       },
+      en: {
+        slug: "f-5-1",
+        title: "F-5-1 General Permanent Residency",
+        subtitle: "Permanent residency for foreigners with 5+ years of residence in Korea",
+        overview:
+          "F-5-1 General Permanent Residency is available to foreigners who have legally resided in Korea for 5 or more years and meet certain income and conduct requirements. It is the most basic pathway to permanent residency, requiring stable income, Korean proficiency, and basic civic knowledge.",
+        targetApplicants: [
+          "Foreigners who have stayed 5+ years on D-8, E-7, or other work/investment visas",
+          "Foreigners seeking permanent residency after extended stay",
+          "Long-term residents with stable income and intention to settle",
+        ],
+        eligibility: [
+          "5+ years of legal residence in Korea",
+          "Legal adult under Korean Civil Act (19 years or older)",
+          "Income of the applicant or cohabiting family at or above GNI",
+          "Good conduct (no criminal record)",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Photo (3.5x4.5cm)",
+          "Residence period verification documents",
+          "Income certificate (withholding tax statement, etc.)",
+          "Tax payment certificate",
+          "TOPIK score or KIIP completion certificate",
+          "Criminal background check (home country and Korea)",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify 5-year residence and income/conduct requirements" },
+          { step: 2, title: "Korean/KIIP Preparation", description: "Complete TOPIK or KIIP program" },
+          { step: 3, title: "Document Preparation", description: "Prepare income, tax, criminal background documents" },
+          { step: 4, title: "PR Application", description: "Apply for F-5-1 permanent residency at the immigration office" },
+          { step: 5, title: "Review & Issuance", description: "Permanent residency issued after review (approx. 2-6 months)" },
+        ],
+        processingTime: "Approximately 2-6 months",
+        importantNotes: [
+          "Even after obtaining permanent residency, leaving Korea for 1+ year without a re-entry permit may result in revocation.",
+          "Korean proficiency or KIIP completion is mandatory.",
+          "Income at or above GNI is a key review factor.",
+        ],
+        faqs: [
+          {
+            question: "Must the 5-year residence be continuous?",
+            answer: "Continuous residence is the principle, but short-term departures are counted as part of the residence period. However, extended absences may be excluded from the calculation.",
+          },
+          {
+            question: "What is the income requirement?",
+            answer: "The annual income of the applicant or cohabiting family must be at or above Korea's Gross National Income (GNI). The exact amount changes annually, so check at the time of application.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-16", title: "F-5-16 Points-based Permanent Residency" },
+          { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
+        ],
+      },
     },
     "f-5-2": {
       ko: {
@@ -1922,6 +2656,61 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-6", title: "F-6 결혼비자" },
           { slug: "f-5", title: "F-5 영주권 개요" },
           { slug: "f-5-1", title: "F-5-1 일반 영주자" },
+        ],
+      },
+      en: {
+        slug: "f-5-2",
+        title: "F-5-2 Spouse of Korean National",
+        subtitle: "Permanent residency for foreign spouses of Korean nationals",
+        overview:
+          "F-5-2 permanent residency is available to foreigners holding an F-6 Marriage Visa who have maintained a genuine marriage with a Korean national for 2 or more years. Applicants must demonstrate Korean language proficiency, pass a basic aptitude review, and meet financial requirements.",
+        targetApplicants: [
+          "Foreign spouses who have held an F-6 Marriage Visa for 2+ years",
+          "Foreigners maintaining a stable married life in Korea",
+          "Marriage immigrants planning long-term settlement in Korea",
+        ],
+        eligibility: [
+          "2+ years of genuine marriage since obtaining F-6 visa",
+          "Basic Korean language proficiency (TOPIK or KIIP)",
+          "Income of applicant or spouse at or above GNI",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Marriage certificate",
+          "Korean spouse's family relationship certificate",
+          "Income certificate",
+          "Tax payment certificate",
+          "Korean proficiency proof (TOPIK/KIIP)",
+          "Criminal background check",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify 2+ years of genuine marriage" },
+          { step: 2, title: "Korean Language Preparation", description: "Complete TOPIK or KIIP program" },
+          { step: 3, title: "Document Preparation", description: "Prepare marriage, income, and criminal background documents" },
+          { step: 4, title: "PR Application", description: "Apply for F-5-2 at the immigration office" },
+        ],
+        processingTime: "Approximately 2-4 months",
+        importantNotes: [
+          "Even in case of divorce, permanent residency may be maintained if the Korean spouse was at fault or if you are raising children.",
+          "KIIP completion may waive the Korean proficiency requirement.",
+        ],
+        faqs: [
+          {
+            question: "Will my permanent residency be revoked if I get divorced?",
+            answer: "It depends on the circumstances. If the Korean spouse was at fault or if you are raising Korean children, permanent residency may be maintained.",
+          },
+          {
+            question: "Can I apply if I don't speak Korean?",
+            answer: "Basic Korean proficiency is required, which can be demonstrated through TOPIK or KIIP completion. KIIP completion is the most advantageous option.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-6", title: "F-6 Marriage Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
         ],
       },
     },
@@ -1980,6 +2769,60 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-25", title: "F-5-25 조건부 고액투자자" },
         ],
       },
+      en: {
+        slug: "f-5-5",
+        title: "F-5-5 High-Value Investor",
+        subtitle: "Permanent residency for investors with USD 500,000+ investment and 5+ Korean employees",
+        overview:
+          "F-5-5 High-Value Investor permanent residency is issued to foreigners who have invested USD 500,000 (approx. KRW 500 million) or more in Korea and employ 5 or more Korean nationals as full-time employees for at least 6 months. Investment performance and employment maintenance are the key review factors.",
+        targetApplicants: [
+          "D-8 visa holders who have invested USD 500,000+ in Korea",
+          "Foreign investors employing 5+ Korean nationals as full-time employees for 6+ months",
+        ],
+        eligibility: [
+          "Investment of USD 500,000+ maintained (registered as a foreign-invested company)",
+          "5+ Korean nationals employed full-time for 6+ months",
+          "No criminal record",
+          "Criminal background check exemption may apply",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Foreign-invested company registration certificate",
+          "Investment proof (USD 500,000+)",
+          "Social insurance enrollment list (confirming 5+ employees)",
+          "Corporate registry",
+          "Financial statements and tax payment certificate",
+          "Criminal background check",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify USD 500,000 investment and 5+ employees maintained for 6+ months" },
+          { step: 2, title: "Document Preparation", description: "Prepare investment, employment, and financial documents" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-5 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review (approx. 3-6 months)" },
+        ],
+        processingTime: "Approximately 3-6 months",
+        importantNotes: [
+          "Investment funds must be legitimate funds remitted from overseas.",
+          "Employees must be Korean nationals enrolled in the four major social insurance programs.",
+          "Investment and employment must be maintained even after obtaining permanent residency.",
+        ],
+        faqs: [
+          {
+            question: "Can I reduce the investment after obtaining permanent residency?",
+            answer: "Maintaining the investment is the principle even after obtaining permanent residency. A significant reduction may affect your permanent residency status.",
+          },
+          {
+            question: "Can foreign employees count toward the 5-person requirement?",
+            answer: "No, you must employ 5 or more Korean nationals. Foreign employees are not counted toward the employment requirement.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "d-8", title: "D-8 Corporate Investment Visa" },
+          { slug: "f-5-25", title: "F-5-25 Conditional High-Value Investor" },
+        ],
+      },
     },
     "f-5-6": {
       ko: {
@@ -2035,6 +2878,59 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-1", title: "F-5-1 일반 영주자" },
         ],
       },
+      en: {
+        slug: "f-5-6",
+        title: "F-5-6 Overseas Korean Permanent Residency",
+        subtitle: "Permanent residency for overseas Koreans with F-4 status",
+        overview:
+          "F-5-6 permanent residency is available to ethnic Koreans with foreign nationality who have stayed in Korea for 2 or more years on an F-4 Overseas Korean visa. Applicants must demonstrate the ability to support themselves and basic Korean proficiency.",
+        targetApplicants: [
+          "Overseas Koreans who have stayed 2+ years on F-4 visa",
+          "Overseas Koreans seeking long-term settlement in Korea",
+          "Overseas Koreans who prefer permanent residency over nationality recovery",
+        ],
+        eligibility: [
+          "2+ years of residence on F-4 status",
+          "Ability to support oneself (income or assets)",
+          "Basic Korean language proficiency",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Residence period verification documents",
+          "Income or asset proof",
+          "Korean proficiency proof",
+          "Criminal background check",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify F-4 status for 2+ years and other requirements" },
+          { step: 2, title: "Document Preparation", description: "Prepare income, Korean proficiency, and criminal background documents" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-6 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 2-4 months",
+        importantNotes: [
+          "Transitioning from F-4 to F-5 is relatively straightforward, but income requirements must be met.",
+          "Korean proficiency standards may be more relaxed compared to general permanent residency.",
+        ],
+        faqs: [
+          {
+            question: "What is the difference between F-4 and F-5-6 permanent residency?",
+            answer: "F-4 requires renewal every 2 years, while F-5-6 permanent residency has no time limit. Employment restrictions are also further relaxed with permanent residency.",
+          },
+          {
+            question: "Which is better: nationality recovery or permanent residency?",
+            answer: "It depends on individual circumstances. Nationality recovery may require giving up your current citizenship, while permanent residency allows you to maintain your foreign nationality while residing long-term in Korea.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-4", title: "F-4 Overseas Korean Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
+        ],
+      },
     },
     "f-5-8": {
       ko: {
@@ -2085,6 +2981,56 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
         relatedVisas: [
           { slug: "f-5", title: "F-5 영주권 개요" },
           { slug: "f-5-1", title: "F-5-1 일반 영주자" },
+        ],
+      },
+      en: {
+        slug: "f-5-8",
+        title: "F-5-8 Ethnic Chinese in Korea",
+        subtitle: "Permanent residency for ethnic Chinese born and raised in Korea",
+        overview:
+          "F-5-8 is a permanent residency status issued to ethnic Chinese (holding ROC or PRC nationality) who were born in Korea and have continuously resided there. Applicants must demonstrate that they were born in Korea and have maintained continuous residence.",
+        targetApplicants: [
+          "Ethnic Chinese born and continuously residing in Korea",
+          "Long-time ethnic Chinese families established in Korea",
+          "Ethnic Chinese business owners and workers settled in Korean society",
+        ],
+        eligibility: [
+          "Proof of birth in Korea and continuous residence",
+          "Ability to support oneself",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Birth certificate (confirming birth in Korea)",
+          "Alien registration history (confirming continuous residence)",
+          "Income or asset proof",
+          "Criminal background check",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify birth in Korea and continuous residence" },
+          { step: 2, title: "Document Preparation", description: "Prepare birth certificate, residence history, and income proof" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-8 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 2-4 months",
+        importantNotes: [
+          "Both birth in Korea and continuous residence must be demonstrated.",
+          "Graduation from a Korean-Chinese school or similar evidence can serve as supporting documentation.",
+        ],
+        faqs: [
+          {
+            question: "Can ethnic Chinese not born in Korea apply?",
+            answer: "F-5-8 is specifically for ethnic Chinese born in Korea. Those not born in Korea should consider other types such as F-5-1 (General Permanent Residency).",
+          },
+          {
+            question: "How long must I have resided in Korea?",
+            answer: "Continuous residence since birth is the principle. Even with short-term stays abroad, the application may be accepted if Korea has been the primary place of residence.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
         ],
       },
     },
@@ -2140,6 +3086,59 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 영주권 개요" },
           { slug: "f-5-10", title: "F-5-10 학사·석사·자격증" },
           { slug: "e-7", title: "E-7 특정활동비자" },
+        ],
+      },
+      en: {
+        slug: "f-5-9",
+        title: "F-5-9 Advanced Technology PhD",
+        subtitle: "Permanent residency for doctoral degree holders in advanced technology fields",
+        overview:
+          "F-5-9 is a permanent residency status available to foreigners who have obtained a doctoral degree in advanced technology fields (IT, bio, nano, etc.) in Korea or abroad and are currently working in related fields in Korea. As a special pathway to attract top talent, residence period requirements are more relaxed than for general permanent residency.",
+        targetApplicants: [
+          "PhD holders in IT, bio, nano, and other advanced technology fields",
+          "Foreigners working at research institutions or companies in Korea in related fields",
+          "Foreigners who obtained a doctoral degree in advanced fields from a Korean university",
+        ],
+        eligibility: [
+          "Doctoral degree in an advanced technology field",
+          "Currently working in a related field in Korea (research, education, industry)",
+          "Meet income requirements",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Doctoral degree certificate",
+          "Employment certificate (research institution/company)",
+          "Income certificate",
+          "Tax payment certificate",
+          "Criminal background check",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify advanced field doctoral degree and current field of work" },
+          { step: 2, title: "Document Preparation", description: "Prepare degree, employment, and income documents" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-9 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 2-4 months",
+        importantNotes: [
+          "Whether a field qualifies as 'advanced technology' must be confirmed by relevant agencies such as the Ministry of Science and ICT.",
+          "Residence period requirements are more relaxed than for general permanent residency (F-5-1).",
+        ],
+        faqs: [
+          {
+            question: "Which fields qualify as 'advanced technology'?",
+            answer: "IT, bio, nano, digital, energy, aerospace, and other government-designated advanced science and technology fields. Specific fields should be confirmed through official announcements.",
+          },
+          {
+            question: "Are doctoral degrees from overseas universities accepted?",
+            answer: "Yes, doctoral degrees from both Korean and overseas universities are recognized. However, you must be working in the relevant field in Korea.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-10", title: "F-5-10 Bachelor/Master/Certificate" },
+          { slug: "e-7", title: "E-7 Special Activities Visa" },
         ],
       },
     },
@@ -2198,6 +3197,60 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-1", title: "F-5-1 일반 영주자" },
         ],
       },
+      en: {
+        slug: "f-5-10",
+        title: "F-5-10 Bachelor/Master Degree or Certificate Holder",
+        subtitle: "Permanent residency based on degree or national certification",
+        overview:
+          "F-5-10 is available to foreigners who have obtained a bachelor's degree or higher from a Korean institution or hold specific national certifications, and who have been employed in Korea for a certain period while meeting income requirements.",
+        targetApplicants: [
+          "Foreigners who obtained bachelor's or master's degrees from Korean universities",
+          "Foreign professionals holding national technical certifications",
+          "Foreigners employed in Korea after obtaining their degree",
+        ],
+        eligibility: [
+          "Bachelor's degree or higher from a Korean institution, or specific national certification",
+          "Legal employment in Korea for a certain period",
+          "Income at or above GNI",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Degree certificate or certification copy",
+          "Employment certificate",
+          "Income certificate",
+          "Tax payment certificate",
+          "Criminal background check",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify degree/certification and residence/income requirements" },
+          { step: 2, title: "Document Preparation", description: "Prepare degree, employment, and income documents" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-10 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 2-4 months",
+        importantNotes: [
+          "Only degrees from overseas institutions (without a Korean degree) may not qualify.",
+          "Employment duration and income level are key review factors.",
+        ],
+        faqs: [
+          {
+            question: "Which certifications are accepted?",
+            answer: "National technical certifications at the engineer/industrial engineer level or above managed by the Human Resources Development Service of Korea may qualify. Specific acceptance criteria should be confirmed with the immigration office.",
+          },
+          {
+            question: "Can I apply immediately after graduating?",
+            answer: "A degree alone is not sufficient. You must have been employed in Korea for a certain period and meet the income requirements.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-9", title: "F-5-9 Advanced Technology PhD" },
+          { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
+        ],
+      },
     },
     "f-5-11": {
       ko: {
@@ -2250,6 +3303,58 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 영주권 개요" },
           { slug: "f-5-9", title: "F-5-9 첨단분야 박사" },
           { slug: "e-7", title: "E-7 특정활동비자" },
+        ],
+      },
+      en: {
+        slug: "f-5-11",
+        title: "F-5-11 Exceptional Ability",
+        subtitle: "Permanent residency for outstanding talent in science, business, education, culture, or sports",
+        overview:
+          "F-5-11 is issued to foreigners with exceptional ability in specific fields such as science, business management, education, culture and arts, or sports. International awards, published research, patents, and similar achievements serve as review criteria.",
+        targetApplicants: [
+          "Internationally recognized scientists and researchers",
+          "Global business executives who have contributed to Korea",
+          "Foreigners with outstanding achievements in arts, culture, or sports",
+        ],
+        eligibility: [
+          "Demonstrated exceptional ability in a specific field",
+          "International awards, published papers, patents, or similar achievements",
+          "Plans for or track record of activities in Korea",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Awards and achievement documentation",
+          "Recommendation letters (from relevant institutional leaders, etc.)",
+          "Employment certificate or activity plan",
+          "Criminal background check",
+        ],
+        process: [
+          { step: 1, title: "Achievement Documentation", description: "Compile awards, papers, patents, and other achievement records" },
+          { step: 2, title: "Recommendation Letters", description: "Obtain recommendations from relevant institutions and experts" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-11 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 3-6 months",
+        importantNotes: [
+          "Objective proof of exceptional ability is the key factor.",
+          "Recommendation letters from experts and institutions in the relevant field have a significant impact on the review.",
+        ],
+        faqs: [
+          {
+            question: "What level qualifies as 'exceptional ability'?",
+            answer: "Publications in international academic journals, international competition awards, and significant patents serve as benchmarks. Achievements at the national or international level are required.",
+          },
+          {
+            question: "Can I apply without any track record in Korea?",
+            answer: "Applications based on overseas achievements are possible, but demonstrating plans for activities or potential contributions in Korea is advantageous.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-9", title: "F-5-9 Advanced Technology PhD" },
+          { slug: "e-7", title: "E-7 Special Activities Visa" },
         ],
       },
     },
@@ -2309,6 +3414,61 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-1", title: "F-5-1 일반 영주자" },
         ],
       },
+      en: {
+        slug: "f-5-16",
+        title: "F-5-16 Points-based Permanent Residency",
+        subtitle: "Permanent residency transitioning from the F-2 points-based visa",
+        overview:
+          "F-5-16 Points-based Permanent Residency is a pathway for foreigners who have held the F-2-7 points-based residence visa for 3 or more years in Korea. The points-based requirements must be maintained during the residence period, and good income and tax records are required.",
+        targetApplicants: [
+          "Foreigners who have held F-2 points-based (F-2-7) visa for 3+ years",
+          "Professionals seeking permanent residency from a points-based residence visa",
+          "Talented professionals planning long-term settlement in Korea",
+        ],
+        eligibility: [
+          "3+ years of residence after obtaining F-2-7 points-based visa",
+          "Points-based requirements maintained (80+ points)",
+          "Good income and tax payment record",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Residence period verification documents",
+          "Points calculation sheet and supporting documents",
+          "Income certificate",
+          "Tax payment certificate",
+          "Criminal background check",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify F-2-7 3-year residence and points maintenance" },
+          { step: 2, title: "Document Preparation", description: "Prepare points proof, income, and tax documents" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-16 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 2-4 months",
+        importantNotes: [
+          "The 80-point threshold must be maintained throughout the 3-year period after obtaining F-2-7.",
+          "A decline in income or a criminal record may result in denial of the transition.",
+          "Even after obtaining permanent residency, staying abroad for 2+ years may result in revocation.",
+        ],
+        faqs: [
+          {
+            question: "Is there an additional test when transitioning from F-2-7 to F-5-16?",
+            answer: "No additional test is required, but the points-based requirements (80 points) will be re-verified. Completing the KIIP program is advantageous.",
+          },
+          {
+            question: "Will frequent business travel abroad during the 3 years be a problem?",
+            answer: "Routine business travel is not an issue, but extended stays abroad may be disadvantageous when calculating the residence period in Korea.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-points", title: "F-2 Points-based Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
+        ],
+      },
     },
     "f-5-17": {
       ko: {
@@ -2364,6 +3524,59 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-5", title: "F-5-5 고액투자자" },
         ],
       },
+      en: {
+        slug: "f-5-17",
+        title: "F-5-17 Real Estate Investor",
+        subtitle: "Permanent residency through sustained property investment",
+        overview:
+          "F-5-17 is available to foreigners who have invested a certain amount or more in real estate in areas designated by the Ministry of Justice and maintained the investment for 5+ years. This is the pathway transitioning from the F-2 Real Estate Investment visa.",
+        targetApplicants: [
+          "Foreigners who have maintained F-2 real estate investment for 5+ years",
+          "Foreigners owning property in Ministry of Justice designated areas",
+          "Investors aiming for permanent residency through real estate investment",
+        ],
+        eligibility: [
+          "Real estate investment maintained for 5+ years in a designated area",
+          "Property ownership maintained",
+          "No criminal record",
+          "Basic aptitude requirements met",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Property registry",
+          "Property appraisal report",
+          "Investment maintenance confirmation",
+          "Criminal background check",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify 5+ years of sustained real estate investment" },
+          { step: 2, title: "Document Preparation", description: "Prepare property registry, appraisal, and other documents" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-17 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 3-6 months",
+        importantNotes: [
+          "Selling the property may result in revocation of permanent residency.",
+          "A significant decline in property value below the threshold may cause issues.",
+        ],
+        faqs: [
+          {
+            question: "Can I sell the property after obtaining permanent residency?",
+            answer: "Even after obtaining permanent residency, the property should be maintained for a certain period. Premature sale may affect your permanent residency status, so prior confirmation is recommended.",
+          },
+          {
+            question: "What happens if property value declines?",
+            answer: "The purchase price is the baseline, but a significant decline may require additional investment. Specific criteria should be confirmed through Ministry of Justice announcements.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-real-estate", title: "F-2 Real Estate Investment Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
+        ],
+      },
     },
     "f-5-21": {
       ko: {
@@ -2416,6 +3629,58 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-2-public-interest", title: "F-2 공익사업투자비자" },
           { slug: "f-5", title: "F-5 영주권 개요" },
           { slug: "f-5-5", title: "F-5-5 고액투자자" },
+        ],
+      },
+      en: {
+        slug: "f-5-21",
+        title: "F-5-21 Public Interest Investor",
+        subtitle: "Permanent residency through sustained public interest project investment",
+        overview:
+          "F-5-21 is available to foreigners who have invested KRW 500 million (approx. USD 375,000) or more in a government-designated public interest project (government bonds, public funds, etc.) and maintained the investment for 5+ years. This is the pathway transitioning from the F-2 Public Interest Investment visa.",
+        targetApplicants: [
+          "Foreigners who have maintained F-2 public interest investment for 5+ years",
+          "Foreigners with KRW 500 million+ invested in a government-designated public interest project",
+          "Investors aiming for permanent residency through stable investment",
+        ],
+        eligibility: [
+          "Public interest project investment of KRW 500 million+ maintained for 5+ years",
+          "Legitimate source of investment funds already verified",
+          "No criminal record",
+          "Basic aptitude requirements met",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Public interest project investment maintenance confirmation",
+          "Investment performance proof",
+          "Criminal background check",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify 5+ years of sustained public interest investment" },
+          { step: 2, title: "Document Preparation", description: "Prepare investment maintenance confirmation and proof" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-21 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 3-6 months",
+        importantNotes: [
+          "Early withdrawal during the 5-year maintenance period will result in loss of status.",
+          "Maintaining the investment even after obtaining permanent residency is recommended.",
+        ],
+        faqs: [
+          {
+            question: "Can I withdraw the investment after obtaining permanent residency?",
+            answer: "Withdrawal is possible after obtaining permanent residency, but the exact regulations regarding immediate withdrawal and status maintenance should be confirmed with the Ministry of Justice.",
+          },
+          {
+            question: "What is the return on public interest investments?",
+            answer: "Since the investment is in stable assets like government bonds, returns are relatively low. The primary purpose is obtaining residence status rather than investment returns.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-public-interest", title: "F-2 Public Interest Investment Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
         ],
       },
     },
@@ -2475,6 +3740,61 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-5", title: "F-5-5 고액투자자" },
         ],
       },
+      en: {
+        slug: "f-5-24",
+        title: "F-5-24 Tech Startup Investor",
+        subtitle: "Permanent residency for foreigners contributing to the Korean economy through tech startups",
+        overview:
+          "F-5-24 is available to foreigners who have stayed for 3+ years on a tech startup (D-8-4) visa, raised KRW 300 million (approx. USD 225,000) or more in investment, and employed 2+ Korean nationals. The primary target is founders of innovative tech startups.",
+        targetApplicants: [
+          "Foreigners operating a business on a D-8-4 tech startup visa",
+          "Founders of innovative tech startups with revenue and employment track records",
+          "Foreign founders of companies that have graduated from government startup support programs",
+        ],
+        eligibility: [
+          "3+ years of continuous residence on tech startup (D-8-4) status",
+          "Raised KRW 300 million (approx. USD 225,000) or more in investment or equivalent capital secured",
+          "Employed 2+ Korean nationals full-time for 6+ months",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Corporate registry",
+          "Business registration certificate",
+          "Revenue proof (financial statements, VAT filings, etc.)",
+          "Employment proof (social insurance enrollment list)",
+          "Patent/technology documents (if applicable)",
+          "Criminal background check",
+        ],
+        process: [
+          { step: 1, title: "Eligibility Check", description: "Verify revenue, employment, and business duration requirements" },
+          { step: 2, title: "Document Preparation", description: "Prepare financial statements, employment proof, etc." },
+          { step: 3, title: "PR Application", description: "Apply for F-5-24 at the immigration office" },
+          { step: 4, title: "Review & Issuance", description: "Permanent residency issued after review" },
+        ],
+        processingTime: "Approximately 3-6 months",
+        importantNotes: [
+          "Revenue and employment track records are the key review factors.",
+          "Participation in government startup support programs is viewed favorably.",
+          "General (non-tech) startups may not qualify.",
+        ],
+        faqs: [
+          {
+            question: "How much revenue is required?",
+            answer: "Specific revenue criteria follow official announcements and vary by industry and scale. Demonstrating consistent growth is important.",
+          },
+          {
+            question: "Can I apply on a visa other than D-8-4?",
+            answer: "A track record of operating a business on a tech startup-related visa (D-8-4, etc.) is the baseline, but specific eligibility should be confirmed with the immigration office.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 Corporate Investment Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
+        ],
+      },
     },
     "f-5-25": {
       ko: {
@@ -2531,6 +3851,60 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "d-8", title: "D-8 기업투자비자" },
         ],
       },
+      en: {
+        slug: "f-5-25",
+        title: "F-5-25 Conditional High-Value Investor",
+        subtitle: "Conditional permanent residency through KRW 3 billion+ investment with 5-year maintenance",
+        overview:
+          "The F-5-25 Conditional High-Value Investor permanent residency is granted conditionally to foreigners who deposit KRW 3 billion (approx. USD 2.25 million) or more in the Korea Development Bank's Public Interest Investment Immigration Fund and pledge to maintain the investment for 5+ years. Failure to meet the maintenance conditions may result in revocation of permanent residency.",
+        targetApplicants: [
+          "Foreigners planning high-value investment in Korea",
+          "Investors seeking Korean settlement through conditional permanent residency",
+          "High-net-worth foreigners targeting permanent residency through investment",
+        ],
+        eligibility: [
+          "Deposit of KRW 3 billion (approx. USD 2.25 million) or more in KDB's Public Interest Investment Immigration Fund",
+          "Proof of legitimate source of investment funds (foreign currency import proof)",
+          "Pledge to maintain investment for 5+ years",
+          "No criminal record",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport and alien registration card",
+          "Investment confirmation",
+          "Investment fund source proof",
+          "Investment maintenance agreement",
+          "Criminal background check",
+          "Medical examination certificate",
+        ],
+        process: [
+          { step: 1, title: "Investment Planning", description: "Determine investment amount and target" },
+          { step: 2, title: "Execute Investment", description: "Complete high-value investment and obtain confirmation" },
+          { step: 3, title: "PR Application", description: "Apply for F-5-25 at the immigration office" },
+          { step: 4, title: "Conditional PR Issuance", description: "Conditional permanent residency granted after review" },
+        ],
+        processingTime: "Approximately 3-6 months",
+        importantNotes: [
+          "This is conditional permanent residency, so the investment maintenance conditions must be fulfilled.",
+          "Withdrawal or significant reduction of investment funds will result in revocation of permanent residency.",
+          "Upon fulfilling all conditions, the status is converted to full permanent residency.",
+        ],
+        faqs: [
+          {
+            question: "What is the difference between conditional and regular permanent residency?",
+            answer: "Conditional permanent residency requires maintaining the investment for a set period. Upon fulfilling the conditions, it is converted to full permanent residency.",
+          },
+          {
+            question: "How long must the investment be maintained?",
+            answer: "5 years. Early withdrawal of part or all of the deposited amount will result in revocation of permanent residency.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
+          { slug: "f-5", title: "F-5 Permanent Residency Overview" },
+          { slug: "d-8", title: "D-8 Corporate Investment Visa" },
+        ],
+      },
     },
     "naturalization": {
       ko: {
@@ -2547,6 +3921,20 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
         faqs: [{ question: "귀화와 국적회복의 차이는?", answer: "귀화는 한국 국적이 없었던 외국인이 새로 국적을 취득하는 것이고, 국적회복은 과거 한국 국적을 보유했던 사람이 국적을 되찾는 것입니다." }, { question: "귀화 후 외국 국적은 어떻게 되나요?", answer: "원칙적으로 외국 국적을 포기해야 하지만, 65세 이상 등 일부 경우 외국국적 불행사 서약으로 복수국적 유지가 가능합니다." }, { question: "소요 기간은 얼마나 되나요?", answer: "일반적으로 접수 후 6개월~1년 소요됩니다." }],
         relatedVisas: [{ slug: "nationality-recovery", title: "국적회복" }, { slug: "f-5", title: "F-5 영주권" }, { slug: "f-6", title: "F-6 결혼비자" }],
       },
+      en: {
+        slug: "naturalization",
+        title: "Naturalization",
+        subtitle: "Process for acquiring Korean citizenship",
+        overview: "Naturalization is the process by which a foreigner acquires Korean nationality. Under the Nationality Act, it is divided into general naturalization, simplified naturalization, and special naturalization, each with different requirements. Applicants must meet requirements including 5+ years of domestic residence, financial self-sufficiency, and Korean language proficiency.",
+        targetApplicants: ["Foreigners who have resided in Korea for 5+ years (general naturalization)", "Spouses of Korean nationals (simplified naturalization)", "Individuals with special merit or exceptional talent (special naturalization)", "Foreigners with Korean parents"],
+        eligibility: ["5+ years of continuous residence in Korea (general naturalization)", "Legal adult under Korean Civil Act", "Good conduct", "Financial self-sufficiency", "Korean language proficiency and understanding of Korean customs"],
+        requiredDocuments: ["Naturalization application form", "Passport copy", "Family relationship documents", "Financial documents", "Criminal background check", "Korean proficiency proof (TOPIK, etc.)", "Basic certificate, family relationship certificate", "Residence proof"],
+        process: [{ step: 1, title: "Eligibility Check", description: "Review eligibility by naturalization type" }, { step: 2, title: "Document Preparation", description: "Prepare required documents with translations and notarization" }, { step: 3, title: "Submit to MOJ", description: "Submit naturalization application at the immigration office" }, { step: 4, title: "Review", description: "Document review and interview (approx. 6 months to 1 year)" }, { step: 5, title: "Citizenship Acquired", description: "Korean nationality acquired upon naturalization approval" }],
+        processingTime: "Approximately 6 months to 1 year",
+        importantNotes: ["You must renounce your previous foreign nationality upon naturalization (exceptions for dual nationality exist).", "Simplified naturalization for Korean spouses requires 2+ years of residence after marriage.", "Korean Language and Aptitude Test (KINAT) or KIIP completion is required."],
+        faqs: [{ question: "What is the difference between naturalization and nationality recovery?", answer: "Naturalization is for foreigners who never held Korean nationality acquiring it for the first time, while nationality recovery is for people who previously held Korean nationality regaining it." }, { question: "What happens to my foreign nationality after naturalization?", answer: "In principle, you must renounce your foreign nationality. However, in certain cases (such as those aged 65+), dual nationality may be maintained through a pledge of non-exercise of foreign nationality." }, { question: "How long does the process take?", answer: "Generally 6 months to 1 year from submission." }],
+        relatedVisas: [{ slug: "nationality-recovery", title: "Nationality Recovery" }, { slug: "f-5", title: "F-5 Permanent Residency" }, { slug: "f-6", title: "F-6 Marriage Visa" }],
+      },
     },
     "nationality-recovery": {
       ko: {
@@ -2562,6 +3950,20 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
         importantNotes: ["65세 이상은 외국국적 불행사 서약으로 복수국적 유지 가능.", "국적회복 후 주민등록 및 대한민국 여권 발급 가능.", "병역을 기피할 목적으로 국적을 상실한 남성은 제한될 수 있음."],
         faqs: [{ question: "65세 이상이면 외국 국적을 포기해야 하나요?", answer: "아닙니다. 65세 이상은 '외국국적 불행사 서약'만으로 한국 국적과 외국 국적을 모두 유지할 수 있습니다." }, { question: "심사 기간은 얼마나 걸리나요?", answer: "보통 6개월~1년 소요됩니다." }, { question: "국적회복 후 F-4 비자는 어떻게 되나요?", answer: "한국 국적을 취득하므로 F-4 비자는 소멸되고, 주민등록 후 대한민국 여권을 발급받습니다." }],
         relatedVisas: [{ slug: "naturalization", title: "귀화 신청" }, { slug: "f-5", title: "F-5 영주권" }, { slug: "f-4", title: "F-4 거소증" }],
+      },
+      en: {
+        slug: "nationality-recovery",
+        title: "Nationality Recovery",
+        subtitle: "Process for regaining Korean citizenship",
+        overview: "Nationality recovery is a system that allows individuals who previously held Korean nationality but lost it upon acquiring foreign citizenship to reacquire Korean nationality. For those aged 65 or older, a special provision allows dual nationality by simply pledging non-exercise of foreign nationality.",
+        targetApplicants: ["Former Korean nationals who now hold foreign citizenship", "Individuals who have completed nationality loss notification", "Those aged 65+ seeking dual nationality", "Korean-born adoptees raised overseas"],
+        eligibility: ["Proof of previously holding Korean nationality", "Good conduct", "Financial self-sufficiency", "Korean language proficiency and basic civic knowledge", "Nationality loss notification completed"],
+        requiredDocuments: ["Nationality recovery application form", "Passport (original and copy)", "Family relationship certificate (detailed)", "Basic certificate (detailed)", "Nationality loss proof documents", "Criminal background check (apostille)", "Financial proof documents", "1 photo"],
+        process: [{ step: 1, title: "Document Preparation", description: "Prepare required documents (apostille needed for overseas documents)" }, { step: 2, title: "Visit Authority", description: "Submit at the Immigration & Foreign Affairs Office" }, { step: 3, title: "MOJ Review", description: "Document and requirements review (6 months to 1 year)" }, { step: 4, title: "Recovery Approval", description: "Published in the Official Gazette" }, { step: 5, title: "Foreign Nationality Processing", description: "Age 65+: pledge of non-exercise / Under 65: renounce foreign nationality" }],
+        processingTime: "Approximately 6 months to 1 year",
+        importantNotes: ["Those aged 65+ can maintain dual nationality through a pledge of non-exercise of foreign nationality.", "After nationality recovery, resident registration and Korean passport issuance become available.", "Males who lost nationality to evade military service may face restrictions."],
+        faqs: [{ question: "Do I need to give up my foreign nationality if I am 65 or older?", answer: "No. Those aged 65+ can maintain both Korean and foreign nationality by making a 'pledge of non-exercise of foreign nationality.'" }, { question: "How long does the review process take?", answer: "Typically 6 months to 1 year." }, { question: "What happens to my F-4 visa after nationality recovery?", answer: "Since you acquire Korean nationality, the F-4 visa expires. After resident registration, you can obtain a Korean passport." }],
+        relatedVisas: [{ slug: "naturalization", title: "Naturalization" }, { slug: "f-5", title: "F-5 Permanent Residency" }, { slug: "f-4", title: "F-4 Overseas Korean Visa" }],
       },
     },
     "d-7": {
@@ -2644,6 +4046,87 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "d-8", title: "D-8 기업투자비자" },
           { slug: "e-7", title: "E-7 특정활동비자" },
           { slug: "f-5", title: "F-5 영주권" },
+        ],
+      },
+      en: {
+        slug: "d-7",
+        title: "D-7 Intra-company Transfer Visa",
+        subtitle: "Visa for employees dispatched from an overseas headquarters to a Korean branch",
+        overview:
+          "The D-7 Intra-company Transfer Visa is required when an overseas-headquartered company dispatches employees to a branch, subsidiary, or liaison office in Korea. Dispatched employees must have at least 1 year of work experience at the headquarters and will perform management, administrative, or specialized technical duties at the Korean branch. The typical assignment period is 1-3 years, with extensions available.",
+        targetApplicants: [
+          "Employees dispatched from overseas headquarters to a Korean branch or subsidiary",
+          "Foreigners stationed at a liaison office in Korea",
+          "Individuals with 1+ year of work experience at overseas headquarters",
+          "Assignees in management, administration, or specialized technical roles",
+        ],
+        eligibility: [
+          "1+ year of work experience at the overseas headquarters",
+          "A branch, subsidiary, or liaison office established in Korea",
+          "Assignment duties in management, administration, or specialized technical fields",
+          "No criminal record or entry ban history",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Dispatch order or assignment letter",
+          "Overseas headquarters business registration and company profile",
+          "Korean branch/subsidiary corporate registry",
+          "Korean branch/subsidiary business registration certificate",
+          "Employment certificate confirming 1+ year at headquarters",
+          "Career certificate",
+          "Degree certificate",
+        ],
+        process: [
+          {
+            step: 1,
+            title: "Dispatch Decision",
+            description: "Overseas headquarters decides on Korean assignment and issues dispatch order",
+          },
+          {
+            step: 2,
+            title: "Document Preparation",
+            description: "Prepare headquarters and Korean branch documents (notarize/apostille overseas documents)",
+          },
+          {
+            step: 3,
+            title: "Visa Application",
+            description: "Apply for D-7 visa at a Korean embassy/consulate or immigration office",
+          },
+          {
+            step: 4,
+            title: "Visa Issuance",
+            description: "Visa issued after review and entry into Korea",
+          },
+        ],
+        processingTime: "Approximately 2-4 weeks",
+        importantNotes: [
+          "1+ year of work experience at the headquarters is mandatory.",
+          "If the Korean branch has not been established, the company incorporation process must be completed first.",
+          "Extensions can be applied for when the assignment period expires, and visa status changes can also be considered.",
+        ],
+        faqs: [
+          {
+            question: "Can I apply if I have less than 1 year of experience at headquarters?",
+            answer:
+              "In principle, 1+ year of experience is required. However, exceptions may be granted for recognized expertise, so individual consultation is recommended.",
+          },
+          {
+            question: "Can I work at a different company with a D-7 visa?",
+            answer:
+              "A D-7 visa only permits work at the assigned Korean branch or subsidiary. Working at another company requires a change of residence status.",
+          },
+          {
+            question: "Can my family come with me?",
+            answer:
+              "Yes, your spouse and minor children can apply for an F-3 (dependent) visa to enter Korea together.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 Corporate Investment Visa" },
+          { slug: "e-7", title: "E-7 Special Activities Visa" },
+          { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
     },
@@ -2730,6 +4213,88 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-2-points", title: "F-2 점수제비자" },
         ],
       },
+      en: {
+        slug: "e-7",
+        title: "E-7 Special Activities Visa",
+        subtitle: "Work visa for foreigners with specialized knowledge, skills, or expertise",
+        overview:
+          "The E-7 Special Activities Visa is granted to foreigners who wish to work in Korea utilizing their professional knowledge, skills, or expertise. It covers 91 designated professional occupations, and the employer (Korean company) must obtain an employment recommendation letter. It is used across various professional fields including IT, engineering, management, translation/interpretation, and design.",
+        targetApplicants: [
+          "Foreigners seeking professional employment with Korean companies",
+          "IT, software, and engineering specialists",
+          "Translation/interpretation, management, design, and trade professionals",
+          "Experts in any of the 91 designated special activities occupations",
+        ],
+        eligibility: [
+          "Qualify for one of the 91 designated special activities occupations",
+          "Bachelor's degree or higher in a related field, or equivalent work experience",
+          "Employment contract with a Korean company",
+          "Employer must obtain an employment recommendation letter",
+          "No criminal record or entry ban history",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport copy",
+          "Photo (3.5x4.5cm)",
+          "Employment contract",
+          "Employment recommendation letter (obtained by employer)",
+          "Degree certificate (apostille)",
+          "Career certificate",
+          "Professional certification copy (if applicable)",
+          "Company business registration certificate",
+          "Company financial statements",
+        ],
+        process: [
+          {
+            step: 1,
+            title: "Employment Contract",
+            description: "Sign employment contract with a Korean company and confirm the occupation category",
+          },
+          {
+            step: 2,
+            title: "Employment Recommendation",
+            description: "Employer obtains employment recommendation letter from the local immigration office",
+          },
+          {
+            step: 3,
+            title: "Visa Application",
+            description: "Apply for E-7 visa at a Korean embassy/consulate or immigration office",
+          },
+          {
+            step: 4,
+            title: "Visa Issuance",
+            description: "Visa issued after review and work commences",
+          },
+        ],
+        processingTime: "Approximately 2-4 weeks (employment recommendation takes an additional 1-2 weeks)",
+        importantNotes: [
+          "The employment recommendation letter must be applied for by the employer (Korean company); the foreign applicant cannot apply directly.",
+          "The list of 91 occupations may be updated through Ministry of Justice announcements, so always check the latest list.",
+          "When changing jobs, a new employment recommendation from the new employer is required along with a status change/extension application.",
+        ],
+        faqs: [
+          {
+            question: "What types of jobs can I work with an E-7 visa?",
+            answer:
+              "You can work in 91 designated professional occupations (IT, engineering, management, translation/interpretation, design, trade, shipbuilding, machinery, etc.). Please check the Ministry of Justice announcements for the exact list.",
+          },
+          {
+            question: "Can I get an E-7 visa without a degree?",
+            answer:
+              "Depending on the occupation, a certain period of relevant work experience may substitute for a bachelor's degree. Requirements vary by occupation, so individual consultation is recommended.",
+          },
+          {
+            question: "Can I transition from E-7 to permanent residency (F-5)?",
+            answer:
+              "Yes, after residing for a certain period on an E-7 visa and meeting income requirements, you can apply for permanent residency through the points-based system (F-5-16) or other pathways.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 Corporate Investment Visa" },
+          { slug: "d-7", title: "D-7 Intra-company Transfer Visa" },
+          { slug: "f-2-points", title: "F-2 Points-based Visa" },
+        ],
+      },
     },
     "f-4": {
       ko: {
@@ -2809,6 +4374,85 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 영주권" },
           { slug: "f-2-7", title: "F-2-7 거주비자" },
           { slug: "f-6", title: "F-6 결혼비자" },
+        ],
+      },
+      en: {
+        slug: "f-4",
+        title: "F-4 Overseas Korean Visa (Domestic Residence Card)",
+        subtitle: "Long-term residence status for ethnic Koreans with foreign nationality",
+        overview:
+          "The F-4 Overseas Korean Visa is a long-term residence status granted to ethnic Koreans holding foreign nationality. It allows a stay of up to 3 years and can be renewed upon expiration. With a Domestic Residence Card, holders can open bank accounts, sign up for mobile phone services, conduct real estate transactions, and access various services needed for daily life in Korea, effectively enabling economic activities comparable to Korean nationals.",
+        targetApplicants: [
+          "Ethnic Koreans with foreign nationality (Korean-descent foreigners)",
+          "Individuals who previously held Korean nationality and acquired foreign citizenship",
+          "Foreigners whose parents or grandparents held Korean nationality",
+          "Korean-born adoptees raised overseas",
+        ],
+        eligibility: [
+          "Meet overseas Korean requirements (proven Korean nationality history or lineage)",
+          "Hold foreign nationality",
+          "No criminal record",
+          "Can prove Korean nationality loss or renunciation",
+        ],
+        requiredDocuments: [
+          "Visa application form",
+          "Passport (original and copy)",
+          "Photo (3.5x4.5cm)",
+          "Overseas Korean proof documents (family relationship certificate, family register, etc.)",
+          "Nationality loss/renunciation proof documents",
+          "Home country ID copy",
+          "Criminal background check (apostille)",
+          "Domestic Residence Card application form (after entry)",
+        ],
+        process: [
+          {
+            step: 1,
+            title: "Eligibility Check",
+            description: "Verify overseas Korean eligibility (lineage, nationality history, etc.)",
+          },
+          {
+            step: 2,
+            title: "Document Preparation",
+            description: "Prepare overseas Korean proof and required documents (notarize/apostille overseas documents)",
+          },
+          {
+            step: 3,
+            title: "Visa Application",
+            description: "Apply for F-4 visa at a Korean embassy/consulate or immigration office",
+          },
+          {
+            step: 4,
+            title: "Residence Card Issuance",
+            description: "Obtain Domestic Residence Card at the immigration office after entry",
+          },
+        ],
+        processingTime: "Approximately 2-4 weeks",
+        importantNotes: [
+          "With a Domestic Residence Card, you can open bank accounts, use mobile services, and conduct real estate transactions.",
+          "Maximum stay of 3 years; renewal application must be submitted before expiration.",
+          "Employment in simple labor jobs may be restricted.",
+        ],
+        faqs: [
+          {
+            question: "Can I work with an F-4 Domestic Residence Card?",
+            answer:
+              "Yes, you can work freely in most industries. However, some sectors such as simple labor may be restricted.",
+          },
+          {
+            question: "What is the difference between a Domestic Residence Card and an Alien Registration Card?",
+            answer:
+              "A Domestic Residence Card is issued to overseas Koreans (F-4) and functions like a resident registration number for banking, real estate, and communications. An Alien Registration Card is issued to other foreign residents.",
+          },
+          {
+            question: "Can I transition from F-4 to permanent residency (F-5)?",
+            answer:
+              "Yes, after staying for 2+ years on an F-4 visa and meeting certain requirements, you can apply for F-5 permanent residency.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 Permanent Residency" },
+          { slug: "f-2-7", title: "F-2-7 Residence Visa" },
+          { slug: "f-6", title: "F-6 Marriage Visa" },
         ],
       },
     },
@@ -2898,6 +4542,93 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-16", title: "F-5-16 점수제영주" },
           { slug: "f-5-17", title: "F-5-17 부동산투자영주" },
           { slug: "f-5-21", title: "F-5-21 공익사업영주" },
+        ],
+      },
+      en: {
+        slug: "f-5",
+        title: "F-5 Permanent Residency",
+        subtitle: "Permanent residence status allowing indefinite stay in Korea",
+        overview:
+          "F-5 Permanent Residency allows indefinite stay in Korea. There are multiple pathways including General Permanent Residency (F-5-1), High-Value Investment (F-5-5), Points-based (F-5-16), Real Estate Investment (F-5-17), and Public Interest Investment (F-5-21). Permanent residents can live in Korea without time restrictions and freely engage in most economic activities.",
+        targetApplicants: [
+          "Foreigners seeking permanent settlement through long-term residence in Korea",
+          "Foreign investors who have invested above certain thresholds in Korea",
+          "Professionals meeting points-based requirements",
+          "Foreigners who have contributed to public interest projects",
+          "Individuals with special merit to Korea",
+        ],
+        eligibility: [
+          "Meet the requirements for the applicable F-5 sub-type (see related visas below)",
+          "Comply with Korean laws and maintain good conduct",
+          "Able to support oneself or family members through income",
+          "Basic Korean language proficiency and understanding of Korean society and culture",
+        ],
+        requiredDocuments: [
+          "Permanent residency application form",
+          "Passport (original and copy)",
+          "Photo (3.5x4.5cm)",
+          "Residence status proof documents (vary by sub-type)",
+          "Income proof (income verification, withholding tax statement, etc.)",
+          "Criminal background check",
+          "KIIP completion certificate or TOPIK score",
+          "Guarantee letter (if applicable)",
+        ],
+        process: [
+          {
+            step: 1,
+            title: "Eligibility Check",
+            description: "Identify the applicable F-5 sub-type and review requirements",
+          },
+          {
+            step: 2,
+            title: "Meet Requirements",
+            description: "Fulfill income, Korean proficiency, residence period, and other sub-type requirements",
+          },
+          {
+            step: 3,
+            title: "Document Preparation",
+            description: "Prepare required documents by sub-type (apostille needed for overseas documents)",
+          },
+          {
+            step: 4,
+            title: "PR Application",
+            description: "Apply for F-5 permanent residency at the immigration office",
+          },
+          {
+            step: 5,
+            title: "Review & Issuance",
+            description: "Permanent residency issued after document and interview review",
+          },
+        ],
+        processingTime: "Approximately 1-3 months (varies by sub-type)",
+        importantNotes: [
+          "F-5 permanent residency has various sub-types with different requirements for each. See the related visas below for detailed requirements.",
+          "Even after obtaining permanent residency, a re-entry permit is required for leaving and re-entering Korea (valid for 1-2 years).",
+          "Permanent residency may be revoked for violations of law.",
+        ],
+        faqs: [
+          {
+            question: "What are the sub-types of F-5 permanent residency?",
+            answer:
+              "Key sub-types include General PR (F-5-1), High-Value Investment PR (F-5-5), Points-based PR (F-5-16), Real Estate Investment PR (F-5-17), and Public Interest PR (F-5-21). Each has different requirements and procedures, so please check the detailed pages.",
+          },
+          {
+            question: "Can I live in Korea forever with permanent residency?",
+            answer:
+              "Permanent residency has no time limit on stay, but you must obtain a re-entry permit (1-2 years) when leaving Korea. Extended absence may result in revocation. Legal violations can also be grounds for revocation.",
+          },
+          {
+            question: "What is the difference between F-5 permanent residency and naturalization?",
+            answer:
+              "Permanent residency (F-5) allows indefinite stay in Korea while maintaining foreign nationality. Naturalization involves acquiring Korean nationality. Permanent residents do not have voting rights, while naturalized citizens have all rights as Korean nationals.",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
+          { slug: "f-5-5", title: "F-5-5 High-Value Investment PR" },
+          { slug: "f-5-16", title: "F-5-16 Points-based PR" },
+          { slug: "f-5-17", title: "F-5-17 Real Estate Investment PR" },
+          { slug: "f-5-21", title: "F-5-21 Public Interest PR" },
         ],
       },
     },
