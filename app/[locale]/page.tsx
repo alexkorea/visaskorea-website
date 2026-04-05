@@ -185,7 +185,7 @@ export default async function HomePage({ params }: PageProps) {
                   : "From visa applications to company setup, we support your entire journey to Korea."}
               </p>
             </div>
-            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+            <div className="grid gap-6 md:grid-cols-3">
               {services.map((service, index) => (
                 <Link
                   key={index}
