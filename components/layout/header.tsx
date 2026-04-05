@@ -44,12 +44,14 @@ export function Header({ locale, dict }: HeaderProps) {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
         {/* Logo */}
-        <Link
-          href={`/${locale}`}
-          className="flex items-center gap-2 font-bold text-xl"
-        >
-          <span className="text-primary">5000</span>
-          <span>Meter</span>
+        <Link href={`/${locale}`} className="flex items-center gap-2">
+          <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
+            <span className="text-white font-serif font-bold text-lg">V</span>
+          </div>
+          <div className="hidden sm:flex flex-col leading-tight">
+            <span className="font-serif text-lg font-semibold text-foreground">VISION</span>
+            <span className="text-[10px] text-muted-foreground -mt-1">행정사사무소</span>
+          </div>
         </Link>
 
         {/* Desktop Navigation */}
