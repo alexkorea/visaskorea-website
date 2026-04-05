@@ -95,7 +95,7 @@ export default async function HomePage({ params }: PageProps) {
         locale === "ko"
           ? "외국인투자기업 설립, 지사 설치, 연락사무소 설치 원스톱 서비스"
           : locale === "zh" ? "外国投资企业设立、分公司设置、联络处设置一站式服务" : locale === "ja" ? "外国人投資企業設立、支社設置、連絡事務所設置ワンストップサービス" : "One-stop service for FDI company, branch office, and liaison office setup",
-      href: "/services/foreign-invested-company",
+      href: "/business/foreign-invested-company",
     },
     {
       icon: <Shield className="h-6 w-6" />,
