@@ -150,6 +150,466 @@ export const VISA_SEO: Record<
       ja: ["D-9ビザ", "貿易ビザ", "貿易経営ビザ", "D-9-5", "D-9-2"],
     },
   },
+  "e-6": {
+    title: {
+      ko: "E-6 예술흥행비자 | 공연·연예·스포츠 취업비자",
+      en: "E-6 Arts & Entertainment Visa | Performance Visa Korea",
+      zh: "E-6艺术演出签证 | 韩国演艺签证",
+      ja: "E-6芸術興行ビザ | 韓国芸能ビザ",
+    },
+    description: {
+      ko: "E-6 예술흥행비자는 공연, 연예, 스포츠 등 예술흥행 활동을 위한 취업비자입니다. 자격요건, 필요서류, 신청 절차를 안내합니다.",
+      en: "E-6 Arts & Entertainment Visa for performance, entertainment, and sports activities in Korea.",
+      zh: "E-6艺术演出签证用于在韩国从事演出、演艺、体育等活动。",
+      ja: "E-6芸術興行ビザは、公演・芸能・スポーツ等の活動のための就労ビザです。",
+    },
+    keywords: {
+      ko: ["E-6 비자", "예술흥행비자", "공연비자", "연예비자", "스포츠비자"],
+      en: ["E-6 visa", "entertainment visa Korea", "performance visa", "artist visa"],
+      zh: ["E-6签证", "艺术演出签证", "演艺签证"],
+      ja: ["E-6ビザ", "芸術興行ビザ", "芸能ビザ"],
+    },
+  },
+  "d-8-executive": {
+    title: {
+      ko: "D-8 임원파견비자 | 외국인투자기업 임원 체류자격",
+      en: "D-8 Executive Transfer Visa | Foreign-Invested Company Executive",
+      zh: "D-8高管派遣签证 | 外资企业高管居留",
+      ja: "D-8役員派遣ビザ | 外国人投資企業役員",
+    },
+    description: {
+      ko: "D-8 임원파견비자는 외국인투자기업에 임원으로 파견되는 경우를 위한 비자입니다. 자격요건과 신청 절차를 안내합니다.",
+      en: "D-8 Executive Transfer Visa for executives dispatched to foreign-invested companies in Korea.",
+      zh: "D-8高管派遣签证适用于被派遣到韩国外资企业担任高管的人员。",
+      ja: "D-8役員派遣ビザは外国人投資企業に役員として派遣される場合のビザです。",
+    },
+    keywords: {
+      ko: ["D-8 임원파견", "임원비자", "외투기업임원", "파견비자"],
+      en: ["D-8 executive visa", "executive transfer Korea", "foreign investment executive"],
+      zh: ["D-8高管签证", "高管派遣", "外资企业高管"],
+      ja: ["D-8役員ビザ", "役員派遣", "外国人投資企業役員"],
+    },
+  },
+  "d-8-individual": {
+    title: {
+      ko: "D-8 개인투자비자 | 외국인 개인투자 체류자격",
+      en: "D-8 Individual Investment Visa | Personal Foreign Investment",
+      zh: "D-8个人投资签证 | 外国人个人投资居留",
+      ja: "D-8個人投資ビザ | 外国人個人投資",
+    },
+    description: {
+      ko: "D-8 개인투자비자는 외국인이 개인 자격으로 한국에 투자하여 사업을 운영하기 위한 비자입니다. 투자 요건과 절차를 안내합니다.",
+      en: "D-8 Individual Investment Visa for foreigners investing personally in Korean businesses.",
+      zh: "D-8个人投资签证适用于以个人身份在韩国投资经营事业的外国人。",
+      ja: "D-8個人投資ビザは外国人が個人資格で韓国に投資し事業を運営するためのビザです。",
+    },
+    keywords: {
+      ko: ["D-8 개인투자", "개인투자비자", "외국인개인투자", "투자비자"],
+      en: ["D-8 individual investment", "personal investment visa Korea", "foreign investor visa"],
+      zh: ["D-8个人投资", "个人投资签证", "外国人投资"],
+      ja: ["D-8個人投資", "個人投資ビザ", "外国人個人投資"],
+    },
+  },
+  "f-1-digital-nomad": {
+    title: {
+      ko: "F-1 디지털노마드비자 | 원격근무 체류자격",
+      en: "F-1 Digital Nomad Visa | Remote Work Visa Korea",
+      zh: "F-1数字游民签证 | 韩国远程工作签证",
+      ja: "F-1デジタルノマドビザ | 韓国リモートワークビザ",
+    },
+    description: {
+      ko: "F-1 디지털노마드비자는 해외 기업에 소속된 원격근무자가 한국에 체류하며 근무할 수 있는 비자입니다. 자격요건과 신청 방법을 안내합니다.",
+      en: "F-1 Digital Nomad Visa allows remote workers employed overseas to live and work in Korea.",
+      zh: "F-1数字游民签证允许海外企业的远程工作者在韩国居留和工作。",
+      ja: "F-1デジタルノマドビザは海外企業に所属するリモートワーカーが韓国に滞在し勤務できるビザです。",
+    },
+    keywords: {
+      ko: ["디지털노마드비자", "원격근무비자", "워케이션비자", "F-1 비자"],
+      en: ["digital nomad visa Korea", "remote work visa", "workation visa Korea"],
+      zh: ["数字游民签证", "远程工作签证", "韩国工作签证"],
+      ja: ["デジタルノマドビザ", "リモートワークビザ", "ワーケーションビザ"],
+    },
+  },
+  "f-1-visit": {
+    title: {
+      ko: "F-1 방문동거비자 | 가족 동거 체류자격",
+      en: "F-1 Family Visit Visa | Family Cohabitation Visa Korea",
+      zh: "F-1探亲同居签证 | 韩国家庭团聚签证",
+      ja: "F-1訪問同居ビザ | 家族同居ビザ韓国",
+    },
+    description: {
+      ko: "F-1 방문동거비자는 한국에 체류하는 가족과 동거하기 위한 체류자격입니다. 자격요건, 필요서류, 절차를 안내합니다.",
+      en: "F-1 Family Visit Visa for cohabitation with family members residing in Korea.",
+      zh: "F-1探亲同居签证用于与在韩国居留的家人同居。",
+      ja: "F-1訪問同居ビザは韓国に滞在する家族と同居するための在留資格です。",
+    },
+    keywords: {
+      ko: ["F-1 비자", "방문동거비자", "가족비자", "동거비자"],
+      en: ["F-1 visa", "family visit visa Korea", "cohabitation visa"],
+      zh: ["F-1签证", "探亲同居签证", "家庭团聚签证"],
+      ja: ["F-1ビザ", "訪問同居ビザ", "家族同居ビザ"],
+    },
+  },
+  "f-2-points": {
+    title: {
+      ko: "F-2 점수제비자 | 우수인재 장기체류 거주비자",
+      en: "F-2 Points-based Visa | Skilled Professional Residence Korea",
+      zh: "F-2积分制签证 | 优秀人才长期居留",
+      ja: "F-2ポイント制ビザ | 優秀人材長期滞在",
+    },
+    description: {
+      ko: "F-2 점수제비자는 학력, 소득, 나이, 한국어 능력 등을 점수화하여 일정 점수 이상일 때 발급되는 거주비자입니다.",
+      en: "F-2 Points-based Visa issued to skilled professionals meeting point thresholds in education, income, age, and Korean proficiency.",
+      zh: "F-2积分制签证根据学历、收入、年龄、韩语能力等综合评分后发放。",
+      ja: "F-2ポイント制ビザは学歴・所得・年齢・韓国語能力等を点数化し一定点数以上で発給される居住ビザです。",
+    },
+    keywords: {
+      ko: ["F-2 점수제", "점수제비자", "거주비자", "우수인재비자"],
+      en: ["F-2 points visa", "points-based residence visa Korea", "skilled worker visa"],
+      zh: ["F-2积分制", "积分制签证", "居住签证"],
+      ja: ["F-2ポイント制", "ポイント制ビザ", "居住ビザ"],
+    },
+  },
+  "f-2-public-interest": {
+    title: {
+      ko: "F-2 공익사업투자비자 | 공익투자 거주자격",
+      en: "F-2 Public Interest Investment Visa | Korea Residence",
+      zh: "F-2公益事业投资签证 | 韩国居留",
+      ja: "F-2公益事業投資ビザ | 韓国居住資格",
+    },
+    description: {
+      ko: "F-2 공익사업투자비자는 법무부 장관이 지정한 공익사업에 일정 금액 이상 투자한 외국인에게 발급되는 거주비자입니다.",
+      en: "F-2 Public Interest Investment Visa for foreigners investing in government-designated public interest projects.",
+      zh: "F-2公益事业投资签证发放给在法务部指定公益事业中投资一定金额以上的外国人。",
+      ja: "F-2公益事業投資ビザは法務部長官指定の公益事業に一定額以上投資した外国人に発給されます。",
+    },
+    keywords: {
+      ko: ["F-2 공익사업투자", "공익투자비자", "거주비자", "투자비자"],
+      en: ["F-2 public interest investment", "investment residence visa Korea"],
+      zh: ["F-2公益投资", "公益事业投资签证"],
+      ja: ["F-2公益事業投資", "公益投資ビザ"],
+    },
+  },
+  "f-2-real-estate": {
+    title: {
+      ko: "F-2 부동산투자비자 | 부동산투자 거주자격",
+      en: "F-2 Real Estate Investment Visa | Property Investment Korea",
+      zh: "F-2房地产投资签证 | 韩国房产投资居留",
+      ja: "F-2不動産投資ビザ | 不動産投資居住資格",
+    },
+    description: {
+      ko: "F-2 부동산투자비자는 법무부 지정 지역에 일정 금액 이상의 부동산을 투자한 외국인에게 발급되는 거주비자입니다.",
+      en: "F-2 Real Estate Investment Visa for foreigners investing in designated property in Korea.",
+      zh: "F-2房地产投资签证发放给在法务部指定地区投资一定金额以上房产的外国人。",
+      ja: "F-2不動産投資ビザは法務部指定地域に一定額以上の不動産投資をした外国人に発給されます。",
+    },
+    keywords: {
+      ko: ["F-2 부동산투자", "부동산투자비자", "부동산비자", "투자비자"],
+      en: ["F-2 real estate investment visa", "property investment visa Korea"],
+      zh: ["F-2房产投资", "房地产投资签证"],
+      ja: ["F-2不動産投資", "不動産投資ビザ"],
+    },
+  },
+  "f-6": {
+    title: {
+      ko: "F-6 결혼비자 | 한국인 배우자 체류자격",
+      en: "F-6 Marriage Visa | Korean Spouse Visa",
+      zh: "F-6结婚签证 | 韩国人配偶签证",
+      ja: "F-6結婚ビザ | 韓国人配偶者ビザ",
+    },
+    description: {
+      ko: "F-6 결혼비자는 한국 국민의 배우자인 외국인에게 발급되는 체류자격입니다. 자격요건, 필요서류, 절차를 안내합니다.",
+      en: "F-6 Marriage Visa for foreign spouses of Korean nationals. Learn about requirements and procedures.",
+      zh: "F-6结婚签证发放给韩国公民的外国人配偶。了解资格要求和申请程序。",
+      ja: "F-6結婚ビザは韓国国民の配偶者である外国人に発給される在留資格です。",
+    },
+    keywords: {
+      ko: ["F-6 비자", "결혼비자", "배우자비자", "국제결혼비자"],
+      en: ["F-6 visa", "marriage visa Korea", "spouse visa Korea"],
+      zh: ["F-6签证", "结婚签证", "配偶签证"],
+      ja: ["F-6ビザ", "結婚ビザ", "配偶者ビザ"],
+    },
+  },
+  "criminal-review": {
+    title: {
+      ko: "사범심사 | 출입국 사범심사 대응",
+      en: "Criminal Review | Immigration Criminal Review",
+      zh: "犯罪审查 | 出入境犯罪审查应对",
+      ja: "犯罪審査 | 出入国犯罪審査対応",
+    },
+    description: {
+      ko: "출입국 사범심사 대응 전문 서비스. 불법체류, 자격외활동, 위반경력 등에 대한 소명 및 이의신청을 지원합니다.",
+      en: "Expert immigration criminal review services. Support for overstay, unauthorized activities, and violation appeals.",
+      zh: "出入境犯罪审查应对专业服务。支持非法居留、资格外活动、违规记录的申诉。",
+      ja: "出入国犯罪審査対応専門サービス。不法滞在、資格外活動、違反歴に関する釈明・異議申請をサポート。",
+    },
+    keywords: {
+      ko: ["사범심사", "출입국사범", "불법체류", "강제퇴거", "이의신청", "출국명령"],
+      en: ["criminal review immigration", "overstay Korea", "deportation appeal", "visa violation"],
+      zh: ["犯罪审查", "非法居留", "强制遣返", "出境命令"],
+      ja: ["犯罪審査", "不法滞在", "強制退去", "退去命令"],
+    },
+  },
+  "f-5-1": {
+    title: {
+      ko: "F-5-1 일반 영주자 | 일반 요건 영주권",
+      en: "F-5-1 General Permanent Residency | Korea",
+      zh: "F-5-1一般永住者 | 韩国永住权",
+      ja: "F-5-1一般永住者 | 韓国永住権",
+    },
+    description: {
+      ko: "F-5-1 일반 영주자 자격은 한국에서 5년 이상 체류한 외국인이 일정 요건을 갖춘 경우 신청할 수 있는 영주권입니다.",
+      en: "F-5-1 General Permanent Residency for foreigners who have resided in Korea for 5+ years.",
+      zh: "F-5-1一般永住者资格适用于在韩国居住5年以上且满足条件的外国人。",
+      ja: "F-5-1一般永住者資格は韓国に5年以上滞在した外国人が申請できる永住権です。",
+    },
+    keywords: {
+      ko: ["F-5-1", "일반영주", "영주권", "5년체류"],
+      en: ["F-5-1", "general permanent residency Korea"],
+      zh: ["F-5-1", "一般永住"],
+      ja: ["F-5-1", "一般永住"],
+    },
+  },
+  "f-5-2": {
+    title: {
+      ko: "F-5-2 국민의 배우자 | 배우자 영주권",
+      en: "F-5-2 Spouse of Korean National | Permanent Residency",
+      zh: "F-5-2韩国公民配偶 | 永住权",
+      ja: "F-5-2国民の配偶者 | 永住権",
+    },
+    description: {
+      ko: "F-5-2는 한국 국민의 배우자로서 2년 이상 정상적인 혼인 상태를 유지한 외국인이 신청할 수 있는 영주권입니다.",
+      en: "F-5-2 Permanent Residency for foreign spouses of Korean nationals with 2+ years of marriage.",
+      zh: "F-5-2永住权适用于与韩国公民保持2年以上正常婚姻的外国人。",
+      ja: "F-5-2は韓国国民の配偶者として2年以上正常な婚姻を維持した外国人が申請できる永住権です。",
+    },
+    keywords: {
+      ko: ["F-5-2", "배우자영주권", "결혼영주권", "국민배우자"],
+      en: ["F-5-2", "spouse permanent residency Korea"],
+      zh: ["F-5-2", "配偶永住权"],
+      ja: ["F-5-2", "配偶者永住権"],
+    },
+  },
+  "f-5-5": {
+    title: {
+      ko: "F-5-5 고액투자자 | 투자 영주권",
+      en: "F-5-5 High-Value Investor | Investment Permanent Residency",
+      zh: "F-5-5高额投资者 | 投资永住权",
+      ja: "F-5-5高額投資者 | 投資永住権",
+    },
+    description: {
+      ko: "F-5-5 고액투자자 영주권은 5억원 이상을 투자하고 5명 이상의 한국인을 고용한 외국인에게 발급되는 영주자격입니다.",
+      en: "F-5-5 Permanent Residency for high-value investors with 500M+ KRW investment and 5+ Korean employees.",
+      zh: "F-5-5高额投资者永住权发放给投资5亿韩元以上并雇用5名以上韩国人的外国人。",
+      ja: "F-5-5高額投資者永住権は5億ウォン以上投資し5名以上の韓国人を雇用した外国人に発給されます。",
+    },
+    keywords: {
+      ko: ["F-5-5", "고액투자영주권", "투자영주", "5억투자"],
+      en: ["F-5-5", "high-value investor permanent residency Korea"],
+      zh: ["F-5-5", "高额投资永住权"],
+      ja: ["F-5-5", "高額投資永住権"],
+    },
+  },
+  "f-5-6": {
+    title: {
+      ko: "F-5-6 재외동포 영주권 | 동포 영주자격",
+      en: "F-5-6 Overseas Korean Permanent Residency",
+      zh: "F-5-6海外同胞永住权",
+      ja: "F-5-6在外同胞永住権",
+    },
+    description: {
+      ko: "F-5-6은 재외동포(F-4) 자격으로 2년 이상 체류한 외국국적 동포가 신청할 수 있는 영주권입니다.",
+      en: "F-5-6 Permanent Residency for overseas Koreans who have held F-4 status for 2+ years.",
+      zh: "F-5-6永住权适用于以F-4海外同胞身份居留2年以上的外国籍同胞。",
+      ja: "F-5-6は在外同胞(F-4)資格で2年以上滞在した外国籍同胞が申請できる永住権です。",
+    },
+    keywords: {
+      ko: ["F-5-6", "재외동포영주권", "동포영주", "F-4영주전환"],
+      en: ["F-5-6", "overseas Korean permanent residency"],
+      zh: ["F-5-6", "海外同胞永住权"],
+      ja: ["F-5-6", "在外同胞永住権"],
+    },
+  },
+  "f-5-8": {
+    title: {
+      ko: "F-5-8 재한화교 | 화교 영주권",
+      en: "F-5-8 Ethnic Chinese in Korea | Permanent Residency",
+      zh: "F-5-8在韩华侨 | 永住权",
+      ja: "F-5-8在韓華僑 | 永住権",
+    },
+    description: {
+      ko: "F-5-8은 한국에서 출생하여 계속 거주하고 있는 화교 등에게 발급되는 영주자격입니다.",
+      en: "F-5-8 Permanent Residency for ethnic Chinese born and continuously residing in Korea.",
+      zh: "F-5-8永住权发放给在韩国出生并持续居住的华侨。",
+      ja: "F-5-8は韓国で出生し継続して居住している華僑等に発給される永住資格です。",
+    },
+    keywords: {
+      ko: ["F-5-8", "재한화교", "화교영주권", "화교비자"],
+      en: ["F-5-8", "Chinese Korean permanent residency"],
+      zh: ["F-5-8", "在韩华侨永住权"],
+      ja: ["F-5-8", "在韓華僑永住権"],
+    },
+  },
+  "f-5-9": {
+    title: {
+      ko: "F-5-9 첨단분야 박사 | 박사학위 영주권",
+      en: "F-5-9 Advanced Degree Holder | PhD Permanent Residency",
+      zh: "F-5-9尖端领域博士 | 博士永住权",
+      ja: "F-5-9先端分野博士 | 博士永住権",
+    },
+    description: {
+      ko: "F-5-9는 국내 첨단산업 분야에서 박사학위를 취득한 외국인이 신청할 수 있는 영주자격입니다.",
+      en: "F-5-9 Permanent Residency for foreigners with doctoral degrees in advanced technology fields in Korea.",
+      zh: "F-5-9永住权适用于在韩国尖端产业领域取得博士学位的外国人。",
+      ja: "F-5-9は韓国の先端産業分野で博士学位を取得した外国人が申請できる永住資格です。",
+    },
+    keywords: {
+      ko: ["F-5-9", "박사영주권", "첨단분야영주", "박사비자"],
+      en: ["F-5-9", "PhD permanent residency Korea"],
+      zh: ["F-5-9", "博士永住权"],
+      ja: ["F-5-9", "博士永住権"],
+    },
+  },
+  "f-5-10": {
+    title: {
+      ko: "F-5-10 학사·석사·자격증 | 학위 기반 영주권",
+      en: "F-5-10 Bachelor/Master Degree Holder | Permanent Residency",
+      zh: "F-5-10学士·硕士·资格证 | 永住权",
+      ja: "F-5-10学士·修士·資格証 | 永住権",
+    },
+    description: {
+      ko: "F-5-10은 국내에서 학사 이상 학위 또는 특정 자격증을 취득하고 일정 요건을 갖춘 외국인이 신청할 수 있는 영주권입니다.",
+      en: "F-5-10 Permanent Residency for degree holders or certified professionals meeting specific requirements in Korea.",
+      zh: "F-5-10永住权适用于在韩国取得学士以上学位或特定资格证并满足条件的外国人。",
+      ja: "F-5-10は韓国で学士以上の学位または特定資格証を取得し要件を満たした外国人が申請できる永住権です。",
+    },
+    keywords: {
+      ko: ["F-5-10", "학위영주권", "자격증영주권", "학사영주"],
+      en: ["F-5-10", "degree permanent residency Korea"],
+      zh: ["F-5-10", "学位永住权"],
+      ja: ["F-5-10", "学位永住権"],
+    },
+  },
+  "f-5-11": {
+    title: {
+      ko: "F-5-11 특정분야 능력 | 전문능력 영주권",
+      en: "F-5-11 Special Ability | Professional Permanent Residency",
+      zh: "F-5-11特定领域能力 | 专业永住权",
+      ja: "F-5-11特定分野能力 | 専門能力永住権",
+    },
+    description: {
+      ko: "F-5-11은 과학, 경영, 교육, 문화, 체육 등 특정분야에서 탁월한 능력을 보유한 외국인에게 발급되는 영주자격입니다.",
+      en: "F-5-11 Permanent Residency for foreigners with outstanding ability in science, business, education, culture, or sports.",
+      zh: "F-5-11永住权发放给在科学、经营、教育、文化、体育等领域具有卓越能力的外国人。",
+      ja: "F-5-11は科学・経営・教育・文化・体育等の特定分野で卓越した能力を有する外国人に発給される永住資格です。",
+    },
+    keywords: {
+      ko: ["F-5-11", "특정분야영주", "전문능력영주", "우수인재영주권"],
+      en: ["F-5-11", "exceptional ability permanent residency Korea"],
+      zh: ["F-5-11", "特定领域永住权"],
+      ja: ["F-5-11", "特定分野永住権"],
+    },
+  },
+  "f-5-16": {
+    title: {
+      ko: "F-5-16 점수제 영주자 | 점수제 영주권",
+      en: "F-5-16 Points-based Permanent Residency | Korea",
+      zh: "F-5-16积分制永住者 | 永住权",
+      ja: "F-5-16ポイント制永住者 | 永住権",
+    },
+    description: {
+      ko: "F-5-16은 F-2-7 점수제 거주비자 소지자가 3년 이상 체류 후 영주자격으로 전환할 수 있는 영주권입니다.",
+      en: "F-5-16 Points-based Permanent Residency for F-2-7 holders after 3+ years of residence.",
+      zh: "F-5-16积分制永住权适用于持F-2-7签证居留3年以上的外国人。",
+      ja: "F-5-16はF-2-7ポイント制居住ビザ保有者が3年以上滞在後に永住資格に転換できる永住権です。",
+    },
+    keywords: {
+      ko: ["F-5-16", "점수제영주", "F-2-7영주전환", "영주권"],
+      en: ["F-5-16", "points-based permanent residency Korea"],
+      zh: ["F-5-16", "积分制永住权"],
+      ja: ["F-5-16", "ポイント制永住権"],
+    },
+  },
+  "f-5-17": {
+    title: {
+      ko: "F-5-17 부동산투자자 | 부동산 영주권",
+      en: "F-5-17 Real Estate Investor | Property Permanent Residency",
+      zh: "F-5-17房地产投资者 | 房产永住权",
+      ja: "F-5-17不動産投資者 | 不動産永住権",
+    },
+    description: {
+      ko: "F-5-17은 법무부 지정 지역에 일정 금액 이상의 부동산 투자를 유지한 외국인이 신청할 수 있는 영주권입니다.",
+      en: "F-5-17 Permanent Residency for foreigners maintaining real estate investment in designated areas.",
+      zh: "F-5-17永住权适用于在法务部指定地区维持一定金额以上房产投资的外国人。",
+      ja: "F-5-17は法務部指定地域に一定額以上の不動産投資を維持した外国人が申請できる永住権です。",
+    },
+    keywords: {
+      ko: ["F-5-17", "부동산영주", "부동산투자영주권", "투자영주"],
+      en: ["F-5-17", "real estate permanent residency Korea"],
+      zh: ["F-5-17", "房产永住权"],
+      ja: ["F-5-17", "不動産永住権"],
+    },
+  },
+  "f-5-21": {
+    title: {
+      ko: "F-5-21 공익사업투자자 | 공익투자 영주권",
+      en: "F-5-21 Public Interest Investor | Permanent Residency",
+      zh: "F-5-21公益事业投资者 | 永住权",
+      ja: "F-5-21公益事業投資者 | 永住権",
+    },
+    description: {
+      ko: "F-5-21은 법무부가 지정한 공익사업에 일정 금액 이상을 투자하고 5년 이상 유지한 외국인에게 발급되는 영주자격입니다.",
+      en: "F-5-21 Permanent Residency for investors in government-designated public interest projects for 5+ years.",
+      zh: "F-5-21永住权发放给在法务部指定公益事业投资一定金额以上并维持5年以上的外国人。",
+      ja: "F-5-21は法務部指定の公益事業に一定額以上投資し5年以上維持した外国人に発給される永住資格です。",
+    },
+    keywords: {
+      ko: ["F-5-21", "공익사업투자영주", "공익투자영주권"],
+      en: ["F-5-21", "public interest investor permanent residency Korea"],
+      zh: ["F-5-21", "公益投资永住权"],
+      ja: ["F-5-21", "公益事業投資永住権"],
+    },
+  },
+  "f-5-24": {
+    title: {
+      ko: "F-5-24 기술창업투자자 | 기술창업 영주권",
+      en: "F-5-24 Tech Startup Investor | Permanent Residency",
+      zh: "F-5-24技术创业投资者 | 永住权",
+      ja: "F-5-24技術創業投資者 | 永住権",
+    },
+    description: {
+      ko: "F-5-24는 기술창업으로 한국에서 사업을 운영하며 일정 매출과 고용 요건을 갖춘 외국인이 신청할 수 있는 영주권입니다.",
+      en: "F-5-24 Permanent Residency for tech startup founders meeting revenue and employment requirements in Korea.",
+      zh: "F-5-24永住权适用于在韩国经营技术创业企业并满足一定营收和雇用条件的外国人。",
+      ja: "F-5-24は技術創業で韓国で事業を運営し一定の売上と雇用要件を満たした外国人が申請できる永住権です。",
+    },
+    keywords: {
+      ko: ["F-5-24", "기술창업영주", "스타트업영주권", "창업투자영주"],
+      en: ["F-5-24", "tech startup permanent residency Korea"],
+      zh: ["F-5-24", "技术创业永住权"],
+      ja: ["F-5-24", "技術創業永住権"],
+    },
+  },
+  "f-5-25": {
+    title: {
+      ko: "F-5-25 조건부 고액투자자 | 조건부 영주권",
+      en: "F-5-25 Conditional High-Value Investor | Permanent Residency",
+      zh: "F-5-25有条件高额投资者 | 永住权",
+      ja: "F-5-25条件付高額投資者 | 永住権",
+    },
+    description: {
+      ko: "F-5-25는 고액 투자를 통해 조건부로 영주자격을 부여받는 비자로, 일정 기간 투자 유지 조건이 있습니다.",
+      en: "F-5-25 Conditional Permanent Residency through high-value investment with maintenance requirements.",
+      zh: "F-5-25是通过高额投资有条件获得永住资格的签证，需维持一定期间的投资。",
+      ja: "F-5-25は高額投資により条件付で永住資格を付与されるビザで、一定期間投資維持条件があります。",
+    },
+    keywords: {
+      ko: ["F-5-25", "조건부영주", "고액투자영주", "조건부투자영주권"],
+      en: ["F-5-25", "conditional permanent residency Korea", "high-value investment"],
+      zh: ["F-5-25", "有条件永住权"],
+      ja: ["F-5-25", "条件付永住権"],
+    },
+  },
 };
 
 // Sample visa detail content
