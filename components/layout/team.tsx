@@ -1,12 +1,12 @@
 import Image from "next/image"
 
 const admins = [
-  { name: "이원중", nameEn: "Lee Won-jung", nameZh: "李元中", nameJa: "李元重", role: "대표행정사", roleEn: "Chief Admin", roleZh: "代表行政士", roleJa: "代表行政士", photo: "/team/leewj.jpg" },
-  { name: "정유선", nameEn: "Jung Yu-sun", nameZh: "郑有善", nameJa: "鄭有善", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政士", photo: "/team/jungyus.jpg" },
-  { name: "한경택", nameEn: "Han Kyung-taek", nameZh: "韩庆泽", nameJa: "韓慶澤", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政士", photo: "/team/hankt.jpg" },
-  { name: "김정은", nameEn: "Kim Jung-eun", nameZh: "金正恩", nameJa: "金正恩", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政士", photo: "/team/kimje.jpg" },
-  { name: "이시정", nameEn: "Lee Si-jung", nameZh: "李时政", nameJa: "李時政", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政士", photo: "/team/leesj.jpg" },
-  { name: "정희정", nameEn: "Jung Hee-jung", nameZh: "郑熙晶", nameJa: "鄭熙晶", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政士", photo: "/team/junghj.jpg" },
+  { name: "이원중", nameEn: "Lee Won-jung", nameZh: "李元中", nameJa: "李元重", role: "대표행정사", roleEn: "Chief Admin", roleZh: "代表行政士", roleJa: "代表行政書士", photo: "/team/leewj.jpg" },
+  { name: "정유선", nameEn: "Jung Yu-sun", nameZh: "郑有善", nameJa: "鄭有善", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政書士", photo: "/team/jungyus.jpg" },
+  { name: "한경택", nameEn: "Han Kyung-taek", nameZh: "韩庆泽", nameJa: "韓慶澤", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政書士", photo: "/team/hankt.jpg" },
+  { name: "김정은", nameEn: "Kim Jung-eun", nameZh: "金正恩", nameJa: "金正恩", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政書士", photo: "/team/kimje.jpg" },
+  { name: "이시정", nameEn: "Lee Si-jung", nameZh: "李时政", nameJa: "李時政", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政書士", photo: "/team/leesj.jpg" },
+  { name: "정희정", nameEn: "Jung Hee-jung", nameZh: "郑熙晶", nameJa: "鄭熙晶", role: "행정사", roleEn: "Admin Specialist", roleZh: "行政士", roleJa: "行政書士", photo: "/team/junghj.jpg" },
 ]
 
 const staff = [
@@ -19,7 +19,7 @@ const titles: Record<string, { title: string; subtitle: string; admin: string; s
   ko: { title: "전문가 소개", subtitle: "풍부한 경험과 전문 지식을 갖춘 행정 전문가들이 함께합니다.", admin: "행정사", staff: "사무장 · 실장" },
   en: { title: "Our Team", subtitle: "Experienced professionals with deep expertise in immigration services.", admin: "Administrative Specialists", staff: "Office Managers" },
   zh: { title: "专家介绍", subtitle: "拥有丰富经验和专业知识的行政专家团队为您服务。", admin: "行政士", staff: "事务长 · 室长" },
-  ja: { title: "専門家紹介", subtitle: "豊富な経験と専門知識を持つ行政専門家がお手伝いします。", admin: "行政士", staff: "事務長 · 室長" },
+  ja: { title: "専門家紹介", subtitle: "豊富な経験と専門知識を持つ行政専門家がお手伝いします。", admin: "行政書士", staff: "事務長 · 室長" },
 }
 
 export function Team({ locale = "ko" }: { locale?: string }) {

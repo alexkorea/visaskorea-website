@@ -282,7 +282,7 @@ export default async function HomePage({ params }: PageProps) {
                     {
                       icon: <Users className="h-5 w-5" />,
                       title: { ko: "전문 컨설턴트 팀", en: "Expert Team", zh: "专业顾问团队", ja: "専門コンサルタントチーム" }[locale],
-                      desc: { ko: "출입국관리법 전문 변호사 및 행정사 보유", en: "Immigration lawyers and administrative scriveners", zh: "拥有出入境管理法专业律师及行政士", ja: "出入国管理法専門の弁護士及び行政士を保有" }[locale],
+                      desc: { ko: "출입국관리법 전문 변호사 및 행정사 보유", en: "Immigration lawyers and administrative scriveners", zh: "拥有出入境管理法专业律师及行政士", ja: "出入国管理法専門の弁護士及び行政書士を保有" }[locale],
                     },
                     {
                       icon: <Globe className="h-5 w-5" />,

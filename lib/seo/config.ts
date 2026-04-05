@@ -97,7 +97,7 @@ export const DEFAULT_SEO: Record<
     ],
   },
   ja: {
-    title: "VISION行政士事務所 | 専門ビザ・移民コンサルティング",
+    title: "VISION行政書士事務所 | 専門ビザ・移民コンサルティング",
     description:
       "韓国ビザ、永住権、法人設立専門コンサルティング。D-8、E-7、F-5ビザから外国人投資法人設立まで、ワンストップサービスを提供します。",
     keywords: [

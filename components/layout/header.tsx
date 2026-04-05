@@ -189,7 +189,7 @@ export function Header({ locale, dict }: HeaderProps) {
           </div>
           <div className="hidden sm:flex flex-col leading-tight">
             <span className="font-serif text-lg font-semibold text-foreground">VISION</span>
-            <span className="text-[10px] text-muted-foreground -mt-1">{{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政士事務所" }[locale]}</span>
+            <span className="text-[10px] text-muted-foreground -mt-1">{{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政書士事務所" }[locale]}</span>
           </div>
         </Link>
 
@@ -286,7 +286,7 @@ export function Header({ locale, dict }: HeaderProps) {
             <SheetContent side="right" className="w-[300px] overflow-y-auto">
               <SheetHeader>
                 <SheetTitle className="text-left">
-                  <span className="font-serif text-primary">VISION</span> {{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政士事務所" }[locale]}
+                  <span className="font-serif text-primary">VISION</span> {{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政書士事務所" }[locale]}
                 </SheetTitle>
               </SheetHeader>
               <nav className="mt-6 flex flex-col gap-2">

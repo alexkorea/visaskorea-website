@@ -31,7 +31,7 @@ const ABOUT_SEO = {
     ko: "비전행정사사무소는 8년 이상의 경험을 바탕으로 비자, 이민, 법인 설립 전문 컨설팅을 제공합니다.",
     en: "VISION Administrative Office provides expert visa, immigration, and company setup consulting with over 8 years of experience.",
     zh: "VISION行政士事务所凭借8年以上的经验，提供签证、移民和法人设立专业咨询服务。",
-    ja: "VISION行政士事務所は8年以上の経験を基に、ビザ、移民、法人設立の専門コンサルティングを提供します。",
+    ja: "VISION行政書士事務所は8年以上の経験を基に、ビザ、移民、法人設立の専門コンサルティングを提供します。",
   },
 } as const;
 
@@ -71,7 +71,7 @@ export default async function AboutPage({ params }: PageProps) {
         : validLocale === "zh"
           ? "作为出入境管理法专业行政士，拥有数千个成功案例。"
           : validLocale === "ja"
-            ? "出入国管理法専門の行政士として数千件の成功事例を保有しています。"
+            ? "出入国管理法専門の行政書士として数千件の成功事例を保有しています。"
             : "As specialized immigration administrative scriveners, we have thousands of successful cases.",
     },
     {

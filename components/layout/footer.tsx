@@ -64,14 +64,14 @@ export function Footer({ locale, dict }: FooterProps) {
               </div>
               <div className="flex flex-col leading-tight">
                 <span className="font-serif text-lg font-semibold text-white">VISION</span>
-                <span className="text-[10px] text-gray-500 -mt-1">{{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政士事務所" }[locale]}</span>
+                <span className="text-[10px] text-gray-500 -mt-1">{{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政書士事務所" }[locale]}</span>
               </div>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed mb-4">
               {locale === "ko" && "전문 비자 및 이민 컨설팅 서비스를 제공하는 비전행정사사무소입니다."}
               {locale === "en" && "VISION Administrative Office providing professional visa and immigration consulting services."}
               {locale === "zh" && "VISION行政士事务所，提供专业签证及移民咨询服务。"}
-              {locale === "ja" && "VISION行政士事務所、専門ビザ・移民コンサルティングサービスを提供します。"}
+              {locale === "ja" && "VISION行政書士事務所、専門ビザ・移民コンサルティングサービスを提供します。"}
             </p>
             <div className="space-y-2 text-sm text-gray-400">
               <div className="flex items-start gap-2">
@@ -143,7 +143,7 @@ export function Footer({ locale, dict }: FooterProps) {
       <div className="border-t border-gray-800">
         <div className="mx-auto max-w-7xl px-6 pt-8 pb-4">
           <p className="text-sm text-gray-500 text-center">
-            {{ ko: "© 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주", en: "© 2018 VISION Administrative Office | Business Reg: 405-05-54079 | CEO: Lee Won-jung | Privacy Officer: Kim Young-ju", zh: "© 2018 VISION行政士事务所 | 营业执照号: 405-05-54079 | 代表: 李元中 | 隐私管理: 金英珠", ja: "© 2018 VISION行政士事務所 | 事業者登録番号: 405-05-54079 | 代表: 李元中 | 個人情報管理者: 金英珠" }[locale]}
+            {{ ko: "© 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주", en: "© 2018 VISION Administrative Office | Business Reg: 405-05-54079 | CEO: Lee Won-jung | Privacy Officer: Kim Young-ju", zh: "© 2018 VISION行政士事务所 | 营业执照号: 405-05-54079 | 代表: 李元中 | 隐私管理: 金英珠", ja: "© 2018 VISION行政書士事務所 | 事業者登録番号: 405-05-54079 | 代表: 李元中 | 個人情報管理者: 金英珠" }[locale]}
           </p>
         </div>
       </div>
@@ -151,7 +151,7 @@ export function Footer({ locale, dict }: FooterProps) {
       {/* Bottom Bar */}
       <div className="border-t border-gray-800">
         <div className="mx-auto max-w-7xl px-6 py-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-500">
-          <span>{{ ko: "© 2018 비전행정사사무소", en: "© 2018 VISION Administrative Office", zh: "© 2018 VISION行政士事务所", ja: "© 2018 VISION行政士事務所" }[locale]}. All rights reserved.</span>
+          <span>{{ ko: "© 2018 비전행정사사무소", en: "© 2018 VISION Administrative Office", zh: "© 2018 VISION行政士事务所", ja: "© 2018 VISION行政書士事務所" }[locale]}. All rights reserved.</span>
           <div className="flex gap-6">
             <Link href={`/${locale}/contact`} className="hover:text-gray-300 transition-colors">
               {dict.footer?.privacyPolicy || "개인정보처리방침"}
