@@ -119,26 +119,14 @@ export default async function HomePage({ params }: PageProps) {
 
   // Featured visas for internal linking
   const featuredVisas = [
-    {
-      slug: "d-8",
-      title: locale === "ko" ? "D-8 기업투자비자" : "D-8 Investment Visa",
-      badge: locale === "ko" ? "인기" : "Popular",
-    },
-    {
-      slug: "e-7",
-      title: locale === "ko" ? "E-7 특정활동비자" : "E-7 Work Visa",
-      badge: locale === "ko" ? "취업" : "Employment",
-    },
-    {
-      slug: "f-5",
-      title: locale === "ko" ? "F-5 영주권" : "F-5 Permanent Residency",
-      badge: locale === "ko" ? "영주" : "PR",
-    },
-    {
-      slug: "f-2-7",
-      title: locale === "ko" ? "F-2-7 점수제비자" : "F-2-7 Points Visa",
-      badge: locale === "ko" ? "우수인재" : "Talent",
-    },
+    { slug: "d-8", title: locale === "ko" ? "D-8 투자비자" : "D-8 Investment Visa", badge: locale === "ko" ? "투자" : "Investment" },
+    { slug: "e-7", title: locale === "ko" ? "E-7 특정활동비자" : "E-7 Work Visa", badge: locale === "ko" ? "취업" : "Employment" },
+    { slug: "d-7", title: locale === "ko" ? "D-7 주재원비자" : "D-7 Intra-company Transfer", badge: locale === "ko" ? "주재원" : "Transfer" },
+    { slug: "f-2-public-interest", title: locale === "ko" ? "F-2 공익투자비자" : "F-2 Public Interest", badge: locale === "ko" ? "공익투자" : "Investment" },
+    { slug: "f-5", title: locale === "ko" ? "F-5 영주권" : "F-5 Permanent Residency", badge: locale === "ko" ? "영주" : "PR" },
+    { slug: "d-9", title: locale === "ko" ? "D-9 무역경영비자" : "D-9 Trade Management", badge: locale === "ko" ? "무역" : "Trade" },
+    { slug: "f-6", title: locale === "ko" ? "F-6 결혼비자" : "F-6 Marriage Visa", badge: locale === "ko" ? "결혼" : "Marriage" },
+    { slug: "criminal-review", title: locale === "ko" ? "사범심사" : "Criminal Review", badge: locale === "ko" ? "심사" : "Review" },
   ];
 
   // Stats
