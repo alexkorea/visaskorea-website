@@ -1233,6 +1233,67 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
+      zh: {
+        slug: "e-6",
+        title: "E-6 艺术演出签证",
+        subtitle: "用于演出、演艺、体育等艺术活动的工作签证",
+        overview:
+          "E-6艺术演出签证是为希望在韩国从事以盈利为目的的音乐、美术、文学等艺术活动或演出、演艺、体育活动的外国人签发的工作签证。细分为E-6-1（艺术·演艺）、E-6-2（酒店·娱乐场所演出）、E-6-3（运动员）等类型，需要邀请机构或签约方的确认。",
+        targetApplicants: [
+          "希望在韩国进行演出活动的海外艺术家·音乐家",
+          "希望从事广播·广告·模特等演艺活动的外国人",
+          "职业运动员及教练团队",
+          "在韩国酒店·度假村等场所演出的外国演艺人员",
+        ],
+        eligibility: [
+          "已确定邀请机构或签约机构",
+          "具备相关领域经验或获奖记录等专业能力证明",
+          "无犯罪记录及入境禁止历史",
+          "E-6-2需要文化体育观光部演出推荐书",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "雇佣合同或邀请函",
+          "工作经历证明·作品集",
+          "邀请机构营业执照",
+          "演出推荐书（E-6-2适用时）",
+          "最终学历证明",
+        ],
+        process: [
+          { step: 1, title: "签订合同", description: "与韩国邀请机构签订演出·出演合同" },
+          { step: 2, title: "演出推荐书", description: "向文化体育观光部申请演出推荐书（E-6-2）" },
+          { step: 3, title: "签证发放认定书申请", description: "向出入境管理局申请签证发放认定书" },
+          { step: 4, title: "签证申请", description: "在驻外使领馆申请E-6签证" },
+          { step: 5, title: "入境及外国人登记", description: "入境后90天内完成外国人登记" },
+        ],
+        processingTime: "约2-4周",
+        importantNotes: [
+          "E-6-2（酒店·娱乐场所演出）为防止人口贩卖，审查十分严格。",
+          "合同期满后必须出境或变更居留资格。",
+          "从事许可活动以外的其他就业活动属违法行为。",
+        ],
+        faqs: [
+          {
+            question: "E-6签证可以停留多久？",
+            answer: "根据合同期限最长签发2年，合同续签时可延长居留期限。",
+          },
+          {
+            question: "网红或博主也能获得E-6签证吗？",
+            answer: "如从事以盈利为目的的演艺·广播活动，可能属于E-6签证对象。但具体取决于合同内容和活动范围。",
+          },
+          {
+            question: "E-6和E-7有什么区别？",
+            answer: "E-6专用于艺术演出（演出、演艺、体育），E-7为专业职种（IT、工程等）工作签证。需根据活动领域选择合适的签证。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "e-7", title: "E-7 特定活动签证" },
+          { slug: "d-8", title: "D-8 企业投资签证" },
+          { slug: "f-5", title: "F-5 永住权" },
+        ],
+      },
     },
     "d-8-executive": {
       ko: {
@@ -1349,6 +1410,64 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "d-8", title: "D-8 Corporate Investment Visa" },
           { slug: "d-7", title: "D-7 Intra-company Transfer Visa" },
           { slug: "d-8-individual", title: "D-8 Individual Investment Visa" },
+        ],
+      },
+      zh: {
+        slug: "d-8-executive",
+        title: "D-8 高管派遣签证",
+        subtitle: "以高管身份派遣至外资企业的签证",
+        overview:
+          "D-8高管派遣签证是海外母公司向韩国外资企业（子公司·合资企业等）派遣高管（董事、监事等）时签发的签证。申请人须在外国投资促进法规定的外资企业中注册为登记高管，投资金额和企业业绩是主要审查因素。",
+        targetApplicants: [
+          "从海外母公司派遣至韩国子公司的高管",
+          "被任命为外资企业登记董事·监事的外国人",
+          "从合作方公司派遣至合资企业的管理层",
+          "新设外资企业后就任代表理事的外国人",
+        ],
+        eligibility: [
+          "在外资企业注册为登记高管（董事·监事）",
+          "满足外国投资促进法投资要求（最低1亿韩元，约7.5万美元）",
+          "提供高管活动证明（董事会议事录等）",
+          "无犯罪记录及入境禁止历史",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "外资企业登记证",
+          "法人登记簿誊本（确认高管登记）",
+          "派遣令或高管任命决议书",
+          "母公司营业执照·法人登记簿誊本",
+          "投资汇款证明",
+          "商业计划书",
+        ],
+        process: [
+          { step: 1, title: "投资及设立法人", description: "外国投资申报及韩国法人设立·登记" },
+          { step: 2, title: "高管登记", description: "在法人登记簿上登记高管（董事·监事）" },
+          { step: 3, title: "准备材料", description: "准备派遣令、投资证明等所需材料" },
+          { step: 4, title: "签证申请", description: "在出入境管理局或驻外使领馆申请D-8签证" },
+          { step: 5, title: "签证签发", description: "审核完成后签发签证（约2-4周）" },
+        ],
+        processingTime: "约2-4周",
+        importantNotes: [
+          "如未在登记簿上注册为高管，将不被认定为D-8高管派遣资格。",
+          "法人无实质经营活动的，签证延期可能被拒。",
+          "配偶和未成年子女可申请F-3随行签证。",
+        ],
+        faqs: [
+          {
+            question: "D-8高管派遣签证和D-7驻在员签证有什么区别？",
+            answer: "D-8高管派遣面向外资企业的登记高管，D-7面向从海外总部派遣的普通员工（非高管）。D-8需要满足投资要求（1亿韩元以上）。",
+          },
+          {
+            question: "没有投资也能以高管身份派遣吗？",
+            answer: "D-8签证以满足外国投资促进法的投资要求为前提。如仅为管理派遣而无投资，D-7签证可能更为合适。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 企业投资签证" },
+          { slug: "d-7", title: "D-7 驻在员签证" },
+          { slug: "d-8-individual", title: "D-8 个人投资签证" },
         ],
       },
     },
@@ -1479,6 +1598,69 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "d-9", title: "D-9 Trade Management Visa" },
         ],
       },
+      zh: {
+        slug: "d-8-individual",
+        title: "D-8 个人投资签证",
+        subtitle: "外国人以个人身份在韩国投资经营的签证",
+        overview:
+          "D-8个人投资签证适用于外国人以个人名义在韩国投资1亿韩元（约7.5万美元）以上、设立法人并直接参与经营管理的情况。申请人须担任法人的代表理事或登记高管，需按照外国投资促进法完成投资申报和登记。",
+        targetApplicants: [
+          "希望以个人资本在韩国创业的外国人",
+          "希望在韩国设立一人公司并直接经营的投资者",
+          "为加盟连锁等业务在韩国投资的外国人",
+          "希望以个人身份设立法人进入韩国市场的外国人",
+        ],
+        eligibility: [
+          "从海外汇入1亿韩元（约7.5万美元）以上的投资款",
+          "完成外国投资促进法规定的投资申报",
+          "设立法人后注册为代表理事或登记高管",
+          "无犯罪记录及入境禁止历史",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "外国投资申报书",
+          "投资汇款证明（海外汇款确认书）",
+          "法人登记簿誊本",
+          "营业执照",
+          "商业计划书",
+          "银行存款证明",
+          "最终学历证明",
+        ],
+        process: [
+          { step: 1, title: "制定事业计划", description: "选择商业项目并确定投资规模" },
+          { step: 2, title: "外国投资申报", description: "通过KOTRA或外汇银行进行投资申报" },
+          { step: 3, title: "汇款投资", description: "从海外向投资账户汇入资金" },
+          { step: 4, title: "设立法人", description: "完成法人登记和工商登记" },
+          { step: 5, title: "签证申请", description: "向出入境管理局申请D-8签证" },
+        ],
+        processingTime: "约2-4周",
+        importantNotes: [
+          "投资款必须从海外汇入，国内资金不予认可。",
+          "设立法人后如无实质经营活动，签证延期将十分困难。",
+          "营业收入、雇佣情况等是签证延期审查的关键因素。",
+        ],
+        faqs: [
+          {
+            question: "个人投资和企业投资有什么区别？",
+            answer: "企业投资（D-8）是海外法人在韩国投资，个人投资是外国人个人直接投资。两者均属于D-8签证，但所需材料和证明方式不同。",
+          },
+          {
+            question: "投资不足1亿韩元也可以吗？",
+            answer: "原则上需要1亿韩元以上的投资。但技术创业（D-8-4）等特殊类型如被政府支援项目选中，要求可能会降低。",
+          },
+          {
+            question: "经营不善也能维持签证吗？",
+            answer: "需要具备一定水平的营收和经营业绩才能延期签证。长期停业或营收不佳时，居留资格延期可能被拒。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 企业投资签证" },
+          { slug: "d-8-executive", title: "D-8 高管派遣签证" },
+          { slug: "d-9", title: "D-9 贸易经营签证" },
+        ],
+      },
     },
     "f-1-digital-nomad": {
       ko: {
@@ -1601,6 +1783,67 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-2-points", title: "F-2 Points-based Visa" },
           { slug: "e-7", title: "E-7 Special Activities Visa" },
           { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
+      zh: {
+        slug: "f-1-digital-nomad",
+        title: "F-1 数字游民签证",
+        subtitle: "适用于海外企业远程工作者的居留资格",
+        overview:
+          "F-1数字游民签证（工作度假签证）自2024年起实施，允许受雇于海外企业的外国人在韩国居留并进行远程工作。在韩国国内企业就业是不允许的，申请人必须具有来自海外企业的收入。",
+        targetApplicants: [
+          "在海外企业工作的远程办公人员",
+          "与海外客户合作的自由职业者",
+          "希望在韩国居留一段时间并远程工作的外国人",
+          "追求数字游民生活方式的IT·创意领域专业人士",
+        ],
+        eligibility: [
+          "受雇于海外企业或拥有海外收入来源的自由职业者（同一行业工作1年以上）",
+          "收入证明达到前一年人均国民总收入（GNI）的2倍以上",
+          "从事可远程办公的职业",
+          "已加入健康保险或旅行保险",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "在职证明或自由职业合同",
+          "收入证明（最近1年）",
+          "银行存款证明",
+          "健康保险或旅行保险证明",
+          "住所证明（租赁合同或酒店预订）",
+          "远程工作确认书（雇主出具）",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认收入要求及远程工作可行性" },
+          { step: 2, title: "准备材料", description: "准备在职证明、收入证明、保险等" },
+          { step: 3, title: "签证申请", description: "在驻外使领馆申请F-1数字游民签证" },
+          { step: 4, title: "签证签发", description: "审核完成后签发签证（约2-3周）" },
+        ],
+        processingTime: "约2-3周",
+        importantNotes: [
+          "不允许在韩国国内企业就业。",
+          "最长居留2年，可按1年为单位延长。",
+          "随行家属（配偶·未成年子女）也可申请F-1随行居留。",
+        ],
+        faqs: [
+          {
+            question: "持数字游民签证可以在韩国就业吗？",
+            answer: "不可以，数字游民签证仅允许为海外企业远程工作。如需在韩国企业就业，需要E-7等工作签证。",
+          },
+          {
+            question: "收入要求具体是多少？",
+            answer: "需要达到韩国银行公布的前一年人均国民总收入（GNI）的2倍以上。自由职业者需提供最近1年的收入证明。",
+          },
+          {
+            question: "家人也可以一起来吗？",
+            answer: "可以，配偶和未成年子女可申请随行F-1签证一同居留。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-points", title: "F-2 积分制签证" },
+          { slug: "e-7", title: "E-7 特定活动签证" },
+          { slug: "f-5", title: "F-5 永住权" },
         ],
       },
     },
@@ -1729,6 +1972,68 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-2-points", title: "F-2 Points-based Visa" },
         ],
       },
+      zh: {
+        slug: "f-1-visit",
+        title: "F-1 探亲同居签证",
+        subtitle: "与在韩居住的家人同居的签证",
+        overview:
+          "F-1探亲同居签证适用于在韩国合法居留的外国人或韩国国民的家庭成员（父母、配偶父母等）以同居为目的来韩居留。就业活动受限，需提供能证明家庭关系的材料。",
+        targetApplicants: [
+          "在韩居留外国人的父母·祖父母",
+          "韩国国民的外国人父母·岳父母",
+          "其他因家庭关系需要同居的人员",
+          "为照顾未成年子女而入境的亲属",
+        ],
+        eligibility: [
+          "与在韩居住的家人证明家庭关系",
+          "邀请人须持有合法居留资格",
+          "邀请人须证明经济能力（收入或资产）",
+          "无犯罪记录及入境禁止历史",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "亲属关系证明（出生证明·结婚证明等）",
+          "邀请函",
+          "邀请人外国人登录证或身份证复印件",
+          "邀请人在职证明·收入证明",
+          "住所证明（租赁合同）",
+          "身元保证书",
+        ],
+        process: [
+          { step: 1, title: "准备材料", description: "家庭关系证明文件翻译·公证及海牙认证" },
+          { step: 2, title: "起草邀请函", description: "在韩居住的家人准备邀请函和保证书" },
+          { step: 3, title: "签证申请", description: "在驻外使领馆申请F-1探亲同居签证" },
+          { step: 4, title: "签证签发", description: "审核完成后签发签证（约2-4周）" },
+          { step: 5, title: "外国人登记", description: "入境后90天内完成外国人登记" },
+        ],
+        processingTime: "约2-4周",
+        importantNotes: [
+          "F-1探亲同居签证原则上不允许就业。如需就业，需另行获得居留资格外活动许可。",
+          "邀请人的居留资格到期时，F-1签证也可能受到影响。",
+          "可按1年为单位延长居留期限，与邀请人的居留期限挂钩。",
+        ],
+        faqs: [
+          {
+            question: "持F-1探亲同居签证可以工作吗？",
+            answer: "原则上不可以。如需工作，须在出入境管理局另行获得居留资格外活动许可。",
+          },
+          {
+            question: "邀请人必须是谁？",
+            answer: "在韩国合法居留的家人（子女、配偶等）为邀请人。邀请人的居留资格和经济能力将接受审查。",
+          },
+          {
+            question: "F-1签证居留期限是多久？",
+            answer: "通常签发1-2年，可在邀请人居留期限范围内延长。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-6", title: "F-6 结婚签证" },
+          { slug: "f-1-digital-nomad", title: "F-1 数字游民签证" },
+          { slug: "f-2-points", title: "F-2 积分制签证" },
+        ],
+      },
     },
     "f-2-points": {
       ko: {
@@ -1853,6 +2158,68 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-16", title: "F-5-16 Points-based Permanent Residency" },
           { slug: "e-7", title: "E-7 Special Activities Visa" },
           { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
+      zh: {
+        slug: "f-2-points",
+        title: "F-2 积分制签证",
+        subtitle: "综合评估学历·收入·年龄·韩语能力等的居住签证",
+        overview:
+          "F-2积分制签证是将学历、收入、年龄、韩语能力（TOPIK）、社会融合项目完成情况等进行评分，达到80分以上的外国人可获得的居住签证。是持有E-7、D-8等工作·投资签证的外国人为长期居留而转换的常见途径。",
+        targetApplicants: [
+          "持有E-7特定活动签证的专业人才",
+          "持有D-8企业投资签证的企业家",
+          "在韩国取得学位后就业的外国人",
+          "希望转换为长期居留的专业外国人",
+        ],
+        eligibility: [
+          "评分项目总分达到80分以上",
+          "目前持有合法居留资格",
+          "无犯罪记录",
+          "满足收入·纳税要求",
+        ],
+        requiredDocuments: [
+          "签证申请表（居留资格变更）",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "积分评估表及证明材料",
+          "学历证明（学位证·毕业证）",
+          "收入证明（工资扣缴凭证等）",
+          "韩国语能力考试（TOPIK）成绩单",
+          "社会融合项目结业证（如适用）",
+          "在职证明",
+          "纳税证明",
+        ],
+        process: [
+          { step: 1, title: "自我评估", description: "逐项确认积分评估分数" },
+          { step: 2, title: "准备证明材料", description: "收集学历、收入、韩语、社会融合等证明材料" },
+          { step: 3, title: "申请居留资格变更", description: "在出入境管理局申请F-2积分制变更" },
+          { step: 4, title: "审核及签发", description: "积分确认后签发F-2签证（约3-4周）" },
+        ],
+        processingTime: "约3-4周",
+        importantNotes: [
+          "积分标准由学历（最高35分）、收入（最高30分）、年龄（最高20分）、韩语（最高20分）等构成。",
+          "取得F-2积分制签证后居留3年以上，可申请F-5-16永住权。",
+          "延长居留期限时也必须维持积分要求。",
+        ],
+        faqs: [
+          {
+            question: "积分不足80分就不能申请吗？",
+            answer: "低于80分无法获得F-2积分制签证。可通过提高TOPIK成绩、完成社会融合项目等方式提高分数后再申请。",
+          },
+          {
+            question: "F-2积分制可以转换为F-5永住权吗？",
+            answer: "可以，取得F-2积分制签证后居留3年以上并满足相关要求，可申请F-5-16积分制永住权。",
+          },
+          {
+            question: "没有TOPIK成绩也可以申请吗？",
+            answer: "可以，只要在其他项目上获得足够的分数即可。但韩语项目将为0分，需要在其他方面弥补。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-16", title: "F-5-16 积分制永住者" },
+          { slug: "e-7", title: "E-7 特定活动签证" },
+          { slug: "f-5", title: "F-5 永住权" },
         ],
       },
     },
@@ -2003,6 +2370,79 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
+      zh: {
+        slug: "f-2-7",
+        title: "F-2-7 积分制居住签证",
+        subtitle: "综合评估学历·收入·年龄·韩语能力等，面向80分以上外国人签发的居住签证",
+        overview:
+          "F-2-7积分制居住签证是出入境管理法施行令别表1第27号规定的居住（F-2）居留资格中适用积分制的细分类型。将学历、收入、年龄、韩语能力（TOPIK）、社会融合项目完成情况等各项评分，总分达到80分以上的专业外国人才可获签发。是E-7、D-8等工作·投资签证持有者转为长期居留的典型途径。",
+        targetApplicants: [
+          "持有E-7特定活动签证的专业人才",
+          "持有D-8企业投资签证的企业家",
+          "在韩国取得学位后就业的外国人",
+          "希望转换为长期居留的专业外国人",
+          "技术·经营领域的优秀人才",
+        ],
+        eligibility: [
+          "评分项目总分达到80分以上",
+          "目前持有合法居留资格（E-7、D-8等）",
+          "无犯罪记录",
+          "满足收入·纳税要求",
+          "通过基本身份审查",
+        ],
+        requiredDocuments: [
+          "签证申请表（居留资格变更许可申请书）",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "积分评估表及各项证明材料",
+          "学历证明（学位证·毕业证，海牙认证/领事认证）",
+          "收入证明（工资扣缴凭证、收入金额证明）",
+          "韩国语能力考试（TOPIK）成绩单",
+          "社会融合项目（KIIP）结业证（如适用）",
+          "在职证明及劳动合同",
+          "纳税证明（国税·地方税）",
+          "外国人登录证复印件",
+          "手续费13万韩元",
+        ],
+        process: [
+          { step: 1, title: "自我评估", description: "逐项确认积分评估分数，判断是否能达到80分以上。" },
+          { step: 2, title: "准备证明材料", description: "收集学历、收入、韩语（TOPIK）、社会融合项目等各项证明材料。" },
+          { step: 3, title: "申请居留资格变更", description: "向管辖出入境管理局申请F-2-7居留资格变更许可。" },
+          { step: 4, title: "审核及签发", description: "积分确认及身份审查后签发F-2-7签证（约3-4周）。" },
+        ],
+        processingTime: "约3-4周",
+        importantNotes: [
+          "积分标准由学历（最高35分）、收入（最高30分）、年龄（最高20分）、韩语（最高20分）等构成。",
+          "取得F-2-7后居留3年以上，可申请F-5-16积分制永住权。",
+          "延长居留期限时也须维持积分要求，不达标可能被拒绝延期。",
+          "取得TOPIK 4级以上可在韩语项目中获得较高分数。",
+          "完成社会融合项目（KIIP）第5阶段可获加分。",
+        ],
+        faqs: [
+          {
+            question: "F-2-7和F-2积分制签证是同一种签证吗？",
+            answer: "是的，F-2-7是居住（F-2）签证中适用积分制的细分类型的正式代码。通常所说的「F-2积分制签证」就是F-2-7。",
+          },
+          {
+            question: "积分不足80分就不能申请吗？",
+            answer: "低于80分无法获得F-2-7签证。可通过提高TOPIK成绩、完成社会融合项目、增加收入等方式提高分数后再申请。",
+          },
+          {
+            question: "F-2-7可以转换为F-5永住权吗？",
+            answer: "可以，取得F-2-7签证后居留3年以上并满足相关要求（收入、品行、韩语等），可申请F-5-16积分制永住权。",
+          },
+          {
+            question: "没有TOPIK成绩也可以申请吗？",
+            answer: "可以，只要在其他项目（学历、收入、年龄等）上获得足够的分数即可。但韩语项目将为0分，需要在其他方面弥补。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-points", title: "F-2 积分制签证" },
+          { slug: "f-5-16", title: "F-5-16 积分制永住者" },
+          { slug: "e-7", title: "E-7 特定活动签证" },
+          { slug: "f-5", title: "F-5 永住权" },
+        ],
+      },
     },
     "f-2-public-interest": {
       ko: {
@@ -2115,6 +2555,62 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-21", title: "F-5-21 Public Interest Investor Permanent Residency" },
           { slug: "f-2-real-estate", title: "F-2 Real Estate Investment Visa" },
           { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
+      zh: {
+        slug: "f-2-public-interest",
+        title: "F-2 公益事业投资签证",
+        subtitle: "面向投资法务部指定公益事业的外国人的居住签证",
+        overview:
+          "F-2公益事业投资签证适用于向法务部长官指定的公益事业（国债、基金等）投资5亿韩元（约37.5万美元）以上的外国人。投资维持5年以上后，可转换为F-5-21永住权。",
+        targetApplicants: [
+          "希望投资韩国公益事业（国债·基金等）的外国人",
+          "希望通过居住签证长期居留的投资者",
+          "以取得永住权（F-5-21）为目标的投资者",
+          "希望通过稳定投资在韩居留的高净值外国人",
+        ],
+        eligibility: [
+          "向法务部指定的公益事业投资5亿韩元（约37.5万美元）以上",
+          "证明投资资金的合法来源",
+          "无犯罪记录及入境禁止历史",
+          "投资维持义务",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "公益事业投资确认书",
+          "资金来源证明（海外汇款确认书等）",
+          "银行存款证明",
+          "无犯罪证明",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "确认投资对象", description: "确认法务部指定的公益事业（国债·基金等）" },
+          { step: 2, title: "执行投资", description: "投资5亿韩元以上并取得投资确认书" },
+          { step: 3, title: "签证申请", description: "向出入境管理局申请F-2公益事业投资签证" },
+          { step: 4, title: "签证签发", description: "审核完成后签发F-2签证（约3-4周）" },
+        ],
+        processingTime: "约3-4周",
+        importantNotes: [
+          "投资须维持5年，中途取回可能导致居留资格被取消。",
+          "投资维持5年后可转换为F-5-21永住权。",
+          "随行家属（配偶·未成年子女）可持F-1或F-3签证居留。",
+        ],
+        faqs: [
+          {
+            question: "可以投资哪些公益事业？",
+            answer: "法务部长官公告的公益事业（购买国债、出资公共基金等）为对象。具体投资对象需查阅法务部公告。",
+          },
+          {
+            question: "必须一次性投资5亿韩元吗？",
+            answer: "是的，申请时需完成5亿韩元以上的投资。原则上不接受分期投资。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-21", title: "F-5-21 公益事业投资者永住权" },
+          { slug: "f-2-real-estate", title: "F-2 不动产投资签证" },
+          { slug: "f-5", title: "F-5 永住权" },
         ],
       },
     },
@@ -2231,6 +2727,63 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-17", title: "F-5-17 Real Estate Investor Permanent Residency" },
           { slug: "f-2-public-interest", title: "F-2 Public Interest Investment Visa" },
           { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
+      zh: {
+        slug: "f-2-real-estate",
+        title: "F-2 不动产投资签证",
+        subtitle: "通过在法务部指定地区投资不动产获得的居住签证",
+        overview:
+          "F-2不动产投资签证适用于在法务部指定的特定地区（济州岛、江原道等）投资一定金额以上的不动产（公寓、度假村等）的外国人。投资维持后可转换为F-5-17永住权。",
+        targetApplicants: [
+          "希望在韩国指定地区购买不动产的外国人",
+          "希望在济州岛·江原道等地投资公寓·度假村的外国人",
+          "通过不动产投资获得居留权和永住权的外国人",
+          "希望在韩国拥有不动产并长期居留的外国人",
+        ],
+        eligibility: [
+          "在法务部指定地区投资不动产（通常5亿韩元/约37.5万美元以上）",
+          "投资不动产符合法务部公告要求",
+          "证明投资资金的合法来源",
+          "无犯罪记录及入境禁止历史",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "不动产买卖合同或不动产登记簿",
+          "投资汇款证明",
+          "不动产评估报告",
+          "银行存款证明",
+          "无犯罪证明",
+        ],
+        process: [
+          { step: 1, title: "确认投资对象", description: "确认法务部指定地区及要求" },
+          { step: 2, title: "购置不动产", description: "签订指定地区不动产合同并支付尾款" },
+          { step: 3, title: "完成登记", description: "完成不动产所有权转移登记" },
+          { step: 4, title: "签证申请", description: "向出入境管理局申请F-2不动产投资签证" },
+          { step: 5, title: "签证签发", description: "审核完成后签发F-2签证" },
+        ],
+        processingTime: "约3-4周",
+        importantNotes: [
+          "指定地区以外的不动产不属于投资移民对象。",
+          "出售投资不动产可能导致居留资格被取消。",
+          "投资维持5年以上可申请F-5-17永住权。",
+        ],
+        faqs: [
+          {
+            question: "在哪里投资？",
+            answer: "济州岛、江原道等法务部指定特定地区的休闲用途不动产（公寓、度假村等）为对象。首尔等一般住宅用不动产不在范围内。",
+          },
+          {
+            question: "最低投资金额是多少？",
+            answer: "通常为5亿韩元（约37.5万美元）以上，具体因地区和不动产类型而异。准确标准需查阅法务部公告。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-17", title: "F-5-17 不动产投资者永住权" },
+          { slug: "f-2-public-interest", title: "F-2 公益事业投资签证" },
+          { slug: "f-5", title: "F-5 永住权" },
         ],
       },
     },
@@ -2361,6 +2914,69 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
+      zh: {
+        slug: "f-6",
+        title: "F-6 结婚签证",
+        subtitle: "韩国国民配偶外国人的居留资格",
+        overview:
+          "F-6结婚签证适用于与韩国国民合法结婚的外国人配偶。细分为F-6-1（韩国人配偶）、F-6-2（子女抚养）、F-6-3（婚姻破裂无过错）等类型，须维持正常的婚姻关系。",
+        targetApplicants: [
+          "与韩国国民结婚的外国人配偶",
+          "离婚后抚养未成年子女的外国人（F-6-2）",
+          "婚姻破裂无本人过错的外国人（F-6-3）",
+          "抚养事实婚姻中出生子女的外国人",
+        ],
+        eligibility: [
+          "证明与韩国国民的合法婚姻关系（已完成婚姻登记）",
+          "维持正常婚姻生活（同居等）",
+          "具备基本沟通能力（韩语或携带翻译）",
+          "无犯罪记录及入境禁止历史",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "婚姻关系证明",
+          "韩国配偶基本证明书·家庭关系证明书",
+          "韩国配偶身份证复印件",
+          "韩国配偶收入证明·在职证明",
+          "住所证明（租赁合同等）",
+          "结婚照等恋爱关系证明材料",
+          "身元保证书",
+        ],
+        process: [
+          { step: 1, title: "婚姻登记", description: "在两国完成婚姻登记（韩国区/厅 + 本国）" },
+          { step: 2, title: "准备材料", description: "准备婚姻关系证明及经济能力材料" },
+          { step: 3, title: "签证申请", description: "在驻外使领馆或出入境管理局申请F-6签证" },
+          { step: 4, title: "面试审查", description: "夫妻面试（确认是否为假结婚）" },
+          { step: 5, title: "签证签发", description: "审核完成后签发F-6签证" },
+        ],
+        processingTime: "约1-3个月",
+        importantNotes: [
+          "如怀疑假结婚，签证将被拒绝，且可能作为出入境违法者处理。",
+          "正常维持婚姻2年以上可申请F-5-2永住权。",
+          "离婚时居留资格可能被变更或取消（取决于过错方）。",
+        ],
+        faqs: [
+          {
+            question: "F-6签证可以工作吗？",
+            answer: "可以，F-6签证持有者无需另行获得工作许可，可自由就业。",
+          },
+          {
+            question: "离婚后签证会被取消吗？",
+            answer: "离婚后原则上F-6资格消失。但如因韩国配偶过错离婚（F-6-3）或正在抚养未成年子女（F-6-2），则可继续居留。",
+          },
+          {
+            question: "结婚签证可以转换为永住权吗？",
+            answer: "可以，取得F-6签证后正常维持婚姻2年以上，可申请F-5-2永住权。需通过韩语能力和基本素养审查。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-2", title: "F-5-2 国民配偶永住权" },
+          { slug: "f-1-visit", title: "F-1 探亲同居签证" },
+          { slug: "f-5", title: "F-5 永住权" },
+        ],
+      },
     },
     "criminal-review": {
       ko: {
@@ -2485,6 +3101,67 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 Permanent Residency" },
         ],
       },
+      zh: {
+        slug: "criminal-review",
+        title: "违法审查",
+        subtitle: "出入境违法审查应对及异议申诉专业服务",
+        overview:
+          "违法审查是因违反出入境管理法（非法滞留、超范围活动、提交虚假材料等）而面临强制遣返、出境命令、入境禁止等处分时的审查程序。通过专业行政士的协助，可进行申诉书撰写、异议申请、居留许可等应对措施。",
+        targetApplicants: [
+          "因非法滞留被查处面临强制遣返或出境命令的外国人",
+          "因超范围活动（未经许可就业等）被查处的外国人",
+          "签证被拒或居留延期被驳回的外国人",
+          "受到入境禁止处分需要重新入境的外国人",
+        ],
+        eligibility: [
+          "因违反出入境管理法成为违法审查对象",
+          "需要对签证被拒·居留延期驳回等提出异议",
+          "需要申请解除入境禁止",
+          "需要对强制遣返命令进行申诉",
+        ],
+        requiredDocuments: [
+          "申诉书（说明违法经过及原因）",
+          "护照复印件",
+          "外国人登录证复印件",
+          "经济能力证明材料",
+          "家庭关系证明（如适用）",
+          "悔过书·请愿书",
+          "雇主确认书（如适用）",
+          "其他有利证据材料",
+        ],
+        process: [
+          { step: 1, title: "情况分析", description: "分析违法事项及违法审查类型" },
+          { step: 2, title: "撰写申诉书", description: "撰写违法经过、原因、未来计划等申诉书" },
+          { step: 3, title: "准备证明材料", description: "收集有利证据材料及请愿书" },
+          { step: 4, title: "应对违法审查", description: "出席出入境管理局的违法审查并进行答辩" },
+          { step: 5, title: "结果及后续", description: "根据审查结果进行异议申请或后续程序" },
+        ],
+        processingTime: "因案情而异（2周至数月）",
+        importantNotes: [
+          "在没有专业人士协助的情况下应对违法审查，可能导致不利结果。",
+          "申诉书的内容和证明材料的质量对结果具有决定性影响。",
+          "强制遣返时可能被禁止入境1年至最长10年。",
+        ],
+        faqs: [
+          {
+            question: "非法滞留被查处会立即被遣返吗？",
+            answer: "不会立即遣返。需经过违法审查决定强制遣返、出境命令或罚款等处分。在此过程中会给予申诉机会。",
+          },
+          {
+            question: "入境禁止可以解除吗？",
+            answer: "即使在入境禁止期间，如有人道主义理由（家庭团聚、治疗等），可申请解除。但批准与否因个案而异。",
+          },
+          {
+            question: "签证被拒后可以重新申请吗？",
+            answer: "可以，在解决被拒原因后可重新申请。准确分析被拒原因并准备补充材料至关重要。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-6", title: "F-6 结婚签证" },
+          { slug: "e-7", title: "E-7 特定活动签证" },
+          { slug: "f-5", title: "F-5 永住权" },
+        ],
+      },
     },
     "f-5-1": {
       ko: {
@@ -2601,6 +3278,63 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
         ],
       },
+      zh: {
+        slug: "f-5-1",
+        title: "F-5-1 一般永住者",
+        subtitle: "面向居留5年以上外国人的一般永住权",
+        overview:
+          "F-5-1一般永住者资格适用于在韩国合法居留5年以上、满足一定收入·品行要求的外国人。是最基本的永住权取得途径，需要具备稳定的收入、韩语能力和基本素养。",
+        targetApplicants: [
+          "以D-8、E-7等工作·投资签证居留5年以上的外国人",
+          "希望在长期居留后转换为永住权的外国人",
+          "拥有稳定收入和定居意愿的长期居留者",
+        ],
+        eligibility: [
+          "在韩国合法居留5年以上",
+          "韩国民法规定的成年人（19岁以上）",
+          "本人或同居家庭成员收入达到GNI以上",
+          "品行良好（无犯罪记录）",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "证件照（3.5x4.5cm）",
+          "居留期限确认材料",
+          "收入证明（工资扣缴凭证等）",
+          "纳税证明",
+          "TOPIK成绩或社会融合项目结业证",
+          "无犯罪证明（本国及韩国）",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认5年居留及收入·品行要求" },
+          { step: 2, title: "韩语/社会融合准备", description: "完成TOPIK或社会融合项目" },
+          { step: 3, title: "准备材料", description: "准备收入、纳税、犯罪记录等证明" },
+          { step: 4, title: "申请永住权", description: "在出入境管理局申请F-5-1永住权" },
+          { step: 5, title: "审核及签发", description: "审核完成后签发永住权（约2-6个月）" },
+        ],
+        processingTime: "约2-6个月",
+        importantNotes: [
+          "取得永住权后，未经再入境许可离境1年以上的，永住权可能被取消。",
+          "韩语能力或社会融合项目结业为必要条件。",
+          "GNI以上的收入是关键审查因素。",
+        ],
+        faqs: [
+          {
+            question: "5年居留要求必须是连续的吗？",
+            answer: "原则上需要连续居留，但短期出境会计入居留期限。但长期出境可能不计入居留期限。",
+          },
+          {
+            question: "收入要求是多少？",
+            answer: "本人或同居家庭成员的年收入须达到韩国国民总收入（GNI）以上。金额每年变动，申请时需确认。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-16", title: "F-5-16 积分制永住者" },
+          { slug: "f-5-5", title: "F-5-5 高额投资者" },
+        ],
+      },
     },
     "f-5-2": {
       ko: {
@@ -2713,6 +3447,61 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
         ],
       },
+      zh: {
+        slug: "f-5-2",
+        title: "F-5-2 国民配偶",
+        subtitle: "韩国国民配偶的永住权",
+        overview:
+          "F-5-2永住权适用于持有F-6结婚签证的外国人与韩国国民维持2年以上正常婚姻关系后申请。需满足韩语能力、基本素养审查、经济条件等要求。",
+        targetApplicants: [
+          "持有F-6结婚签证2年以上的韩国国民的外国配偶",
+          "在韩国维持稳定婚姻生活的外国人",
+          "计划长期在韩国定居的结婚移民者",
+        ],
+        eligibility: [
+          "取得F-6签证后维持正常婚姻2年以上",
+          "基本韩语能力（TOPIK或社会融合项目）",
+          "本人或配偶收入达到GNI以上",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "婚姻关系证明",
+          "韩国配偶家庭关系证明书",
+          "收入证明",
+          "纳税证明",
+          "韩语能力证明（TOPIK·社会融合项目）",
+          "无犯罪证明",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认维持正常婚姻2年以上" },
+          { step: 2, title: "韩语能力准备", description: "完成TOPIK或社会融合项目" },
+          { step: 3, title: "准备材料", description: "准备婚姻关系、收入、犯罪记录证明" },
+          { step: 4, title: "申请永住权", description: "在出入境管理局申请F-5-2" },
+        ],
+        processingTime: "约2-4个月",
+        importantNotes: [
+          "即使婚姻破裂，如系子女抚养或配偶过错，永住资格可能得以维持。",
+          "完成社会融合项目可免除韩语能力要求。",
+        ],
+        faqs: [
+          {
+            question: "离婚后永住权会被取消吗？",
+            answer: "视离婚原因而定。如系韩国配偶过错或正在抚养韩国子女，永住权可能得以维持。",
+          },
+          {
+            question: "不会韩语也可以申请吗？",
+            answer: "需要基本韩语能力，可通过TOPIK或社会融合项目结业来证明。完成社会融合项目最为有利。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-6", title: "F-6 结婚签证" },
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-1", title: "F-5-1 一般永住者" },
+        ],
+      },
     },
     "f-5-5": {
       ko: {
@@ -2823,6 +3612,60 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-25", title: "F-5-25 Conditional High-Value Investor" },
         ],
       },
+      zh: {
+        slug: "f-5-5",
+        title: "F-5-5 高额投资者",
+        subtitle: "投资50万美元以上并雇佣5人以上的外国人永住权",
+        overview:
+          "F-5-5高额投资者永住权适用于在韩国投资50万美元以上、且雇佣5名以上韩国国民为全职员工6个月以上的外国人。投资实绩和雇佣维持是关键审查因素。",
+        targetApplicants: [
+          "在韩国投资50万美元以上的D-8签证持有者",
+          "雇佣5名以上韩国国民全职工作6个月以上的外国投资者",
+        ],
+        eligibility: [
+          "维持50万美元以上的投资（外资企业登记）",
+          "雇佣5名以上韩国国民全职工作6个月以上",
+          "无犯罪记录",
+          "可能免除无犯罪证明提交",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "外资企业登记证",
+          "投资证明（50万美元以上）",
+          "四大保险参保人员名单（确认5人以上雇佣）",
+          "法人登记簿誊本",
+          "财务报表·纳税证明",
+          "无犯罪证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认50万美元投资及5人雇佣6个月以上维持要求" },
+          { step: 2, title: "准备材料", description: "准备投资、雇佣、财务相关证明" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-5" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权（约3-6个月）" },
+        ],
+        processingTime: "约3-6个月",
+        importantNotes: [
+          "投资资金必须是从海外汇入的合法资金。",
+          "雇佣人员必须是参加四大社会保险的韩国国民。",
+          "取得永住权后仍需维持投资和雇佣。",
+        ],
+        faqs: [
+          {
+            question: "取得永住权后可以减少投资吗？",
+            answer: "取得永住权后也应维持投资。大幅削减可能影响永住资格。",
+          },
+          {
+            question: "5人雇佣要求中可以包括外国人吗？",
+            answer: "不可以，必须雇佣5名以上韩国国民。外国员工不计入雇佣人数。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "d-8", title: "D-8 企业投资签证" },
+          { slug: "f-5-25", title: "F-5-25 有条件高额投资者" },
+        ],
+      },
     },
     "f-5-6": {
       ko: {
@@ -2931,6 +3774,59 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
         ],
       },
+      zh: {
+        slug: "f-5-6",
+        title: "F-5-6 海外同胞",
+        subtitle: "海外同胞（F-4）居留者的永住权",
+        overview:
+          "F-5-6永住权适用于以F-4海外同胞签证在韩国居留2年以上的外国籍同胞。需具备维持生计的能力和韩语能力、基本素养等。",
+        targetApplicants: [
+          "以F-4海外同胞签证居留2年以上的同胞",
+          "希望在韩国长期定居的海外同胞",
+          "不希望恢复国籍而选择永住权的同胞",
+        ],
+        eligibility: [
+          "以F-4居留资格居留2年以上",
+          "维持生计的能力（收入或资产）",
+          "基本韩语能力",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "居留期限确认材料",
+          "收入或资产证明",
+          "韩语能力证明",
+          "无犯罪证明",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认F-4居留2年以上及各项要求" },
+          { step: 2, title: "准备材料", description: "准备收入、韩语、犯罪记录等证明" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-6" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约2-4个月",
+        importantNotes: [
+          "F-4转F-5相对容易，但需满足收入要求。",
+          "韩语能力标准可能比一般永住权宽松。",
+        ],
+        faqs: [
+          {
+            question: "F-4签证和F-5-6永住权有什么区别？",
+            answer: "F-4需要每2年续签，而F-5-6永住权没有期限限制。就业限制也进一步放宽。",
+          },
+          {
+            question: "恢复国籍和永住权哪个更有利？",
+            answer: "因个人情况而异。恢复国籍可能需要放弃本国国籍，永住权则可在保持外国国籍的同时长期居留韩国。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-4", title: "F-4 海外同胞签证" },
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-1", title: "F-5-1 一般永住者" },
+        ],
+      },
     },
     "f-5-8": {
       ko: {
@@ -3031,6 +3927,56 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
         relatedVisas: [
           { slug: "f-5", title: "F-5 Permanent Residency Overview" },
           { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
+        ],
+      },
+      zh: {
+        slug: "f-5-8",
+        title: "F-5-8 在韩华侨",
+        subtitle: "在韩国出生的华侨永住权",
+        overview:
+          "F-5-8是面向在韩国出生并持续居住的华侨（中华民国/中华人民共和国国籍）等签发的永住资格。需证明在韩国出生并持续居住的事实。",
+        targetApplicants: [
+          "在韩国出生并持续居住的华侨",
+          "长期在韩国生活的在韩华侨家庭",
+          "在韩国社会定居的华侨企业家·劳动者",
+        ],
+        eligibility: [
+          "证明在韩国出生并持续居住的事实",
+          "维持生计的能力",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "出生证明（确认在韩国出生）",
+          "外国人登录事实证明（确认持续居住）",
+          "收入或资产证明",
+          "无犯罪证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认韩国出生及持续居住事实" },
+          { step: 2, title: "准备材料", description: "准备出生证明、居留历史、收入证明" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-8" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约2-4个月",
+        importantNotes: [
+          "必须同时证明韩国出生和持续居住的事实。",
+          "在韩华侨学校毕业等辅助证明材料会有所帮助。",
+        ],
+        faqs: [
+          {
+            question: "不是在韩国出生的华侨也能申请吗？",
+            answer: "F-5-8专为在韩国出生的华侨设立。非韩国出生者需考虑F-5-1（一般永住）等其他类型。",
+          },
+          {
+            question: "需要居住多长时间？",
+            answer: "原则上需要从出生起持续居住。即使有短期海外居留，主要生活基地在韩国的也可能被认定。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-1", title: "F-5-1 一般永住者" },
         ],
       },
     },
@@ -3139,6 +4085,59 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 Permanent Residency Overview" },
           { slug: "f-5-10", title: "F-5-10 Bachelor/Master/Certificate" },
           { slug: "e-7", title: "E-7 Special Activities Visa" },
+        ],
+      },
+      zh: {
+        slug: "f-5-9",
+        title: "F-5-9 尖端领域博士",
+        subtitle: "尖端产业领域博士学位获得者的永住权",
+        overview:
+          "F-5-9适用于在韩国或海外取得尖端产业领域（IT、生物、纳米等）博士学位并在韩国从事相关领域工作的外国人。作为吸引高级人才的特别永住权，居留期限要求比一般永住权宽松。",
+        targetApplicants: [
+          "IT、生物、纳米等尖端领域博士学位持有者",
+          "在韩国研究机构·企业从事相关领域工作的外国人",
+          "在韩国大学取得尖端领域博士学位的外国人",
+        ],
+        eligibility: [
+          "取得尖端产业领域博士学位",
+          "在韩国从事相关领域工作（研究·教育·产业）",
+          "满足一定收入要求",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "博士学位证明",
+          "在职证明（研究机构·企业）",
+          "收入证明",
+          "纳税证明",
+          "无犯罪证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认尖端领域博士学位及工作领域" },
+          { step: 2, title: "准备材料", description: "准备学位、在职、收入证明" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-9" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约2-4个月",
+        importantNotes: [
+          "是否属于尖端领域需经科学技术信息通信部等相关机构确认。",
+          "居留期限要求比一般永住权（F-5-1）宽松。",
+        ],
+        faqs: [
+          {
+            question: "哪些领域属于尖端领域？",
+            answer: "IT、生物、纳米、数字、能源、航空航天等政府指定的尖端科技领域。具体领域需查阅公告。",
+          },
+          {
+            question: "海外大学博士也可以吗？",
+            answer: "可以，韩国或海外大学的博士学位均被认可。但必须在韩国从事相关领域工作。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-10", title: "F-5-10 学士·硕士·资格证" },
+          { slug: "e-7", title: "E-7 特定活动签证" },
         ],
       },
     },
@@ -3251,6 +4250,60 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
         ],
       },
+      zh: {
+        slug: "f-5-10",
+        title: "F-5-10 学士·硕士·资格证",
+        subtitle: "基于学位或国家资格证的永住权",
+        overview:
+          "F-5-10适用于在韩国取得学士以上学位或持有特定国家资格证、并在韩国就业一定期限且满足收入要求的外国人。",
+        targetApplicants: [
+          "在韩国大学取得学士·硕士学位的外国人",
+          "持有国家技术资格证的外国专业人才",
+          "取得学位后在韩国就业的外国人",
+        ],
+        eligibility: [
+          "在韩国取得学士以上学位或持有特定国家资格证",
+          "在韩国合法就业一定期限",
+          "收入达到GNI以上",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "学位证明或资格证复印件",
+          "在职证明",
+          "收入证明",
+          "纳税证明",
+          "无犯罪证明",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认学位·资格证及居留·收入要求" },
+          { step: 2, title: "准备材料", description: "准备学位、在职、收入等证明" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-10" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约2-4个月",
+        importantNotes: [
+          "仅持有海外学位（无韩国学位）的可能不符合条件。",
+          "就业期限和收入水平是关键审查因素。",
+        ],
+        faqs: [
+          {
+            question: "哪些资格证被认可？",
+            answer: "韩国产业人力公团管理的国家技术资格中技师·产业技师以上可能被认可。具体认可范围需向出入境管理局确认。",
+          },
+          {
+            question: "取得学位后可以立即申请吗？",
+            answer: "仅凭学位不够，须在韩国就业一定期限并满足收入要求。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-9", title: "F-5-9 尖端领域博士" },
+          { slug: "f-5-1", title: "F-5-1 一般永住者" },
+        ],
+      },
     },
     "f-5-11": {
       ko: {
@@ -3355,6 +4408,58 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 Permanent Residency Overview" },
           { slug: "f-5-9", title: "F-5-9 Advanced Technology PhD" },
           { slug: "e-7", title: "E-7 Special Activities Visa" },
+        ],
+      },
+      zh: {
+        slug: "f-5-11",
+        title: "F-5-11 特定领域杰出能力",
+        subtitle: "科学·经营·教育·文化等特定领域优秀人才永住权",
+        overview:
+          "F-5-11适用于在科学、经营、教育、文化艺术、体育等特定领域拥有卓越能力的外国人。国际获奖经历、论文发表实绩、专利等是审查因素。",
+        targetApplicants: [
+          "获得国际认可的科学家·研究者",
+          "作为全球企业高管为韩国做出贡献的专家",
+          "在艺术·文化·体育领域有突出成就的外国人",
+        ],
+        eligibility: [
+          "证明在特定领域的卓越能力",
+          "国际获奖、论文、专利等实绩",
+          "在韩国的活动计划或实绩",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "获奖经历·成就证明材料",
+          "推荐信（相关机构负责人等）",
+          "在职证明或活动计划书",
+          "无犯罪证明",
+        ],
+        process: [
+          { step: 1, title: "整理成就", description: "整理获奖、论文、专利等成就资料" },
+          { step: 2, title: "获取推荐信", description: "获取相关机构·专家推荐信" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-11" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约3-6个月",
+        importantNotes: [
+          "卓越能力的客观证明是关键。",
+          "相关领域专家和机构的推荐信对审查有重大影响。",
+        ],
+        faqs: [
+          {
+            question: "什么程度算「卓越能力」？",
+            answer: "在国际学术期刊发表论文、国际竞赛获奖、持有重要专利等为判断标准。需要国家级或国际级别的成就。",
+          },
+          {
+            question: "没有在韩国的活动实绩也可以吗？",
+            answer: "可以凭海外成就申请，但展示在韩国的活动计划或贡献潜力更为有利。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-9", title: "F-5-9 尖端领域博士" },
+          { slug: "e-7", title: "E-7 特定活动签证" },
         ],
       },
     },
@@ -3469,6 +4574,61 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-1", title: "F-5-1 General Permanent Residency" },
         ],
       },
+      zh: {
+        slug: "f-5-16",
+        title: "F-5-16 积分制永住者",
+        subtitle: "从F-2积分制签证转换的永住权",
+        overview:
+          "F-5-16积分制永住者是持有F-2-7积分制居住签证并在韩国居留3年以上的外国人可转换为永住资格的途径。居留期间须维持积分制要求，收入·纳税实绩须良好。",
+        targetApplicants: [
+          "持有F-2积分制（F-2-7）签证居留3年以上的外国人",
+          "希望从积分制居住签证转换为永住权的专业人才",
+          "计划长期定居韩国的优秀人才",
+        ],
+        eligibility: [
+          "取得F-2-7积分制签证后居留3年以上",
+          "维持积分制要求（80分以上）",
+          "收入及纳税实绩良好",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "居留期限确认材料",
+          "积分评估表及证明材料",
+          "收入证明",
+          "纳税证明",
+          "无犯罪证明",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认F-2-7居留3年及积分维持情况" },
+          { step: 2, title: "准备材料", description: "准备积分证明、收入、纳税材料" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-16" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约2-4个月",
+        importantNotes: [
+          "取得F-2-7后3年内须维持积分要求（80分）。",
+          "收入水平下降或出现犯罪记录可能导致转换被拒。",
+          "取得永住权后在海外居留2年以上的，永住资格可能被取消。",
+        ],
+        faqs: [
+          {
+            question: "从F-2-7转换为F-5-16时需要额外考试吗？",
+            answer: "无需额外考试，但会重新审查积分制要求（80分）的维持情况。完成社会融合项目的将更为有利。",
+          },
+          {
+            question: "3年中频繁出差海外会有问题吗？",
+            answer: "正常出差不会有问题，但长期海外居留较多时，在韩居留期限的计算上可能不利。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-points", title: "F-2 积分制签证" },
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-1", title: "F-5-1 一般永住者" },
+        ],
+      },
     },
     "f-5-17": {
       ko: {
@@ -3577,6 +4737,59 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
         ],
       },
+      zh: {
+        slug: "f-5-17",
+        title: "F-5-17 不动产投资者",
+        subtitle: "通过维持不动产投资获得的永住权",
+        overview:
+          "F-5-17适用于在法务部指定地区投资一定金额以上的不动产并维持5年以上的外国人。是从F-2不动产投资签证转换的途径。",
+        targetApplicants: [
+          "以F-2不动产投资签证维持投资5年以上的外国人",
+          "在法务部指定地区持有不动产的外国人",
+          "以不动产投资获得永住权为目标的投资者",
+        ],
+        eligibility: [
+          "法务部指定地区不动产投资维持5年以上",
+          "维持投资不动产所有权",
+          "无犯罪记录",
+          "满足基本素养要求",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "不动产登记簿",
+          "不动产评估报告",
+          "投资维持确认书",
+          "无犯罪证明",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认不动产投资维持5年以上" },
+          { step: 2, title: "准备材料", description: "准备登记簿、评估报告等材料" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-17" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约3-6个月",
+        importantNotes: [
+          "出售不动产可能导致永住资格被取消。",
+          "不动产价值跌破基准金额可能产生问题。",
+        ],
+        faqs: [
+          {
+            question: "取得永住权后可以出售不动产吗？",
+            answer: "取得永住权后也应在一定期限内维持不动产。提前出售可能影响永住资格，建议事先确认。",
+          },
+          {
+            question: "不动产价格下跌怎么办？",
+            answer: "以购买时的价格为基准，但大幅下跌时可能需要追加投资。具体标准需查阅法务部公告。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-real-estate", title: "F-2 不动产投资签证" },
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-5", title: "F-5-5 高额投资者" },
+        ],
+      },
     },
     "f-5-21": {
       ko: {
@@ -3681,6 +4894,58 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-2-public-interest", title: "F-2 Public Interest Investment Visa" },
           { slug: "f-5", title: "F-5 Permanent Residency Overview" },
           { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
+        ],
+      },
+      zh: {
+        slug: "f-5-21",
+        title: "F-5-21 公益事业投资者",
+        subtitle: "通过维持公益事业投资获得的永住权",
+        overview:
+          "F-5-21适用于向法务部指定的公益事业（国债、基金等）投资5亿韩元（约37.5万美元）以上并维持5年以上的外国人。是从F-2公益事业投资签证转换的途径。",
+        targetApplicants: [
+          "以F-2公益事业投资签证维持投资5年以上的外国人",
+          "向法务部指定公益事业投资5亿韩元以上的外国人",
+          "以稳定投资获得永住权为目标的投资者",
+        ],
+        eligibility: [
+          "公益事业5亿韩元以上投资维持5年以上",
+          "已完成投资资金合法来源证明",
+          "无犯罪记录",
+          "满足基本素养要求",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "公益事业投资维持确认书",
+          "投资实绩证明",
+          "无犯罪证明",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认公益事业投资维持5年以上" },
+          { step: 2, title: "准备材料", description: "准备投资维持确认书及证明" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-21" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约3-6个月",
+        importantNotes: [
+          "5年投资维持期间中途取回的，资格将消失。",
+          "取得永住权后也建议维持投资。",
+        ],
+        faqs: [
+          {
+            question: "取得永住权后可以取回投资吗？",
+            answer: "取得永住权后可以取回投资，但关于立即取回和资格维持的具体规定需向法务部确认。",
+          },
+          {
+            question: "公益事业投资的收益率如何？",
+            answer: "由于投资对象为国债等稳定资产，收益率较低。主要目的是获取居留资格而非投资收益。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-2-public-interest", title: "F-2 公益事业投资签证" },
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-5", title: "F-5-5 高额投资者" },
         ],
       },
     },
@@ -3795,6 +5060,61 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-5", title: "F-5-5 High-Value Investor" },
         ],
       },
+      zh: {
+        slug: "f-5-24",
+        title: "F-5-24 技术创业投资者",
+        subtitle: "通过技术创业为韩国经济做出贡献的外国人永住权",
+        overview:
+          "F-5-24适用于以技术创业（D-8-4）资格居留3年以上、从投资人处获得3亿韩元（约22.5万美元）以上投资并雇佣2名以上韩国国民的外国人。主要面向技术创新型初创企业代表。",
+        targetApplicants: [
+          "以D-8-4技术创业签证运营企业的外国人",
+          "运营技术创新型初创企业且有营收·雇佣实绩的代表",
+          "政府创业支援项目毕业企业的外国代表",
+        ],
+        eligibility: [
+          "以技术创业（D-8-4）资格连续居留3年以上",
+          "获得3亿韩元（约22.5万美元）以上的投资或同等资本金",
+          "雇佣2名以上韩国国民全职工作6个月以上",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "法人登记簿誊本",
+          "营业执照",
+          "营收证明（财务报表·增值税申报等）",
+          "雇佣证明（四大保险参保人员名单）",
+          "专利·技术相关材料（如适用）",
+          "无犯罪证明",
+        ],
+        process: [
+          { step: 1, title: "资格确认", description: "确认营收、雇佣、经营期限要求" },
+          { step: 2, title: "准备材料", description: "准备财务报表、雇佣证明等" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-24" },
+          { step: 4, title: "审核及签发", description: "审核完成后签发永住权" },
+        ],
+        processingTime: "约3-6个月",
+        importantNotes: [
+          "营收和雇佣实绩是关键审查因素。",
+          "参与政府创业支援项目的经历会被有利看待。",
+          "非技术创业的一般创业可能不符合条件。",
+        ],
+        faqs: [
+          {
+            question: "需要多少营收？",
+            answer: "具体营收标准按官方公告而定，因行业和规模而异。展示持续增长态势很重要。",
+          },
+          {
+            question: "非D-8-4签证也可以申请吗？",
+            answer: "以技术创业相关签证（D-8-4等）经营企业的实绩为基础，具体资格需向出入境管理局确认。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 企业投资签证" },
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "f-5-5", title: "F-5-5 高额投资者" },
+        ],
+      },
     },
     "f-5-25": {
       ko: {
@@ -3905,6 +5225,60 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "d-8", title: "D-8 Corporate Investment Visa" },
         ],
       },
+      zh: {
+        slug: "f-5-25",
+        title: "F-5-25 有条件高额投资者",
+        subtitle: "投资30亿韩元以上并维持5年的有条件永住权",
+        overview:
+          "F-5-25有条件高额投资者永住权适用于在韩国产业银行公益事业投资移民基金中存入30亿韩元（约225万美元）以上并承诺维持投资5年以上的外国人，附条件授予永住资格。未满足维持条件的，永住资格可能被取消。",
+        targetApplicants: [
+          "计划在韩国进行高额投资的外国人",
+          "希望通过有条件永住在韩国定居的投资者",
+          "以投资获得永住权为目标的高净值外国人",
+        ],
+        eligibility: [
+          "在韩国产业银行公益事业投资移民基金存入30亿韩元（约225万美元）以上",
+          "证明投资资金的合法来源（外汇汇入证明）",
+          "承诺维持投资5年以上",
+          "无犯罪记录",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照及外国人登录证",
+          "投资确认书",
+          "投资资金来源证明",
+          "投资维持承诺书",
+          "无犯罪证明",
+          "健康检查证明",
+        ],
+        process: [
+          { step: 1, title: "制定投资计划", description: "确定投资金额及对象" },
+          { step: 2, title: "执行投资", description: "完成高额投资并取得确认书" },
+          { step: 3, title: "申请永住权", description: "在出入境管理局申请F-5-25" },
+          { step: 4, title: "签发有条件永住权", description: "审核后授予有条件永住资格" },
+        ],
+        processingTime: "约3-6个月",
+        importantNotes: [
+          "因为是有条件永住，必须履行投资维持条件。",
+          "取回投资或大幅减少的，永住资格将被取消。",
+          "条件履行完毕后转换为正式永住资格。",
+        ],
+        faqs: [
+          {
+            question: "有条件永住权和普通永住权有什么区别？",
+            answer: "有条件永住权附有需在一定期限内维持投资的条件。条件履行后将转换为正式永住资格。",
+          },
+          {
+            question: "投资需要维持多久？",
+            answer: "5年。如中途取出部分或全部存款，永住资格将被取消。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-5", title: "F-5-5 高额投资者" },
+          { slug: "f-5", title: "F-5 永住权概述" },
+          { slug: "d-8", title: "D-8 企业投资签证" },
+        ],
+      },
     },
     "naturalization": {
       ko: {
@@ -3935,6 +5309,20 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
         faqs: [{ question: "What is the difference between naturalization and nationality recovery?", answer: "Naturalization is for foreigners who never held Korean nationality acquiring it for the first time, while nationality recovery is for people who previously held Korean nationality regaining it." }, { question: "What happens to my foreign nationality after naturalization?", answer: "In principle, you must renounce your foreign nationality. However, in certain cases (such as those aged 65+), dual nationality may be maintained through a pledge of non-exercise of foreign nationality." }, { question: "How long does the process take?", answer: "Generally 6 months to 1 year from submission." }],
         relatedVisas: [{ slug: "nationality-recovery", title: "Nationality Recovery" }, { slug: "f-5", title: "F-5 Permanent Residency" }, { slug: "f-6", title: "F-6 Marriage Visa" }],
       },
+      zh: {
+        slug: "naturalization",
+        title: "归化申请",
+        subtitle: "取得大韩民国国籍的程序",
+        overview: "归化是指外国人取得大韩民国国籍。根据国籍法分为一般归化、简易归化、特别归化，各自要求不同。需满足在国内居住5年以上、维持生计能力、韩语能力等要求。",
+        targetApplicants: ["在韩国居住5年以上的外国人（一般归化）", "韩国人配偶（简易归化）", "有特别功劳者或优秀人才（特别归化）", "有韩国父母的外国人"],
+        eligibility: ["在国内连续居住5年以上（一般归化）", "韩国民法规定的成年人", "品行良好", "维持生计能力", "韩语能力及对韩国风俗的了解"],
+        requiredDocuments: ["归化许可申请书", "护照复印件", "家庭关系证明材料", "财产相关材料", "无犯罪证明", "韩语能力证明（TOPIK等）", "基本证明书、家庭关系证明书", "居住地证明材料"],
+        process: [{ step: 1, title: "资格确认", description: "按归化类型审核资格条件" }, { step: 2, title: "准备材料", description: "准备必要材料并翻译·公证" }, { step: 3, title: "提交法务部", description: "向出入境管理局提交归化许可申请" }, { step: 4, title: "审查", description: "材料审查及面试（约6个月至1年）" }, { step: 5, title: "取得国籍", description: "归化许可后取得国籍" }],
+        processingTime: "约6个月至1年",
+        importantNotes: ["归化时须放弃原有外国国籍（有双重国籍例外情形）。", "简易归化中韩国人配偶婚后在韩居留2年以上可申请。", "需通过韩语能力考试（KINAT）或完成社会融合项目。"],
+        faqs: [{ question: "归化和国籍恢复有什么区别？", answer: "归化是从未拥有韩国国籍的外国人首次取得国籍，国籍恢复是曾经拥有韩国国籍者重新取回国籍。" }, { question: "归化后外国国籍怎么办？", answer: "原则上须放弃外国国籍。但65岁以上等部分情况可通过外国国籍不行使承诺维持双重国籍。" }, { question: "需要多长时间？", answer: "一般从提交到完成约需6个月至1年。" }],
+        relatedVisas: [{ slug: "nationality-recovery", title: "国籍恢复" }, { slug: "f-5", title: "F-5 永住权" }, { slug: "f-6", title: "F-6 结婚签证" }],
+      },
     },
     "nationality-recovery": {
       ko: {
@@ -3964,6 +5352,20 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
         importantNotes: ["Those aged 65+ can maintain dual nationality through a pledge of non-exercise of foreign nationality.", "After nationality recovery, resident registration and Korean passport issuance become available.", "Males who lost nationality to evade military service may face restrictions."],
         faqs: [{ question: "Do I need to give up my foreign nationality if I am 65 or older?", answer: "No. Those aged 65+ can maintain both Korean and foreign nationality by making a 'pledge of non-exercise of foreign nationality.'" }, { question: "How long does the review process take?", answer: "Typically 6 months to 1 year." }, { question: "What happens to my F-4 visa after nationality recovery?", answer: "Since you acquire Korean nationality, the F-4 visa expires. After resident registration, you can obtain a Korean passport." }],
         relatedVisas: [{ slug: "naturalization", title: "Naturalization" }, { slug: "f-5", title: "F-5 Permanent Residency" }, { slug: "f-4", title: "F-4 Overseas Korean Visa" }],
+      },
+      zh: {
+        slug: "nationality-recovery",
+        title: "国籍恢复",
+        subtitle: "恢复大韩民国国籍的程序",
+        overview: "国籍恢复是指曾经拥有大韩民国国籍但因取得外国国籍而丧失韩国国籍的人，重新取得大韩民国国籍的制度。65岁以上者可通过外国国籍不行使承诺维持双重国籍的特例。",
+        targetApplicants: ["曾经拥有大韩民国国籍的外国人", "已完成国籍丧失申报者", "65岁以上希望拥有双重国籍者", "海外被收养的韩裔"],
+        eligibility: ["证明曾拥有大韩民国国籍", "品行良好", "维持生计能力", "韩语能力及基本素养", "已完成国籍丧失申报"],
+        requiredDocuments: ["国籍恢复许可申请书", "护照原件及复印件", "家庭关系证明书（详细）", "基本证明书（详细）", "国籍丧失证明材料", "无犯罪证明（海牙认证）", "财产证明材料", "照片1张"],
+        process: [{ step: 1, title: "准备材料", description: "准备必要材料（海外材料需海牙认证）" }, { step: 2, title: "前往管辖机构", description: "向出入境·外国人厅提交" }, { step: 3, title: "法务部审查", description: "材料及条件审查（6个月至1年）" }, { step: 4, title: "国籍恢复许可", description: "官报公告" }, { step: 5, title: "外国国籍处理", description: "65岁以上：不行使承诺 / 65岁以下：放弃外国国籍" }],
+        processingTime: "约6个月至1年",
+        importantNotes: ["65岁以上可通过外国国籍不行使承诺维持双重国籍。", "国籍恢复后可办理居民登记和韩国护照。", "为逃避兵役而丧失国籍的男性可能受到限制。"],
+        faqs: [{ question: "65岁以上需要放弃外国国籍吗？", answer: "不需要。65岁以上者仅通过「外国国籍不行使承诺」即可同时保留韩国国籍和外国国籍。" }, { question: "审查需要多长时间？", answer: "一般需要6个月至1年。" }, { question: "国籍恢复后F-4签证怎么办？", answer: "因取得韩国国籍，F-4签证将失效。完成居民登记后可领取韩国护照。" }],
+        relatedVisas: [{ slug: "naturalization", title: "归化申请" }, { slug: "f-5", title: "F-5 永住权" }, { slug: "f-4", title: "F-4 居住证" }],
       },
     },
     "d-7": {
@@ -4127,6 +5529,87 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "d-8", title: "D-8 Corporate Investment Visa" },
           { slug: "e-7", title: "E-7 Special Activities Visa" },
           { slug: "f-5", title: "F-5 Permanent Residency" },
+        ],
+      },
+      zh: {
+        slug: "d-7",
+        title: "D-7 驻在员签证",
+        subtitle: "从海外总部派遣至韩国分公司的驻在员签证",
+        overview:
+          "D-7驻在员签证是海外总部企业向韩国分公司、子公司或联络处派遣员工时所需的居留资格。被派遣员工须在总部工作1年以上，在韩国分公司从事经营·管理·专业技术工作。驻在期限通常为1-3年，可延长。",
+        targetApplicants: [
+          "从海外总部派遣至韩国分公司/子公司的员工",
+          "驻韩联络处的外国人",
+          "在海外总部工作1年以上者",
+          "经营·管理·专业技术领域的驻在派遣人员",
+        ],
+        eligibility: [
+          "在海外总部工作1年以上的经历",
+          "韩国已设立分公司、子公司或联络处",
+          "派遣业务属于经营·管理·专业技术领域",
+          "无犯罪记录及入境禁止历史",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "派遣令或驻在员委任状",
+          "海外总部营业执照及公司简介",
+          "韩国分公司/子公司法人登记簿誊本",
+          "韩国分公司/子公司营业执照",
+          "总部1年以上在职证明",
+          "工作经历证明",
+          "最终学历证明",
+        ],
+        process: [
+          {
+            step: 1,
+            title: "总部派遣决定",
+            description: "海外总部决定派遣韩国驻在员并签发派遣令",
+          },
+          {
+            step: 2,
+            title: "准备材料",
+            description: "准备总部及韩国分公司相关材料（海外材料需公证/海牙认证）",
+          },
+          {
+            step: 3,
+            title: "签证申请",
+            description: "在驻外使领馆或出入境管理局申请D-7签证",
+          },
+          {
+            step: 4,
+            title: "签证签发",
+            description: "审核完成后签发签证并入境",
+          },
+        ],
+        processingTime: "约2-4周",
+        importantNotes: [
+          "在总部工作1年以上的经历为必要条件。",
+          "如韩国分公司尚未设立，需先完成法人设立手续。",
+          "驻在期限届满时可申请延长，也可考虑变更居留资格。",
+        ],
+        faqs: [
+          {
+            question: "总部工作经历不满1年可以申请吗？",
+            answer:
+              "原则上需要1年以上工作经历。但如被认定具有专业性，可能例外批准，需进行个别咨询。",
+          },
+          {
+            question: "D-7签证可以在其他公司工作吗？",
+            answer:
+              "D-7签证只能在被派遣的韩国分公司/子公司工作。在其他公司工作需要变更居留资格。",
+          },
+          {
+            question: "家人也可以一起来吗？",
+            answer:
+              "可以，配偶和未成年子女可申请F-3（随行）签证一同入境。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 企业投资签证" },
+          { slug: "e-7", title: "E-7 特定活动签证" },
+          { slug: "f-5", title: "F-5 永住权" },
         ],
       },
     },
@@ -4295,6 +5778,88 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-2-points", title: "F-2 Points-based Visa" },
         ],
       },
+      zh: {
+        slug: "e-7",
+        title: "E-7 特定活动签证",
+        subtitle: "具有专业知识·技术·技能的外国人在韩就业签证",
+        overview:
+          "E-7特定活动签证授予希望在韩国利用专业知识、技术或技能就业的外国人。涵盖91个指定专业职种，雇主（韩国企业）须取得雇佣推荐书。广泛应用于IT、工程、经营、口笔译、设计等多个专业领域。",
+        targetApplicants: [
+          "希望在韩国企业从事专业工作的外国人",
+          "IT·软件·工程领域专家",
+          "口笔译·经营·设计·贸易等专业人才",
+          "属于91个特定活动职种的专家",
+        ],
+        eligibility: [
+          "属于91个特定活动职种之一",
+          "相关领域学士以上学位或同等工作经历",
+          "与韩国企业签订劳动合同",
+          "雇主须取得雇佣推荐书",
+          "无犯罪记录及入境禁止历史",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照复印件",
+          "证件照（3.5x4.5cm）",
+          "劳动合同",
+          "雇佣推荐书（由雇主取得）",
+          "最终学历证明（海牙认证）",
+          "工作经历证明",
+          "资格证复印件（如适用）",
+          "公司营业执照",
+          "公司财务报表",
+        ],
+        process: [
+          {
+            step: 1,
+            title: "签订劳动合同",
+            description: "与韩国企业签订劳动合同并确认职种类别",
+          },
+          {
+            step: 2,
+            title: "取得雇佣推荐书",
+            description: "雇主在管辖出入境管理局取得雇佣推荐书",
+          },
+          {
+            step: 3,
+            title: "签证申请",
+            description: "在驻外使领馆或出入境管理局申请E-7签证",
+          },
+          {
+            step: 4,
+            title: "签证签发",
+            description: "审核完成后签发签证并开始工作",
+          },
+        ],
+        processingTime: "约2-4周（雇佣推荐书另需1-2周）",
+        importantNotes: [
+          "雇佣推荐书须由雇主（韩国企业）申请，外国人本人不能直接申请。",
+          "91个职种目录可能因法务部公告而变更，须确认最新目录。",
+          "换工作时需要新雇主的雇佣推荐书，并申请居留资格变更/延长。",
+        ],
+        faqs: [
+          {
+            question: "E-7签证可以从事哪些职种？",
+            answer:
+              "可在法务部指定的91个专业职种（IT、工程、经营、口笔译、设计、贸易、造船、机械等）中工作。准确的职种目录请查阅法务部公告。",
+          },
+          {
+            question: "没有学位也能获得E-7签证吗？",
+            answer:
+              "部分职种可以用相关领域一定期限的工作经历替代学士学位。具体要求因职种而异，需进行个别咨询。",
+          },
+          {
+            question: "E-7可以转换为永住权（F-5）吗？",
+            answer:
+              "可以，以E-7签证居留一定期限以上并满足收入要求等条件，可通过积分制永住权（F-5-16）等途径申请永住权。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "d-8", title: "D-8 企业投资签证" },
+          { slug: "d-7", title: "D-7 驻在员签证" },
+          { slug: "f-2-points", title: "F-2 积分制签证" },
+        ],
+      },
     },
     "f-4": {
       ko: {
@@ -4453,6 +6018,85 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5", title: "F-5 Permanent Residency" },
           { slug: "f-2-7", title: "F-2-7 Residence Visa" },
           { slug: "f-6", title: "F-6 Marriage Visa" },
+        ],
+      },
+      zh: {
+        slug: "f-4",
+        title: "F-4 海外同胞签证（居住证）",
+        subtitle: "外国籍海外同胞的长期居留资格",
+        overview:
+          "F-4海外同胞签证是授予持有外国国籍的海外同胞的长期居留资格。最长可居留3年，到期可续签。获得居住证后可开设银行账户、办理手机、进行房产交易等，实际上可进行与韩国国民同等的经济活动。",
+        targetApplicants: [
+          "持有外国国籍的海外同胞（韩裔外国人）",
+          "曾持有大韩民国国籍后取得外国国籍者",
+          "父母或祖父母曾持有大韩民国国籍的外国人",
+          "海外被收养的韩裔外国人",
+        ],
+        eligibility: [
+          "满足海外同胞条件（韩国国籍保有历史或血统证明）",
+          "持有外国国籍",
+          "无犯罪记录",
+          "可证明韩国国籍脱离/丧失",
+        ],
+        requiredDocuments: [
+          "签证申请表",
+          "护照原件及复印件",
+          "证件照（3.5x4.5cm）",
+          "海外同胞证明材料（家庭关系证明书、除籍誊本等）",
+          "国籍脱离/丧失证明材料",
+          "本国身份证复印件",
+          "无犯罪证明（海牙认证）",
+          "居住证申请表（入境后）",
+        ],
+        process: [
+          {
+            step: 1,
+            title: "资格确认",
+            description: "确认是否符合海外同胞要求（血统、国籍历史等）",
+          },
+          {
+            step: 2,
+            title: "准备材料",
+            description: "准备海外同胞证明及必要材料（海外材料需公证/海牙认证）",
+          },
+          {
+            step: 3,
+            title: "签证申请",
+            description: "在驻外使领馆或出入境管理局申请F-4签证",
+          },
+          {
+            step: 4,
+            title: "居住证签发",
+            description: "入境后在出入境管理局领取国内居住证",
+          },
+        ],
+        processingTime: "约2-4周",
+        importantNotes: [
+          "获得居住证后可开设银行账户、办理手机、进行房产交易等。",
+          "最长可居留3年，须在到期前申请续签。",
+          "在简单劳务行业的就业可能受到限制。",
+        ],
+        faqs: [
+          {
+            question: "F-4居住证可以工作吗？",
+            answer:
+              "可以，在大多数行业可自由就业。但简单劳务等部分行业可能受到限制。",
+          },
+          {
+            question: "居住证和外国人登录证有什么区别？",
+            answer:
+              "居住证是向海外同胞（F-4）签发的，在银行·房产·通信等场合如同居民登录号一样使用。外国人登录证是向一般外国居留者签发的。",
+          },
+          {
+            question: "F-4可以转换为永住权（F-5）吗？",
+            answer:
+              "可以，以F-4签证居留2年以上并满足相关要求，可申请F-5永住权。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5", title: "F-5 永住权" },
+          { slug: "f-2-7", title: "F-2-7 居住签证" },
+          { slug: "f-6", title: "F-6 结婚签证" },
         ],
       },
     },
@@ -4629,6 +6273,93 @@ export function getVisaDetail(slug: string, locale: Locale): VisaDetailData | nu
           { slug: "f-5-16", title: "F-5-16 Points-based PR" },
           { slug: "f-5-17", title: "F-5-17 Real Estate Investment PR" },
           { slug: "f-5-21", title: "F-5-21 Public Interest PR" },
+        ],
+      },
+      zh: {
+        slug: "f-5",
+        title: "F-5 永住权",
+        subtitle: "可在韩国无限期居留的永住资格",
+        overview:
+          "F-5永住权是可在大韩民国无限期居留的永住资格。取得途径多样，包括一般永住（F-5-1）、高额投资（F-5-5）、积分制（F-5-16）、不动产投资（F-5-17）、公益事业（F-5-21）等多个子类型。取得永住权后可不受居留期限限制在韩国生活，大部分经济活动均可自由进行。",
+        targetApplicants: [
+          "希望在韩国长期居留并永住的外国人",
+          "在韩国投资一定金额以上的外国投资者",
+          "满足积分制要求的专业人才",
+          "对公益事业做出贡献的外国人",
+          "对大韩民国有特别功劳者",
+        ],
+        eligibility: [
+          "满足F-5子类型的各项要求（参见下方相关签证）",
+          "遵守大韩民国法令，品行良好",
+          "能以本人或共同生活家庭成员的收入维持生活",
+          "基本韩语能力及对韩国社会·文化的了解",
+        ],
+        requiredDocuments: [
+          "永住资格申请书",
+          "护照原件及复印件",
+          "证件照（3.5x4.5cm）",
+          "居留资格证明材料（因子类型而异）",
+          "收入证明（收入金额证明、工资扣缴凭证等）",
+          "无犯罪证明",
+          "社会融合项目（KIIP）结业证或TOPIK成绩",
+          "身元保证书（如适用）",
+        ],
+        process: [
+          {
+            step: 1,
+            title: "资格确认",
+            description: "确认适用的F-5子类型并审核要求",
+          },
+          {
+            step: 2,
+            title: "满足要求",
+            description: "满足收入、韩语、居留期限等各类型要求",
+          },
+          {
+            step: 3,
+            title: "准备材料",
+            description: "按类型准备必要材料（海外材料需海牙认证）",
+          },
+          {
+            step: 4,
+            title: "申请永住权",
+            description: "在出入境管理局申请永住资格（F-5）",
+          },
+          {
+            step: 5,
+            title: "审核及签发",
+            description: "材料·面试审核后签发永住权",
+          },
+        ],
+        processingTime: "约1-3个月（因类型而异）",
+        importantNotes: [
+          "F-5永住权有多种子类型，各类型要求不同。请在下方相关签证中查看详细要求。",
+          "取得永住权后也须获得再入境许可才能出境后再入境（1-2年有效）。",
+          "永住权持有者违反法令时，永住资格可能被取消。",
+        ],
+        faqs: [
+          {
+            question: "F-5永住权有哪些子类型？",
+            answer:
+              "主要类型有一般永住（F-5-1）、高额投资永住（F-5-5）、积分制永住（F-5-16）、不动产投资永住（F-5-17）、公益事业永住（F-5-21）等。各类型要求和程序不同，请查看相应页面的详细内容。",
+          },
+          {
+            question: "取得永住权就能永远住在韩国吗？",
+            answer:
+              "永住权没有居留期限限制，但出境时须获得再入境许可（1-2年），长期出境的永住资格可能被取消。违反法令也可成为取消事由。",
+          },
+          {
+            question: "F-5永住权和归化（取得国籍）有什么区别？",
+            answer:
+              "永住权（F-5）是保持外国国籍的同时可无限期居留韩国的资格，归化是取得韩国国籍。永住权持有者没有选举权，归化后作为大韩民国国民享有一切权利。",
+          },
+        ],
+        relatedVisas: [
+          { slug: "f-5-1", title: "F-5-1 一般永住" },
+          { slug: "f-5-5", title: "F-5-5 高额投资永住" },
+          { slug: "f-5-16", title: "F-5-16 积分制永住" },
+          { slug: "f-5-17", title: "F-5-17 不动产投资永住" },
+          { slug: "f-5-21", title: "F-5-21 公益事业永住" },
         ],
       },
     },
