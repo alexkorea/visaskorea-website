@@ -16,20 +16,34 @@ const addressByLocale: Record<string, string> = {
 };
 
 export function Footer({ locale, dict }: FooterProps) {
+  const fl: Record<string, Record<string, string>> = {
+    "d-8": { ko: "D-8 기업투자비자", en: "D-8 Corporate Investment", zh: "D-8 企业投资签证", ja: "D-8 企業投資ビザ" },
+    "d-7": { ko: "D-7 주재원비자", en: "D-7 Intra-company Transfer", zh: "D-7 驻在员签证", ja: "D-7 駐在員ビザ" },
+    "e-7": { ko: "E-7 특정활동비자", en: "E-7 Special Activities", zh: "E-7 特定活动签证", ja: "E-7 特定活動ビザ" },
+    "f-5": { ko: "F-5 영주권", en: "F-5 Permanent Residency", zh: "F-5 永住权", ja: "F-5 永住権" },
+    "f-2": { ko: "F-2 점수제비자", en: "F-2 Points-based Visa", zh: "F-2 积分制签证", ja: "F-2 ポイント制ビザ" },
+    "f-4": { ko: "F-4 재외동포비자", en: "F-4 Overseas Korean Visa", zh: "F-4 海外同胞签证", ja: "F-4 在外同胞ビザ" },
+    fdi: { ko: "외국인투자기업설립", en: "Foreign Investment Company", zh: "外国投资企业设立", ja: "外国人投資企業設立" },
+    branch: { ko: "지점/지사/영업소 설치", en: "Branch Office Setup", zh: "分公司/营业所设置", ja: "支店/支社/営業所設置" },
+    liaison: { ko: "연락사무소 설치", en: "Liaison Office Setup", zh: "联络事务所设置", ja: "連絡事務所設置" },
+    criminal: { ko: "사범심사", en: "Criminal Review", zh: "犯罪审查", ja: "犯罪審査" },
+  };
+  const fml = (key: string) => fl[key]?.[locale] ?? fl[key]?.ko ?? key;
+
   const visaLinks = [
-    { href: "/visa/d-8", label: "D-8 기업투자비자" },
-    { href: "/visa/d-7", label: "D-7 주재원비자" },
-    { href: "/visa/e-7", label: "E-7 특정활동비자" },
-    { href: "/visa/f-5", label: "F-5 영주권" },
-    { href: "/visa/f-2-points", label: "F-2 점수제비자" },
-    { href: "/visa/f-4", label: "F-4 재외동포비자" },
+    { href: "/visa/d-8", label: fml("d-8") },
+    { href: "/visa/d-7", label: fml("d-7") },
+    { href: "/visa/e-7", label: fml("e-7") },
+    { href: "/visa/f-5", label: fml("f-5") },
+    { href: "/visa/f-2-points", label: fml("f-2") },
+    { href: "/visa/f-4", label: fml("f-4") },
   ];
 
   const businessLinks = [
-    { href: "/business/foreign-invested-company", label: "외국인투자기업설립" },
-    { href: "/business/branch-office", label: "지점/지사/영업소 설치" },
-    { href: "/business/liaison-office", label: "연락사무소 설치" },
-    { href: "/visa/criminal-review", label: "사범심사" },
+    { href: "/business/foreign-invested-company", label: fml("fdi") },
+    { href: "/business/branch-office", label: fml("branch") },
+    { href: "/business/liaison-office", label: fml("liaison") },
+    { href: "/visa/criminal-review", label: fml("criminal") },
   ];
 
   const companyLinks = [
@@ -50,7 +64,7 @@ export function Footer({ locale, dict }: FooterProps) {
               </div>
               <div className="flex flex-col leading-tight">
                 <span className="font-serif text-lg font-semibold text-white">VISION</span>
-                <span className="text-[10px] text-gray-500 -mt-1">행정사사무소</span>
+                <span className="text-[10px] text-gray-500 -mt-1">{{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政士事務所" }[locale]}</span>
               </div>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed mb-4">
@@ -129,7 +143,7 @@ export function Footer({ locale, dict }: FooterProps) {
       <div className="border-t border-gray-800">
         <div className="mx-auto max-w-7xl px-6 pt-8 pb-4">
           <p className="text-sm text-gray-500 text-center">
-            © 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주
+            {{ ko: "© 2018 비전행정사사무소 | 사업자등록번호: 405-05-54079 | 대표: 이원중 | 개인정보관리자: 김영주", en: "© 2018 VISION Administrative Office | Business Reg: 405-05-54079 | CEO: Lee Won-jung | Privacy Officer: Kim Young-ju", zh: "© 2018 VISION行政士事务所 | 营业执照号: 405-05-54079 | 代表: 李元中 | 隐私管理: 金英珠", ja: "© 2018 VISION行政士事務所 | 事業者登録番号: 405-05-54079 | 代表: 李元中 | 個人情報管理者: 金英珠" }[locale]}
           </p>
         </div>
       </div>
@@ -137,7 +151,7 @@ export function Footer({ locale, dict }: FooterProps) {
       {/* Bottom Bar */}
       <div className="border-t border-gray-800">
         <div className="mx-auto max-w-7xl px-6 py-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-500">
-          <span>© 2018 비전행정사사무소. All rights reserved.</span>
+          <span>{{ ko: "© 2018 비전행정사사무소", en: "© 2018 VISION Administrative Office", zh: "© 2018 VISION行政士事务所", ja: "© 2018 VISION行政士事務所" }[locale]}. All rights reserved.</span>
           <div className="flex gap-6">
             <Link href={`/${locale}/contact`} className="hover:text-gray-300 transition-colors">
               {dict.footer?.privacyPolicy || "개인정보처리방침"}

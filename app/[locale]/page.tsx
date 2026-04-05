@@ -119,14 +119,14 @@ export default async function HomePage({ params }: PageProps) {
 
   // Featured visas for internal linking
   const featuredVisas = [
-    { slug: "d-8", title: locale === "ko" ? "D-8 투자비자" : "D-8 Investment Visa", badge: locale === "ko" ? "투자" : "Investment" },
-    { slug: "e-7", title: locale === "ko" ? "E-7 특정활동비자" : "E-7 Work Visa", badge: locale === "ko" ? "취업" : "Employment" },
-    { slug: "d-7", title: locale === "ko" ? "D-7 주재원비자" : "D-7 Intra-company Transfer", badge: locale === "ko" ? "주재원" : "Transfer" },
-    { slug: "f-2-public-interest", title: locale === "ko" ? "F-2 공익투자비자" : "F-2 Public Interest", badge: locale === "ko" ? "공익투자" : "Investment" },
-    { slug: "f-5", title: locale === "ko" ? "F-5 영주권" : "F-5 Permanent Residency", badge: locale === "ko" ? "영주" : "PR" },
-    { slug: "d-9", title: locale === "ko" ? "D-9 무역경영비자" : "D-9 Trade Management", badge: locale === "ko" ? "무역" : "Trade" },
-    { slug: "f-6", title: locale === "ko" ? "F-6 결혼비자" : "F-6 Marriage Visa", badge: locale === "ko" ? "결혼" : "Marriage" },
-    { slug: "criminal-review", title: locale === "ko" ? "사범심사" : "Criminal Review", badge: locale === "ko" ? "심사" : "Review" },
+    { slug: "d-8", title: { ko: "D-8 투자비자", en: "D-8 Investment Visa", zh: "D-8 投资签证", ja: "D-8 投資ビザ" }[locale] ?? "D-8 Investment Visa", badge: { ko: "투자", en: "Investment", zh: "投资", ja: "投資" }[locale] ?? "Investment" },
+    { slug: "e-7", title: { ko: "E-7 특정활동비자", en: "E-7 Work Visa", zh: "E-7 就业签证", ja: "E-7 就労ビザ" }[locale] ?? "E-7 Work Visa", badge: { ko: "취업", en: "Employment", zh: "就业", ja: "就労" }[locale] ?? "Employment" },
+    { slug: "d-7", title: { ko: "D-7 주재원비자", en: "D-7 Intra-company Transfer", zh: "D-7 驻在员签证", ja: "D-7 駐在員ビザ" }[locale] ?? "D-7 Intra-company Transfer", badge: { ko: "주재원", en: "Transfer", zh: "驻在", ja: "駐在" }[locale] ?? "Transfer" },
+    { slug: "f-2-public-interest", title: { ko: "F-2 공익투자비자", en: "F-2 Public Interest", zh: "F-2 公益投资签证", ja: "F-2 公益投資ビザ" }[locale] ?? "F-2 Public Interest", badge: { ko: "공익투자", en: "Investment", zh: "公益投资", ja: "公益投資" }[locale] ?? "Investment" },
+    { slug: "f-5", title: { ko: "F-5 영주권", en: "F-5 Permanent Residency", zh: "F-5 永住权", ja: "F-5 永住権" }[locale] ?? "F-5 Permanent Residency", badge: { ko: "영주", en: "PR", zh: "永住", ja: "永住" }[locale] ?? "PR" },
+    { slug: "d-9", title: { ko: "D-9 무역경영비자", en: "D-9 Trade Management", zh: "D-9 贸易经营签证", ja: "D-9 貿易経営ビザ" }[locale] ?? "D-9 Trade Management", badge: { ko: "무역", en: "Trade", zh: "贸易", ja: "貿易" }[locale] ?? "Trade" },
+    { slug: "f-6", title: { ko: "F-6 결혼비자", en: "F-6 Marriage Visa", zh: "F-6 结婚签证", ja: "F-6 結婚ビザ" }[locale] ?? "F-6 Marriage Visa", badge: { ko: "결혼", en: "Marriage", zh: "结婚", ja: "結婚" }[locale] ?? "Marriage" },
+    { slug: "criminal-review", title: { ko: "사범심사", en: "Criminal Review", zh: "犯罪审查", ja: "犯罪審査" }[locale] ?? "Criminal Review", badge: { ko: "심사", en: "Review", zh: "审查", ja: "審査" }[locale] ?? "Review" },
   ];
 
   // Stats
@@ -174,12 +174,10 @@ export default async function HomePage({ params }: PageProps) {
           <div className="mx-auto max-w-7xl px-4">
             <div className="mx-auto mb-12 max-w-2xl text-center">
               <h2 className="text-3xl font-bold tracking-tight text-slate-800">
-                {locale === "ko" ? "전문 서비스" : "Our Services"}
+                {{ ko: "전문 서비스", en: "Our Services", zh: "专业服务", ja: "専門サービス" }[locale]}
               </h2>
               <p className="mt-4 text-slate-600">
-                {locale === "ko"
-                  ? "비자 신청부터 법인 설립까지, 한국 진출의 모든 과정을 지원합니다."
-                  : "From visa applications to company setup, we support your entire journey to Korea."}
+                {{ ko: "비자 신청부터 법인 설립까지, 한국 진출의 모든 과정을 지원합니다.", en: "From visa applications to company setup, we support your entire journey to Korea.", zh: "从签证申请到法人设立，全程支持您进入韩国。", ja: "ビザ申請から法人設立まで、韓国進出のすべてのプロセスをサポートします。" }[locale]}
               </p>
             </div>
             <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
@@ -216,12 +214,10 @@ export default async function HomePage({ params }: PageProps) {
             <div className="mb-12 flex items-center justify-between">
               <div>
                 <h2 className="text-3xl font-bold tracking-tight text-slate-800">
-                  {locale === "ko" ? "주요 비자 안내" : "Featured Visas"}
+                  {{ ko: "주요 비자 안내", en: "Featured Visas", zh: "主要签证指南", ja: "主要ビザ案内" }[locale]}
                 </h2>
                 <p className="mt-2 text-slate-600">
-                  {locale === "ko"
-                    ? "가장 많이 문의하시는 비자 유형입니다."
-                    : "Most frequently inquired visa types."}
+                  {{ ko: "가장 많이 문의하시는 비자 유형입니다.", en: "Most frequently inquired visa types.", zh: "咨询最多的签证类型。", ja: "最もお問い合わせの多いビザタイプです。" }[locale]}
                 </p>
               </div>
               <Button variant="outline" asChild className="hidden md:flex border-blue-200 text-blue-600 hover:bg-blue-50 hover:text-blue-700">
@@ -276,47 +272,27 @@ export default async function HomePage({ params }: PageProps) {
             <div className="grid items-center gap-12 lg:grid-cols-2">
               <div>
                 <h2 className="text-3xl font-bold tracking-tight text-slate-800">
-                  {locale === "ko"
-                    ? "왜 비전행정사사무소인가요?"
-                    : "Why Choose VISION?"}
+                  {{ ko: "왜 비전행정사사무소인가요?", en: "Why Choose VISION?", zh: "为什么选择VISION?", ja: "なぜVISIONなのか?" }[locale]}
                 </h2>
                 <p className="mt-4 text-slate-600">
-                  {locale === "ko"
-                    ? "8년 이상의 경험과 전문성으로 고객의 성공적인 한국 정착을 돕습니다."
-                    : "With over 8 years of experience, we help our clients successfully settle in Korea."}
+                  {{ ko: "8년 이상의 경험과 전문성으로 고객의 성공적인 한국 정착을 돕습니다.", en: "With over 8 years of experience, we help our clients successfully settle in Korea.", zh: "凭借8年以上的经验和专业性，帮助客户成功定居韩国。", ja: "8年以上の経験と専門性で、お客様の韓国定着を成功に導きます。" }[locale]}
                 </p>
                 <ul className="mt-8 space-y-4">
                   {[
                     {
                       icon: <Users className="h-5 w-5" />,
-                      title:
-                        locale === "ko" ? "전문 컨설턴트 팀" : "Expert Team",
-                      desc:
-                        locale === "ko"
-                          ? "출입국관리법 전문 변호사 및 행정사 보유"
-                          : "Immigration lawyers and administrative scriveners",
+                      title: { ko: "전문 컨설턴트 팀", en: "Expert Team", zh: "专业顾问团队", ja: "専門コンサルタントチーム" }[locale],
+                      desc: { ko: "출입국관리법 전문 변호사 및 행정사 보유", en: "Immigration lawyers and administrative scriveners", zh: "拥有出入境管理法专业律师及行政士", ja: "出入国管理法専門の弁護士及び行政士を保有" }[locale],
                     },
                     {
                       icon: <Globe className="h-5 w-5" />,
-                      title:
-                        locale === "ko"
-                          ? "다국어 서비스"
-                          : "Multilingual Service",
-                      desc:
-                        locale === "ko"
-                          ? "한국어, 영어, 중국어, 일본어 지원"
-                          : "Korean, English, Chinese, Japanese support",
+                      title: { ko: "다국어 서비스", en: "Multilingual Service", zh: "多语言服务", ja: "多言語サービス" }[locale],
+                      desc: { ko: "한국어, 영어, 중국어, 일본어 지원", en: "Korean, English, Chinese, Japanese support", zh: "韩语、英语、中文、日语支持", ja: "韓国語、英語、中国語、日本語対応" }[locale],
                     },
                     {
                       icon: <Shield className="h-5 w-5" />,
-                      title:
-                        locale === "ko"
-                          ? "높은 성공률"
-                          : "High Success Rate",
-                      desc:
-                        locale === "ko"
-                          ? "98% 이상의 비자 승인률 달성"
-                          : "Over 98% visa approval rate",
+                      title: { ko: "높은 성공률", en: "High Success Rate", zh: "高成功率", ja: "高い成功率" }[locale],
+                      desc: { ko: "98% 이상의 비자 승인률 달성", en: "Over 98% visa approval rate", zh: "达到98%以上的签证通过率", ja: "98%以上のビザ承認率を達成" }[locale],
                     },
                   ].map((item, index) => (
                     <li key={index} className="flex gap-4">
@@ -344,14 +320,10 @@ export default async function HomePage({ params }: PageProps) {
               locale={validLocale}
               dict={dict}
               title={
-                locale === "ko"
-                  ? "전문 상담이 필요하신가요?"
-                  : "Need Expert Consultation?"
+                { ko: "전문 상담이 필요하신가요?", en: "Need Expert Consultation?", zh: "需要专业咨询吗？", ja: "専門相談が必要ですか？" }[locale] ?? "Need Expert Consultation?"
               }
               description={
-                locale === "ko"
-                  ? "비자, 법인 설립, 이민에 관한 모든 궁금증을 해결해 드립니다. 무료 상담을 신청하세요."
-                  : "We answer all your questions about visas, company setup, and immigration. Request a free consultation."
+                { ko: "비자, 법인 설립, 이민에 관한 모든 궁금증을 해결해 드립니다. 무료 상담을 신청하세요.", en: "We answer all your questions about visas, company setup, and immigration. Request a free consultation.", zh: "解答您关于签证、法人设立、移民的所有疑问。请申请免费咨询。", ja: "ビザ、法人設立、移民に関するすべてのご質問にお答えします。無料相談をお申し込みください。" }[locale] ?? "We answer all your questions about visas, company setup, and immigration. Request a free consultation."
               }
             />
           </div>

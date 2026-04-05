@@ -63,34 +63,38 @@ export default async function ContactPage({ params }: PageProps) {
   ) as Locale;
   const dict = getDictionary(validLocale);
 
-  const isKo = validLocale === "ko";
+  const t4 = (ko: string, en: string, zh: string, ja: string) =>
+    ({ ko, en, zh, ja }[validLocale] ?? en);
 
   const contactMethods = [
     {
       icon: <Phone className="h-5 w-5" />,
-      title: isKo ? "전화 상담" : "Phone",
+      title: t4("전화 상담", "Phone", "电话咨询", "電話相談"),
       value: "02-363-2251",
-      description: isKo ? "월-금 9:30 AM - 5:30 PM" : "Mon-Fri 9:30 AM - 5:30 PM",
+      description: t4("월-금 9:30 AM - 5:30 PM", "Mon-Fri 9:30 AM - 5:30 PM", "周一至周五 9:30 AM - 5:30 PM", "月-金 9:30 AM - 5:30 PM"),
     },
     {
       icon: <Mail className="h-5 w-5" />,
-      title: isKo ? "이메일" : "Email",
+      title: t4("이메일", "Email", "电子邮件", "メール"),
       value: "5000meter@gmail.com",
-      description: isKo ? "24시간 접수 가능" : "Available 24/7",
+      description: t4("24시간 접수 가능", "Available 24/7", "24小时可受理", "24時間受付可能"),
     },
     {
       icon: <MessageCircle className="h-5 w-5" />,
-      title: isKo ? "카카오톡" : "KakaoTalk",
+      title: t4("카카오톡", "KakaoTalk", "KakaoTalk", "KakaoTalk"),
       value: "alexkorea",
-      description: isKo ? "실시간 상담" : "Real-time chat",
+      description: t4("실시간 상담", "Real-time chat", "实时咨询", "リアルタイム相談"),
     },
     {
       icon: <MapPin className="h-5 w-5" />,
-      title: isKo ? "사무소 위치" : "Office Location",
-      value: isKo
-        ? "(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)"
-        : "324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul",
-      description: isKo ? "동대문역사문화공원역 4번출구 10미터" : "Dongdaemun History & Culture Park Stn. Exit 4, 10m",
+      title: t4("사무소 위치", "Office Location", "事务所位置", "事務所所在地"),
+      value: t4(
+        "(04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)",
+        "324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul",
+        "(04614) 首尔市中区退溪路324, 3层 (成友大厦)",
+        "(04614) ソウル市中区退渓路324, 3階 (ソンウビル)"
+      ),
+      description: t4("동대문역사문화공원역 4번출구 10미터", "Dongdaemun History & Culture Park Stn. Exit 4, 10m", "东大门历史文化公园站4号出口10米", "東大門歴史文化公園駅4番出口10m"),
     },
   ];
 
@@ -146,7 +150,7 @@ export default async function ContactPage({ params }: PageProps) {
                 <Card>
                   <CardHeader>
                     <CardTitle>
-                      {isKo ? "상담 신청서" : "Consultation Request"}
+                      {t4("상담 신청서", "Consultation Request", "咨询申请表", "相談申請書")}
                     </CardTitle>
                   </CardHeader>
                   <CardContent>
@@ -194,7 +198,7 @@ export default async function ContactPage({ params }: PageProps) {
                             {dict.common.business}
                           </option>
                           <option value="other">
-                            {isKo ? "기타" : "Other"}
+                            {t4("기타", "Other", "其他", "その他")}
                           </option>
                         </select>
                       </div>
@@ -223,7 +227,7 @@ export default async function ContactPage({ params }: PageProps) {
                   <CardHeader>
                     <CardTitle className="flex items-center gap-2">
                       <MessageCircle className="h-5 w-5" />
-                      {isKo ? "메신저로 문의" : "Chat with Us"}
+                      {t4("메신저로 문의", "Chat with Us", "通过聊天软件咨询", "メッセンジャーでお問い合わせ")}
                     </CardTitle>
                   </CardHeader>
                   <CardContent>
@@ -255,23 +259,23 @@ export default async function ContactPage({ params }: PageProps) {
                   <CardHeader>
                     <CardTitle className="flex items-center gap-2">
                       <Clock className="h-5 w-5" />
-                      {isKo ? "영업 시간" : "Business Hours"}
+                      {t4("영업 시간", "Business Hours", "营业时间", "営業時間")}
                     </CardTitle>
                   </CardHeader>
                   <CardContent>
                     <div className="space-y-2 text-sm">
                       <div className="flex justify-between">
                         <span className="text-muted-foreground">
-                          {isKo ? "월-금" : "Mon-Fri"}
+                          {t4("월-금", "Mon-Fri", "周一至周五", "月-金")}
                         </span>
                         <span className="font-medium">9:30 AM - 5:30 PM</span>
                       </div>
                       <div className="flex justify-between">
                         <span className="text-muted-foreground">
-                          {isKo ? "토/일/공휴일" : "Sat/Sun/Holidays"}
+                          {t4("토/일/공휴일", "Sat/Sun/Holidays", "周六/周日/节假日", "土/日/祝日")}
                         </span>
                         <span className="font-medium">
-                          {isKo ? "휴무" : "Closed"}
+                          {t4("휴무", "Closed", "休息", "休業")}
                         </span>
                       </div>
                     </div>

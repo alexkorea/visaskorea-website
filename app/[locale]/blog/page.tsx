@@ -89,7 +89,7 @@ export default async function BlogListPage({ params, searchParams }: PageProps) 
                   variant={!category ? "default" : "outline"}
                   className="cursor-pointer"
                 >
-                  {validLocale === "ko" ? "전체" : "All"}
+                  {{ ko: "전체", en: "All", zh: "全部", ja: "全て" }[validLocale]}
                 </Badge>
               </Link>
               {Object.entries(categoryLabels).map(([key, labels]) => (
@@ -167,9 +167,7 @@ export default async function BlogListPage({ params, searchParams }: PageProps) 
               </div>
             ) : (
               <div className="py-16 text-center text-muted-foreground">
-                {validLocale === "ko"
-                  ? "게시물이 없습니다."
-                  : "No posts found."}
+                {{ ko: "게시물이 없습니다.", en: "No posts found.", zh: "暂无文章。", ja: "投稿がありません。" }[validLocale]}
               </div>
             )}
           </div>
