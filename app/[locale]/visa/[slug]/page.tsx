@@ -92,14 +92,10 @@ export default async function VisaDetailPage({ params }: PageProps) {
               locale={validLocale}
               dict={dict}
               title={
-                validLocale === "ko"
-                  ? "비자 신청, 전문가와 함께하세요"
-                  : "Apply with Expert Guidance"
+                { ko: "비자 신청, 전문가와 함께하세요", en: "Apply with Expert Guidance", zh: "签证申请，专家全程陪伴", ja: "ビザ申請、専門家と一緒に" }[validLocale] ?? "Apply with Expert Guidance"
               }
               description={
-                validLocale === "ko"
-                  ? "복잡한 비자 절차, 경험 많은 전문가가 처음부터 끝까지 함께합니다."
-                  : "Our experienced team guides you through the entire visa process."
+                { ko: "복잡한 비자 절차, 경험 많은 전문가가 처음부터 끝까지 함께합니다.", en: "Our experienced team guides you through the entire visa process.", zh: "复杂的签证手续，经验丰富的专家从头到尾全程支持。", ja: "複雑なビザ手続き、経験豊富な専門家が最初から最後までサポートします。" }[validLocale] ?? "Our experienced team guides you through the entire visa process."
               }
             />
           </div>

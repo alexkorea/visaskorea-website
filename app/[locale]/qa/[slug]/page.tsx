@@ -113,14 +113,10 @@ export default async function QADetailPage({ params }: PageProps) {
               <CardContent className="flex flex-col items-center p-6 text-center sm:flex-row sm:text-left">
                 <div className="flex-1">
                   <h3 className="font-semibold">
-                    {validLocale === "ko"
-                      ? "더 궁금한 점이 있으신가요?"
-                      : "Have more questions?"}
+                    {{ ko: "더 궁금한 점이 있으신가요?", en: "Have more questions?", zh: "还有其他问题吗？", ja: "他にご質問がありますか？" }[validLocale]}
                   </h3>
                   <p className="mt-1 text-sm text-muted-foreground">
-                    {validLocale === "ko"
-                      ? "전문 상담사에게 직접 문의하세요."
-                      : "Contact our expert consultants directly."}
+                    {{ ko: "전문 상담사에게 직접 문의하세요.", en: "Contact our expert consultants directly.", zh: "请直接联系我们的专业顾问。", ja: "専門コンサルタントに直接お問い合わせください。" }[validLocale]}
                   </p>
                 </div>
                 <Button asChild className="mt-4 sm:mt-0">
@@ -139,7 +135,7 @@ export default async function QADetailPage({ params }: PageProps) {
           <section className="border-t bg-muted/20 py-12 md:py-16">
             <div className="mx-auto max-w-4xl px-4">
               <h2 className="mb-6 text-xl font-semibold">
-                {validLocale === "ko" ? "관련 질문" : "Related Questions"}
+                {{ ko: "관련 질문", en: "Related Questions", zh: "相关问题", ja: "関連する質問" }[validLocale]}
               </h2>
               <div className="space-y-4">
                 {relatedItems.map((relatedItem) => (

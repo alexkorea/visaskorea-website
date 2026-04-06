@@ -215,7 +215,7 @@ export default async function BlogDetailPage({ params }: PageProps) {
                             </p>
                             <p className="mt-0.5 text-xs text-muted-foreground">
                               {new Date(rp.date).toLocaleDateString(
-                                validLocale === "ko" ? "ko-KR" : "en-US",
+                                { ko: "ko-KR", en: "en-US", zh: "zh-CN", ja: "ja-JP" }[validLocale] ?? "en-US",
                                 { year: "numeric", month: "short", day: "numeric" }
                               )}
                             </p>

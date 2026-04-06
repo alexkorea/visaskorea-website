@@ -91,7 +91,7 @@ export default async function QAListPage({
                   variant={!category ? "default" : "outline"}
                   className="cursor-pointer"
                 >
-                  {validLocale === "ko" ? "전체" : "All"}
+                  {{ ko: "전체", en: "All", zh: "全部", ja: "全て" }[validLocale]}
                 </Badge>
               </Link>
               {Object.entries(categoryLabels).map(([key, labels]) => (
@@ -143,9 +143,7 @@ export default async function QAListPage({
               </div>
             ) : (
               <div className="py-16 text-center text-muted-foreground">
-                {validLocale === "ko"
-                  ? "질문이 없습니다."
-                  : "No questions found."}
+                {{ ko: "질문이 없습니다.", en: "No questions found.", zh: "暂无问题。", ja: "質問がありません。" }[validLocale]}
               </div>
             )}
 
@@ -154,14 +152,10 @@ export default async function QAListPage({
               <CardContent className="flex flex-col items-center p-8 text-center sm:flex-row sm:text-left">
                 <div className="flex-1">
                   <h3 className="text-lg font-semibold">
-                    {validLocale === "ko"
-                      ? "궁금한 점이 있으신가요?"
-                      : "Have a question?"}
+                    {{ ko: "궁금한 점이 있으신가요?", en: "Have a question?", zh: "有疑问吗？", ja: "ご質問がありますか？" }[validLocale]}
                   </h3>
                   <p className="mt-1 text-sm text-muted-foreground">
-                    {validLocale === "ko"
-                      ? "찾으시는 답변이 없다면 직접 문의해 주세요."
-                      : "If you can't find your answer, contact us directly."}
+                    {{ ko: "찾으시는 답변이 없다면 직접 문의해 주세요.", en: "If you can't find your answer, contact us directly.", zh: "如果找不到答案，请直接联系我们。", ja: "お探しの回答が見つからない場合は、直接お問い合わせください。" }[validLocale]}
                   </p>
                 </div>
                 <Button asChild className="mt-4 sm:mt-0">

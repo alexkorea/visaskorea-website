@@ -60,62 +60,44 @@ export default async function ServicesPage({ params }: PageProps) {
   ) as Locale;
   const dict = getDictionary(validLocale);
 
-  const isKo = validLocale === "ko";
-
   const categories = [
     {
       id: "investment",
-      title: isKo ? "투자이민" : "Investment Immigration",
-      description: isKo
-        ? "D-8 투자비자, 외국인투자법인 설립, 투자 컨설팅 등 투자를 통한 이민 서비스"
-        : "Immigration services through investment including D-8 visa, foreign investment company setup, and consulting",
+      title: { ko: "투자이민", en: "Investment Immigration", zh: "投资移民", ja: "投資移民" }[validLocale],
+      description: { ko: "D-8 투자비자, 외국인투자법인 설립, 투자 컨설팅 등 투자를 통한 이민 서비스", en: "Immigration services through investment including D-8 visa, foreign investment company setup, and consulting", zh: "D-8投资签证、外商投资法人设立、投资咨询等通过投资的移民服务", ja: "D-8投資ビザ、外国人投資法人設立、投資コンサルティングなど投資を通じた移民サービス" }[validLocale],
       href: `/${validLocale}/services/investment`,
       icon: Briefcase,
-      featured: isKo
-        ? ["D-8 투자비자", "법인 설립", "투자 컨설팅"]
-        : ["D-8 Investment Visa", "Company Setup", "Investment Consulting"],
+      featured: { ko: ["D-8 투자비자", "법인 설립", "투자 컨설팅"], en: ["D-8 Investment Visa", "Company Setup", "Investment Consulting"], zh: ["D-8 投资签证", "法人设立", "投资咨询"], ja: ["D-8 投資ビザ", "法人設立", "投資コンサルティング"] }[validLocale]!,
       color: "text-emerald-600",
       bgColor: "bg-emerald-50",
     },
     {
       id: "employment",
-      title: isKo ? "취업이민" : "Employment Immigration",
-      description: isKo
-        ? "E-7 전문직비자, 취업비자 변경, 노동허가 등 취업 기반 이민 서비스"
-        : "Employment-based immigration including E-7 professional visa, work visa changes, and work permits",
+      title: { ko: "취업이민", en: "Employment Immigration", zh: "就业移民", ja: "就労移民" }[validLocale],
+      description: { ko: "E-7 전문직비자, 취업비자 변경, 노동허가 등 취업 기반 이민 서비스", en: "Employment-based immigration including E-7 professional visa, work visa changes, and work permits", zh: "E-7专业签证、就业签证变更、劳动许可等基于就业的移民服务", ja: "E-7専門職ビザ、就労ビザ変更、労働許可など就労ベースの移民サービス" }[validLocale],
       href: `/${validLocale}/services/employment`,
       icon: Users,
-      featured: isKo
-        ? ["E-7 전문직비자", "취업비자", "자격변경"]
-        : ["E-7 Professional Visa", "Work Visa", "Status Change"],
+      featured: { ko: ["E-7 전문직비자", "취업비자", "자격변경"], en: ["E-7 Professional Visa", "Work Visa", "Status Change"], zh: ["E-7 专业签证", "就业签证", "资格变更"], ja: ["E-7 専門職ビザ", "就労ビザ", "資格変更"] }[validLocale]!,
       color: "text-blue-600",
       bgColor: "bg-blue-50",
     },
     {
       id: "residence",
-      title: isKo ? "영주권/시민권" : "Permanent Residence",
-      description: isKo
-        ? "F-5 영주권, F-2 거주비자, 가족초청, 귀화 등 장기체류 서비스"
-        : "Long-term stay services including F-5 permanent residence, F-2 residence visa, family invitation, and naturalization",
+      title: { ko: "영주권/시민권", en: "Permanent Residence", zh: "永住权/公民权", ja: "永住権/市民権" }[validLocale],
+      description: { ko: "F-5 영주권, F-2 거주비자, 가족초청, 귀화 등 장기체류 서비스", en: "Long-term stay services including F-5 permanent residence, F-2 residence visa, family invitation, and naturalization", zh: "F-5永住权、F-2居住签证、家属邀请、归化等长期居留服务", ja: "F-5永住権、F-2居住ビザ、家族招請、帰化など長期滞在サービス" }[validLocale],
       href: `/${validLocale}/services/residence`,
       icon: Home,
-      featured: isKo
-        ? ["F-5 영주권", "F-2 거주비자", "귀화"]
-        : ["F-5 Permanent Residence", "F-2 Residence Visa", "Naturalization"],
+      featured: { ko: ["F-5 영주권", "F-2 거주비자", "귀화"], en: ["F-5 Permanent Residence", "F-2 Residence Visa", "Naturalization"], zh: ["F-5 永住权", "F-2 居住签证", "归化"], ja: ["F-5 永住権", "F-2 居住ビザ", "帰化"] }[validLocale]!,
       color: "text-amber-600",
       bgColor: "bg-amber-50",
     },
     {
       id: "criminal",
-      title: isKo ? "범죄기록 심사" : "Criminal Record Review",
-      description: isKo
-        ? "입국금지 해제, 범죄기록 관련 비자 문제, 입국심사 대응 서비스"
-        : "Entry ban removal, criminal record visa issues, and immigration review response services",
+      title: { ko: "범죄기록 심사", en: "Criminal Record Review", zh: "犯罪记录审查", ja: "犯罪歴審査" }[validLocale],
+      description: { ko: "입국금지 해제, 범죄기록 관련 비자 문제, 입국심사 대응 서비스", en: "Entry ban removal, criminal record visa issues, and immigration review response services", zh: "入境禁止解除、犯罪记录相关签证问题、入境审查应对服务", ja: "入国禁止解除、犯罪歴関連ビザ問題、入国審査対応サービス" }[validLocale],
       href: `/${validLocale}/services/criminal`,
       icon: Shield,
-      featured: isKo
-        ? ["입국금지 해제", "범죄기록 심사", "입국심사 대응"]
-        : ["Entry Ban Removal", "Criminal Review", "Immigration Response"],
+      featured: { ko: ["입국금지 해제", "범죄기록 심사", "입국심사 대응"], en: ["Entry Ban Removal", "Criminal Review", "Immigration Response"], zh: ["入境禁止解除", "犯罪记录审查", "入境审查应对"], ja: ["入国禁止解除", "犯罪歴審査", "入国審査対応"] }[validLocale]!,
       color: "text-rose-600",
       bgColor: "bg-rose-50",
     },
@@ -191,14 +173,10 @@ export default async function ServicesPage({ params }: PageProps) {
         <section className="border-t bg-muted/30 py-12 md:py-16">
           <div className="mx-auto max-w-2xl px-4 text-center">
             <h2 className="text-2xl font-bold tracking-tight md:text-3xl">
-              {isKo
-                ? "어떤 서비스가 필요하신가요?"
-                : "Which service do you need?"}
+              {{ ko: "어떤 서비스가 필요하신가요?", en: "Which service do you need?", zh: "您需要什么服务？", ja: "どのサービスが必要ですか？" }[validLocale]}
             </h2>
             <p className="mt-4 text-muted-foreground">
-              {isKo
-                ? "귀하의 상황에 맞는 최적의 전략을 제안해 드립니다."
-                : "We will suggest the optimal strategy for your situation."}
+              {{ ko: "귀하의 상황에 맞는 최적의 전략을 제안해 드립니다.", en: "We will suggest the optimal strategy for your situation.", zh: "我们将为您的情况提出最佳策略。", ja: "お客様の状況に合った最適な戦略をご提案いたします。" }[validLocale]}
             </p>
             <Link
               href={`/${validLocale}/contact`}
