@@ -28,19 +28,19 @@ const VISA_CATEGORY_SEO = {
   },
 } as const;
 
-const categories: Record<string, { icon: typeof Briefcase; title: Record<string, string>; desc: Record<string, string>; items: { slug: string; label: string }[] }> = {
+const categories: Record<string, { icon: typeof Briefcase; title: Record<string, string>; desc: Record<string, string>; items: { slug: string; label: Record<string, string> }[] }> = {
   work: {
     icon: Briefcase,
     title: { ko: "취업 비자", en: "Work Visas", zh: "就业签证", ja: "就労ビザ" },
     desc: { ko: "한국에서 취업 및 사업 활동을 위한 비자", en: "Visas for employment and business activities in Korea", zh: "在韩国就业和商业活动的签证", ja: "韓国での就労・事業活動のためのビザ" },
     items: [
-      { slug: "e-7", label: "E-7 특정활동" },
-      { slug: "e-6", label: "E-6 예술흥행" },
-      { slug: "d-7", label: "D-7 주재원" },
-      { slug: "d-8-executive", label: "D-8 임원파견" },
-      { slug: "d-8-individual", label: "D-8 개인투자" },
-      { slug: "d-8", label: "D-8 기업투자" },
-      { slug: "d-9", label: "D-9 무역경영" },
+      { slug: "e-7", label: { ko: "E-7 특정활동", en: "E-7 Professional Activity", zh: "E-7 特定活动", ja: "E-7 特定活動" } },
+      { slug: "e-6", label: { ko: "E-6 예술흥행", en: "E-6 Arts & Entertainment", zh: "E-6 艺术演出", ja: "E-6 芸術興行" } },
+      { slug: "d-7", label: { ko: "D-7 주재원", en: "D-7 Intra-company Transfer", zh: "D-7 驻在员", ja: "D-7 駐在員" } },
+      { slug: "d-8-executive", label: { ko: "D-8 임원파견", en: "D-8 Executive Transfer", zh: "D-8 高管派遣", ja: "D-8 役員派遣" } },
+      { slug: "d-8-individual", label: { ko: "D-8 개인투자", en: "D-8 Individual Investment", zh: "D-8 个人投资", ja: "D-8 個人投資" } },
+      { slug: "d-8", label: { ko: "D-8 기업투자", en: "D-8 Corporate Investment", zh: "D-8 企业投资", ja: "D-8 企業投資" } },
+      { slug: "d-9", label: { ko: "D-9 무역경영", en: "D-9 Trade & Management", zh: "D-9 贸易经营", ja: "D-9 貿易経営" } },
     ],
   },
   residence: {
@@ -48,13 +48,13 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     title: { ko: "체류 비자", en: "Residence Visas", zh: "居留签证", ja: "在留ビザ" },
     desc: { ko: "한국에서의 체류 및 거주를 위한 비자", en: "Visas for stay and residence in Korea", zh: "在韩国居留的签证", ja: "韓国での滞在・居住のためのビザ" },
     items: [
-      { slug: "f-1-digital-nomad", label: "F-1 디지털노마드" },
-      { slug: "f-1-visit", label: "F-1 방문동거" },
-      { slug: "f-2-points", label: "F-2 점수제" },
-      { slug: "f-2-public-interest", label: "F-2 공익사업투자" },
-      { slug: "f-2-real-estate", label: "F-2 부동산투자" },
-      { slug: "f-4", label: "F-4 거소증" },
-      { slug: "f-6", label: "F-6 결혼비자" },
+      { slug: "f-1-digital-nomad", label: { ko: "F-1 디지털노마드", en: "F-1 Digital Nomad", zh: "F-1 数字游民", ja: "F-1 デジタルノマド" } },
+      { slug: "f-1-visit", label: { ko: "F-1 방문동거", en: "F-1 Family Visit", zh: "F-1 访问同居", ja: "F-1 訪問同居" } },
+      { slug: "f-2-points", label: { ko: "F-2 점수제", en: "F-2 Points-based", zh: "F-2 积分制", ja: "F-2 ポイント制" } },
+      { slug: "f-2-public-interest", label: { ko: "F-2 공익사업투자", en: "F-2 Public Interest Investment", zh: "F-2 公益事业投资", ja: "F-2 公益事業投資" } },
+      { slug: "f-2-real-estate", label: { ko: "F-2 부동산투자", en: "F-2 Real Estate Investment", zh: "F-2 房地产投资", ja: "F-2 不動産投資" } },
+      { slug: "f-4", label: { ko: "F-4 거소증", en: "F-4 Overseas Korean", zh: "F-4 海外同胞", ja: "F-4 在外同胞" } },
+      { slug: "f-6", label: { ko: "F-6 결혼비자", en: "F-6 Marriage Visa", zh: "F-6 结婚签证", ja: "F-6 結婚ビザ" } },
     ],
   },
   permanent: {
@@ -62,20 +62,20 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     title: { ko: "F-5 영주권", en: "F-5 Permanent Residency", zh: "F-5 永住权", ja: "F-5 永住権" },
     desc: { ko: "한국 영주권의 다양한 취득 경로", en: "Various pathways to Korean permanent residency", zh: "韩国永住权的各种取得途径", ja: "韓国永住権の様々な取得経路" },
     items: [
-      { slug: "f-5", label: "F-5 영주권 개요" },
-      { slug: "f-5-1", label: "F-5-1 일반영주" },
-      { slug: "f-5-2", label: "F-5-2 국민 배우자" },
-      { slug: "f-5-5", label: "F-5-5 고액투자자" },
-      { slug: "f-5-6", label: "F-5-6 재외동포" },
-      { slug: "f-5-8", label: "F-5-8 재한화교" },
-      { slug: "f-5-9", label: "F-5-9 첨단분야 박사" },
-      { slug: "f-5-10", label: "F-5-10 학사·석사" },
-      { slug: "f-5-11", label: "F-5-11 특정분야" },
-      { slug: "f-5-16", label: "F-5-16 점수제" },
-      { slug: "f-5-17", label: "F-5-17 부동산투자" },
-      { slug: "f-5-21", label: "F-5-21 공익사업" },
-      { slug: "f-5-24", label: "F-5-24 기술창업" },
-      { slug: "f-5-25", label: "F-5-25 조건부" },
+      { slug: "f-5", label: { ko: "F-5 영주권 개요", en: "F-5 Overview", zh: "F-5 永住权概要", ja: "F-5 永住権概要" } },
+      { slug: "f-5-1", label: { ko: "F-5-1 일반영주", en: "F-5-1 General", zh: "F-5-1 一般永住", ja: "F-5-1 一般永住" } },
+      { slug: "f-5-2", label: { ko: "F-5-2 국민 배우자", en: "F-5-2 Spouse of Citizen", zh: "F-5-2 国民配偶", ja: "F-5-2 国民の配偶者" } },
+      { slug: "f-5-5", label: { ko: "F-5-5 고액투자자", en: "F-5-5 High-value Investor", zh: "F-5-5 高额投资者", ja: "F-5-5 高額投資家" } },
+      { slug: "f-5-6", label: { ko: "F-5-6 재외동포", en: "F-5-6 Overseas Korean", zh: "F-5-6 海外同胞", ja: "F-5-6 在外同胞" } },
+      { slug: "f-5-8", label: { ko: "F-5-8 재한화교", en: "F-5-8 Chinese-Korean", zh: "F-5-8 在韩华侨", ja: "F-5-8 在韓華僑" } },
+      { slug: "f-5-9", label: { ko: "F-5-9 첨단분야 박사", en: "F-5-9 Advanced Degree (PhD)", zh: "F-5-9 尖端领域博士", ja: "F-5-9 先端分野博士" } },
+      { slug: "f-5-10", label: { ko: "F-5-10 학사·석사", en: "F-5-10 Bachelor's/Master's", zh: "F-5-10 学士·硕士", ja: "F-5-10 学士・修士" } },
+      { slug: "f-5-11", label: { ko: "F-5-11 특정분야", en: "F-5-11 Specific Field", zh: "F-5-11 特定领域", ja: "F-5-11 特定分野" } },
+      { slug: "f-5-16", label: { ko: "F-5-16 점수제", en: "F-5-16 Points-based", zh: "F-5-16 积分制", ja: "F-5-16 ポイント制" } },
+      { slug: "f-5-17", label: { ko: "F-5-17 부동산투자", en: "F-5-17 Real Estate", zh: "F-5-17 房地产投资", ja: "F-5-17 不動産投資" } },
+      { slug: "f-5-21", label: { ko: "F-5-21 공익사업", en: "F-5-21 Public Interest", zh: "F-5-21 公益事业", ja: "F-5-21 公益事業" } },
+      { slug: "f-5-24", label: { ko: "F-5-24 기술창업", en: "F-5-24 Tech Startup", zh: "F-5-24 技术创业", ja: "F-5-24 技術創業" } },
+      { slug: "f-5-25", label: { ko: "F-5-25 조건부", en: "F-5-25 Conditional", zh: "F-5-25 有条件", ja: "F-5-25 条件付き" } },
     ],
   },
   criminal: {
@@ -83,7 +83,7 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     title: { ko: "사범심사", en: "Criminal Review", zh: "犯罪审查", ja: "犯罪審査" },
     desc: { ko: "입국제한·범죄경력 심사 전문 서비스", en: "Expert services for entry restriction and criminal record review", zh: "入境限制·犯罪记录审查专业服务", ja: "入国制限・犯罪経歴審査専門サービス" },
     items: [
-      { slug: "criminal-review", label: "사범심사 안내" },
+      { slug: "criminal-review", label: { ko: "사범심사 안내", en: "Criminal Review Guide", zh: "犯罪审查指南", ja: "犯罪審査案内" } },
     ],
   },
   immigration: {
@@ -91,10 +91,10 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     title: { ko: "이민", en: "Immigration", zh: "移民", ja: "移民" },
     desc: { ko: "투자를 통한 한국 이민 전문 상담", en: "Immigration to Korea through investment", zh: "通过投资移民韩国专业咨询", ja: "投資による韓国移民専門相談" },
     items: [
-      { slug: "f-2-public-interest", label: "공익사업투자 이민" },
-      { slug: "f-2-real-estate", label: "부동산투자 이민" },
-      { slug: "f-5-16", label: "점수제 영주권" },
-      { slug: "f-5-25", label: "은퇴이민 (조건부)" },
+      { slug: "f-2-public-interest", label: { ko: "공익사업투자 이민", en: "Public Interest Investment", zh: "公益事业投资移民", ja: "公益事業投資移民" } },
+      { slug: "f-2-real-estate", label: { ko: "부동산투자 이민", en: "Real Estate Investment", zh: "房地产投资移民", ja: "不動産投資移民" } },
+      { slug: "f-5-16", label: { ko: "점수제 영주권", en: "Points-based PR", zh: "积分制永住权", ja: "ポイント制永住権" } },
+      { slug: "f-5-25", label: { ko: "은퇴이민 (조건부)", en: "Retirement (Conditional)", zh: "退休移民（有条件）", ja: "退職移民（条件付き）" } },
     ],
   },
   naturalization: {
@@ -102,8 +102,8 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     title: { ko: "귀화 / 국적회복", en: "Naturalization / Nationality Recovery", zh: "归化 / 国籍恢复", ja: "帰化 / 国籍回復" },
     desc: { ko: "대한민국 국적 취득 및 회복 절차", en: "Korean nationality acquisition and recovery procedures", zh: "韩国国籍取得及恢复手续", ja: "韓国国籍取得・回復手続き" },
     items: [
-      { slug: "naturalization", label: "귀화 신청" },
-      { slug: "nationality-recovery", label: "국적회복" },
+      { slug: "naturalization", label: { ko: "귀화 신청", en: "Naturalization Application", zh: "归化申请", ja: "帰化申請" } },
+      { slug: "nationality-recovery", label: { ko: "국적회복", en: "Nationality Recovery", zh: "国籍恢复", ja: "国籍回復" } },
     ],
   },
   business: {
@@ -111,9 +111,9 @@ const categories: Record<string, { icon: typeof Briefcase; title: Record<string,
     title: { ko: "법인설립", en: "Company Formation", zh: "法人设立", ja: "法人設立" },
     desc: { ko: "외국인투자기업, 지사, 연락사무소 설립", en: "FDI company, branch office, liaison office setup", zh: "外国投资企业、分公司、联络处设立", ja: "外国人投資企業、支社、連絡事務所設立" },
     items: [
-      { slug: "foreign-invested-company", label: "외국인투자기업설립" },
-      { slug: "branch-office", label: "지점/지사/영업소 설치" },
-      { slug: "liaison-office", label: "연락사무소 설치" },
+      { slug: "foreign-invested-company", label: { ko: "외국인투자기업설립", en: "FDI Company Setup", zh: "外国投资企业设立", ja: "外国人投資企業設立" } },
+      { slug: "branch-office", label: { ko: "지점/지사/영업소 설치", en: "Branch Office Setup", zh: "分支机构设置", ja: "支店/支社/営業所設置" } },
+      { slug: "liaison-office", label: { ko: "연락사무소 설치", en: "Liaison Office Setup", zh: "联络处设立", ja: "連絡事務所設立" } },
     ],
   },
 };
@@ -168,7 +168,7 @@ export default async function VisaListPage({ params }: PageProps) {
                             href={`/${validLocale}${basePath}/${item.slug}`}
                             className="flex items-center justify-between py-2 px-3 rounded-lg text-sm text-slate-700 hover:bg-blue-50 hover:text-blue-700 transition-colors group"
                           >
-                            <span>{item.label}</span>
+                            <span>{item.label[validLocale] || item.label.ko}</span>
                             <ArrowRight className="h-3.5 w-3.5 text-slate-400 group-hover:text-blue-600 transition-colors" />
                           </Link>
                         </li>

@@ -1,8 +1,8 @@
 import type { CategoryData } from './types'
-import { investmentCategoryKo } from './data/investment'
-import { employmentCategoryKo } from './data/employment'
-import { residenceCategoryKo } from './data/residence'
-import { criminalCategoryKo } from './data/criminal'
+import { investmentCategoryKo, investmentCategoryEn, investmentCategoryZh, investmentCategoryJa } from './data/investment'
+import { employmentCategoryKo, employmentCategoryEn, employmentCategoryZh, employmentCategoryJa } from './data/employment'
+import { residenceCategoryKo, residenceCategoryEn, residenceCategoryZh, residenceCategoryJa } from './data/residence'
+import { criminalCategoryKo, criminalCategoryEn, criminalCategoryZh, criminalCategoryJa } from './data/criminal'
 
 export * from './types'
 
@@ -13,6 +13,24 @@ const categoryRegistry: Record<string, Record<string, CategoryData>> = {
     employment: employmentCategoryKo,
     residence: residenceCategoryKo,
     criminal: criminalCategoryKo,
+  },
+  en: {
+    investment: investmentCategoryEn,
+    employment: employmentCategoryEn,
+    residence: residenceCategoryEn,
+    criminal: criminalCategoryEn,
+  },
+  zh: {
+    investment: investmentCategoryZh,
+    employment: employmentCategoryZh,
+    residence: residenceCategoryZh,
+    criminal: criminalCategoryZh,
+  },
+  ja: {
+    investment: investmentCategoryJa,
+    employment: employmentCategoryJa,
+    residence: residenceCategoryJa,
+    criminal: criminalCategoryJa,
   },
 }
 
@@ -48,7 +66,19 @@ export function categoryExists(locale: string, slug: string): boolean {
 
 export {
   investmentCategoryKo,
+  investmentCategoryEn,
+  investmentCategoryZh,
+  investmentCategoryJa,
   employmentCategoryKo,
+  employmentCategoryEn,
+  employmentCategoryZh,
+  employmentCategoryJa,
   residenceCategoryKo,
+  residenceCategoryEn,
+  residenceCategoryZh,
+  residenceCategoryJa,
   criminalCategoryKo,
+  criminalCategoryEn,
+  criminalCategoryZh,
+  criminalCategoryJa,
 }
