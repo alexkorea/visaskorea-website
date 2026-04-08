@@ -36,7 +36,15 @@ export function middleware(request: NextRequest) {
     (locale) => pathname.startsWith(`/${locale}/`) || pathname === `/${locale}`
   );
 
-  if (pathnameHasLocale) return NextResponse.next();
+  if (pathnameHasLocale) {
+    // Set locale header for root layout to read
+    const locale = i18nConfig.locales.find(
+      (l) => pathname.startsWith(`/${l}/`) || pathname === `/${l}`
+    ) || i18nConfig.defaultLocale;
+    const response = NextResponse.next();
+    response.headers.set('x-locale', locale);
+    return response;
+  }
 
   // Skip middleware for static files and API routes
   if (

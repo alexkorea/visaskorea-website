@@ -1,7 +1,8 @@
 import type { Metadata, Viewport } from 'next'
 import { Noto_Sans_KR, Inter } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
-import { SITE_CONFIG } from '@/lib/seo/config'
+import { headers } from 'next/headers'
+import { SITE_CONFIG, LOCALE_HTML_LANG, type Locale } from '@/lib/seo/config'
 import './globals.css'
 
 const notoSansKR = Noto_Sans_KR({
@@ -90,13 +91,18 @@ export const viewport: Viewport = {
   ],
 }
 
-export default function RootLayout({
+export default async function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode
 }>) {
+  // Read locale from middleware header for dynamic HTML lang attribute
+  const headersList = await headers()
+  const locale = (headersList.get('x-locale') || SITE_CONFIG.defaultLocale) as Locale
+  const htmlLang = LOCALE_HTML_LANG[locale] || 'ko'
+
   return (
-    <html lang="ko" suppressHydrationWarning>
+    <html lang={htmlLang} suppressHydrationWarning>
       <body className={`${notoSansKR.variable} ${inter.variable} font-sans antialiased`}>
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
