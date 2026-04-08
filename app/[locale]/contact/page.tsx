@@ -155,6 +155,7 @@ export default async function ContactPage({ params }: PageProps) {
                     <ContactForm
                       dict={{ contact: dict.contact, common: dict.common }}
                       otherLabel={t4("기타", "Other", "其他", "その他")}
+                      locale={validLocale}
                     />
                   </CardContent>
                 </Card>

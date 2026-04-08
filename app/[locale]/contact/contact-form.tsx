@@ -22,9 +22,28 @@ interface ContactFormProps {
     }
   }
   otherLabel: string
+  locale?: string
 }
 
-export function ContactForm({ dict, otherLabel }: ContactFormProps) {
+const successMessages: Record<string, { title: string; subtitle: string }> = {
+  ko: { title: "상담 신청이 접수되었습니다!", subtitle: "빠른 시일 내에 연락드리겠습니다." },
+  en: { title: "Your inquiry has been submitted!", subtitle: "We will contact you shortly." },
+  zh: { title: "您的咨询已提交！", subtitle: "我们将尽快与您联系。" },
+  ja: { title: "ご相談が受け付けられました！", subtitle: "早急にご連絡いたします。" },
+}
+
+const sendingTexts: Record<string, string> = {
+  ko: "전송 중...", en: "Sending...", zh: "发送中...", ja: "送信中...",
+}
+
+const errorTexts: Record<string, string> = {
+  ko: "전송에 실패했습니다. 직접 전화 또는 이메일로 문의해주세요.",
+  en: "Failed to send. Please contact us by phone or email.",
+  zh: "发送失败。请通过电话或电子邮件联系我们。",
+  ja: "送信に失敗しました。お電話またはメールでお問い合わせください。",
+}
+
+export function ContactForm({ dict, otherLabel, locale = "ko" }: ContactFormProps) {
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
@@ -64,8 +83,8 @@ export function ContactForm({ dict, otherLabel }: ContactFormProps) {
             <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
           </svg>
         </div>
-        <h3 className="text-xl font-semibold">상담 신청이 접수되었습니다!</h3>
-        <p className="mt-2 text-muted-foreground">빠른 시일 내에 연락드리겠습니다.</p>
+        <h3 className="text-xl font-semibold">{successMessages[locale]?.title || successMessages.ko.title}</h3>
+        <p className="mt-2 text-muted-foreground">{successMessages[locale]?.subtitle || successMessages.ko.subtitle}</p>
       </div>
     )
   }
@@ -117,10 +136,10 @@ export function ContactForm({ dict, otherLabel }: ContactFormProps) {
         />
       </div>
       <Button type="submit" className="w-full" disabled={status === "sending"}>
-        {status === "sending" ? "전송 중..." : dict.contact.submit}
+        {status === "sending" ? (sendingTexts[locale] || sendingTexts.ko) : dict.contact.submit}
       </Button>
       {status === "error" && (
-        <p className="text-red-500 text-sm text-center">전송에 실패했습니다. 직접 전화 또는 이메일로 문의해주세요.</p>
+        <p className="text-red-500 text-sm text-center">{errorTexts[locale] || errorTexts.ko}</p>
       )}
     </form>
   )
