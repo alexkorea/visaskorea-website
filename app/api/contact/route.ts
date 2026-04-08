@@ -45,14 +45,16 @@ async function sendEmail(fields: Record<string, string>, senderName: string, sen
 export async function POST(request: Request) {
   try {
     const body = await request.json()
-    const { name, email, phone, company, service, message } = body
+    const { name, email, phone, nationality, currentVisa, country, service, message } = body
 
     const text = `[VisasKorea] 새 상담 문의
 
 이름: ${name || "-"}
 이메일: ${email || "-"}
 전화번호: ${phone || "-"}
-회사: ${company || "-"}
+국적: ${nationality || "-"}
+현재비자: ${currentVisa || "-"}
+거주국가: ${country || "-"}
 서비스: ${service || "-"}
 메시지: ${message || "-"}`
 
@@ -74,7 +76,9 @@ export async function POST(request: Request) {
       "이름": name,
       "이메일": email,
       "전화번호": phone,
-      "회사": company,
+      "국적": nationality,
+      "현재비자": currentVisa,
+      "거주국가": country,
       "서비스": service,
       "메시지": message,
     }, name, email).catch((err) => console.error("Email send error:", err))
