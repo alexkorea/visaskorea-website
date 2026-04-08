@@ -2,7 +2,7 @@
 
 export const SITE_CONFIG = {
   name: "비전행정사사무소",
-  shortName: "VISION",
+  shortName: "비전행정사사무소",
   domain: "https://visaskorea.co.kr",
   defaultLocale: "ko" as const,
   locales: ["ko", "en", "zh", "ja"] as const,

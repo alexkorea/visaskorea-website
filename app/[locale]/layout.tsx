@@ -31,7 +31,7 @@ export async function generateMetadata({
 
   return {
     title: {
-      template: `%s | ${SITE_CONFIG.shortName}`,
+      template: `%s | ${SITE_CONFIG.name}`,
       default: seo.title,
     },
     description: seo.description,

@@ -19,7 +19,7 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    template: `%s | ${SITE_CONFIG.shortName}`,
+    template: `%s | ${SITE_CONFIG.name}`,
     default: SITE_CONFIG.name,
   },
   description: '전문 비자 및 이민 컨설팅 서비스',

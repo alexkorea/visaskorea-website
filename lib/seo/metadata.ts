@@ -45,14 +45,14 @@ export function generatePageMetadata({
   });
   languages["x-default"] = `${baseUrl}/${SITE_CONFIG.defaultLocale}${pathname === "/" ? "" : pathname}`;
 
-  // Combine with site title
+  // Combine with site title (use absolute to prevent layout template duplication)
   const fullTitle =
     seo.title === DEFAULT_SEO[locale].title
       ? seo.title
       : `${seo.title} | ${SITE_CONFIG.shortName}`;
 
   const metadata: Metadata = {
-    title: fullTitle,
+    title: { absolute: fullTitle },
     description: seo.description,
     keywords: seo.keywords || DEFAULT_SEO[locale].keywords,
     authors: seo.author ? [{ name: seo.author }] : undefined,
