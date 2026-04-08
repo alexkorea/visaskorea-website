@@ -1,10 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import Image from "next/image";
-import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
-import { Label } from "@/components/ui/label";
+import { ContactForm } from "./contact-form";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { PageHero } from "@/components/layout/page-hero";
@@ -154,69 +152,10 @@ export default async function ContactPage({ params }: PageProps) {
                     </CardTitle>
                   </CardHeader>
                   <CardContent>
-                    <form className="space-y-4">
-                      <div className="grid gap-4 sm:grid-cols-2">
-                        <div className="space-y-2">
-                          <Label htmlFor="name">{dict.contact.name} *</Label>
-                          <Input id="name" placeholder={dict.contact.name} />
-                        </div>
-                        <div className="space-y-2">
-                          <Label htmlFor="email">{dict.contact.email} *</Label>
-                          <Input
-                            id="email"
-                            type="email"
-                            placeholder={dict.contact.email}
-                          />
-                        </div>
-                      </div>
-                      <div className="grid gap-4 sm:grid-cols-2">
-                        <div className="space-y-2">
-                          <Label htmlFor="phone">{dict.contact.phone}</Label>
-                          <Input id="phone" placeholder={dict.contact.phone} />
-                        </div>
-                        <div className="space-y-2">
-                          <Label htmlFor="company">
-                            {dict.contact.company}
-                          </Label>
-                          <Input
-                            id="company"
-                            placeholder={dict.contact.company}
-                          />
-                        </div>
-                      </div>
-                      <div className="space-y-2">
-                        <Label htmlFor="service">
-                          {dict.contact.service}
-                        </Label>
-                        <select
-                          id="service"
-                          className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background"
-                        >
-                          <option value="">{dict.contact.service}</option>
-                          <option value="visa">{dict.common.visa}</option>
-                          <option value="business">
-                            {dict.common.business}
-                          </option>
-                          <option value="other">
-                            {t4("기타", "Other", "其他", "その他")}
-                          </option>
-                        </select>
-                      </div>
-                      <div className="space-y-2">
-                        <Label htmlFor="message">
-                          {dict.contact.message} *
-                        </Label>
-                        <textarea
-                          id="message"
-                          rows={5}
-                          className="flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground"
-                          placeholder={dict.contact.message}
-                        />
-                      </div>
-                      <Button type="submit" className="w-full">
-                        {dict.contact.submit}
-                      </Button>
-                    </form>
+                    <ContactForm
+                      dict={{ contact: dict.contact, common: dict.common }}
+                      otherLabel={t4("기타", "Other", "其他", "その他")}
+                    />
                   </CardContent>
                 </Card>
               </div>
