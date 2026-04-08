@@ -108,6 +108,16 @@ export default async function BlogDetailPage({ params }: PageProps) {
 
   return (
     <div className="flex min-h-screen flex-col">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "BlogPosting",
+        "headline": post.title,
+        "datePublished": post.date,
+        "author": { "@type": "Organization", "name": "비전행정사사무소" },
+        "publisher": { "@type": "Organization", "name": "비전행정사사무소" },
+        "description": post.excerpt,
+        "mainEntityOfPage": { "@type": "WebPage", "@id": `https://visaskorea.co.kr/${validLocale}/blog/${slug}` }
+      }) }} />
       <Header locale={validLocale} dict={dict} />
 
       <main className="flex-1">
