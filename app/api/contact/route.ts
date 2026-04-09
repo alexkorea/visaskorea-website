@@ -3,6 +3,8 @@ import * as nodemailer from "nodemailer"
 
 const SITE_NAME = "VisasKorea"
 const SITE_NAME_KR = "비자스코리아"
+const NOTION_KEY = process.env.NOTION_API_KEY || ""
+const NOTION_DB = "33d557c9-c8f8-81e7-8c8f-cd36d7abac1f"
 
 async function sendEmail(fields: Record<string, string>, senderName: string, senderEmail: string) {
   const appPassword = process.env.GMAIL_APP_PASSWORD
@@ -40,6 +42,44 @@ async function sendEmail(fields: Record<string, string>, senderName: string, sen
     subject: `[${SITE_NAME_KR}] 새 상담 신청 - ${fields["이름"] || "고객"}`,
     html,
   })
+}
+
+async function saveToNotion(data: Record<string, string>) {
+  if (!NOTION_KEY) {
+    console.warn("NOTION_API_KEY not set — skipping Notion")
+    return
+  }
+
+  const today = new Date().toISOString().slice(0, 10)
+
+  await fetch("https://api.notion.com/v1/pages", {
+    method: "POST",
+    headers: {
+      "Authorization": `Bearer ${NOTION_KEY}`,
+      "Notion-Version": "2022-06-28",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      parent: { database_id: NOTION_DB },
+      properties: {
+        "이름": { title: [{ text: { content: data.name || "" } }] },
+        "이메일": { email: data.email || null },
+        "연락처": { phone_number: data.phone || null },
+        "국적": { rich_text: [{ text: { content: data.nationality || "" } }] },
+        "현재비자": { rich_text: [{ text: { content: data.currentVisa || "" } }] },
+        "거주국가": { rich_text: [{ text: { content: data.country || "" } }] },
+        "서비스": data.service ? { select: { name: data.service } } : undefined,
+        "메시지": { rich_text: [{ text: { content: data.message || "" } }] },
+        "접수일": { date: { start: today } },
+        "상태": { select: { name: "신규" } },
+      },
+    }),
+  })
+}
+
+async function addToCalendar(data: Record<string, string>) {
+  // Google Calendar event creation via n8n or direct API
+  // For now, skip - will be handled separately if needed
 }
 
 export async function POST(request: Request) {
@@ -83,7 +123,11 @@ export async function POST(request: Request) {
       "메시지": message,
     }, name, email).catch((err) => console.error("Email send error:", err))
 
-    await Promise.all([telegramPromise, emailPromise])
+    // Notion save
+    const notionPromise = saveToNotion({ name, email, phone, nationality, currentVisa, country, service, message })
+      .catch((err) => console.error("Notion save error:", err))
+
+    await Promise.all([telegramPromise, emailPromise, notionPromise])
 
     return NextResponse.json({ success: true })
   } catch (error) {
