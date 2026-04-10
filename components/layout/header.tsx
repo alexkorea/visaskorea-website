@@ -340,6 +340,20 @@ export function Header({ locale, dict }: HeaderProps) {
                     </div>
                   );
                 })}
+                <div className="mt-6 border-t pt-4">
+                  <p className="text-xs text-muted-foreground mb-2">{{ ko: "언어", en: "Language", zh: "语言", ja: "言語" }[locale]}</p>
+                  <div className="flex gap-2">
+                    {(Object.entries(LOCALE_NAMES) as [Locale, string][]).map(([loc, name]) => (
+                      <Link
+                        key={loc}
+                        href={`/${loc}${pathWithoutLocale}`}
+                        className={`px-3 py-1.5 text-sm rounded border ${locale === loc ? "bg-primary text-primary-foreground border-primary" : "border-border hover:bg-muted"}`}
+                      >
+                        {name}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
                 <Button className="mt-4 w-full gap-2" asChild>
                   <Link href={`/${locale}/contact`}>
                     <Phone className="h-4 w-4" />
