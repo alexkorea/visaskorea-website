@@ -6,7 +6,6 @@ excerpt: "本文详细介绍D-2留学生签证兼职工作许可的申请流程�
 image: "/slides/documents.jpg"
 slug: "d2-part-time-work-permit"
 ---
-```markdown
 # 留学生D-2签证兼职工作许可申请流程全指南
 
 持有D-2签证在韩国留学的学生，在满足一定条件后，可以合法申请兼职（打工）。想要获得D-2签证的兼职工作许可，必须提前按照出入境管理法律及相关实施细则申请并获得批准。了解申请流程、所需材料及许可标准是非常关键的。
@@ -27,9 +26,7 @@ D-2兼职工作许可办理流程包括：▲学校推荐及在读状态确认 �
   </ul>
 </nav>
 
----
-
-## <h2 id="section-1">D-2兼职许可基本条件</h2>
+<h2 id="section-1">D-2兼职许可基本条件</h2>
 
 按照韩国法律，D-2留学签证持有者如无出入境管理局许可，不得私自兼职。要合法获得许可，必须满足以下所有基本条件：
 
@@ -41,15 +38,11 @@ D-2兼职工作许可办理流程包括：▲学校推荐及在读状态确认 �
 
 满足以上要求后，才可以向出入境管理局申请兼职工作许可。
 
----
-
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
   <strong style="color:#92400e">⚠️ 注意:</strong> 休学、退学或有非法就业纪录的学生将无法申请兼职工作许可。
 </div>
 
----
-
-## <h2 id="section-2">申请流程与各阶段准备</h2>
+<h2 id="section-2">申请流程与各阶段准备</h2>
 
 D-2签证兼职工作许可的办理流程如下：
 
@@ -71,15 +64,11 @@ D-2签证兼职工作许可的办理流程如下：
 ### **6. 获批后方可正式开始工作**
    - 工作时严格遵守许可条件，违规将面临处罚。
 
----
-
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
   <strong style="color:#92400e">⚠️ 注意:</strong> 若未获许可擅自工作，将违反出入境管理规定，本人及雇主都将被追究法律责任。
 </div>
 
----
-
-## <h2 id="section-3">必备材料清单</h2>
+<h2 id="section-3">必备材料清单</h2>
 
 申请D-2兼职许可所需主要材料如下：
 
@@ -94,8 +83,6 @@ D-2签证兼职工作许可的办理流程如下：
 - 非法就业经历确认书（如无经历则无需提交）
 - 其它根据管辖出入境管理局要求的补充资料
 
----
-
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ 检查清单</strong>
   <ul style="margin-top:12px">
@@ -105,9 +92,7 @@ D-2签证兼职工作许可的办理流程如下：
   </ul>
 </div>
 
----
-
-## <h2 id="section-4">工作单位及工时要求与限制</h2>
+<h2 id="section-4">工作单位及工时要求与限制</h2>
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -140,15 +125,11 @@ D-2签证兼职工作许可的办理流程如下：
   </tbody>
 </table>
 
----
-
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
   <strong style="color:#1e40af">💡 实用提示:</strong> 获取许可后，请始终遵守条件。如果需要更换职位或调整工时，请尽快通知主管机构，避免发生违规行为。
 </div>
 
----
-
-## <h2 id="section-5">申请核查表及对比说明</h2>
+<h2 id="section-5">申请核查表及对比说明</h2>
 
 以下对比表总结了具备许可与无许可兼职的主要区别：
 
@@ -179,9 +160,7 @@ D-2签证兼职工作许可的办理流程如下：
   </tbody>
 </table>
 
----
-
-## <h2 id="section-6">常见失误与注意事项</h2>
+<h2 id="section-6">常见失误与注意事项</h2>
 
 ### **常见失误**
 - 未获许可提前工作
@@ -189,7 +168,11 @@ D-2签证兼职工作许可的办理流程如下：
 - 超额兼职工时
 - 忽视更新后的出入境管理法律规定
 
----
-
 **💡 完整内容参考原文，支持高效申请和合法工作！**
-```
+
+<div style="background:#1e40af;color:white;padding:30px;border-radius:8px;margin:40px 0">
+  <h3 style="color:white;margin-top:0;text-align:center">VISION 行政士事务所</h3>
+  <p style="margin:12px 0;text-align:center"><strong>电话:</strong> +82-2-363-2251　|　<strong>邮箱:</strong> 5000meter@gmail.com</p>
+  <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>到访咨询:</strong> (04614) 首尔市中区退溪路324, 3层 (成友大厦) | 东大门历史文化公园站4号出口10米</p>
+</div>
+

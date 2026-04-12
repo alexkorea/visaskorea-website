@@ -24,18 +24,16 @@ It is critical to clearly understand the application process, required documents
 - Common mistakes and warnings
 - FAQ and expert consultation details
 
----
+<h2 id="section-1">Basic Eligibility for D-2 Part-Time Work Permission</h2>
 
-## <h2 id="section-1">Basic Eligibility for D-2 Part-Time Work Permission</h2>
-
-### <h3>1. Academic and Status Requirements</h3>
+<h3>1. Academic and Status Requirements</h3>
 - <strong>Active Enrollment:</strong> You must be a current, enrolled student in a regular university or graduate school program. Students on leave, expelled students, or those admitted but not yet enrolled are <strong>not</strong> eligible.
 - <strong>Academic Standing:</strong> Must maintain a minimum average of “C” (2.0/4.5 GPA) in the previous semester, with satisfactory class attendance and academic progress.
 
-### <h3>2. Official University Support</h3>
+<h3>2. Official University Support</h3>
 - <strong>School Recommendation:</strong> Requires an official recommendation letter from your university president, usually processed through your advisor or international office.
 
-### <h3>3. Legal Status and Prior Records</h3>
+<h3>3. Legal Status and Prior Records</h3>
 - <strong>Valid D-2 Student Visa:</strong> Your visa must remain valid during the period of employment.
 - <strong>No Prior Illegal Employment:</strong> You must have a clean history with no unauthorized work in Korea.
 
@@ -43,7 +41,7 @@ It is critical to clearly understand the application process, required documents
   <strong style="color:#92400e">⚠️ 주의:</strong> Even a single instance of unauthorized employment can impact your eligibility for work permission and future visa extensions.
 </div>
 
-### <h3>4. Eligibility Checklist</h3>
+<h3>4. Eligibility Checklist</h3>
 <div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
   <strong style="color:#166534">✅ 체크리스트</strong>
   <ul style="margin-top:12px">
@@ -55,9 +53,7 @@ It is critical to clearly understand the application process, required documents
   </ul>
 </div>
 
----
-
-## <h2 id="section-2">Application Process and Preparation Steps</h2>
+<h2 id="section-2">Application Process and Preparation Steps</h2>
 
 The approval process for D-2 part-time work permission consists of several important steps. Follow the sequence precisely to avoid mistakes.
 
@@ -103,7 +99,7 @@ The approval process for D-2 part-time work permission consists of several impor
   </tbody>
 </table>
 
-### <h3>Preparation Steps Explained</h3>
+<h3>Preparation Steps Explained</h3>
 - **Choose the workplace and confirm details:** Business type, schedule, and work content must be appropriate and fully documented.
 - **Get school recommendation:** Schedule a meeting with your advisor or the international office early, as recommendation letters may take time.
 - **Gather paperwork:** Staying organized ensures a smooth process.
@@ -113,11 +109,9 @@ The approval process for D-2 part-time work permission consists of several impor
   <strong style="color:#1e40af">💡 실무 팁:</strong> Prepare digital scans of all documents even if you apply in person—this makes resubmissions or corrections much faster if needed.
 </div>
 
----
+<h2 id="section-3">Required Documents Checklist</h2>
 
-## <h2 id="section-3">Required Documents Checklist</h2>
-
-### <h3>1. General Documents</h3>
+<h3>1. General Documents</h3>
 - Original recommendation letter from your university president
 - Immigration office's part-time work permit application form
 - Most recent academic transcript
@@ -125,11 +119,11 @@ The approval process for D-2 part-time work permission consists of several impor
 - Passport and Alien Registration Card
 - Copy of valid D-2 student visa
 
-### <h3>2. Workplace-Related Documents</h3>
+<h3>2. Workplace-Related Documents</h3>
 - Copy of business registration certificate/employer’s company info
 - Labor contract or workplace information sheet (note if the contract is “pending”)
 
-### <h3>3. Legal Confirmation Documents</h3>
+<h3>3. Legal Confirmation Documents</h3>
 - Statement confirming no prior unauthorized employment (submit if applicable)
 - Additional paperwork as required by your specific immigration office
 
@@ -172,11 +166,9 @@ The approval process for D-2 part-time work permission consists of several impor
   </tbody>
 </table>
 
----
+<h2 id="section-4">Workplaces & Hours: Standards and Limitations</h2>
 
-## <h2 id="section-4">Workplaces & Hours: Standards and Limitations</h2>
-
-### <h3>1. Types of Permitted and Prohibited Workplaces</h3>
+<h3>1. Types of Permitted and Prohibited Workplaces</h3>
 - <strong>Permitted:</strong> Public agencies, restaurants, convenience stores, cafes, and similar businesses.
 - <strong>Prohibited:</strong> Nightlife businesses, adult entertainment venues, certain hospitality venues.
 
@@ -217,13 +209,13 @@ The approval process for D-2 part-time work permission consists of several impor
   </tbody>
 </table>
 
-### <h3>2. Work Hour Regulations</h3>
+<h3>2. Work Hour Regulations</h3>
 
 - <strong>During Semesters:</strong> Up to 20 hours per week
 - <strong>During School Breaks:</strong> Usually up to 40 hours per week (verify with your local immigration office)
 - <strong>Late-night work (10pm–6am):</strong> Generally not permitted
 
-### <h3>3. Special Cases</h3>
+<h3>3. Special Cases</h3>
 - <strong>Multiple Workplaces:</strong> You may work at more than one job, but each must be declared, and total hours cannot exceed your permitted maximum. 
 - <strong>Changes in Workplace/Hours:</strong> Any change requires a new application or approval.
 
@@ -231,9 +223,7 @@ The approval process for D-2 part-time work permission consists of several impor
   <strong style="color:#92400e">⚠️ 주의:</strong> Breaking work hour or workplace rules can result in permission revocation and major difficulties for future visa status.
 </div>
 
----
-
-## <h2 id="section-5">Application Checklist and Comparison Table</h2>
+<h2 id="section-5">Application Checklist and Comparison Table</h2>
 
 Take extra care before submitting your application:
 
@@ -279,7 +269,7 @@ Take extra care before submitting your application:
   </tbody>
 </table>
 
-### <h3>Quick Application Checklist</h3>
+<h3>Quick Application Checklist</h3>
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
     <tr>
@@ -315,56 +305,48 @@ Take extra care before submitting your application:
   </tbody>
 </table>
 
----
+<h2 id="section-6">Common Mistakes and Warnings</h2>
 
-## <h2 id="section-6">Common Mistakes and Warnings</h2>
-
-### <h3>1. Frequent Mistakes</h3>
+<h3>1. Frequent Mistakes</h3>
 - <strong>Working Before Approval:</strong> Starting work without permission constitutes illegal employment, risking visa cancellation and deportation.
 - <strong>Incomplete/Fake Documents:</strong> Outdated or incorrect documentation can lead to rejection or delays.
 - <strong>Exceeding Work Hour Limits:</strong> Work only within permitted hours, including breaks and semester time.
 - <strong>Night Work Applications:</strong> Night shift applications are usually denied—confirm exceptions with your immigration office.
 - <strong>Unreported Workplace or Hour Changes:</strong> Any change requires new approval.
 
-### <h3>2. Undisclosed Employment Issues</h3>
+<h3>2. Undisclosed Employment Issues</h3>
 - Failing to report past illegal employment can cause application denial or trouble when renewing your visa.
 
-### <h3>3. Not Checking with Local Authorities</h3>
+<h3>3. Not Checking with Local Authorities</h3>
 - Each immigration office may require additional/specific documents; check their website and notices regularly.
-
----
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
   <strong style="color:#92400e">⚠️ 주의:</strong> Immigration laws are subject to change without notice. Verify requirements with your local immigration office before making any commitments.
 </div>
 
----
+<h2 id="section-7">FAQ: Top 5 Frequently Asked Questions</h2>
 
-## <h2 id="section-7">FAQ: Top 5 Frequently Asked Questions</h2>
-
-### <h3>1. Working Without Permission</h3>
+<h3>1. Working Without Permission</h3>
 <strong>Q.</strong> What happens if I’m caught working without permission?<br>
 <strong>A.</strong> You could face visa cancellation, denial of future stays, deportation, entry bans, and penalties for your employer.
 
-### <h3>2. Work Hours During Breaks</h3>
+<h3>2. Work Hours During Breaks</h3>
 <strong>Q.</strong> Are work hour limits relaxed during vacations?<br>
 <strong>A.</strong> Yes. Generally, up to 40 hours per week are allowed. Some schools or offices may differ—confirm locally.
 
-### <h3>3. Multiple Workplaces</h3>
+<h3>3. Multiple Workplaces</h3>
 <strong>Q.</strong> Can I work at more than one place?<br>
 <strong>A.</strong> Yes, if you include all workplaces in your application and total hours stay within limits.
 
-### <h3>4. Document Preparation</h3>
+<h3>4. Document Preparation</h3>
 <strong>Q.</strong> What is most important about document preparation?<br>
 <strong>A.</strong> All documents (recommendation letter, transcript, labor contract, business registration) must be current, complete, and accurate.
 
-### <h3>5. Processing Time</h3>
+<h3>5. Processing Time</h3>
 <strong>Q.</strong> How long does approval take?<br>
 <strong>A.</strong> Typically 1–2 weeks. Incomplete documents or additional checks may cause delays. Apply at least two weeks in advance.
 
----
-
-## <h2 id="section-8">Consultation Info (Vision Immigration Office)</h2>
+<h2 id="section-8">Consultation Info (Vision Immigration Office)</h2>
 
 If you have difficulties or questions about the process, contact the Vision Immigration Office for fast, reliable support.
 
