@@ -8,6 +8,20 @@ slug: "d2-part-time-work-permit"
 ---
 # 留学生向け D-2ビザ パートタイム就労許可申請 完全ガイド
 
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-2パートタイム就労許可の基本条件</a></li>
+    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 申請手順と段階別準備</a></li>
+    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 必要書類リスト</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 勤務先・勤務時間の基準と制限</a></li>
+    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 申請時のチェックリストと比較表</a></li>
+    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. よくあるミスと注意点</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ：よくある質問5選</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 相談案内（ビジョン行政書士事務所）</a></li>
+  </ul>
+</nav>
+
 <h2 id="section-1">D-2パートタイム就労許可の基本条件</h2>
 
 <h3>申請に求められる主要要件</h3>

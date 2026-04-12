@@ -24,6 +24,20 @@ It is critical to clearly understand the application process, required documents
 - Common mistakes and warnings
 - FAQ and expert consultation details
 
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Basic Eligibility for D-2 Part-Time Work Permission</a></li>
+    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Application Process and Preparation Steps</a></li>
+    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Required Documents Checklist</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Workplaces & Hours: Standards and Limitations</a></li>
+    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Application Checklist and Comparison Table</a></li>
+    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Common Mistakes and Warnings</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ: Top 5 Frequently Asked Questions</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Consultation Info (Vision Immigration Office)</a></li>
+  </ul>
+</nav>
+
 <h2 id="section-1">Basic Eligibility for D-2 Part-Time Work Permission</h2>
 
 <h3>1. Academic and Status Requirements</h3>

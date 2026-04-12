@@ -12,6 +12,20 @@ slug: "d2-part-time-work-permit"
 
 D-2 시간제 취업 허가 절차는 ▲학교 추천 및 학적 상태 확인 ▲출입국관리사무소 허가 신청 ▲근무처와 근무시간 조건에 대한 엄격한 심사 등 단계별 준비가 필수입니다. 본 글에서는 실제 허가 신청을 위해 반드시 알아야 할 핵심 요건과 상세 신청 방법, 자주 하는 실수, 주요 체크리스트, 꼭 확인해야 할 법령·제도 변화 주의점까지 모두 안내합니다.
 
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-2 시간제 취업 허가 기본 요건</a></li>
+    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 허가 신청 절차 및 단계별 준비</a></li>
+    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 허가 신청 시 준비 서류 목록</a></li>
+    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 근무처·근무시간 기준 및 제한</a></li>
+    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 허가 신청 체크리스트 및 비교표</a></li>
+    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자주 하는 실수와 주의사항</a></li>
+    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ: 자주 묻는 질문 5가지</a></li>
+    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 상담 안내 (비전 행정사사무소)</a></li>
+  </ul>
+</nav>
+
 <h2 id="section-1">D-2 시간제 취업 허가 기본 요건</h2>
 
 <h3>학적 및 성적 기준</h3>
