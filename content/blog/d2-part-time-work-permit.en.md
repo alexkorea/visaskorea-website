@@ -8,197 +8,399 @@ slug: "d2-part-time-work-permit"
 ---
 # Complete Guide to Applying for Part-Time Work Permission with a D-2 Student Visa
 
-International students in Korea holding a D-2 student visa can work part-time (such as in a student job) only if they meet certain requirements. Anyone with a D-2 student visa who wishes to work part-time must receive prior approval from the immigration office according to Korean immigration law and related regulations. It's critical to clearly understand the application process, required documents, approval standards, and any recent regulatory changes.
+International students in Korea holding a D-2 student visa can work part-time (such as in a student job) only if they meet certain requirements. Anyone with a D-2 student visa who wishes to work part-time must receive prior approval from the immigration office according to Korean immigration law and related regulations. 
 
-The steps to get part-time work authorization as a D-2 visa holder include: obtaining school recommendation and verifying student status, applying for permission from the immigration office, and passing a thorough review regarding workplace and work hours. In this article, you’ll find all the essential requirements, a step-by-step application guide, common mistakes, key checklists, and important legal updates for a successful application.
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 주의:</strong> Working without prior approval is a direct violation of immigration law, risking serious penalties for both you and your employer.
+</div>
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Basic Eligibility for D-2 Part-Time Work Permission</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Application Process and Preparation Steps</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Required Documents Checklist</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Workplaces & Hours: Standards and Limitations</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Application Checklist and Comparison Table</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Common Mistakes and Warnings</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ: Top 5 Frequently Asked Questions</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Consultation Info (Vision Immigration Office)</a></li>
-  </ul>
-</nav>
+It is critical to clearly understand the application process, required documents, approval standards, and any recent regulatory changes.
+
+<strong>Key information provided in this guide includes:</strong>
+- Essential requirements for eligibility
+- Step-by-step application process
+- Required documents checklist
+- Standards on workplaces and work hours
+- Common mistakes and warnings
+- FAQ and expert consultation details
 
 ---
 
 ## <h2 id="section-1">Basic Eligibility for D-2 Part-Time Work Permission</h2>
 
-By law, international students on a D-2 visa are NOT allowed to take part-time jobs without official authorization from the local immigration office. You’ll need to satisfy all of these basic requirements to be eligible:
+### <h3>1. Academic and Status Requirements</h3>
+- <strong>Active Enrollment:</strong> You must be a current, enrolled student in a regular university or graduate school program. Students on leave, expelled students, or those admitted but not yet enrolled are <strong>not</strong> eligible.
+- <strong>Academic Standing:</strong> Must maintain a minimum average of “C” (2.0/4.5 GPA) in the previous semester, with satisfactory class attendance and academic progress.
 
-- **Active Enrollment**: Must be a current, enrolled student in a regular university (or graduate school) program. Students on leave, expelled students, or those admitted but not yet enrolled are NOT eligible.
-- **Academic Standing**: Must have a minimum average of “C” (2.0/4.5 GPA) in the previous semester, with satisfactory class attendance and academic progress.
-- **School Recommendation**: Requires an official recommendation letter from the university president (usually processed through your advisor or international office).
-- **Valid D-2 Student Visa**: The visa must remain valid through the work period.
-- **No Prior Illegal Employment**: A clean record—no history of unauthorized work in Korea.
+### <h3>2. Official University Support</h3>
+- <strong>School Recommendation:</strong> Requires an official recommendation letter from your university president, usually processed through your advisor or international office.
 
-If you meet all these conditions, you may apply for part-time work permission at the immigration office.
+### <h3>3. Legal Status and Prior Records</h3>
+- <strong>Valid D-2 Student Visa:</strong> Your visa must remain valid during the period of employment.
+- <strong>No Prior Illegal Employment:</strong> You must have a clean history with no unauthorized work in Korea.
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 주의:</strong> Even a single instance of unauthorized employment can impact your eligibility for work permission and future visa extensions.
+</div>
+
+### <h3>4. Eligibility Checklist</h3>
+<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
+  <strong style="color:#166534">✅ 체크리스트</strong>
+  <ul style="margin-top:12px">
+    <li>Enrolled as a regular student</li>
+    <li>Maintained minimum required GPA and attendance</li>
+    <li>Have no prior illegal part-time employment</li>
+    <li>Have a valid D-2 visa</li>
+    <li>Obtained or can obtain a university recommendation</li>
+  </ul>
+</div>
+
+---
 
 ## <h2 id="section-2">Application Process and Preparation Steps</h2>
 
-Getting approved for D-2 part-time work is a multi-step process:
+The approval process for D-2 part-time work permission consists of several important steps. Follow the sequence precisely to avoid mistakes.
 
-1. **Choose a Workplace & Confirm Work Details**
-   - Double-check location, business type, and work schedule. Do not start work before receiving permission.
-2. **Request a School Recommendation Letter**
-   - Meet with your advisor or international office to discuss why you need to work, then request the official school president’s recommendation.
-3. **Prepare Application Documents**
-   - Gather all required forms, including illegal employment history confirmation, the formal application, etc.
-4. **Submit Application (Online or In Person)**
-   - Apply through the local immigration office in person, or online using the HiKorea website (www.hikorea.go.kr).
-5. **Document Review & Screening**
-   - Immigration officials may request additional documents or ask follow-up questions.
-6. **Start Work AFTER Receiving Approval**
-   - Begin working only within the approved job scope. Violating any conditions can result in penalties.
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">Step</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">Details</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">Who Handles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">1. Choose Workplace & Confirm Details</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Check location, business type, work schedule; do not begin work before approval</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Student</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">2. Request Recommendation Letter</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Obtain the school president’s recommendation via advisor/international office</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Student & School</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">3. Prepare Application Documents</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Gather all paperwork (forms, contracts, transcripts, etc.)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Student</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">4. Submit Application</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Apply at immigration office or online (HiKorea website)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Student</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">5. Document Review</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Immigration office reviews documents and may request more information</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Immigration Office</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">6. Begin Work After Approval</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Only start work after receiving official approval</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Student</td>
+    </tr>
+  </tbody>
+</table>
 
-**Working without permission is a direct violation of immigration law, risking penalties not only for you but also for your employer.**
+### <h3>Preparation Steps Explained</h3>
+- **Choose the workplace and confirm details:** Business type, schedule, and work content must be appropriate and fully documented.
+- **Get school recommendation:** Schedule a meeting with your advisor or the international office early, as recommendation letters may take time.
+- **Gather paperwork:** Staying organized ensures a smooth process.
+- **Apply online (www.hikorea.go.kr) or in person:** Know your nearest immigration office location and processing hours.
+
+<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#1e40af">💡 실무 팁:</strong> Prepare digital scans of all documents even if you apply in person—this makes resubmissions or corrections much faster if needed.
+</div>
 
 ---
 
 ## <h2 id="section-3">Required Documents Checklist</h2>
 
-To apply for part-time work approval, prepare these key documents:
-
+### <h3>1. General Documents</h3>
 - Original recommendation letter from your university president
-- Part-time work permit application form (immigration office’s official form)
+- Immigration office's part-time work permit application form
 - Most recent academic transcript
 - Certificate of enrollment (original)
-- Copy of business registration certificate/employer’s company information
-- Labor contract or workplace information sheet (if the contract is still pending, note that)
 - Passport and Alien Registration Card
-- Copy of D-2 student visa
-- Statement confirming no prior unauthorized employment (skip if not applicable)
-- Additional paperwork as required by the local immigration office
+- Copy of valid D-2 student visa
 
-Submitting outdated or false documents can delay or derail your approval, so always verify that everything is current and accurate before submission.
+### <h3>2. Workplace-Related Documents</h3>
+- Copy of business registration certificate/employer’s company info
+- Labor contract or workplace information sheet (note if the contract is “pending”)
+
+### <h3>3. Legal Confirmation Documents</h3>
+- Statement confirming no prior unauthorized employment (submit if applicable)
+- Additional paperwork as required by your specific immigration office
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">Required Document</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">University President's Recommendation Letter</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Must be original; coordinate with advisor</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Official Application Form</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Obtain from immigration or HiKorea website</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Academic Transcript & Enrollment Certificate</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Submit most recent version</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Labor Contract/Workplace Sheet</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">If not yet signed, note as “pending”</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Business Registration Certificate</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Copy required from employer</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">No Illegal Employment Statement</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Submit only if needed</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Additional Documents</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">If requested by local immigration</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## <h2 id="section-4">Workplaces & Hours: Standards and Limitations</h2>
 
-Here’s what D-2 visa students need to know about where and how much they can work:
+### <h3>1. Types of Permitted and Prohibited Workplaces</h3>
+- <strong>Permitted:</strong> Public agencies, restaurants, convenience stores, cafes, and similar businesses.
+- <strong>Prohibited:</strong> Nightlife businesses, adult entertainment venues, certain hospitality venues.
 
-- **Workplace Restrictions**: Employment at nightlife businesses, adult entertainment, some hospitality venues, and similar industries is generally not permitted.
-- **Permitted**: Public agencies, restaurants, convenience stores, cafes, etc. are usually acceptable.
-- **Work Hour Limits**:  
-  - During semesters: Up to 20 hours per week  
-  - During school breaks: Limit generally increases to 40 hours per week (confirm with your local immigration office)
-  - Late-night work (10pm–6am) is typically not allowed.
-- **Multiple Workplaces**
-  - Approval may be possible for more than one workplace if you list all workplaces and their hours on your application.
-- **Consequences for Breaking Conditions**
-  - Violations can result in having your permission revoked, making future visa extensions much more difficult.
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">Industry/Work Type</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">Permission Status</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Restaurants/Cafes</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Allowed</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Standard approval</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Convenience Stores</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Allowed</td>
+      <td style="border:1px solid #e5e7eb;padding:10px"></td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Nightlife/Entertainment Bars</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Not allowed</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Covers clubs, karaoke bars, etc.</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Late-Night Shift (10pm–6am)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Not allowed</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Special exceptions only</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Public Agencies</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Allowed</td>
+      <td style="border:1px solid #e5e7eb;padding:10px"></td>
+    </tr>
+  </tbody>
+</table>
 
-Rules can change; always check for the latest updates with your local immigration office.
+### <h3>2. Work Hour Regulations</h3>
+
+- <strong>During Semesters:</strong> Up to 20 hours per week
+- <strong>During School Breaks:</strong> Usually up to 40 hours per week (verify with your local immigration office)
+- <strong>Late-night work (10pm–6am):</strong> Generally not permitted
+
+### <h3>3. Special Cases</h3>
+- <strong>Multiple Workplaces:</strong> You may work at more than one job, but each must be declared, and total hours cannot exceed your permitted maximum. 
+- <strong>Changes in Workplace/Hours:</strong> Any change requires a new application or approval.
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 주의:</strong> Breaking work hour or workplace rules can result in permission revocation and major difficulties for future visa status.
+</div>
 
 ---
 
 ## <h2 id="section-5">Application Checklist and Comparison Table</h2>
 
-Key points to check before submitting your part-time work permission application:
+Take extra care before submitting your application:
 
-<table border="1" style="border-collapse:collapse;min-width:480px">
-  <thead>
-    <tr style="background:#e2e8f0">
-      <th>Item</th>
-      <th>D-2 Part-Time Work Permission</th>
-      <th>Unauthorized/Illegal Employment</th>
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">D-2 Part-Time Work Permission</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">Unauthorized/Illegal Employment</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Permission Required?</td>
-      <td>Mandatory (pre-approval required)</td>
-      <td>Illegal (severe penalties)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Permission Required</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Yes, pre-approval</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">No, but illegal</td>
     </tr>
     <tr>
-      <td>Workplaces/Hours Limits</td>
-      <td>Semester: 20hr/week, Breaks: 40hr/week (night shifts prohibited)</td>
-      <td>No set limits, but high legal risk</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Workplace/Hour Limits</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Semester: 20hr/week; Break: 40hr/week; No night shifts</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Unlimited, but high legal risk</td>
     </tr>
     <tr>
-      <td>School Recommendation?</td>
-      <td>Required</td>
-      <td>Not required (but a violation)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">School Recommendation</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Required</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Not applicable</td>
     </tr>
     <tr>
-      <td>Impact on Visa After Approval</td>
-      <td>None (if all rules followed)</td>
-      <td>Risk of visa denial/expulsion, severe consequences</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Impact on Visa</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">None, if compliant</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Visa denial, expulsion</td>
     </tr>
     <tr>
-      <td>Employer Penalty</td>
-      <td>None</td>
-      <td>Employer faces legal penalties too</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Employer Penalty</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">None</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Possible fines</td>
     </tr>
     <tr>
-      <td>History of Illegal Employment</td>
-      <td>Very hard to get approval</td>
-      <td>Prior violations, possible visa cancellation</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Prior Violations</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Difficult to get approval</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Visa may be cancelled</td>
     </tr>
   </tbody>
 </table>
 
-**[Part-Time Work Approval Checklist]**
-- Confirm you are enrolled and in good academic standing
-- Obtain the University President’s recommendation letter and all worksite info
-- Gather and check all paperwork (latest versions only)
-- Make sure you understand and will comply with work hour/workplace limitations
-- Learn the proper online/in-person application procedure
-- DON’T start work before receiving approval
-- Check for any recent law or regulation changes at your local office
-- Know the penalties if you break the rules
+### <h3>Quick Application Checklist</h3>
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">Step</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">Verification</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Enrollment & GPA</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Check you’re fully enrolled and meet GPA requirements</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Recommendation Letter</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Obtained from university and matches your intended workplace</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Up-to-Date Documents</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">All versions are current; no omissions</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Workplace & Hours</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Within permitted list/hours and fully declared</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Submission</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Apply through the right method (online/in-person)</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Rule Updates</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Checked local office for new regulations</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
 ## <h2 id="section-6">Common Mistakes and Warnings</h2>
 
-**Frequent mistakes and key things to watch out for:**
+### <h3>1. Frequent Mistakes</h3>
+- <strong>Working Before Approval:</strong> Starting work without permission constitutes illegal employment, risking visa cancellation and deportation.
+- <strong>Incomplete/Fake Documents:</strong> Outdated or incorrect documentation can lead to rejection or delays.
+- <strong>Exceeding Work Hour Limits:</strong> Work only within permitted hours, including breaks and semester time.
+- <strong>Night Work Applications:</strong> Night shift applications are usually denied—confirm exceptions with your immigration office.
+- <strong>Unreported Workplace or Hour Changes:</strong> Any change requires new approval.
 
-- **Working Before Approval**: If you start working before official approval, this is considered unauthorized employment and can result in very serious penalties (like cancellation of your visa, deportation, etc.)
-- **Incomplete or False Documents**: Be sure all required documents, especially your labor contract and enrollment certificate, are up to date and accurately filled out.
-- **Exceeding Hour Limits**: Working more than the approved hours is a violation—both you and your employer may face penalties.
-- **Applying for Night Work**: Part-time night shifts (10pm–6am) are generally not allowed except for very specific cases. Always confirm with your immigration office before accepting such a job.
-- **Non-compliance After Approval**: Changes to your job—such as switching employers or changing work hours—require new permission. Don't assume your approval covers changes.
-- **Having an Undisclosed History of Illegal Work**: If previous unauthorized jobs are discovered during your application, this can lead to denial or trouble renewing your visa.
-- **Failure to Check With Local Authorities**: Rules and required documents may vary slightly by office. Always check for up-to-date requirements and notices.
+### <h3>2. Undisclosed Employment Issues</h3>
+- Failing to report past illegal employment can cause application denial or trouble when renewing your visa.
 
-> ⚠️ **Immigration law and rules can change. Always check the latest requirements with your local immigration office or consult an expert like the Vision Immigration Office.**
+### <h3>3. Not Checking with Local Authorities</h3>
+- Each immigration office may require additional/specific documents; check their website and notices regularly.
+
+---
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 주의:</strong> Immigration laws are subject to change without notice. Verify requirements with your local immigration office before making any commitments.
+</div>
 
 ---
 
 ## <h2 id="section-7">FAQ: Top 5 Frequently Asked Questions</h2>
 
-**Q1. What happens if I’m caught working without permission?**  
-A. This is a violation of immigration law, which can lead to visa revocation, being denied future stays, deportation, entry bans, and penalties for your employer.
+### <h3>1. Working Without Permission</h3>
+<strong>Q.</strong> What happens if I’m caught working without permission?<br>
+<strong>A.</strong> You could face visa cancellation, denial of future stays, deportation, entry bans, and penalties for your employer.
 
-**Q2. Are work hour limits more relaxed during school breaks (vacations)?**  
-A. Yes. Typically you may work up to 40 hours per week during breaks, but some universities or local immigration offices may have their own policies. Always check in advance.
+### <h3>2. Work Hours During Breaks</h3>
+<strong>Q.</strong> Are work hour limits relaxed during vacations?<br>
+<strong>A.</strong> Yes. Generally, up to 40 hours per week are allowed. Some schools or offices may differ—confirm locally.
 
-**Q3. Can I work at multiple places at the same time?**  
-A. Yes, if you follow the proper application procedure, list every employer, and keep your total hours within approved limits. Make sure all workplaces are included in your application.
+### <h3>3. Multiple Workplaces</h3>
+<strong>Q.</strong> Can I work at more than one place?<br>
+<strong>A.</strong> Yes, if you include all workplaces in your application and total hours stay within limits.
 
-**Q4. What should I be most careful about when preparing documents?**  
-A. Make sure your recommendation letter, transcript, labor contract, and business registration papers are all current and accurate. Don’t omit any employer information.
+### <h3>4. Document Preparation</h3>
+<strong>Q.</strong> What is most important about document preparation?<br>
+<strong>A.</strong> All documents (recommendation letter, transcript, labor contract, business registration) must be current, complete, and accurate.
 
-**Q5. How long does the approval process take?**  
-A. Usually 1–2 weeks, but it can take longer if your documents are incomplete or if additional screening is needed. Apply at least two weeks in advance to be safe.
+### <h3>5. Processing Time</h3>
+<strong>Q.</strong> How long does approval take?<br>
+<strong>A.</strong> Typically 1–2 weeks. Incomplete documents or additional checks may cause delays. Apply at least two weeks in advance.
 
 ---
 
 ## <h2 id="section-8">Consultation Info (Vision Immigration Office)</h2>
 
-If you have any difficulties with the D-2 part-time work permission application, need guidance on the process, or want help troubleshooting issues, Vision Immigration Office offers fast and reliable support.
+If you have difficulties or questions about the process, contact the Vision Immigration Office for fast, reliable support.
 
-- **Phone:** 02-363-2251
-- **Email:** 5000meter@gmail.com
-- **Address:** 3/F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614
-- **Office Name:** Vision Immigration Office
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">Contact Method</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Phone</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">02-363-2251</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Email</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">5000meter@gmail.com</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Address</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">3/F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">Office Name</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">Vision Immigration Office</td>
+    </tr>
+  </tbody>
+</table>
 
-Success with the D-2 part-time work authorization depends on being well-prepared and following procedures strictly from the start. Always check for the latest legal updates and consider professional consultation to apply safely and correctly.
+<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
+  <strong style="color:#166534">✅ 체크리스트</strong>
+  <ul style="margin-top:12px">
+    <li>Verify eligibility and prepare all documents before applying</li>
+    <li>Check the latest regulations with your local office</li>
+    <li>Consult an expert if unsure about any step</li>
+    <li>Never begin work before formal approval notice</li>
+  </ul>
+</div>
