@@ -356,7 +356,7 @@ A. 평균 1~2주 내외이나, 서류 미비·추가 심사 시 지연될 수 �
 
 - <strong>전화:</strong> 02-363-2251
 - <strong>이메일:</strong> 5000meter@gmail.com
-- <strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
+- <strong>주소:</strong> (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)  동대문역사문화공원역 4번출구 10미터
 - <strong>사무소명:</strong> 비전 행정사사무소
 
 <div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
