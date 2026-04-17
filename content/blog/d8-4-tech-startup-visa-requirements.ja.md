@@ -1,0 +1,438 @@
+---
+title: "D-8-4技術創業ビザの申請資格と手続きガイド"
+date: "2026-04-17"
+category: "投資ビザ"
+excerpt: "D-8-4技術創業ビザは資本金ではなく知的財産と学歴で判断され、実際の審査で最も引っかかるのは技術性の説明です。"
+image: "/slides/documents.jpg"
+slug: "d8-4-tech-startup-visa-requirements"
+---
+# D-8-4技術創業ビザ 申請資格と手続き完全ガイド
+
+D-8-4は外国人起業家に対し、**資本金1億ウォンという敷居を免除する代わりに、技術力と知的財産権で資格を証明させる**ように設計されたビザです。一般的なD-8-1が資金の流れを証明するビザだとすれば、D-8-4は本人の学歴と技術、保有している特許・商標・著作権が実際に事業化できるのかを示すビザだと考えてください。申請資格は大きく**学士以上の学位+創業移民総合支援システム(OASIS)教育の修了**、または**知的財産権の保有**という2つの軸に分かれます。
+
+実務で最も多くつまずくのは書類の枚数ではなく、**「この事業がなぜ技術創業なのか」を説明する段階**です。特許が1件あるからといってすぐにD-8-4になるわけではなく、その特許が当該法人の営業と直接つながっていることが示されて初めて通過します。以下で資格要件、書類、OASIS点数制、申請手続き、D-8-1との違い、よくある不許可事由まで順に解説します。
+
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8-4技術創業ビザとは</a></li>
+    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 申請資格要件の詳細</a></li>
+    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. OASIS創業移民総合システムと点数制</a></li>
+    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 必要書類まとめ</a></li>
+    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 申請手続きの段階別進行</a></li>
+    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. D-8-1・D-8-2とD-8-4の比較</a></li>
+    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 滞在期間、延長、家族帯同</a></li>
+    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくある失敗と不許可事由</a></li>
+    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. よくある質問(FAQ)</a></li>
+    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 相談のご案内</a></li>
+  </ul>
+</nav>
+
+<h2 id="section-1">1. D-8-4技術創業ビザとは</h2>
+
+D-8-4は、**企業投資ビザD-8滞在資格のうち技術創業(OASIS)トラック**を指します。一般的な法人設立型のD-8-1やベンチャー企業型のD-8-2とは異なり、起業家本人の**知的財産権と学歴**を資本の代替手段として認めてくれます。正式名称は「技術創業(Technology Startup)」で、出入国管理法施行令別表1の2においてD-8企業投資の細分類として位置付けられています。
+
+### 1-1. 何が違うのか
+
+最も大きな違いは、**最低投資額1億ウォン要件が適用されない**点です。ただし、法人は必ず設立されている必要があり、本人は当該法人の代表取締役または登記役員でなければなりません。資本金の規模は理論上制限がありませんが、実務では**法人維持のための最低限の運営資金**が求められます。
+
+### 1-2. 誰が使うビザなのか
+
+- 韓国の大学または海外の大学で**学士以上の学位を取得した外国人**
+- 韓国で知的財産権(特許、実用新案、デザイン、商標)を**本人名義で保有している外国人**
+- IT、バイオ、コンテンツ、製造ベースのスタートアップを設立しようとする外国人起業家
+
+D-10求職ビザで入国し、創業準備を終えてからD-8-4に資格変更する経路が最も一般的です。
+
+<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#1e40af">💡 実務のヒント:</strong> D-8-4は「資本金なしで取れるビザ」と誤解されるケースが多いです。実際の審査では法人運営の実体性が示されなければ通らないため、オフィスの賃貸借契約・通信費・社会保険加入といった運営の痕跡も揃える必要があります。
+</div>
+
+<h2 id="section-2">2. 申請資格要件の詳細</h2>
+
+D-8-4の資格は大きく**学位ベース+OASIS点数制**と**知的財産権ベース**の2つに分かれます。このうち一方だけを満たしても申請は可能ですが、実際には**両方の条件を揃えているケースの通過率がより高い**です。
+
+### 2-1. 学歴要件
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">最低学歴</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">備考</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">国内大学卒業者</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">学士以上</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">専攻制限なし、卒業証明書の原本</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">海外大学卒業者</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">学士以上</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">アポスティーユまたは領事認証が必須</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">修士・博士課程修了者</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">修士以上優遇</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">OASIS点数制で加点</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">専門大学卒業者</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">単独申請不可</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">知的財産権を保有している場合のみ可能</td>
+    </tr>
+  </tbody>
+</table>
+
+専攻が技術と無関係でも申請自体は可能です。ただし**事業アイテムと学位専攻の関連性**が弱いと、審査官から「技術創業と言えるのか」を改めて問われます。ここが弱いとすぐに話がこじれやすくなります。
+
+### 2-2. 知的財産権の要件
+
+本人名義の**韓国登録済みの特許、実用新案、デザイン権、商標権、著作権**のうち1件以上を保有している必要があります。出願のみの状態は原則として認められず、**登録番号が付与された権利**でなければなりません。
+
+- 特許:最も配点が高く、審査も無難
+- 実用新案:特許より低いが認められる
+- デザイン・商標:単独では弱く、特許と組み合わせることで強みに
+- 著作権:ソフトウェア登録証、コンテンツ著作権登録証など
+
+海外で取得した特許は、韓国特許庁の登録に切り替えられている必要があります。米国USPTOの特許があるだけでは、すぐにD-8-4にはなりません。
+
+### 2-3. 法人要件
+
+- 法人登記が完了している(株式会社または有限会社)
+- 本人が代表取締役または共同代表
+- 事業所の実住所を確保している(バーチャルオフィスは原則として不可)
+- 事業者登録証の発給完了
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong> バーチャルオフィス(共有オフィスの一部)は、審査で不許可事由となるケースが増えています。最低でも本人専用の部屋番号が付与された独立した空間でなければならず、賃貸借契約書に専用面積が明示されている必要があります。
+</div>
+
+<h2 id="section-3">3. OASIS創業移民総合システムと点数制</h2>
+
+D-8-4は、法務部が運営する**OASIS(Overall Assistance for Startup Immigration System)プログラム**を通じて点数を積み上げて申請します。単に資格条件を満たしているかを見るのではなく、**80点以上の累積**が事実上の通過ラインです。
+
+### 3-1. 点数項目の概要
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">項目</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">配点</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">学歴</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">最大25点</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">博士25/修士20/学士15</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">知的財産権</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">最大30点</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">特許30/実用新案20/デザイン・商標10</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">韓国語能力</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">最大20点</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">TOPIK6級20/5級15/4級10</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">創業教育</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">最大10点</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">OASIS-1基本教育の修了</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">創業コンテスト受賞</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">最大15点</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">政府・自治体公認大会での入賞</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">投資誘致実績</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">最大20点</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">VC・エンジェル投資の誘致金額に応じて差</td>
+    </tr>
+  </tbody>
+</table>
+
+配点は変更される可能性があるため、申請直前に管轄の出入国・外国人庁で確認する必要があります。
+
+### 3-2. OASIS教育の修了
+
+OASISは段階別にOASIS-1(基本教育)、OASIS-2(応用)、OASIS-3(メンタリング)、OASIS-4(コンテスト)、OASIS-5(法人設立支援)で構成されています。**D-8-4申請には少なくともOASIS-1の修了が前提**であり、実務ではOASIS-2まで修了するケースが一般的です。
+
+### 3-3. 点数設計の戦略
+
+学士のみで特許もない場合、80点を満たすのは厳しくなります。その際は**TOPIKのスコアを上げるか、創業コンテストでの受賞、あるいは投資誘致で点数を補う**方向で設計します。まず点数表を前にして、不足している項目から埋めていくのが現実的です。
+
+<h2 id="section-4">4. 必要書類まとめ</h2>
+
+### 4-1. 基本書類
+
+<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
+  <strong style="color:#166534">✅ 必須書類チェックリスト</strong>
+  <ul style="margin-top:12px">
+    <li>査証発給認定申請書または滞在資格変更許可申請書</li>
+    <li>パスポート原本および写し</li>
+    <li>規格写真1枚(3.5cm×4.5cm、直近6か月以内)</li>
+    <li>手数料(滞在資格変更13万ウォン、査証発給認定書の発給手数料は別途)</li>
+    <li>法人登記簿謄本</li>
+    <li>事業者登録証の写し</li>
+    <li>定款</li>
+    <li>株主名簿</li>
+    <li>オフィスの賃貸借契約書および直近の家賃納付証拠</li>
+    <li>事業計画書(技術性・市場性・収益モデルを含む)</li>
+    <li>学位証および成績証明書(アポスティーユまたは領事認証)</li>
+    <li>知的財産権登録原簿(特許登録原簿など)</li>
+    <li>OASIS点数算定の証拠資料</li>
+    <li>滞在地を証明する書類(賃貸借契約書または宿泊提供確認書)</li>
+  </ul>
+</div>
+
+### 4-2. 在外公館での申請 vs 国内変更申請
+
+海外から新たに入国する場合は**査証発給認定書(CCVI)**の申請から進め、すでにD-2(留学)・D-10(求職)・E系列などで国内滞在中であれば、**滞在資格変更許可**で進めます。書類構成はほぼ同じですが、国内変更の場合は**現在の滞在資格の誠実な履行を示す証拠**(在学証明、成績証明、求職活動の証拠など)が追加されます。
+
+### 4-3. 事業計画書の作成のコツ
+
+事業計画書は長さよりも説得力が先に見られます。審査官が最初に確認する項目は次のとおりです。
+
+1. **コア技術と知的財産権のつながり** — 保有特許が製品/サービスにどう組み込まれているのか
+2. **市場規模とターゲット顧客** — 漠然とした「グローバル市場進出」ではなく具体的なターゲット
+3. **収益モデルと3年間の売上予測** — 根拠のある数字
+4. **韓国経済への貢献度** — 自国民雇用計画、輸出の可能性
+5. **資金調達計画** — 初期運営資金の実際の出所
+
+漠然と「第4次産業革命への対応」などと書くと、むしろ減点になります。特許の請求項の内容と事業の連携が、文章として表現されている必要があります。
+
+<h2 id="section-5">5. 申請手続きの段階別進行</h2>
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">段階</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">想定所要期間</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">ステップ1</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">OASIS教育の修了および点数算定</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2〜4週間</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">ステップ2</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">知的財産権の出願または譲受の確定</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">数週間〜数か月</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">ステップ3</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">法人設立および事業者登録</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2〜3週間</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">ステップ4</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">オフィスの賃借および運営基盤の整備</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1〜2週間</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">ステップ5</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">事業計画書の作成および書類準備</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2〜4週間</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">ステップ6</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">管轄出入国の訪問予約および受付</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">予約後2〜4週間</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">ステップ7</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">審査(必要に応じて現地実査)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2〜6週間</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">ステップ8</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">許可通知および外国人登録証の発給</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1〜2週間</td>
+    </tr>
+  </tbody>
+</table>
+
+全体のスケジュールは準備状況によって、**早ければ2か月、通常は3〜5か月**かかります。OASIS教育の日程は四半期単位で開催されるため、教育の開始時期によって全体スケジュールが大きく変わります。
+
+### 5-1. Hi Koreaでの事前予約
+
+滞在資格変更・査証発給認定の申請はすべて、**Hi Koreaポータルでの事前予約**が原則です。ソウル出入国・外国人庁の場合、予約が4〜6週間先までいっぱいになることが多いため、書類準備と予約を並行して進める必要があります。
+
+### 5-2. 現地実査への備え
+
+法務部は技術創業の乱用を防ぐため、**現地実査の比率を上げる傾向**にあります。実査では次の点を確認します。
+
+- オフィスが実際に運営されているか(家具、備品、PC、使用痕跡)
+- 代表取締役本人が実際に勤務しているか
+- 掲示されている社名と登記簿上の商号が一致しているか
+- 通帳の取引履歴が事業運営と整合しているか
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong> 実査当日に本人がおらず従業員もいなければ、「ペーパーカンパニー」と疑われます。実査通知は事前に来ないことが多いため、申請後から許可が出るまではオフィスに常駐する方が安全です。
+</div>
+
+
+
+<figure style="margin:32px auto;text-align:center">
+  <img src="https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up view of an open passport displaying various travel stamps in an airport setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  
+</figure>
+
+
+<h2 id="section-6">6. D-8-1・D-8-2とD-8-4の比較</h2>
+
+### 6-1. 3つのタイプの違い
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">D-8-1</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">D-8-2</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">D-8-4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">対象</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資法人の役職員</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">ベンチャー企業の起業家</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">技術創業の外国人</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">最低投資額</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1億ウォン以上</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">別途の資本要件</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">金額要件なし</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">主な証拠</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資申告</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">ベンチャー企業確認書</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">学位+知的財産権+OASIS点数</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">法人形態</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">株式会社/有限会社</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">ベンチャー認証法人</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">一般法人でも可</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">審査のポイント</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">資本金の送金経緯</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">ベンチャー性の維持</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">技術性・事業との関連性</td>
+    </tr>
+  </tbody>
+</table>
+
+### 6-2. どちらが有利か
+
+資本金1億を実際に送金できる方にとっては、D-8-1の方が速くてスマートです。資金ではなく**技術と学位で勝負できる方**にはD-8-4が有利です。ベンチャー企業認証を取得できるアイテムであればD-8-2も検討できますが、ベンチャー認証自体が別の手続きになるため、創業初期にはD-8-4が現実的です。
+
+### 6-3. 変更の可能性
+
+初期にD-8-4で入国・創業し、事業が拡大してきた段階で外国人投資申告を追加して**D-8-1への転換または併用**という戦略もあります。滞在資格は固定されているわけではありません。
+
+<h2 id="section-7">7. 滞在期間、延長、家族帯同</h2>
+
+### 7-1. 初回許可期間
+
+最初のD-8-4許可は通常**1年単位**で付与されます。実績が積み重なれば2年まで延長が可能です。ケースによっては初回から2年が出ることもありますが、稀なケースだと考えてください。
+
+### 7-2. 延長審査のポイント
+
+延長審査において、審査官が最初に確認する項目は次の3つです。
+
+- **売上の発生状況** — 売上0ウォンが続くと延長が厳しくなる
+- **人件費の支出** — 社会保険加入の従業員がいるか
+- **税金の誠実な納付** — 付加価値税・法人税の申告履歴
+
+事業初期には売上が少ないのが当然ですが、**運営の痕跡**がまったくないと「実体のない法人」と見なされる点がポイントです。
+
+### 7-3. 家族帯同(F-3)
+
+D-8-4所持者の配偶者と未成年の子女は、**F-3帯同ビザ**で一緒に滞在できます。F-3は就労が制限されるため、配偶者の就労が必要な場合は別途の資格(E-7など)を検討する必要があります。子女はF-3で**小学校・中学校・高等学校への就学**が可能です。
+
+### 7-4. F-2-7への進展
+
+D-8-4滞在中に点数が積み上がると、**F-2-7(点数制居住)への変更**が可能であり、F-2で5年以上滞在すればF-5永住申請もできます。長期定着を視野に入れている方は、このルートを事前に設計しておくとよいでしょう。
+
+<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#1e40af">💡 実務のヒント:</strong> 延長の3か月前から、売上明細、税金納付の証拠、従業員の社会保険資料を1つのファイルにまとめておいてください。延長不許可事由の大半は「実績を証明する書類が揃っていないから」です。書類が足りなくて落ちるのではなく、普段の記録を残していないから落ちるのです。
+</div>
+
+<h2 id="section-8">8. よくある失敗と不許可事由</h2>
+
+### 8-1. 特許さえあればいいという誤解
+
+特許登録証1枚だけでD-8-4になれると考える方が多いです。審査官が見るのは、**特許の技術内容と事業アイテムの実際のつながり**です。特許の請求項がA技術なのに法人の主要事業がB流通だと、技術創業とは認めづらいという判断が出ます。
+
+### 8-2. 共有オフィスの住所だけのケース
+
+法人設立の便宜のために共有オフィスを利用する場合が多いのですが、**実際の机・使用痕跡がなければ不許可**につながります。最低でも専用部屋が明示された賃貸借契約書と、その部屋を実際に使用している写真が必要です。
+
+### 8-3. 事業計画書をテンプレートのまま提出
+
+ネットで入手したテンプレート文言をそのまま使って提出すると、すぐに気づかれます。「国内市場の20%シェアを目標に」のような根拠のない数値はむしろ減点要因です。むしろ**小さく書きつつ具体的に**書いた方が通過に近づきます。
+
+### 8-4. OASIS点数の水増し
+
+本人が計算した点数と、実際の審査点数が異なるケースはよくあります。特許が共同出願だったり、譲受してから間もなかったり、海外特許しかない場合、点数がそのままは反映されません。点数を算定する前に、**公式の項目表と本人の書類を1つずつ照合する**必要があります。
+
+### 8-5. 資本金を低く設計しすぎる
+
+資本金要件がないからといって、**100万ウォンの法人**を設立するケースがありますが、この場合「オフィスの家賃も払えない法人で事業ができるのか」という疑念につながります。実務的には最低でも3,000万ウォン前後の資本金+初期運営資金が通帳に入っている方が安全です。
+
+### 8-6. 現滞在資格の違反履歴
+
+D-10滞在中に求職活動の申告をきちんとしていなかったり、D-2学生の身分で時間制アルバイトの上限を超えた履歴があると、資格変更の段階で不利益を受けます。**現在の滞在資格を誠実に履行しているか**も審査ポイントです。
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong> 一度不許可になると、再申請時に「以前の不許可履歴」が記録として残ります。再申請が不可能というわけではありませんが、不許可事由を解消しないまま再提出すると、2回目も同じ結果になります。最初の申請を急ぐよりも、準備を整えてから出す方が結果的に早くなります。
+</div>
+
+<h2 id="section-9">9. よくある質問(FAQ)</h2>
+
+**Q1. 特許を出願中で、まだ登録されていないのですがD-8-4の申請は可能ですか?**
+
+A. 原則として**登録が完了した知的財産権**である必要があります。出願中の特許はOASIS点数に反映されません。ただし学士号とTOPIKスコア、創業教育の修了で80点を超えられるのであれば、特許がなくても申請は可能です。特許なしで進める場合は、事業計画書の技術性に関する説明がよりいっそう緻密でなければなりません。
+
+**Q2. 海外で取得した博士号も認められますか?**
+
+A. 認められます。ただし、**アポスティーユ確認または韓国領事認証**を受けた学位証・成績証明の原本が必要で、外国語の書類は公証翻訳本を一緒に提出します。学位がオンライン課程や認証を受けていない学校で取得したものであれば、認定が難しくなります。
+
+**Q3. D-10求職ビザで入国しているのですが、すぐにD-8-4に変更できますか?**
+
+A. 可能です。実際にD-10→D-8-4の変更が最も一般的な経路です。ただしD-10滞在中の**求職活動報告**をきちんと行ってきたかを確認される可能性があります。法人設立・事業者登録・OASIS点数算定まで完了した後、滞在資格変更許可を申請します。
+
+**Q4. 資本金はいくらに設定すれば審査で有利ですか?**
+
+A. 法律上の最低額はありませんが、**3,000万ウォンから5,000万ウォン以上**をおすすめします。オフィス賃料、6か月分の運営費、初期マーケティング費用を賄える水準であってこそ、「実体のある法人」として評価されます。資本金が低すぎると、法人維持の可能性を疑われます。
+
+**Q5. D-8-4許可後に事業アイテムを変更してもいいですか?**
+
+A. 完全に別業種への転換はD-8-4資格の維持が難しくなることがあります。**技術創業というアイデンティティ自体が揺らぐため**です。保有する知的財産権とつながる範囲内でアイテムを拡張するのは問題が少ないですが、業種を丸ごと入れ替える際は、事前に管轄の出入国・外国人庁で確認する必要があります。
+
+<h2 id="section-10">10. 相談のご案内</h2>
+
+D-8-4は書類枚数が多くないにもかかわらず、通過率が低いビザです。理由はシンプルです。**学位・特許・事業計画の「つながり」を示すストーリー**が欠けている申請が多いからです。特許がどれほど優れていても、学位がどれほど高くても、この3つが1つの事業につながっているという説明が足りなければ、審査で差がつきます。
+
+ビジョン行政士事務所は、D-8系列の企業投資ビザ、特に技術創業D-8-4とベンチャー創業D-8-2の申請を数多く手がけてきました。OASIS点数設計から事業計画書の構造化、オフィス実査への備えまで、段階ごとにご案内しています。
+
+**📞 ビジョン行政士事務所**
+- 電話:**02-363-2251**
+- メール:**5000meter@gmail.com**
+- 所在地:(04614) ソウル特別市中区退渓路324、3階(ソンウビル)
+
+初回相談はお電話またはメールで予約可能です。現在お持ちの学位・知的財産権・滞在資格を合わせてお知らせいただけると、相談時間が短縮できます。
