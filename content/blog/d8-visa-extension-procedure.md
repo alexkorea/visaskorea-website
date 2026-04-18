@@ -1,0 +1,395 @@
+---
+title: "D-8 비자 연장 신청 절차와 주의점 — 실무에서 막히는 지점 정리"
+date: "2026-04-18"
+category: "투자비자"
+excerpt: "D-8 연장에서 실제로 막히는 지점은 서류 수가 아니라 사업 실적과 자금 흐름 설명입니다."
+image: "/slides/documents.jpg"
+slug: "d8-visa-extension-procedure"
+---
+# D-8 비자 연장 신청 절차와 주의점 — 실무에서 막히는 지점 정리
+
+D-8 비자 연장은 서류 수를 맞춘다고 통과되지 않습니다. 출입국 심사관이 먼저 보는 것은 **법인이 실제로 굴러가고 있는지**, 그리고 **신고한 투자금이 실제 사업에 쓰였는지**입니다. 연장 시점 기준으로 법인통장 잔액, 임대차 현황, 매출 규모, 직원 고용, 4대보험 납부 이력까지 한 묶음으로 드러납니다. 이 중 하나라도 설명이 부족하면 서류가 아무리 많아도 심사가 꼬입니다.
+
+실무에서 가장 많이 걸리는 부분은 **"사업을 하고는 있는데 숫자로 증명이 안 되는"** 경우입니다. 매출은 있는데 세금계산서가 없고, 사무실은 있는데 직원이 없고, 법인통장에 돈은 있는데 출처 설명이 약합니다. 연장 신청은 만료 4개월 전부터 가능하며, 최소 2개월 전에는 서류 준비에 들어가야 보완 요청이 와도 대응할 시간이 남습니다. 이 글은 실제 심사에서 차이가 나는 지점을 중심으로 연장 절차 전체를 정리합니다.
+
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8 연장 심사에서 먼저 보는 것</a></li>
+    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 연장 신청 시기와 체류 기간 부여 기준</a></li>
+    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 필요 서류 전체 정리</a></li>
+    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 신청 절차 — 하이코리아 예약부터 허가까지</a></li>
+    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 사업 실적이 부족할 때 대응하는 방법</a></li>
+    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 자금 흐름·세금·4대보험에서 걸리는 지점</a></li>
+    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 자주 하는 실수와 거절 사례</a></li>
+    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 자주 묻는 질문 (FAQ)</a></li>
+    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 상담 안내</a></li>
+  </ul>
+</nav>
+
+## <h2 id="section-1">D-8 연장 심사에서 먼저 보는 것</h2>
+
+D-8은 초기 발급보다 연장이 더 까다로워지는 비자입니다. 초기 발급은 "투자할 의지"로 받을 수 있지만, 연장은 **"그 의지가 실제 사업으로 이어졌는가"**로 판단합니다. 2년 차, 4년 차에 들어설수록 심사 강도가 올라갑니다.
+
+### 심사관이 가장 먼저 확인하는 세 가지
+
+먼저 보는 것은 **투자금 유지**, **사업 실체**, **법인 재무 상태** 세 가지입니다. 1억 원 이상 외국인 투자 신고가 유지되고 있는지, 사무실이 실재하고 직원이 있는지, 부가세 신고와 법인세 신고가 정상적으로 이루어지고 있는지가 핵심입니다.
+
+### 서류보다 먼저 드러나는 것
+
+서류보다 더 중요한 것은 **숫자 간 일관성**입니다. 사업계획서에 예상 매출을 2억으로 써놨는데 실제 부가세 신고 매출이 2천만 원이면, 그 차이를 설명할 수 있어야 합니다. 오히려 매출이 적어도 솔직하게 축소된 원인을 써내는 편이 낫습니다.
+
+### 초기 발급 대비 연장 심사의 차이
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">구분</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">초기 발급</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">연장 (2년 차 이후)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">핵심 판단 기준</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">투자 자금의 적법성, 사업계획의 타당성</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">실제 경영 실적, 매출·고용 유지 여부</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">요구 서류 성격</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">예정·계획 중심 (사업계획서, 투자 증빙)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">실적 중심 (재무제표, 납세증명, 4대보험)</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">체류 기간 부여</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">보통 1년</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">실적에 따라 1년~2년 차등 부여</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">심사 난이도</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">중간</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">높음 — 숫자로 증명 요구</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">자주 걸리는 지점</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">자금 출처 설명 부족</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">매출 없음, 직원 없음, 세금 체납</td>
+    </tr>
+  </tbody>
+</table>
+
+## <h2 id="section-2">연장 신청 시기와 체류 기간 부여 기준</h2>
+
+연장은 **체류기간 만료일 4개월 전부터 만료 당일까지** 신청할 수 있습니다. 실무에서는 만료 2~3개월 전에 신청하는 것을 권합니다. 심사 기간이 2~4주, 보완 요청이 올 경우 추가로 2~4주가 더 걸릴 수 있기 때문입니다.
+
+### 만료일을 놓쳤을 때
+
+만료일 당일까지 신청하지 못하면 불법 체류 상태가 됩니다. 이 경우 출국 후 재입국해야 하며, 자동출국명령 이력이 남으면 재발급 심사에서 불리하게 작용합니다. 특히 기업 투자 비자의 경우 **체류기간 초과 이력 자체가 재심사에서 감점 요소**로 작동합니다.
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 주의:</strong> 체류기간 만료일은 외국인등록증이 아니라 여권 스탬프와 하이코리아 체류기간을 기준으로 확인하세요. 출국·재입국으로 기간이 단축된 경우가 흔히 놓칩니다.
+</div>
+
+### 체류 기간 부여 기준
+
+연장 시 부여되는 체류 기간은 사업 실적과 법인 안정성에 따라 갈립니다.
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">사업 실적 수준</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">보통 부여 기간</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">판단 근거</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">매출 1억 이상, 내국인 고용 2명 이상</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2년</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">사업 안정성 입증</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">매출 있음, 고용 있음, 세금 납부 정상</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1년</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">기본 연장 조건 충족</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">매출 저조, 고용 없음</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">6개월~1년</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">단기 연장 후 재심사</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">세금 체납, 4대보험 미가입</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">불허 가능</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">사업 실체 의심</td>
+    </tr>
+  </tbody>
+</table>
+
+## <h2 id="section-3">필요 서류 전체 정리</h2>
+
+D-8 연장 서류는 크게 **신분 서류**, **법인 서류**, **실적 서류** 세 묶음으로 나뉩니다. 관할 출입국사무소에 따라 추가 서류를 요청하는 경우가 있으므로, 접수 전 관할 기관 확인이 필요합니다.
+
+### 신분 관련 서류
+
+- 여권 원본 및 사본
+- 외국인등록증 원본 및 사본
+- 체류기간 연장 허가 신청서 (하이코리아에서 출력 또는 현장 작성)
+- 컬러 증명사진 1매 (3.5×4.5cm, 최근 6개월 이내)
+- 수수료 납부 영수증 (6만 원)
+
+### 법인 관련 서류
+
+- 법인등기부등본 (3개월 이내)
+- 사업자등록증 사본
+- 외국인투자기업 등록증명서
+- 법인 정관
+- 주주명부
+- 사무실 임대차계약서 사본
+
+### 실적 입증 서류
+
+<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
+  <strong style="color:#166534">✅ 실적 입증 체크리스트</strong>
+  <ul style="margin-top:12px">
+    <li>최근 1년 법인세 신고서 또는 재무제표</li>
+    <li>최근 4분기 부가가치세 과세표준증명</li>
+    <li>납세증명서 (국세·지방세)</li>
+    <li>법인통장 거래내역서 (최근 6개월~1년)</li>
+    <li>4대보험 가입자명부 (건강보험 EDI 출력)</li>
+    <li>급여대장 및 원천징수이행상황신고서</li>
+    <li>주요 거래처 세금계산서 사본 또는 계약서</li>
+    <li>사무실 내부 사진 (최근 촬영본)</li>
+  </ul>
+</div>
+
+### 서류의 진짜 의미
+
+많이 놓치는 부분은 **서류 각각이 아니라 서류 간 연결**입니다. 부가세 신고 매출과 법인통장 입금 내역, 세금계산서가 서로 맞아야 합니다. 급여대장과 4대보험 납부 내역, 원천징수 신고가 일치해야 합니다. 숫자가 어긋나면 보완 요청이 바로 나옵니다.
+
+<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#1e40af">💡 실무 팁:</strong> 연장 신청 2~3주 전에 세무사로부터 부가세 과세표준증명, 법인세 재무제표, 원천징수이행상황신고서를 한 묶음으로 받아두세요. 이 세 가지가 "사업이 실제로 굴러간다"를 숫자로 증명합니다.
+</div>
+
+## <h2 id="section-4">신청 절차 — 하이코리아 예약부터 허가까지</h2>
+
+2024년 이후 대부분의 출입국사무소는 **하이코리아(www.hikorea.go.kr) 사전 예약 필수**입니다. 방문 접수만 받는 사무소가 거의 남아있지 않으므로, 예약 일정을 먼저 확보해야 합니다.
+
+### 단계별 진행 흐름
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">단계</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">할 일</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">소요 기간</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">1. 사전 점검</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">투자금 유지 확인, 재무 상태 점검, 세금 체납 확인</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">만료 3~4개월 전</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">2. 서류 준비</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">세무·법인·실적 서류 발급, 사업실적 설명서 작성</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2~3주</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">3. 하이코리아 예약</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">관할 출입국사무소 방문 예약 (서울남부·수원 등은 1~2개월 대기)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1일~2개월</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">4. 방문 접수</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">출입국 방문, 서류 제출, 수수료 납부</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">당일</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">5. 심사</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">담당 심사관 배정, 서류 검토, 필요 시 보완 요청</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2~6주</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">6. 허가·통보</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">문자 알림, 외국인등록증에 체류기간 갱신</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">통보 후 즉시</td>
+    </tr>
+  </tbody>
+</table>
+
+### 온라인 접수가 가능한 경우
+
+일부 출입국사무소는 **하이코리아 전자민원 연장 신청**을 받고 있습니다. 다만 D-8은 심사가 까다로워 실제로는 대부분 방문을 안내합니다. 초기 연장이거나 실적이 충분히 좋은 경우에만 온라인 접수가 수락됩니다.
+
+### 보완 요청이 왔을 때
+
+보완 요청은 보통 **심사관 의견서 형태**로 옵니다. "최근 매출 세부 내역", "거래처 실재 확인 자료", "임대료 납부 증빙" 같은 구체적 요청이 많습니다. 보완 기한은 7~14일이 보통이며, 기한 내 제출하지 못하면 불허 처리될 수 있습니다.
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 주의:</strong> 보완 요청을 받고 "어떻게든 맞춰 넣자"는 식으로 허위 자료를 제출하면 출입국 조사 대상이 됩니다. 실적이 부족하면 부족하다고 쓰고 대신 향후 계획을 구체적으로 제출하는 편이 훨씬 낫습니다.
+</div>
+
+
+
+<figure style="margin:32px auto;text-align:center">
+  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  
+</figure>
+
+
+## <h2 id="section-5">사업 실적이 부족할 때 대응하는 방법</h2>
+
+연장을 앞두고 가장 많이 받는 질문은 "매출이 없으면 무조건 거절되나요?"입니다. 답은 **"아니지만, 설명이 필요하다"**입니다.
+
+### 매출이 없어도 연장되는 사례
+
+- 제조업·기술개발 초기 단계로 아직 매출 발생 전인 경우
+- 장기 계약이 체결되어 있고 대금 지급 시점이 미래인 경우
+- 설비 투자에 자금을 집중해 초기 적자가 설명되는 경우
+- 직원 고용이 유지되고 있고 급여 지급 흐름이 정상인 경우
+
+### 매출이 없어서 거절되는 사례
+
+- 매출 0원, 직원 0명, 통장 거래 거의 없음
+- 사무실이 사실상 공실, 실제 사업 활동 흔적 없음
+- 세금 신고 자체가 누락됨
+- 법인통장이 개인 생활비 계좌처럼 쓰임
+
+### 사업실적 설명서 쓰는 법
+
+실적이 약할수록 **사업실적 설명서**를 따로 작성해 제출해야 합니다. 이 설명서는 형식이 정해져 있지 않지만, 다음 세 가지를 포함하면 설득력이 생깁니다.
+
+1. **현재까지의 실행 내역** — 투자금 사용처, 계약 체결, 직원 채용, 제품 개발 단계
+2. **매출이 아직 없는 이유** — 업종 특성, 개발 주기, 인허가 대기 등 객관적 원인
+3. **향후 6~12개월 구체 계획** — 예상 매출, 신규 계약, 추가 고용 일정
+
+길게 쓰는 것보다 **숫자와 날짜가 들어간 짧은 설명**이 훨씬 효과가 있습니다.
+
+### 실적 부족 시 체류 기간 부여 예측
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">상황</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">예상 결과</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">대응 전략</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">매출 없음 + 투자금·고용 유지</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">6개월~1년 단기 연장</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">사업실적 설명서 상세 작성</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">매출 저조 + 세금 신고 정상</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1년 연장 가능</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">향후 계약서·주문서 증빙 첨부</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">매출 0원 + 고용 0명</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">불허 가능성 높음</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">연장 전 실적 확보 우선</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">투자금 감소 (1억 미만)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">거의 불허</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">추가 증자 후 신청</td>
+    </tr>
+  </tbody>
+</table>
+
+## <h2 id="section-6">자금 흐름·세금·4대보험에서 걸리는 지점</h2>
+
+D-8 연장에서 **가장 많이 걸리는 지점**은 바로 이 세 가지입니다. 사업계획은 잘 썼는데 숫자에서 꼬이는 경우가 전체 거절 사례의 절반 이상을 차지합니다.
+
+### 법인통장 거래 흐름
+
+법인통장은 연장 심사에서 사실상 "사업의 진짜 모습"을 보여주는 자료입니다. 심사관이 확인하는 것은 크게 세 가지입니다.
+
+- **매출 입금** — 세금계산서와 금액·날짜가 맞는지
+- **급여 출금** — 원천징수 신고와 일치하는지
+- **임대료 출금** — 계약서 금액과 맞는지
+
+법인통장이 사실상 대표 개인 계좌처럼 쓰이고 있으면 이 부분이 약하면 바로 꼬입니다. 개인카드 대신 법인카드를 써야 하는 이유가 여기서 나옵니다.
+
+### 세금 체납·미신고
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 주의:</strong> 법인세·부가세·원천세 중 하나라도 체납 상태면 연장이 거의 불허됩니다. 신청 전 국세·지방세 납세증명서를 발급받아 체납 여부를 반드시 확인하세요. 체납이 있다면 완납 후 신청해야 합니다.
+</div>
+
+### 4대보험 가입 상황
+
+4대보험은 "직원이 실재하는가"를 증명하는 핵심 자료입니다. 특히 **건강보험 EDI 가입자명부**와 **고용보험 취득·상실 이력**을 같이 봅니다. 대표 1인만 등재되어 있고 다른 직원이 없으면 "사업 실체 미약"으로 분류될 수 있습니다.
+
+### 실무에서 자주 보이는 패턴
+
+- 매출은 있는데 세금계산서를 발행하지 않은 경우 → 부가세 신고 누락으로 해석
+- 직원에게 현금으로 급여를 준 경우 → 원천세 미신고로 확인됨
+- 사무실을 공유오피스로 돌린 경우 → 실재 확인 불가로 보완 요청
+- 대표가 다른 법인과 겸업 중인 경우 → 전업 사업 실체 의심
+
+## <h2 id="section-7">자주 하는 실수와 거절 사례</h2>
+
+실제 거절·보완 사례에서 반복되는 패턴이 있습니다. 이 부분이 약하면 아무리 서류가 많아도 결과가 뒤집힙니다.
+
+### 실수 1 — 매출을 "현금 거래"로만 유지
+
+세금계산서 없이 현금으로만 거래한 매출은 연장 심사에서 없는 매출과 같습니다. 부가세 신고서와 세금계산서로 증빙되지 않으면 심사관은 숫자를 인정하지 않습니다.
+
+### 실수 2 — 사무실을 공유오피스로 다운사이징
+
+초기 발급 때 실사무실이었다가 공유오피스로 바꾼 경우, 관할에 따라 사업 실체를 다시 묻습니다. 공유오피스 자체가 불허 사유는 아니지만, **계약서·사무실 사진·상주 증빙**을 꼼꼼히 준비해야 합니다.
+
+### 실수 3 — 투자금을 중간에 뺀 경우
+
+외국인 투자 신고 금액이 1억 원 이하로 줄어들면 그 시점부터 D-8 요건을 잃습니다. 법인통장에서 대표 개인 계좌로 자금이 이동한 내역이 있으면 **투자금 회수로 해석될 수 있어** 심각한 감점 요소가 됩니다.
+
+### 실수 4 — 결산 보고 누락
+
+법인세 신고가 누락된 연차가 있으면 연장 심사에서 바로 걸립니다. 세무사가 신고를 했는지, 기한 후 신고라도 했는지 먼저 확인해야 합니다.
+
+### 실수 5 — 주소·연락처 변경 미신고
+
+주거지 이전, 법인 주소 변경, 대표 교체 같은 사항을 14일 이내 출입국에 신고해야 하는데, 이를 놓친 상태로 연장을 신청하면 과태료 부과 + 심사 불리로 이어집니다.
+
+### 거절 이력이 있을 때
+
+거절 후 재신청은 가능하지만, **1차 거절 사유를 정면으로 해소**한 자료를 제출해야 합니다. "다시 제출"하는 것이 아니라 "무엇이 달라졌는가"를 보여주는 것이 핵심입니다.
+
+## <h2 id="section-8">자주 묻는 질문 (FAQ)</h2>
+
+### Q1. 연장 신청 후 심사 중에 해외에 나가도 되나요?
+
+A. 체류기간 만료 전이라면 일반적인 출입국은 가능합니다. 다만 **재입국허가 면제 제도**를 이용해야 하고, 1년 이내 재입국해야 체류자격이 유지됩니다. 심사 중 장기간 해외 체류 시 담당 심사관이 연락을 취할 수 없어 불이익이 생길 수 있으므로, 가능하면 심사 완료 후 출국하는 편이 안전합니다.
+
+### Q2. 2년 차인데 아직 매출이 없습니다. 연장이 가능한가요?
+
+A. 업종 특성상 매출 발생이 늦는 경우(제조 설비 구축, 소프트웨어 개발, 인허가 대기 등)는 사업실적 설명서로 보완할 수 있습니다. 단, **고용 유지, 투자금 유지, 세금 신고 정상**이라는 세 가지는 반드시 갖춰야 합니다. 셋 중 하나라도 빠지면 거절 가능성이 큽니다.
+
+### Q3. 대표가 외국인 1인뿐이고 직원이 없어도 연장되나요?
+
+A. 법적으로 직원 수가 D-8 연장 필수 요건은 아닙니다. 다만 **실무 심사에서는 내국인 고용이 사업 실체의 핵심 증거**로 작동합니다. 직원이 없다면 매출·세금·거래처 증빙을 훨씬 두텁게 준비해야 하며, 부여 기간이 6개월~1년으로 짧아질 가능성이 있습니다.
+
+### Q4. 가족(D-8 동반자 F-3)도 같이 연장 신청해야 하나요?
+
+A. 네, 주신청자(D-8)의 연장 허가가 나온 뒤 F-3 동반 가족도 같은 기간으로 연장 신청을 해야 합니다. 자동 연장이 아닙니다. 주신청자와 다른 시점에 신청해도 되지만, **주신청자 체류기간을 초과해 F-3 기간만 길게 받을 수는 없습니다**.
+
+### Q5. 연장 거절 시 이의신청이 가능한가요?
+
+A. 출입국관리법상 체류기간 연장 불허 처분에 대한 이의신청 또는 행정심판·행정소송이 가능합니다. 다만 실무에서는 **출국 후 재신청이 더 현실적인 해결책**인 경우가 많습니다. 거절 사유가 실적 부족이라면, 단기간에 실적을 보강하거나 증자 후 재신청하는 방향이 효율적입니다. 거절 사유가 절차적 문제라면 이의신청이 유효할 수 있습니다.
+
+## <h2 id="section-9">상담 안내</h2>
+
+D-8 연장은 서류 수보다 숫자 간 일관성과 사업 실체 증명이 결과를 가릅니다. 특히 매출이 약하거나 직원이 없는 상황, 세금 체납 이력이 있는 경우, 이전에 연장이 거절된 이력이 있는 경우는 신청 전 진단이 필요합니다. 비전 행정사사무소는 D-8 연장·재심사·거절 후 재신청 전반에 대해 법인 재무 상태 분석부터 사업실적 설명서 작성, 출입국 방문 동행까지 실무 단계를 함께 진행합니다.
+
+**비전 행정사사무소 (VISION Administrative Office)**
+
+- 전화: **02-363-2251**
+- 이메일: **5000meter@gmail.com**
+- 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
+
+연장 만료까지 3개월 미만이거나, 거절 경험이 있는 경우, 매출·고용 실적이 약한 경우 가장 먼저 상담을 예약해 주세요. 상황별로 준비 순서가 달라집니다.
