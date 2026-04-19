@@ -1,0 +1,398 @@
+---
+title: "E-7特定活動ビザ85職種完全整理"
+date: "2026-04-19"
+category: "就労ビザ"
+excerpt: "E-7ビザ85職種を専門・準専門・一般技能に分けて資格と書類まで実務目線で整理。"
+image: "/slides/documents.jpg"
+slug: "e7-visa-85-occupations-complete-guide"
+---
+# E-7特定活動ビザ85職種の完全ガイド — 分類別の資格要件と申請実務
+
+E-7特定活動ビザの**85職種**は、大きく3つのグループに分かれます。**E-7-1専門人材67職種**、**E-7-2準専門人材9職種**、**E-7-3一般技能人材9職種**。数字の上では85ですが、実際の審査では「どの職種コードで申請したか」によって、学歴・経歴・年収要件がまったく変わってきます。同じ会社、同じ業務でも、コード選択を一つ誤るだけですぐに保留に回されます。
+
+多くの方が躓くのは、職種選択そのものです。会社は「開発者」と呼んでいても、審査官はKSCO(韓国標準職業分類)を基準に判断します。ポイントはここです。**業務内容 → KSCO職種コード → E-7細目コード**の順に逆算してマッチングさせる必要があり、学歴・経歴がその職種の要件を超えていなければ、受理段階で止まります。以下では、85職種を分類別に整理し、実際の申請実務で最も頻繁にひっかかる箇所を押さえていきます。
+
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
+  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <ul style="list-style:none;padding-left:0">
+    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7ビザ85職種の構造を一目で把握</a></li>
+    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. E-7-1専門人材67職種の分類</a></li>
+    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-7-2準専門人材9職種</a></li>
+    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. E-7-3一般技能人材9職種</a></li>
+    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 職種別の学歴・経歴・年収要件の比較</a></li>
+    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 申請手続きと必要書類</a></li>
+    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. よくあるミスと不許可事由</a></li>
+    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくあるご質問(FAQ)</a></li>
+    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. ご相談案内</a></li>
+  </ul>
+</nav>
+
+## <h2 id="section-1">E-7ビザ85職種の構造を一目で把握</h2>
+
+E-7は「外国人が大韓民国内の公的・私的機関等との契約に基づき、法務部長官が特別に指定する活動」に対して付与される在留資格です。一見すると単一のビザに見えますが、実際には3つの異なるトラックがまとめられています。
+
+### 3つのトラックの性格
+
+- **E-7-1専門人材**: 専門家・管理者・研究者が中心。学歴と経歴の要件が高く、年収基準も最も厳しい水準です。
+- **E-7-2準専門人材**: 事務・サービス補助。外国人顧客対応、海外営業、免税店販売など、特定現場のニーズを反映した職種がここに含まれます。
+- **E-7-3一般技能人材**: 熟練技能職。動物飼育員、航空機整備士、造船溶接工といった現場技術職が中心です。
+
+### 「85」という数字の意味
+
+85という数字は3トラックを合算した総数です。67 + 9 + 9 = 85。ただし、この他にも**E-7-4熟練技能人材(点数制)**、**E-7-S ネガティブ方式の優秀人材(先端分野)**といった別トラックがあり、これらは職種リストとは別枠で運用されています。本稿では伝統的な「85職種」の枠組みを基準に解説します。
+
+<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#1e40af">💡 実務ヒント:</strong> ご自身の業務を説明する際、「IT開発」のように漠然とした表現で済ませず、まず<strong>KSCO職業分類コード</strong>で確認したうえで、E-7細目コード(例: S140 コンピュータシステム設計・分析家)を特定するのが、実際の受理に最も早く繋がります。
+</div>
+
+## <h2 id="section-2">E-7-1専門人材67職種の分類</h2>
+
+E-7-1は85職種の中で最大のグループです。67職種が8つの大分類に整理されています。ここに入るには、学士以上の学位または関連経歴が基本前提となります。
+
+### 大分類別の構成
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">大分類</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">代表的な職種</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">職種数</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">管理者</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">経営役員、企画管理、人事・労務管理、生産管理、海外営業管理など</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">12職種</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">科学・工学専門家</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">生命科学研究員、自然科学研究員、社会科学研究員、機械工学技術者、電気工学技術者など</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">14職種</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">情報通信専門家</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">コンピュータシステム設計・分析家、システムソフトウェア開発者、アプリケーションソフトウェア開発者、Web専門家、データベース管理者など</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">8職種</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">保健・医療専門家</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">専門医、歯科医師、韓医師、獣医師、薬剤師など</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">5職種</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">教育専門家</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">大学講師、海外技術専門学校教師、特殊学校教師など</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">3職種</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">法務・経営・金融専門家</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">弁護士、会計士、税理士、経営コンサルタント、金融・保険専門家、投資専門家など</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">12職種</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">文化・芸術・放送専門家</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">作家、翻訳家、デザイナー、映像・録画編集者、アナウンサー、芸能事務所従事者など</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">7職種</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">その他専門職</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">海外艦艇修理技術者、特殊機械設置・整備技術者など</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">6職種</td>
+    </tr>
+  </tbody>
+</table>
+
+### 最も発給件数が多い職種
+
+現場で実際に発給数が最も多いのは、**アプリケーションソフトウェア開発者(S150)**、**経営コンサルタント**、**海外営業員**、**機械工学技術者**の順です。IT分野はコード対応が比較的明確で受理がスムーズですが、経営コンサルタントはむしろ業務範囲があいまいなため保留になりやすい職種です。
+
+### E-7-1の基本前提
+
+- **学歴**: 関連分野の学士以上 + 1年以上の経歴、または修士以上
+- **経歴**: 学士の場合は該当分野で1年以上、学位と職務が一致しない場合は5年以上
+- **年収**: 前年度の国民一人当たりGNIの80%以上が基本ライン(職種・年次ごとの加算あり)
+
+## <h2 id="section-3">E-7-2準専門人材9職種</h2>
+
+E-7-2は、専門性は相対的に低いものの、特定産業で外国人需要が確実に存在する職種をまとめたトラックです。学歴要件は比較的低い反面、雇用主側の要件(売上・雇用・外国人顧客比率など)が厳しくなっています。
+
+### 9職種の全リスト
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">コード</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">職種名</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">主な業務</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S510</td><td style="border:1px solid #e5e7eb;padding:10px">免税店販売員</td><td style="border:1px solid #e5e7eb;padding:10px">外国人顧客向けの免税品販売・案内</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S520</td><td style="border:1px solid #e5e7eb;padding:10px">航空運送事務員</td><td style="border:1px solid #e5e7eb;padding:10px">空港での搭乗手続き・発券など</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S530</td><td style="border:1px solid #e5e7eb;padding:10px">ホテル受付事務員</td><td style="border:1px solid #e5e7eb;padding:10px">外国人客室予約・チェックイン対応</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S540</td><td style="border:1px solid #e5e7eb;padding:10px">医療コーディネーター</td><td style="border:1px solid #e5e7eb;padding:10px">外国人患者の誘致・通訳・診療案内</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S550</td><td style="border:1px solid #e5e7eb;padding:10px">顧客相談事務員</td><td style="border:1px solid #e5e7eb;padding:10px">外国語コールセンターでの応対</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S560</td><td style="border:1px solid #e5e7eb;padding:10px">技術経営専門家</td><td style="border:1px solid #e5e7eb;padding:10px">技術ベース企業の特殊営業・管理</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S570</td><td style="border:1px solid #e5e7eb;padding:10px">観光通訳案内員</td><td style="border:1px solid #e5e7eb;padding:10px">観光ガイド(国家公認資格が必要)</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S580</td><td style="border:1px solid #e5e7eb;padding:10px">カジノディーラー</td><td style="border:1px solid #e5e7eb;padding:10px">外国人専用カジノの現場運営</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S590</td><td style="border:1px solid #e5e7eb;padding:10px">料理長・調理師</td><td style="border:1px solid #e5e7eb;padding:10px">該当国の伝統料理の調理(5年以上の経歴)</td></tr>
+  </tbody>
+</table>
+
+### 準専門人材で頻繁にこじれるポイント
+
+実務上、最も難しいのが**S590 料理長・調理師**です。5年以上の該当国料理の経歴を書類で証明する必要がありますが、自国の小規模飲食店の在職証明では、公証・アポスティーユまで取らないと認められないケースが多々あります。経歴が十分というだけでは足りず、**店舗規模、メニュー構成、厨房内での本人の役割**まで説明を添える必要があります。
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong> S570観光通訳案内員は、必ず韓国観光公社が発行する<strong>観光通訳案内士資格</strong>が必要です。資格なしでガイド業務のみを理由にE-7-2を申請した場合、書類段階で即座に差し戻されます。
+</div>
+
+## <h2 id="section-4">E-7-3一般技能人材9職種</h2>
+
+E-7-3は現場の熟練技能職です。学位よりも**実際の技術経歴**と**技能資格**の方が重視されます。
+
+### 9職種の全リスト
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">コード</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">職種名</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">主な要件</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S610</td><td style="border:1px solid #e5e7eb;padding:10px">動物飼育員</td><td style="border:1px solid #e5e7eb;padding:10px">畜産・水産関連の学歴または5年の経歴</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S620</td><td style="border:1px solid #e5e7eb;padding:10px">養殖技術者</td><td style="border:1px solid #e5e7eb;padding:10px">水産養殖関連の経歴・資格</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S630</td><td style="border:1px solid #e5e7eb;padding:10px">ハラル食肉処理員</td><td style="border:1px solid #e5e7eb;padding:10px">イスラム圏の国籍 + 食肉処理経歴</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S640</td><td style="border:1px solid #e5e7eb;padding:10px">楽器製造・修理員</td><td style="border:1px solid #e5e7eb;padding:10px">伝統楽器・西洋楽器の製作経歴</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S650</td><td style="border:1px solid #e5e7eb;padding:10px">造船溶接工</td><td style="border:1px solid #e5e7eb;padding:10px">溶接技能資格 + 造船所への就業確定</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S660</td><td style="border:1px solid #e5e7eb;padding:10px">塗装工</td><td style="border:1px solid #e5e7eb;padding:10px">塗装技能の経歴</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S670</td><td style="border:1px solid #e5e7eb;padding:10px">航空機整備士</td><td style="border:1px solid #e5e7eb;padding:10px">航空整備士資格 + 国土交通部告示要件</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S680</td><td style="border:1px solid #e5e7eb;padding:10px">アルミ合金・鋳造員</td><td style="border:1px solid #e5e7eb;padding:10px">鋳造経歴</td></tr>
+    <tr><td style="border:1px solid #e5e7eb;padding:10px">S690</td><td style="border:1px solid #e5e7eb;padding:10px">ルート産業体の熟練技能工</td><td style="border:1px solid #e5e7eb;padding:10px">鋳造・金型・塑性加工・溶接・表面処理・熱処理分野の経歴</td></tr>
+  </tbody>
+</table>
+
+### 造船溶接工のケース
+
+S650造船溶接工は、ここ数年で発給数が急速に増えています。造船所所在地(蔚山・巨済・木浦など)と連動したクオータで運用され、**雇用主の実地調査と溶接技量テスト**が別途実施されるケースが一般的です。書類がいかに整っていても、実技検証で技量が出なければその場で止まります。
+
+### E-7-3の実務ポイント
+
+- 技能資格は**韓国基準の資格でなくても認められる場合がある**が、英文・公証は必須
+- 経歴証明には会社名・期間・担当工程が具体的に記載されていなければならない
+- 雇用主は外国人雇用の許容人数枠内でのみ招聘可能
+
+
+
+<figure style="margin:32px auto;text-align:center">
+  <img src="https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Two blue Ukrainian passports placed on a white surface, close-up view." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
+  
+</figure>
+
+
+## <h2 id="section-5">職種別の学歴・経歴・年収要件の比較</h2>
+
+3トラックの要件の違いは、下表で一目瞭然です。
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">E-7-1専門人材</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">E-7-2準専門人材</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">E-7-3一般技能人材</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">基本学歴</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">学士以上 + 経歴1年、または修士以上</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">短期大学士以上または関連経歴</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">技能資格または長期経歴</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">経歴による代替期間</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">学位不一致の場合は5年以上</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">職種により2〜5年</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">職種により3〜5年</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">最低年収基準</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">前年度GNIの80%以上</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">前年度GNIの80%以上(一部職種は例外)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">同一業務の韓国人平均の80%以上</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">雇用主の要件</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">売上・韓国人雇用人数基準</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">職種別の特化要件(ホテル等級、外国人顧客比率など)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">業種・クオータ制限</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">雇用比率の制限</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">韓国人5名あたり外国人1名(原則)</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">職種により異なる</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">職種別クオータ適用</td>
+    </tr>
+  </tbody>
+</table>
+
+### GNI基準の意味
+
+年収の下限は、毎年韓国銀行が発表する**一人当たり国民総所得(GNI)**を基準に変動します。2026年基準の最新数値は発表時期により更新されるため、実際の申請時点では**管轄の出入国・外国人庁の公告確認が必須**です。
+
+### 年収算定で見落としやすい部分
+
+- 基本給以外でも**固定的に支給される手当**は算入可能
+- 成果給・一時的なボーナスは原則として除外
+- 宿舎提供は一定基準に限り一部算入(職種により差あり)
+- **週40時間フルタイム**が原則。パートタイム換算は不可
+
+## <h2 id="section-6">申請手続きと必要書類</h2>
+
+85職種のどこに入る場合でも、手続きの大枠は同じです。ただし、職種によって求められる追加書類が異なります。
+
+### 申請手続きの段階表
+
+<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+  <thead style="background:#f0f7ff">
+    <tr>
+      <th style="border:1px solid #e5e7eb;padding:10px">段階</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">処理機関</th>
+      <th style="border:1px solid #e5e7eb;padding:10px">所要期間</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">1. 職種マッチング</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">業務内容とKSCO・E-7コードの突合</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">事前検討</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">1〜2週間</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">2. 査証発給認定書の申請</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">雇用主が管轄の出入国庁へ申請</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">管轄の出入国・外国人庁</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">2〜4週間</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">3. 査証申請</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">本国の韓国大使館でビザを受領</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">在外公館</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">3〜10日</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">4. 入国</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">韓国入国と在留資格の確認</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">空港出入国</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #e5e7eb;padding:10px">5. 外国人登録</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">入国後90日以内に管轄出入国庁を訪問</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">管轄の出入国・外国人庁</td>
+      <td style="border:1px solid #e5e7eb;padding:10px">訪問当日に受理</td>
+    </tr>
+  </tbody>
+</table>
+
+### 共通提出書類
+
+<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
+  <strong style="color:#166534">✅ E-7査証発給認定書の共通チェックリスト</strong>
+  <ul style="margin-top:12px">
+    <li>査証発給認定申請書(別紙様式)</li>
+    <li>パスポートの写しおよび証明写真</li>
+    <li>雇用契約書または採用予定確認書</li>
+    <li>学位証および成績証明書(アポスティーユまたは領事確認)</li>
+    <li>経歴証明書(在職期間・役職・担当業務を明記)</li>
+    <li>資格証の写し(職種により必須の場合)</li>
+    <li>雇用主の事業者登録証の写し</li>
+    <li>法人登記簿謄本・納税証明書</li>
+    <li>韓国人雇用状況の立証書類(雇用保険加入者名簿など)</li>
+    <li>財務諸表または売上立証資料</li>
+    <li>業務記述書(Job Description) — <strong>業務と職種コードの整合性説明がカギ</strong></li>
+  </ul>
+</div>
+
+### 職種別の追加書類の例
+
+- **IT専門家(S140〜S180)**: 過去の案件実績、参加プロジェクトの詳細
+- **医療コーディネーター(S540)**: 医療機関の外国人患者誘致登録証
+- **料理長(S590)**: 該当国飲食店の在職証明 + メニュー表 + 本人の業務写真
+- **造船溶接工(S650)**: 溶接資格証 + 造船所配属予定確認書 + 宿舎計画
+- **観光通訳案内員(S570)**: 観光通訳案内士資格証
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong> 海外発行の書類はほとんどの場合、<strong>アポスティーユまたは在外公館の領事確認</strong>が求められます。翻訳版のみを添付して原本認証を欠いていると、受理そのものができません。特に中国・ベトナム発行の書類は、公証段階から別途準備する方が安全です。
+</div>
+
+## <h2 id="section-7">よくあるミスと不許可事由</h2>
+
+実際の審査では、書類の欠落よりも**説明不足**で減点されるケースの方が多く見られます。
+
+### ミス① — 職種コードの誤選択
+
+会社内部の肩書(例:「PM」「代理」)だけを根拠にコードを決めてしまうと、実際の業務と食い違いが生じます。審査官は業務記述書の内容からコードの妥当性を判断するため、この説明が不十分だと、その職種の要件未達として保留になります。
+
+### ミス② — 経歴期間の水増し
+
+在職証明書の期間が社会保険の加入記録と合わない場合、すぐに引っかかります。本国での経歴についても、**税金の納付証明や社会保障記録**と突き合わせて検証される事例が増えています。
+
+### ミス③ — 年収の表示が基本給のみ
+
+雇用契約書に基本給以外の手当が抜けていると、GNI基準を満たしていないように見えてしまいます。固定手当は**契約書本文に明記**するか、別紙の給与テーブルとして添付しないと算入されません。
+
+### ミス④ — 雇用主の要件未確認
+
+E-7は「人」だけでなく「会社」も審査対象です。**売上1億ウォン未満**、**韓国人雇用5名未満**(一部職種)の会社は、そもそも招聘資格を満たさないケースが多々あります。スタートアップ向けの例外規定もありますが、立証要件はずっと厳格です。
+
+### ミス⑤ — 学位の専攻と職務の不一致
+
+専攻と職務が合わない場合は**5年以上の経歴**が必須ですが、経歴が3〜4年だとその時点で止まります。学位不足を補う形で追加の資格証・修了証を添えるのも一つの方法ですが、基本は経歴年数を確保することです。
+
+<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
+  <strong style="color:#92400e">⚠️ 注意:</strong> 過去にE-9(非専門就業)で入国しており、E-7への変更を考えている場合は、<strong>熟練技能人材点数制(E-7-4)</strong>という別トラックがあります。一般のE-7-1〜3コードでそのまま申請しても受理されません。ご自身が点数制の対象かを先に確認する必要があります。
+</div>
+
+### 不許可になった場合、再申請は?
+
+不許可理由書が出た場合、**その理由をそのまま放置して**再申請するのは意味がありません。学歴・経歴の要件は数値で測れるため補完可能ですが、雇用主側の要件が問題であれば、**雇用主自体を変えるか、会社の成長を待って再申請**するのが現実的です。
+
+## <h2 id="section-8">よくあるご質問(FAQ)</h2>
+
+### Q1. 85職種のリストはどこで公式に確認できますか?
+
+法務部出入国・外国人政策本部が発行する**『査証発給案内マニュアル』**とハイコリア(hikorea.go.kr)の公示に、年単位で改定版のリストが掲載されます。実際の申請直前には、管轄の出入国・外国人庁の公告をもう一度確認すべきです。職種コードと要件は毎年一部調整されます。
+
+### Q2. 専攻と業務が異なれば、必ず不許可になりますか?
+
+必ずしも不許可になるわけではありません。カギは**経歴年数**です。専攻不一致の場合、原則として該当分野で5年以上の経歴が求められますが、この期間を満たし、客観的証憑(在職証明、プロジェクト履歴、公式推薦状)が裏付けられていれば通過します。証憑が弱いと、ここで明暗が分かれます。
+
+### Q3. 1年の短期契約でもE-7を取得できますか?
+
+原則として、雇用契約期間と在留期間が連動します。短期契約でも発給は可能ですが、在留期間は契約終了日に合わせて短く付与されます。延長するには契約更新の立証が改めて必要です。実務上は、**1年以上の契約**でスタートする方が、延長や審査の負担が軽くなります。
+
+### Q4. E-7-4熟練技能人材点数制は85職種とは別ものですか?
+
+別トラックです。E-7-4は、E-9・E-10・H-2で一定期間以上在留した外国人が、**点数制(学歴・年収・韓国語能力・勤続など)**を通じて熟練技能人材に転換される制度です。85職種のリストとは別に、独自のクオータ・要件で運用されます。既にE-9等で在留中の方は、一般E-7を申請する前に、点数制の適合可否を先に確認する方が近道です。
+
+### Q5. 家族も一緒に連れて行けますか?
+
+E-7の本人は、配偶者および未成年の子どもを**F-3同伴家族ビザ**で招聘できます。F-3は就労が制限されますが、長期在留と学校入学は可能です。配偶者も就労する必要がある場合は、F-3を取得した後、**F-3から E-7等の就労ビザへ個別変更**するルートを辿ります。両親の招聘は原則として訪問同居(F-1)ルートになり、条件はかなり厳しくなります。
+
+## <h2 id="section-9">ご相談案内</h2>
+
+E-7は、85職種のどこに申請するかによって要件と書類構成がまったく変わります。職種マッチングから雇用主要件の検討、業務記述書の作成まで一括で点検してほしい方は、下記までご連絡ください。ビジョン行政書士事務所が、職種別の実際の発給実績をもとに事前検討いたします。
+
+**ビジョン行政書士事務所 (VISION Administrative Office)**
+
+- 電話: **02-363-2251**
+- メール: **5000meter@gmail.com**
+- 住所: **(04614) ソウル特別市中区退渓路324, 3階 (ソンウビル)**
+
+事前に**① 本国での学歴・経歴の概要 ② 韓国の雇用主情報 ③ 予定している職務の概要**を整理してお送りいただけると、相談をよりスムーズに進めることができます。
