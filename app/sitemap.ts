@@ -3,8 +3,11 @@ import { SITE_CONFIG } from "@/lib/seo/config";
 import { i18nConfig } from "@/lib/i18n/config";
 import { getAllVisaSlugs } from "@/lib/content/visas";
 import { getAllBusinessSlugs } from "@/lib/content/business";
+import { getPostSlugs } from "@/lib/blog";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export const revalidate = 60;
+
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = SITE_CONFIG.domain;
   const locales = i18nConfig.locales;
   const now = new Date();
@@ -69,6 +72,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
         alternates: {
           languages: Object.fromEntries(
             locales.map((l) => [l, `${baseUrl}/${l}/business/${slug}`])
+          ),
+        },
+      });
+    }
+  }
+
+  // Blog detail pages
+  const blogSlugs = await getPostSlugs();
+  for (const locale of locales) {
+    for (const slug of blogSlugs) {
+      routes.push({
+        url: `${baseUrl}/${locale}/blog/${slug}`,
+        lastModified: now,
+        changeFrequency: "weekly",
+        priority: 0.7,
+        alternates: {
+          languages: Object.fromEntries(
+            locales.map((l) => [l, `${baseUrl}/${l}/blog/${slug}`])
           ),
         },
       });

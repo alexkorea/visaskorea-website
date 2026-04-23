@@ -12,6 +12,8 @@ import { generatePageMetadata } from "@/lib/seo";
 import { getAllPosts } from "@/lib/blog";
 import { Calendar, ArrowRight } from "lucide-react";
 
+export const revalidate = 60;
+
 interface PageProps {
   params: Promise<{ locale: string }>;
   searchParams: Promise<{ category?: string }>;
@@ -69,7 +71,7 @@ export default async function BlogListPage({ params, searchParams }: PageProps) 
   ) as Locale;
   const dict = getDictionary(validLocale);
 
-  const allPosts = getAllPosts(validLocale);
+  const allPosts = await getAllPosts(validLocale);
   const posts = category
     ? allPosts.filter((p) => p.category === category)
     : allPosts;
