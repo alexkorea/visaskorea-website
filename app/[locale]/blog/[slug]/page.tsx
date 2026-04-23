@@ -11,22 +11,20 @@ import { PageHero } from "@/components/layout/page-hero";
 import { i18nConfig, type Locale } from "@/lib/i18n/config";
 import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generateBlogMetadata } from "@/lib/seo";
-import { getPostBySlug, getPostSlugs, getAllPosts } from "@/lib/blog";
+import { getPostBySlug, getAllPosts } from "@/lib/blog";
 import { ArrowLeft, ArrowRight, Calendar } from "lucide-react";
+
+const LANG_HIGHLIGHT: Record<string, string> = {
+  en: "🌐 Fluent English communication and professional immigration services available at VISION Administrative Office.",
+  zh: "🌐 可用流利中文沟通及处理所有行政业务的专业行政士事务所 — VISION行政士。",
+  ja: "🌐 日本語での円滑なコミュニケーションと業務処理が可能な行政書士事務所 — VISION行政書士。",
+};
+
+export const revalidate = 60;
+export const dynamicParams = true;
 
 interface PageProps {
   params: Promise<{ locale: string; slug: string }>;
-}
-
-export function generateStaticParams() {
-  const slugs = getPostSlugs();
-  const params: { locale: string; slug: string }[] = [];
-  for (const locale of i18nConfig.locales) {
-    for (const slug of slugs) {
-      params.push({ locale, slug });
-    }
-  }
-  return params;
 }
 
 const categoryLabels: Record<string, Record<Locale, string>> = {
@@ -49,7 +47,8 @@ export async function generateMetadata({
   ) as Locale;
 
   try {
-    const post = getPostBySlug(slug, validLocale);
+    const post = await getPostBySlug(slug, validLocale);
+    if (!post) return {};
     return generateBlogMetadata(validLocale, {
       slug: post.slug,
       title: post.title,
@@ -68,15 +67,13 @@ export default async function BlogDetailPage({ params }: PageProps) {
   ) as Locale;
   const dict = getDictionary(validLocale);
 
-  let post;
-  try {
-    post = getPostBySlug(slug, validLocale);
-  } catch {
+  const post = await getPostBySlug(slug, validLocale);
+  if (!post) {
     notFound();
   }
 
   // Get related posts (same category, excluding current)
-  const allPosts = getAllPosts(validLocale);
+  const allPosts = await getAllPosts(validLocale);
   const relatedPosts = allPosts
     .filter((p) => p.slug !== slug && p.category === post.category)
     .slice(0, 3);
@@ -148,6 +145,15 @@ export default async function BlogDetailPage({ params }: PageProps) {
             </div>
           </div>
         </section>
+
+        {/* Language Highlight Banner */}
+        {LANG_HIGHLIGHT[locale] && (
+          <div className="bg-blue-50 border-l-4 border-blue-500">
+            <div className="mx-auto max-w-7xl px-4 py-4">
+              <p className="text-blue-800 font-semibold text-sm md:text-base">{LANG_HIGHLIGHT[locale]}</p>
+            </div>
+          </div>
+        )}
 
         {/* Content + Sidebar */}
         <section className="py-12 md:py-16">
