@@ -79,7 +79,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }
 
   // Blog detail pages
-  const blogSlugs = await getPostSlugs();
+  let blogSlugs: string[] = [];
+  try { blogSlugs = await getPostSlugs(); } catch (e) { /* table may not exist yet */ }
   for (const locale of locales) {
     for (const slug of blogSlugs) {
       routes.push({
