@@ -4,7 +4,7 @@ import * as nodemailer from "nodemailer"
 const SITE_NAME = "VisasKorea"
 const SITE_NAME_KR = "비자스코리아"
 const NOTION_KEY = process.env.NOTION_API_KEY || ""
-const NOTION_DB = "33d557c9-c8f8-81e7-8c8f-cd36d7abac1f"
+const NOTION_DB = "34c5bd7c-ac5a-81a9-9af5-fcc768064652"
 
 async function sendEmail(fields: Record<string, string>, senderName: string, senderEmail: string) {
   const appPassword = process.env.GMAIL_APP_PASSWORD
