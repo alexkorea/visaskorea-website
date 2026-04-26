@@ -153,10 +153,10 @@ export function Footer({ locale, dict }: FooterProps) {
         <div className="mx-auto max-w-7xl px-6 py-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-gray-500">
           <span>{{ ko: "© 2018 비전행정사사무소", en: "© 2018 VISION Administrative Office", zh: "© 2018 VISION行政士事务所", ja: "© 2018 VISION行政書士事務所" }[locale]}. All rights reserved.</span>
           <div className="flex gap-6">
-            <Link href={`/${locale}/contact`} className="hover:text-gray-300 transition-colors">
+            <Link href={`/${locale}/privacy`} className="hover:text-gray-300 transition-colors">
               {dict.footer?.privacyPolicy || "개인정보처리방침"}
             </Link>
-            <Link href={`/${locale}/contact`} className="hover:text-gray-300 transition-colors">
+            <Link href={`/${locale}/terms`} className="hover:text-gray-300 transition-colors">
               {dict.footer?.termsOfService || "이용약관"}
             </Link>
           </div>
