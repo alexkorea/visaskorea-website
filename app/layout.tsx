@@ -105,13 +105,13 @@ export default async function RootLayout({
   return (
     <html lang={htmlLang} suppressHydrationWarning>
       <body className={`${notoSansKR.variable} ${inter.variable} font-sans antialiased`}>
-        <Script src="https://www.googletagmanager.com/gtag/js?id=G-J6GD76FYJ8" strategy="afterInteractive" />
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-13R66L3KTZ" strategy="afterInteractive" />
         <Script id="gtag-init" strategy="afterInteractive">
           {`
             window.dataLayer = window.dataLayer || [];
             function gtag(){dataLayer.push(arguments);}
             gtag('js', new Date());
-            gtag('config', 'G-J6GD76FYJ8');
+            gtag('config', 'G-13R66L3KTZ');
           `}
         </Script>
         {children}
