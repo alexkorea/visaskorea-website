@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { Noto_Sans_KR, Inter } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
+import Script from 'next/script'
 import { headers } from 'next/headers'
 import { SITE_CONFIG, LOCALE_HTML_LANG, type Locale } from '@/lib/seo/config'
 import './globals.css'
@@ -104,6 +105,15 @@ export default async function RootLayout({
   return (
     <html lang={htmlLang} suppressHydrationWarning>
       <body className={`${notoSansKR.variable} ${inter.variable} font-sans antialiased`}>
+        <Script src="https://www.googletagmanager.com/gtag/js?id=G-J6GD76FYJ8" strategy="afterInteractive" />
+        <Script id="gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-J6GD76FYJ8');
+          `}
+        </Script>
         {children}
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
