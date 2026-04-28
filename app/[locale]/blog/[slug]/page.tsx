@@ -13,6 +13,7 @@ import { getDictionary } from "@/lib/i18n/dictionaries";
 import { generateBlogMetadata } from "@/lib/seo";
 import { getPostBySlug, getAllPosts } from "@/lib/blog";
 import { ArrowLeft, ArrowRight, Calendar } from "lucide-react";
+import { InlineCTAForm } from "@/components/inline-cta-form";
 
 const LANG_HIGHLIGHT: Record<string, string> = {
   en: "🌐 Fluent English communication and professional immigration services available at VISION Administrative Office.",
@@ -166,6 +167,7 @@ export default async function BlogDetailPage({ params }: PageProps) {
                   __html: post.content,
                 }}
               />
+              <InlineCTAForm />
 
               {/* Sidebar */}
               <aside className="w-full shrink-0 lg:w-72">
