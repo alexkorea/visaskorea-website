@@ -1,185 +1,86 @@
 "use client"
 
 import { useState } from "react"
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
+import Link from "next/link"
 
-interface ContactFormProps {
-  dict: {
-    contact: {
-      name: string
-      email: string
-      phone: string
-      company: string
-      service: string
-      message: string
-      submit: string
-    }
-    common: {
-      visa: string
-      business: string
-    }
-  }
-  otherLabel: string
-  locale?: string
-}
+const services = [
+  { value: "E-7 취업비자", label: "E-7 취업비자", sub: "Work Visa", icon: "💼" },
+  { value: "E-6 예술흥행비자", label: "E-6 예술흥행비자", sub: "Entertainment Visa", icon: "🎭" },
+  { value: "F-2 거주비자", label: "F-2 거주비자", sub: "Residence Visa", icon: "🏠" },
+  { value: "F-5 영주권", label: "F-5 영주권", sub: "Permanent Residency", icon: "🏅" },
+  { value: "사범심사 대응", label: "사범심사 대응", sub: "Immigration Review", icon: "⚖️" },
+  { value: "체류자격 변경", label: "체류자격 변경", sub: "Status Change", icon: "🔄" },
+  { value: "기타", label: "기타", sub: "Other", icon: "💬" },
+]
 
-const serviceOptions: Record<string, { value: string; label: string }[]> = {
-  ko: [
-    { value: "d8", label: "D-8 기업투자비자" },
-    { value: "d7", label: "D-7 주재원비자" },
-    { value: "e7", label: "E-7 특정활동비자 (취업)" },
-    { value: "f2", label: "F-2 거주비자 (점수제)" },
-    { value: "f4", label: "F-4 재외동포비자" },
-    { value: "f5", label: "F-5 영주권" },
-    { value: "f6", label: "F-6 결혼이민비자" },
-    { value: "extension", label: "체류기간 연장" },
-    { value: "change", label: "체류자격 변경" },
-    { value: "criminal", label: "사범심사" },
-    { value: "fdi", label: "외국인투자법인 설립" },
-    { value: "branch", label: "지사/연락사무소 설치" },
-    { value: "other", label: "기타" },
-  ],
-  en: [
-    { value: "d8", label: "D-8 Corporate Investment Visa" },
-    { value: "d7", label: "D-7 Intra-company Transfer Visa" },
-    { value: "e7", label: "E-7 Work Visa (Professionals)" },
-    { value: "f2", label: "F-2 Residence Visa (Points)" },
-    { value: "f4", label: "F-4 Overseas Korean Visa" },
-    { value: "f5", label: "F-5 Permanent Residency" },
-    { value: "f6", label: "F-6 Marriage Immigration Visa" },
-    { value: "extension", label: "Visa Extension" },
-    { value: "change", label: "Status Change" },
-    { value: "criminal", label: "Criminal Review / Immigration Hearing" },
-    { value: "fdi", label: "Foreign Investment Company Setup" },
-    { value: "branch", label: "Branch/Liaison Office Setup" },
-    { value: "other", label: "Other" },
-  ],
-  zh: [
-    { value: "d8", label: "D-8 企业投资签证" },
-    { value: "d7", label: "D-7 驻在员签证" },
-    { value: "e7", label: "E-7 特定活动签证（就业）" },
-    { value: "f2", label: "F-2 居住签证（积分制）" },
-    { value: "f4", label: "F-4 海外同胞签证" },
-    { value: "f5", label: "F-5 永久居留权" },
-    { value: "f6", label: "F-6 结婚移民签证" },
-    { value: "extension", label: "签证延期" },
-    { value: "change", label: "签证变更" },
-    { value: "criminal", label: "违法审查" },
-    { value: "fdi", label: "外商投资企业设立" },
-    { value: "branch", label: "分公司/联络处设立" },
-    { value: "other", label: "其他" },
-  ],
-  ja: [
-    { value: "d8", label: "D-8 企業投資ビザ" },
-    { value: "d7", label: "D-7 駐在員ビザ" },
-    { value: "e7", label: "E-7 特定活動ビザ（就労）" },
-    { value: "f2", label: "F-2 居住ビザ（ポイント制）" },
-    { value: "f4", label: "F-4 在外同胞ビザ" },
-    { value: "f5", label: "F-5 永住権" },
-    { value: "f6", label: "F-6 結婚移民ビザ" },
-    { value: "extension", label: "ビザ延長" },
-    { value: "change", label: "在留資格変更" },
-    { value: "criminal", label: "犯則審査" },
-    { value: "fdi", label: "外国人投資法人設立" },
-    { value: "branch", label: "支社/連絡事務所設立" },
-    { value: "other", label: "その他" },
-  ],
-}
+const priorityCountries = [
+  { value: "미국", label: "🇺🇸 미국" },
+  { value: "중국", label: "🇨🇳 중국" },
+  { value: "일본", label: "🇯🇵 일본" },
+  { value: "베트남", label: "🇻🇳 베트남" },
+  { value: "캐나다", label: "🇨🇦 캐나다" },
+  { value: "영국", label: "🇬🇧 영국" },
+]
 
-const labels: Record<string, {
-  nationality: string
-  nationalityPlaceholder: string
-  currentVisa: string
-  currentVisaPlaceholder: string
-  country: string
-  countryPlaceholder: string
-  messageHint: string
-}> = {
-  ko: {
-    nationality: "국적 *",
-    nationalityPlaceholder: "예: 미국, 중국, 일본",
-    currentVisa: "현재 비자",
-    currentVisaPlaceholder: "예: F-2, E-7, 없음",
-    country: "현재 거주국가 *",
-    countryPlaceholder: "예: 한국, 미국",
-    messageHint: "상세하게 적어주실수록 정확한 내용으로 회신이 가능합니다.",
-  },
-  en: {
-    nationality: "Nationality *",
-    nationalityPlaceholder: "e.g. USA, China, Japan",
-    currentVisa: "Current Visa",
-    currentVisaPlaceholder: "e.g. F-2, E-7, None",
-    country: "Country of Residence *",
-    countryPlaceholder: "e.g. Korea, USA",
-    messageHint: "The more details you provide, the more accurate our response will be.",
-  },
-  zh: {
-    nationality: "国籍 *",
-    nationalityPlaceholder: "例：美国、中国、日本",
-    currentVisa: "当前签证",
-    currentVisaPlaceholder: "例：F-2、E-7、无",
-    country: "目前居住国家 *",
-    countryPlaceholder: "例：韩国、美国",
-    messageHint: "提供的信息越详细，我们的回复就越准确。",
-  },
-  ja: {
-    nationality: "国籍 *",
-    nationalityPlaceholder: "例：アメリカ、中国、日本",
-    currentVisa: "現在のビザ",
-    currentVisaPlaceholder: "例：F-2、E-7、なし",
-    country: "現在の居住国 *",
-    countryPlaceholder: "例：韓国、アメリカ",
-    messageHint: "詳しくお書きいただくほど、正確な回答が可能です。",
-  },
-}
+const otherCountries = [
+  { value: "뉴질랜드", label: "🇳🇿 뉴질랜드" },
+  { value: "대만", label: "🇹🇼 대만" },
+  { value: "독일", label: "🇩🇪 독일" },
+  { value: "러시아", label: "🇷🇺 러시아" },
+  { value: "말레이시아", label: "🇲🇾 말레이시아" },
+  { value: "몽골", label: "🇲🇳 몽골" },
+  { value: "미얀마", label: "🇲🇲 미얀마" },
+  { value: "싱가포르", label: "🇸🇬 싱가포르" },
+  { value: "인도", label: "🇮🇳 인도" },
+  { value: "인도네시아", label: "🇮🇩 인도네시아" },
+  { value: "이탈리아", label: "🇮🇹 이탈리아" },
+  { value: "우즈베키스탄", label: "🇺🇿 우즈베키스탄" },
+  { value: "캄보디아", label: "🇰🇭 캄보디아" },
+  { value: "태국", label: "🇹🇭 태국" },
+  { value: "프랑스", label: "🇫🇷 프랑스" },
+  { value: "필리핀", label: "🇵🇭 필리핀" },
+  { value: "호주", label: "🇦🇺 호주" },
+  { value: "홍콩", label: "🇭🇰 홍콩" },
+  { value: "기타", label: "기타" },
+]
 
-const successMessages: Record<string, { title: string; subtitle: string }> = {
-  ko: { title: "상담 신청이 접수되었습니다!", subtitle: "빠른 시일 내에 연락드리겠습니다." },
-  en: { title: "Your inquiry has been submitted!", subtitle: "We will contact you shortly." },
-  zh: { title: "您的咨询已提交！", subtitle: "我们将尽快与您联系。" },
-  ja: { title: "ご相談が受け付けられました！", subtitle: "早急にご連絡いたします。" },
-}
-
-const sendingTexts: Record<string, string> = {
-  ko: "전송 중...", en: "Sending...", zh: "发送中...", ja: "送信中...",
-}
-
-const errorTexts: Record<string, string> = {
-  ko: "전송에 실패했습니다. 직접 전화 또는 이메일로 문의해주세요.",
-  en: "Failed to send. Please contact us by phone or email.",
-  zh: "发送失败。请通过电话或电子邮件联系我们。",
-  ja: "送信に失敗しました。お電話またはメールでお問い合わせください。",
-}
-
-export function ContactForm({ dict, otherLabel, locale = "ko" }: ContactFormProps) {
+export function ContactForm({ locale = "ko" }: { locale?: string }) {
+  const [selectedServices, setSelectedServices] = useState<string[]>([])
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
-  const l = labels[locale] || labels.ko
+  const [inquiryId, setInquiryId] = useState("")
+
+  function toggleService(value: string) {
+    setSelectedServices((prev) =>
+      prev.includes(value) ? prev.filter((s) => s !== value) : [...prev, value]
+    )
+  }
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
+    if (selectedServices.length === 0) return
     setStatus("sending")
     const form = e.currentTarget
+    const snsType = (form.elements.namedItem("snsType") as HTMLSelectElement).value
+    const snsId = (form.elements.namedItem("snsId") as HTMLInputElement).value
     const data = {
       name: (form.elements.namedItem("name") as HTMLInputElement).value,
       email: (form.elements.namedItem("email") as HTMLInputElement).value,
-      phone: (form.elements.namedItem("phone") as HTMLInputElement).value,
-      nationality: (form.elements.namedItem("nationality") as HTMLInputElement).value,
-      currentVisa: (form.elements.namedItem("currentVisa") as HTMLInputElement).value,
-      country: (form.elements.namedItem("country") as HTMLInputElement).value,
-      service: (form.elements.namedItem("service") as HTMLSelectElement).value,
-      message: (form.elements.namedItem("message") as HTMLTextAreaElement).value,
+      contact: (form.elements.namedItem("contact") as HTMLInputElement).value,
+      snsType: snsType || undefined,
+      snsId: snsId || undefined,
+      nationality: (form.elements.namedItem("nationality") as HTMLSelectElement).value,
+      services: selectedServices,
     }
     try {
-      const res = await fetch("/api/contact", {
+      const res = await fetch("/api/contact-step1", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(data),
       })
       if (res.ok) {
+        const result = await res.json()
+        setInquiryId(result.inquiryId || "")
         setStatus("sent")
-        form.reset()
       } else {
         setStatus("error")
       }
@@ -190,84 +91,167 @@ export function ContactForm({ dict, otherLabel, locale = "ko" }: ContactFormProp
 
   if (status === "sent") {
     return (
-      <div className="py-12 text-center">
-        <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-green-100">
-          <svg className="h-8 w-8 text-green-600" fill="none" viewBox="0 0 24 24" strokeWidth={2} stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-          </svg>
+      <div className="max-w-xl mx-auto">
+        <div className="bg-white rounded-xl border border-gray-200 p-10 shadow-sm">
+          <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-6">
+            <svg className="w-8 h-8 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+            </svg>
+          </div>
+          <h2 className="text-2xl font-bold text-gray-900 mb-3 text-center">상담신청이 접수되었습니다.</h2>
+          <p className="text-gray-600 mb-4 text-center">
+            {selectedServices.join(', ')} 신청을 해주셨습니다.
+            <br />
+            좀 더 자세한 정보를 입력해 주시면 정확한 상담이 가능합니다.
+          </p>
+
+          <div className="text-center mb-6">
+            <Link
+              href={`/${locale}/contact/step2?service=${encodeURIComponent(selectedServices.join(','))}&inquiryId=${inquiryId}`}
+              className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-white px-8 h-12 rounded-lg font-semibold transition-colors text-lg"
+            >
+              상세정보 입력하기 →
+            </Link>
+            <p className="text-sm text-gray-400 mt-2">약 1분 소요</p>
+          </div>
+
+          <div className="bg-blue-50 border border-blue-100 rounded-xl p-6 mb-6 text-left">
+            <h3 className="font-bold text-blue-900 text-lg mb-3">비전행정사사무소</h3>
+            <ul className="space-y-2 text-sm text-blue-800">
+              <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 8년+ 외국인 비자 전문 실무 경험</li>
+              <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> E-7, F-2, F-5 등 다양한 비자 유형 전문</li>
+              <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 한국어·영어·중국어·일본어 다국어 상담</li>
+              <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 가장 빠른 출입국사무소를 찾아 신속 처리</li>
+              <li className="flex items-start gap-2"><span className="text-blue-500 mt-0.5">✓</span> 서류 준비부터 접수·수령까지 원스톱 대행</li>
+            </ul>
+          </div>
+
+          <div className="bg-gray-50 rounded-lg p-5 space-y-2">
+            <div className="flex items-center justify-center gap-2">
+              <span className="text-sm text-gray-500">전화:</span>
+              <span className="font-medium text-gray-900">02-363-2251</span>
+            </div>
+            <div className="flex items-center justify-center gap-2">
+              <span className="text-sm text-gray-500">카카오톡:</span>
+              <span className="font-medium text-gray-900">alexkorea</span>
+            </div>
+            <div className="flex items-center justify-center gap-2">
+              <span className="text-sm text-gray-500">이메일:</span>
+              <span className="font-medium text-gray-900">5000meter@gmail.com</span>
+            </div>
+          </div>
         </div>
-        <h3 className="text-xl font-semibold">{successMessages[locale]?.title || successMessages.ko.title}</h3>
-        <p className="mt-2 text-muted-foreground">{successMessages[locale]?.subtitle || successMessages.ko.subtitle}</p>
       </div>
     )
   }
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-4">
-      <div className="grid gap-4 sm:grid-cols-2">
-        <div className="space-y-2">
-          <Label htmlFor="name">{dict.contact.name} *</Label>
-          <Input id="name" name="name" required placeholder={dict.contact.name} />
+    <div className="max-w-2xl mx-auto">
+      <div className="bg-white rounded-xl border border-gray-200 p-8 shadow-sm">
+        <h2 className="text-xl font-bold text-gray-900 mb-2">⚡ 30초 빠른 신청</h2>
+
+        <form onSubmit={handleSubmit} className="space-y-6">
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">이름 <span className="text-red-500">*</span></label>
+            <input name="name" type="text" required className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-primary focus:border-primary outline-none" placeholder="홍길동" />
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">이메일 <span className="text-red-500">*</span></label>
+            <input name="email" type="email" required className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-primary focus:border-primary outline-none" placeholder="example@email.com" />
+            <p className="text-xs text-gray-400 mt-1">맞춤 상담 양식 링크를 발송해드립니다</p>
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">연락처 (전화번호)</label>
+            <input name="contact" type="text" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-primary focus:border-primary outline-none" placeholder="010-1234-5678" />
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">SNS ID</label>
+            <div className="flex gap-2">
+              <select name="snsType" className="border border-gray-300 rounded-lg px-3 py-2.5 text-sm focus:ring-2 focus:ring-primary focus:border-primary outline-none bg-white">
+                <option value="">선택</option>
+                <option value="kakaotalk">카카오톡</option>
+                <option value="wechat">WeChat</option>
+                <option value="line">LINE</option>
+                <option value="whatsapp">WhatsApp</option>
+              </select>
+              <input name="snsId" type="text" className="flex-1 border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-primary focus:border-primary outline-none" placeholder="SNS ID 입력" />
+            </div>
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-1">국적</label>
+            <select name="nationality" className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm focus:ring-2 focus:ring-primary focus:border-primary outline-none bg-white">
+              <option value="">선택해주세요</option>
+              {priorityCountries.map((c) => (
+                <option key={c.value} value={c.value}>{c.label}</option>
+              ))}
+              <option disabled>──────────</option>
+              {otherCountries.map((c) => (
+                <option key={c.value} value={c.value}>{c.label}</option>
+              ))}
+            </select>
+          </div>
+
+          <div>
+            <label className="block text-sm font-medium text-gray-700 mb-3">희망 업무 <span className="text-red-500">*</span> <span className="text-gray-400 font-normal text-xs">(복수 선택 가능)</span></label>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
+              {services.map((svc) => (
+                <button
+                  key={svc.value}
+                  type="button"
+                  onClick={() => toggleService(svc.value)}
+                  className={`relative flex items-center gap-3 p-4 rounded-xl border-2 text-left transition-all ${
+                    selectedServices.includes(svc.value)
+                      ? "border-primary bg-primary/5 shadow-sm"
+                      : "border-gray-200 hover:border-gray-300 hover:bg-gray-50"
+                  }`}
+                >
+                  <span className="text-2xl">{svc.icon}</span>
+                  <div>
+                    <div className="font-semibold text-gray-900 text-sm">{svc.label}</div>
+                    <div className="text-xs text-gray-500">{svc.sub}</div>
+                  </div>
+                  {selectedServices.includes(svc.value) && (
+                    <div className="absolute top-2 right-2 w-5 h-5 bg-primary rounded-full flex items-center justify-center">
+                      <svg className="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={3}>
+                        <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                      </svg>
+                    </div>
+                  )}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <button
+            type="submit"
+            disabled={status === "sending" || selectedServices.length === 0}
+            className="w-full bg-primary hover:bg-primary/90 disabled:bg-gray-300 disabled:cursor-not-allowed text-white font-semibold py-3 rounded-lg transition-colors text-base"
+          >
+            {status === "sending" ? "처리 중..." : "신청하기"}
+          </button>
+
+          {status === "error" && (
+            <p className="text-red-500 text-sm text-center">전송에 실패했습니다. 잠시 후 다시 시도해주세요.</p>
+          )}
+        </form>
+      </div>
+
+      <div className="mt-8 grid sm:grid-cols-2 gap-4">
+        <div className="bg-gray-50 rounded-lg p-5 border border-gray-200 text-center">
+          <h3 className="font-semibold text-gray-900 mb-1">전화 상담</h3>
+          <p className="text-primary text-lg font-medium">02-363-2251</p>
+          <p className="text-sm text-gray-500 mt-1">평일 09:00 ~ 18:00</p>
         </div>
-        <div className="space-y-2">
-          <Label htmlFor="email">{dict.contact.email} *</Label>
-          <Input id="email" name="email" type="email" required placeholder={dict.contact.email} />
+        <div className="bg-gray-50 rounded-lg p-5 border border-gray-200 text-center">
+          <h3 className="font-semibold text-gray-900 mb-1">카카오톡 상담</h3>
+          <p className="text-primary text-lg font-medium">alexkorea</p>
+          <p className="text-sm text-gray-500 mt-1">24시간 접수 가능</p>
         </div>
       </div>
-      <div className="grid gap-4 sm:grid-cols-2">
-        <div className="space-y-2">
-          <Label htmlFor="phone">{dict.contact.phone} *</Label>
-          <Input id="phone" name="phone" required placeholder={dict.contact.phone} />
-        </div>
-        <div className="space-y-2">
-          <Label htmlFor="nationality">{l.nationality}</Label>
-          <Input id="nationality" name="nationality" required placeholder={l.nationalityPlaceholder} />
-        </div>
-      </div>
-      <div className="grid gap-4 sm:grid-cols-2">
-        <div className="space-y-2">
-          <Label htmlFor="currentVisa">{l.currentVisa}</Label>
-          <Input id="currentVisa" name="currentVisa" placeholder={l.currentVisaPlaceholder} />
-        </div>
-        <div className="space-y-2">
-          <Label htmlFor="country">{l.country}</Label>
-          <Input id="country" name="country" required placeholder={l.countryPlaceholder} />
-        </div>
-      </div>
-      <div className="space-y-2">
-        <Label htmlFor="service">{dict.contact.service} *</Label>
-        <select
-          id="service"
-          name="service"
-          required
-          className="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background"
-        >
-          <option value="">{dict.contact.service}</option>
-          {(serviceOptions[locale] || serviceOptions.ko).map((opt) => (
-            <option key={opt.value} value={opt.value}>{opt.label}</option>
-          ))}
-        </select>
-      </div>
-      <div className="space-y-2">
-        <Label htmlFor="message">{dict.contact.message} *</Label>
-        <div className="rounded-md border border-blue-200 bg-blue-50 p-3 mb-2">
-          <p className="text-sm text-blue-700">{l.messageHint}</p>
-        </div>
-        <textarea
-          id="message"
-          name="message"
-          rows={5}
-          required
-          className="flex w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background placeholder:text-muted-foreground"
-          placeholder={dict.contact.message}
-        />
-      </div>
-      <Button type="submit" className="w-full" disabled={status === "sending"}>
-        {status === "sending" ? (sendingTexts[locale] || sendingTexts.ko) : dict.contact.submit}
-      </Button>
-      {status === "error" && (
-        <p className="text-red-500 text-sm text-center">{errorTexts[locale] || errorTexts.ko}</p>
-      )}
-    </form>
+    </div>
   )
 }
