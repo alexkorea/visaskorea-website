@@ -13,7 +13,7 @@ D-8 기업투자비자는 **외국인이 한국 법인에 1억 원 이상을 투
 실제 심사에서는 자금의 해외 송금 경로, 국내 법인 계좌 입금, 외국인투자기업 등록 여부, 사업장 임대차, 사업계획서의 구체성이 한 줄로 엮여야 합니다. 서류가 많아도 이 흐름이 약하면 바로 꼬일 수 있고, 반대로 서류가 단출해도 자금 출처와 사업 실체가 선명하면 빠르게 발급됩니다. 핵심은 이것입니다. **D-8은 돈의 이야기를 증빙으로 만드는 비자**입니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8 비자 기본 구조와 세 가지 유형</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 발급 요건: 투자금 1억과 외국인투자 등록</a></li>
@@ -419,7 +419,7 @@ D-8은 서류 수보다 자금 설명과 사업 실체가 먼저 보이는 비�
 비전 행정사사무소는 D-8 기업투자비자 신청과 법인 설립, 외국인투자기업 등록을 한 흐름으로 안내합니다. 자금 구조와 사업 계획이 맞물리도록 초기 단계부터 점검해 드립니다.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">비전 행정사사무소 (VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 전화: <strong>02-363-2251</strong></li>
     <li>✉️ 이메일: <strong>5000meter@gmail.com</strong></li>

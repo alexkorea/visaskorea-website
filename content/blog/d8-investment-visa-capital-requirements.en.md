@@ -11,7 +11,7 @@ slug: "d8-investment-visa-capital-requirements"
 The D-8 corporate investment visa is a long-term residence status granted to foreign nationals who serve as essential personnel — in management, administration, production, or technology — at a Korean corporation they have invested a qualifying amount in. Hitting the capital number alone won't get it issued; the source of funds, the substance of the corporation, and the business plan all have to line up as a single coherent story. This guide walks through capital requirements, foreign-invested company registration, required documents, business plan drafting, and the points where applications most often stall — all from a practical standpoint.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. The Basic Structure of the D-8 Visa</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Capital Requirements — The Source of Funds Comes Before the Number</a></li>
@@ -27,7 +27,7 @@ The D-8 corporate investment visa is a long-term residence status granted to for
   </ul>
 </nav>
 
-<h2 id="section-1">The Basic Structure of the D-8 Visa</h2>
+<h2 id="section-1">The Basic Structure of the D-8 Visa
 
 ### Who Qualifies
 The D-8 is a residence status grounded in Annex 1-2 of the Enforcement Decree of the Immigration Act, granted to essential professionals — in management, administration, production, or technology — at a foreign-invested company under the Foreign Investment Promotion Act. It covers not only investors who establish their own company but also executives and core technical staff dispatched from headquarters. Routine clerical or general sales positions do not fall under the D-8 category.
@@ -44,7 +44,7 @@ The categories most commonly seen in practice are as follows.
 
 D-8-4 runs on a different track from the standard D-8 — both the capital requirement and the evaluation criteria differ — so it needs to be distinguished from the very start.
 
-<h2 id="section-2">Capital Requirements — The Source of Funds Comes Before the Number</h2>
+<h2 id="section-2">Capital Requirements — The Source of Funds Comes Before the Number
 
 ### Minimum Investment Under the Foreign Investment Promotion Act
 The Enforcement Decree of the Foreign Investment Promotion Act sets a separate minimum contribution amount that qualifies as foreign investment, and the D-8 visa requires that the contribution meet or exceed that threshold. The exact figure can be confirmed in the body of the Enforcement Decree itself, and because it is subject to policy revision, the applicable amount should be verified with the relevant authority at the time of filing.
@@ -60,7 +60,7 @@ In practice, applicants tend to get tripped up less on putting the capital toget
 
 If this narrative is thin, even capital that is sitting in the account may not clear the foreign-investment registration step.
 
-<h2 id="section-3">Foreign-Invested Company Registration Procedure</h2>
+<h2 id="section-3">Foreign-Invested Company Registration Procedure
 
 ### Filing with a Foreign Exchange Bank or KOTRA Comes First
 Before bringing funds into Korea, a foreign investment notification must first be filed with a foreign exchange bank or with KOTRA. Funds remitted without this filing become difficult to recognize as capital. The proper sequence is: notification → remittance → corporation establishment → foreign-invested company registration.
@@ -71,7 +71,7 @@ The corporation is set up through a judicial scrivener, and once the capital is 
 ### Issuance of the Foreign-Invested Company Registration Certificate
 A Foreign-Invested Company Registration Certificate must be obtained from KOTRA or a foreign exchange bank before it can be submitted as part of the D-8 application. Without this certificate, the immigration step does not proceed.
 
-<h2 id="section-4">A Rundown of the D-8 Application Documents</h2>
+<h2 id="section-4">A Rundown of the D-8 Application Documents
 
 ### Core Documents
 | Document | Purpose | Notes |
@@ -94,7 +94,7 @@ In actual reviews, the materials below — beyond the core set — are often wha
 
 It is these supplementary materials, more than the sheer number of documents, that bring out the substance of the business.
 
-<h2 id="section-5">The Business Plan — Persuasiveness Beats Length</h2>
+<h2 id="section-5">The Business Plan — Persuasiveness Beats Length
 
 ### Recurring Problems
 Some applicants write business plans running 30 to 40 pages, but the longer the plan, the more often inconsistencies come to the surface. Persuasiveness typically weakens in the following areas.
@@ -122,7 +122,7 @@ These four points need to come through clearly in the early pages of the busines
 </figure>
 
 
-<h2 id="section-6">Where Applications Most Often Stall in Review</h2>
+<h2 id="section-6">Where Applications Most Often Stall in Review
 
 ### When the Company Looks Like a Paper Company
 The combination of a virtual office, no employees, and almost no transaction history is easily flagged as a paper company. Even with adequate capital, weak substance shuts the D-8 down.
@@ -135,7 +135,7 @@ Applicants who say they will run an IT business but have a career in an entirely
 
 > **Practical Tip:** When the capital, the documents, and the business plan each tell their own story, the result is denial. Aligning all three around the same narrative is the real heart of the D-8.
 
-<h2 id="section-7">The Application Flow</h2>
+<h2 id="section-7">The Application Flow
 
 | Step | Content | Responsible Party |
 | --- | --- | --- |
@@ -149,7 +149,7 @@ Applicants who say they will run an IT business but have a career in an entirely
 
 Steps 1 through 4 in this flow often take longer than the visa review itself.
 
-<h2 id="section-8">Frequently Asked Questions (FAQ)</h2>
+<h2 id="section-8">Frequently Asked Questions (FAQ)
 
 **Q1. If I just meet the capital requirement, will the D-8 be issued?**
 Meeting the capital requirement is only the starting line — issuance becomes realistic only when the source of funds, the substance of the corporation, and the business plan all line up. Cases that fill in the number alone are the ones that most often stall in actual review.
@@ -169,7 +169,7 @@ A spouse and minor children can stay together under accompanying status (F-3). A
 **Q6. How much does it cost?**
 Beyond the government-set fees and administrative processing costs, there are also expenses for incorporation, translation, notarization, and advisory services. Costs vary case by case, so we provide accurate guidance during the free consultation.
 
-<h2 id="section-9">Official References</h2>
+<h2 id="section-9">Official References
 
 - HiKorea, Korea Immigration Service: https://www.hikorea.go.kr
 - Korea Immigration Service, Ministry of Justice: https://www.immigration.go.kr
@@ -178,7 +178,7 @@ Beyond the government-set fees and administrative processing costs, there are al
 
 Statutes and notices are subject to amendment, so confirmation with the relevant authority at the time of filing is necessary.
 
-<h2 id="section-10">Consultation</h2>
+<h2 id="section-10">Consultation
 
 The D-8 is not just a question of hitting a capital number — it is a visa that is issued only when **the source of funds, the substance of the corporation, and the business plan** all run on the same line. Building the remittance structure and document flow together, starting from the moment a corporation is first set up in Korea, is what reduces the chance of denial.
 
@@ -191,7 +191,7 @@ Costs vary case by case, so we provide accurate guidance during the free consult
 
 ---
 
-<h2 id="section-11">Need Expert Consultation?</h2>
+<h2 id="section-11">Need Expert Consultation?
 
 Don't navigate complex procedures alone. Our professional consultants will guide you.
 

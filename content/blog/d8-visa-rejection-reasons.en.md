@@ -13,7 +13,7 @@ The D-8 visa is not one that gets issued just because your paperwork checks out.
 Actual reviews look at **the overseas remittance route for the investment funds, the investor's career and financial capacity, the physical reality of the business premises, and the revenue structure in the business plan** together. Even with a thick stack of documents, if this flow does not come through, you will end up with a supplementation request or a refusal. Below, refusal reasons and review points are laid out in the order they actually arise.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What D-8 Reviews Actually Look At</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Seven Core Reasons That Lead to Refusal</a></li>
@@ -28,7 +28,7 @@ Actual reviews look at **the overseas remittance route for the investment funds,
   </ul>
 </nav>
 
-## <h2 id="section-1">What D-8 Reviews Actually Look At</h2>
+## What D-8 Reviews Actually Look At
 
 D-8 is a long-term residence status issued to management, administrative, and production-technology personnel of foreign-invested companies. The Immigration and Foreign Affairs Office does not merely ask "does a company exist?" — it asks **whether this is genuinely a foreign-invested enterprise operating in Korea, and whether the applicant is truly the person running it**.
 
@@ -50,7 +50,7 @@ In the field, officers do not read documents top-to-bottom in the order submitte
   <strong style="color:#1e40af">💡 Practical Tip:</strong> Do not simply arrange documents in submission order. Structure them so the story boils down to one sentence: "this money came in this way, was spent here, and funds this business." Once that single sentence is visible, the officer can accept the whole file.
 </div>
 
-## <h2 id="section-2">Seven Core Reasons That Lead to Refusal</h2>
+## Seven Core Reasons That Lead to Refusal
 
 Refusal notices usually use phrases like "lack of genuine investment" or "insufficient business substance." When you unpack what actually happened behind those phrases, it looks like this.
 
@@ -101,7 +101,7 @@ In practice, the refusal reasons that come up most often are **unclear source of
   <strong style="color:#92400e">⚠️ Caution:</strong> Even if the refusal notice says "insufficient business substance," the real internal reason can be suspicion of a nominee arrangement. This can be a signal that the structure itself — not just the documents — needs to be rethought.
 </div>
 
-## <h2 id="section-3">The KRW 100 Million Capital Requirement — Source Explanation Beats Amount</h2>
+## The KRW 100 Million Capital Requirement — Source Explanation Beats Amount
 
 The D-8 visa presupposes **foreign direct investment of at least KRW 100 million** under the Foreign Investment Promotion Act. But simply hitting the number is not the end of the story.
 
@@ -146,7 +146,7 @@ The first thing a reviewer checks with capital is not the amount but **where the
 
 Even with money in the account, a weak flow explanation can unravel quickly. In particular, if funds deposited into the corporate capital account are withdrawn shortly afterward, it is read as a sham capital injection. **Capital should either remain visibly in the account balance or be traceable to clear business expenditures.**
 
-## <h2 id="section-4">Where the Business Plan Decides the Outcome</h2>
+## Where the Business Plan Decides the Outcome
 
 A business plan is judged on persuasiveness before length. Fifty pages mean nothing if **the revenue structure and the use of capital** are not visible.
 
@@ -181,7 +181,7 @@ Trading and wholesale/retail, food and beverage, IT services, and manufacturing 
   <strong style="color:#92400e">⚠️ Caution:</strong> Filling in a template that is floating around online will produce wording that overlaps with other applicants. Officers see the same templates often. Even the suspicion of copy-paste is itself a minus.
 </div>
 
-## <h2 id="section-5">Mistakes at the Incorporation and FDI Filing Stage</h2>
+## Mistakes at the Incorporation and FDI Filing Stage
 
 D-8 proceeds in the following order: incorporation → FDI report → capital remittance and injection → corporate registration → business registration → visa application. If this sequence gets tangled, problems surface immediately.
 
@@ -246,7 +246,7 @@ On the other hand, if funds are routed back from the capital account to a person
 </figure>
 
 
-## <h2 id="section-6">Verifying Office and Business Premises Substance</h2>
+## Verifying Office and Business Premises Substance
 
 On-site inspections are not standard in D-8 reviews, but if suspicion arises, immigration officers will either visit in person or request photographs.
 
@@ -299,7 +299,7 @@ It is generally better to have the following in place in case of an on-site insp
 - Business cards, contracts, purchase orders, and other signs of actual operations
 - Evidence of staff working on-site (depending on the industry)
 
-## <h2 id="section-7">Reapplication Strategy After a Refusal</h2>
+## Reapplication Strategy After a Refusal
 
 Once D-8 is refused, the prior record carries into any future application. Resubmitting with the same structure is almost never useful.
 
@@ -344,7 +344,7 @@ Immediate reapplication right after refusal is only appropriate for simple docum
   <strong style="color:#1e40af">💡 Practical Tip:</strong> When reapplying, the written explanation must spell out specifically "what has changed." Simply resubmitting the same documents carries the prior refusal reason forward automatically. Document the changes clearly — a new office, new transaction records, additional evidence for the source of funds.
 </div>
 
-## <h2 id="section-8">Common Mistakes</h2>
+## Common Mistakes
 
 Here are the mistakes that appear repeatedly in practice. Avoiding them alone meaningfully reduces refusal risk.
 
@@ -376,7 +376,7 @@ Many applicants register services, manufacturing, or wholesale/retail businesses
 
 Routing funds through multiple accounts for tax or currency reasons makes the source harder for the officer to trace and draws suspicion. **A simple route is the safest.**
 
-## <h2 id="section-9">Frequently Asked Questions (FAQ)</h2>
+## Frequently Asked Questions (FAQ)
 
 ### Q1. Does the KRW 100 million capital have to be in cash?
 
@@ -398,12 +398,12 @@ A. If you meet the F-6 (marriage immigration) requirements, F-6 is generally mor
 
 A. For refusals based on simple missing documents, you can reapply as soon as you have cured the gap. But for refusals grounded in structural issues such as business substance or source of funds, reapplying in the same state will produce the same result. It is better to build at least 3–6 months of actual operating record and reapply with a written explanation that specifically rebuts each refusal reason.
 
-## <h2 id="section-10">Consultation Information</h2>
+## Consultation Information
 
 For a D-8 visa, **designing the flow of funds and constructing real business substance** comes before document preparation. Submitting with that structure weak produces a cycle of supplementation and refusal, with time and cost growing each round. VISION Administrative Office supports new D-8 applications, reapplications after refusal, business plan review, and everything from FDI filing through incorporation and residence status changes — all aligned to how reviews actually unfold.
 
 <div style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office</h3>
+  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
   <ul style="list-style:none;padding-left:0;margin:0">
     <li><strong>Phone:</strong> 02-363-2251</li>
     <li><strong>Email:</strong> 5000meter@gmail.com</li>

@@ -13,7 +13,7 @@ F-6 结婚移民签证与其说是因为材料数量多而难办，不如说是*
 最容易被忽略的正是**交往真实性证明**和**收入条件证明**这两块。材料种类凑齐了，但只要这两块薄弱，审查阶段立刻就会被卡。尤其是韩国配偶的年度收入要求（以二人家庭为准，达到上一年度韩国家庭中位收入的70%以上）和外国配偶的基础韩语能力确认，是实务中审查员最先看的两个点。所以在开始收集材料之前，必须先判断自己能否满足这两项要求。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-6 结婚移民签证材料构成全景图</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 韩国配偶（邀请方）需要准备的材料</a></li>

@@ -13,7 +13,7 @@ slug: "d2-part-time-work-permit"
 D-2兼职工作许可办理流程包括：▲学校推荐及在读状态确认 ▲向出入境管理局申请许可 ▲对工作单位与工时等条件进行严格审核。本文将详尽介绍实际申请时必须掌握的要点、详细操作步骤、常见误区、核心核查清单，以及法规/政策更新的注意事项，帮助你顺利完成申请过程。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-2兼职许可基本条件</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 申请流程与各阶段准备</a></li>
@@ -26,7 +26,7 @@ D-2兼职工作许可办理流程包括：▲学校推荐及在读状态确认 �
   </ul>
 </nav>
 
-<h2 id="section-1">D-2兼职许可基本条件</h2>
+<h2 id="section-1">D-2兼职许可基本条件
 
 按照韩国法律，D-2留学签证持有者如无出入境管理局许可，不得私自兼职。要合法获得许可，必须满足以下所有基本条件：
 
@@ -42,7 +42,7 @@ D-2兼职工作许可办理流程包括：▲学校推荐及在读状态确认 �
   <strong style="color:#92400e">⚠️ 注意:</strong> 休学、退学或有非法就业纪录的学生将无法申请兼职工作许可。
 </div>
 
-<h2 id="section-2">申请流程与各阶段准备</h2>
+<h2 id="section-2">申请流程与各阶段准备
 
 D-2签证兼职工作许可的办理流程如下：
 
@@ -68,7 +68,7 @@ D-2签证兼职工作许可的办理流程如下：
   <strong style="color:#92400e">⚠️ 注意:</strong> 若未获许可擅自工作，将违反出入境管理规定，本人及雇主都将被追究法律责任。
 </div>
 
-<h2 id="section-3">必备材料清单</h2>
+<h2 id="section-3">必备材料清单
 
 申请D-2兼职许可所需主要材料如下：
 
@@ -92,7 +92,7 @@ D-2签证兼职工作许可的办理流程如下：
   </ul>
 </div>
 
-<h2 id="section-4">工作单位及工时要求与限制</h2>
+<h2 id="section-4">工作单位及工时要求与限制
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -129,7 +129,7 @@ D-2签证兼职工作许可的办理流程如下：
   <strong style="color:#1e40af">💡 实用提示:</strong> 获取许可后，请始终遵守条件。如果需要更换职位或调整工时，请尽快通知主管机构，避免发生违规行为。
 </div>
 
-<h2 id="section-5">申请核查表及对比说明</h2>
+<h2 id="section-5">申请核查表及对比说明
 
 以下对比表总结了具备许可与无许可兼职的主要区别：
 
@@ -160,7 +160,7 @@ D-2签证兼职工作许可的办理流程如下：
   </tbody>
 </table>
 
-<h2 id="section-6">常见失误与注意事项</h2>
+<h2 id="section-6">常见失误与注意事项
 
 ### **常见失误**
 - 未获许可提前工作
@@ -171,7 +171,7 @@ D-2签证兼职工作许可的办理流程如下：
 **💡 完整内容参考原文，支持高效申请和合法工作！**
 
 <div style="background:#1e40af;color:white;padding:30px;border-radius:8px;margin:40px 0">
-  <h3 style="color:white;margin-top:0;text-align:center">VISION 行政士事务所</h3>
+  <h3 style="color:white;margin-top:0;text-align:center">VISION 行政士事务所
   <p style="margin:12px 0;text-align:center"><strong>电话:</strong> +82-2-363-2251　|　<strong>邮箱:</strong> 5000meter@gmail.com</p>
   <p style="margin:12px 0;text-align:center;font-size:14px;line-height:1.6"><strong>到访咨询:</strong> (04614) 首尔市中区退溪路324, 3层 (成友大厦)  东大门历史文化公园站4号出口10米 | 东大门历史文化公园站4号出口10米</p>
 </div>

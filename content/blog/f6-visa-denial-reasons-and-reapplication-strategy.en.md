@@ -13,7 +13,7 @@ When an F-6 marriage visa application is denied, many couples feel frustrated an
 The most common reasons for F-6 visa denial include insufficient proof of marriage genuineness (approximately 40%), failure to meet income requirements (approximately 25%), document forgery or provision of false information (approximately 15%), criminal history or immigration law violations (approximately 10%), and other reasons (approximately 10%). Within 90 days from the date of receiving the denial notice, you can file an appeal or proceed with a new application after addressing the reasons for denial. Since all previous application records are reviewed during reapplication, you must prepare specific supplementary evidence rather than simply resubmitting the same documents.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Immediate Steps to Take After Receiving F-6 Visa Denial Notice</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Detailed Analysis of Main Denial Reasons</a></li>
@@ -26,7 +26,7 @@ The most common reasons for F-6 visa denial include insufficient proof of marria
   </ul>
 </nav>
 
-<h2 id="section-1">Immediate Steps to Take After Receiving F-6 Visa Denial Notice</h2>
+<h2 id="section-1">Immediate Steps to Take After Receiving F-6 Visa Denial Notice
 
 When you receive an F-6 visa denial notice, the first thing you must do is **verify the exact reasons for denial**. The denial notice issued by the Immigration Office includes specific reasons for denial along with legal grounds. Without accurately understanding this information, effective response is impossible.
 
@@ -54,7 +54,7 @@ Checklist to verify after receiving denial notice:
 4. Review the list of previously submitted documents and copies
 5. Obtain contact information for the Immigration Office and the case officer
 
-<h2 id="section-2">Detailed Analysis of Main Denial Reasons</h2>
+<h2 id="section-2">Detailed Analysis of Main Denial Reasons
 
 F-6 visa denial reasons can be broadly classified into five types, each requiring different response strategies.
 
@@ -108,7 +108,7 @@ Visa issuance may be denied in the following cases:
 - Ineligibility for application itself (e.g., marriage registration not completed)
 - History of repeated denials in previous visa applications
 
-<h2 id="section-3">Differences Between Appeals and Reapplication and Selection Criteria</h2>
+<h2 id="section-3">Differences Between Appeals and Reapplication and Selection Criteria
 
 There are two main ways to respond to F-6 visa denial: **appeal (administrative adjudication)** and **reapplication**. You must understand the characteristics of each and the appropriate situations for selection.
 
@@ -206,7 +206,7 @@ This involves making a new F-6 visa application after addressing the reasons for
 3. **When there is no time to spare**: Prioritize reapplication
 4. **When there are complex legal issues**: Appeal + professional consultation
 
-<h2 id="section-4">Preparing Supplementary Documents to Prove Marriage Genuineness</h2>
+<h2 id="section-4">Preparing Supplementary Documents to Prove Marriage Genuineness
 
 When denied due to insufficient proof of marriage genuineness, the most important aspect of reapplication is objectively proving that the marital relationship is genuine. Rather than simply claiming "we are in love," you must systematically prepare specific and verifiable supporting materials.
 
@@ -295,7 +295,7 @@ Statements from third parties who can objectively verify the marital relationshi
 
 Statements should include the writer's identity (name, contact information), relationship with the couple, circumstances of becoming acquainted with the couple, specific examples to judge the genuineness of the relationship, and require signature and seal.
 
-<h2 id="section-5">Solutions When Income Requirements Are Not Met</h2>
+<h2 id="section-5">Solutions When Income Requirements Are Not Met
 
 When F-6 visa is denied due to failure to meet income requirements, you can satisfy the requirements through the following methods.
 
@@ -433,7 +433,7 @@ Income requirements may be waived or relaxed in the following cases (specific ap
 
 When claiming these exceptions, you must submit detailed explanations along with relevant evidence (medical certificates, pregnancy confirmation, employment certificates, etc.).
 
-<h2 id="section-6">Timing and Strategic Preparation Methods for Reapplication</h2>
+<h2 id="section-6">Timing and Strategic Preparation Methods for Reapplication
 
 While F-6 visa reapplication is possible at any time, **hastily reapplying without sufficient preparation is not advisable**. As denial history accumulates, subsequent applications receive stricter scrutiny, so it's important to apply after thorough supplementation.
 
@@ -553,7 +553,7 @@ Related documents: Attachments 11-15
 Our couple genuinely loves each other and wishes to build a family in Korea...
 ```
 
-<h2 id="section-7">Common Mistakes and Prevention Methods</h2>
+<h2 id="section-7">Common Mistakes and Prevention Methods
 
 There are mistakes that many applicants repeat during the F-6 visa reapplication process. Recognizing and preventing these in advance is the shortcut to success.
 
@@ -651,7 +651,7 @@ Thinking you can get a visa even when the couple cannot communicate at all.
 </ul>
 </div>
 
-<h2 id="section-8">Frequently Asked Questions (FAQ)</h2>
+<h2 id="section-8">Frequently Asked Questions (FAQ)
 
 ### Q1: If F-6 visa is denied, is there a restriction period for reapplication?
 

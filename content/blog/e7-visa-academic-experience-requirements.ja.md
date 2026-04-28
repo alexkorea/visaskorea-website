@@ -13,7 +13,7 @@ E-7ビザの学歴・経歴要件は、一見シンプルに見えても、実�
 多くの方がつまずくのが、まさにこの「専攻関連性」です。学士の学位があっても、専攻が職務とかけ離れていると、審査官は経歴で関連性を補う書類を求めてきます。むしろ学位がなくても経歴がしっかりしている申請者のほうが、すっきり通過するケースもよくあります。ポイントは、学位・経歴・職務記述書の3本の柱が1つのストーリーとしてつながっているかどうかです。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7 学歴・経歴要件を一目で把握</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 学歴要件はどこまで認められるか</a></li>

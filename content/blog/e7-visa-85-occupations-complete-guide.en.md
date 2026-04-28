@@ -13,7 +13,7 @@ The **85 occupations** under the E-7 Specific Activities Visa break down into th
 Where most applications get stuck is the occupation selection itself. The company may call the role a "developer," but immigration officers evaluate it against the KSCO occupational classification table. The key point is this: you have to work backwards from **job content → KSCO occupation code → E-7 sub-code** to find the right match, and your education and experience have to exceed that occupation's thresholds to get past intake. Below, we unpack all 85 occupations by category and flag the points that most often trip up real-world applications.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Structure of the 85 E-7 Occupations at a Glance</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. E-7-1: 67 Professional Occupations by Category</a></li>
@@ -27,7 +27,7 @@ Where most applications get stuck is the occupation selection itself. The compan
   </ul>
 </nav>
 
-## <h2 id="section-1">Structure of the 85 E-7 Occupations at a Glance</h2>
+## Structure of the 85 E-7 Occupations at a Glance
 
 E-7 is the residence status granted to "activities specifically designated by the Minister of Justice, based on a contract between a foreign national and a public or private institution in the Republic of Korea." It looks like a single visa, but it actually bundles three distinct tracks.
 
@@ -45,7 +45,7 @@ The figure 85 is simply the sum of the three tracks combined: 67 + 9 + 9 = 85. T
   <strong style="color:#1e40af">💡 Practical Tip:</strong> When describing your role, don't use vague phrasing like "IT development." First confirm the <strong>KSCO occupation code</strong>, then pin down the matching E-7 sub-code (for example, S140 Computer System Designer·Analyst). That's the fastest path through real intake.
 </div>
 
-## <h2 id="section-2">E-7-1: 67 Professional Occupations by Category</h2>
+## E-7-1: 67 Professional Occupations by Category
 
 E-7-1 is the largest cluster within the 85 occupations. The 67 occupations are grouped into eight major categories. A bachelor's degree or equivalent relevant experience is the baseline assumption for this track.
 
@@ -113,7 +113,7 @@ On the ground, the highest-volume occupations, in order, are **Application Softw
 - **Experience**: For bachelor's holders, 1+ year in the relevant field; if the degree doesn't align with the role, 5+ years
 - **Salary**: Minimum of 80% of the prior year's national per-capita GNI (with additional add-ons by occupation and seniority)
 
-## <h2 id="section-3">E-7-2: 9 Semi-Professional Occupations</h2>
+## E-7-2: 9 Semi-Professional Occupations
 
 E-7-2 groups occupations where the level of specialization is relatively lower but demand for foreign workers is clearly established in specific industries. Education thresholds are relatively relaxed, but employer requirements (revenue, headcount, share of foreign customers, etc.) are demanding.
 
@@ -148,7 +148,7 @@ In practice, **S590 Head Chef·Cook** is the trickiest. You have to document 5+ 
   <strong style="color:#92400e">⚠️ Caution:</strong> S570 Tourism Interpretation Guide absolutely requires the <strong>Tourism Interpretation Guide Certification</strong> issued by the Korea Tourism Organization. Applying for E-7-2 based on guide work alone without the certificate will get rejected at the document stage outright.
 </div>
 
-## <h2 id="section-4">E-7-3: 9 General Skilled Occupations</h2>
+## E-7-3: 9 General Skilled Occupations
 
 E-7-3 covers hands-on skilled trades. Here, **actual technical experience** and **skill certifications** carry more weight than academic degrees.
 
@@ -193,7 +193,7 @@ Issuance volume for S650 Shipbuilding Welders has risen sharply in recent years.
 </figure>
 
 
-## <h2 id="section-5">Comparing Education, Experience, and Salary Requirements by Occupation</h2>
+## Comparing Education, Experience, and Salary Requirements by Occupation
 
 The differences between the three tracks become clear in a single table.
 
@@ -251,7 +251,7 @@ The salary floor moves in step with the **Gross National Income (GNI) per capita
 - Provided housing may be partially counted under certain conditions (varies by occupation)
 - The baseline is **40 hours per week full-time**; part-time pro-rating is not permitted
 
-## <h2 id="section-6">Application Procedure and Required Documents</h2>
+## Application Procedure and Required Documents
 
 No matter which of the 85 occupations you fall under, the overall process flow is the same. That said, the additional supporting evidence required shifts depending on the specific occupation.
 
@@ -331,7 +331,7 @@ No matter which of the 85 occupations you fall under, the overall process flow i
   <strong style="color:#92400e">⚠️ Caution:</strong> Documents issued abroad almost always require <strong>apostille or consular verification at an overseas mission</strong>. Attaching only a translation while skipping authentication of the original will stop the intake altogether. Documents from China and Vietnam, in particular, are safer when handled through notarization from the very beginning.
 </div>
 
-## <h2 id="section-7">Common Mistakes and Grounds for Rejection</h2>
+## Common Mistakes and Grounds for Rejection
 
 In actual review, applications more often lose points on **insufficient explanation** than on missing documents.
 
@@ -363,7 +363,7 @@ When the major doesn't match the role, **5+ years of experience** becomes mandat
 
 When a rejection notice is issued, reapplying **without addressing the stated reasons** is pointless. Education and experience requirements are numerical and can be supplemented, but if the employer-side requirements are the problem, the realistic options are **switching employers entirely or reapplying after the company itself has grown**.
 
-## <h2 id="section-8">Frequently Asked Questions (FAQ)</h2>
+## Frequently Asked Questions (FAQ)
 
 ### Q1. Where can I officially verify the list of 85 occupations?
 
@@ -385,7 +385,7 @@ It's a separate track. E-7-4 is a system under which foreigners who have stayed 
 
 The E-7 holder can invite a spouse and minor children on the **F-3 Accompanying Family Visa**. F-3 restricts employment, but long-term stay and school enrollment are allowed. If the spouse also needs to work, the route is to receive F-3 first and then **separately change status from F-3 to a work visa such as E-7**. Inviting parents falls under the Visiting·Cohabitation (F-1) route in principle, and the conditions are considerably more stringent.
 
-## <h2 id="section-9">Consultation Information</h2>
+## Consultation Information
 
 With E-7, the requirements and document composition shift completely depending on which of the 85 occupations you apply under. If you want occupation matching, employer-requirement review, and job description drafting all checked in one pass, reach out below. VISION Administrative Office provides pre-review based on actual issuance history for each occupation.
 

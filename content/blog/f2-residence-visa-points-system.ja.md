@@ -19,12 +19,12 @@ F-2居住ビザポイント制は、韓国で外国人が安定的に居住で�
 <li>申請者は必要な書類を準備し、管轄機関に提出する必要があります。</li>
 </ul></div>
 
-<h2 id="requirements">F-2ビザ資格要件</h2>
+<h2 id="requirements">F-2ビザ資格要件
 F-2ビザを申請するにはいくつかの資格要件を満たす必要があります。一般的に要求される条件は以下の通りです:
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0"><tr style="background:#1e40af;color:white"><th style="padding:12px;text-align:left;border:1px solid #e5e7eb">資格要件</th></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">法的滞在状態を維持していること</td></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">韓国での居住期間</td></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">韓国語能力証明書を所持していること</td></tr></table>
 
-<h2 id="scoring">ポイント算定基準</h2>
+<h2 id="scoring">ポイント算定基準
 F-2ビザのポイントは以下の項目で算定されます:
 
 <ul>
@@ -36,7 +36,7 @@ F-2ビザのポイントは以下の項目で算定されます:
 
 ポイント基準は管轄機関で確認が必要であり、ポイントが80点以上でなければF-2ビザの申請ができません。
 
-<h2 id="application">申請手続き</h2>
+<h2 id="application">申請手続き
 F-2ビザを申請するためには、以下の手順を踏む必要があります:
 
 1. 必要な書類を準備
@@ -46,33 +46,33 @@ F-2ビザを申請するためには、以下の手順を踏む必要があり�
 
 <div style="background:#eff6ff;border-left:4px solid #3b82f6;padding:16px;margin:20px 0;border-radius:4px">ℹ️ <strong>参考:</strong> 申請書類にはパスポート、写真、資格証明書などが含まれます。</div>
 
-<h2 id="common_mistakes">主な間違いや注意点</h2>
+<h2 id="common_mistakes">主な間違いや注意点
 F-2ビザ申請時に避けるべき主な間違いは以下の通りです:
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>注意:</strong> 書類不備や誤った情報提供はビザ拒否の理由となります。</div>
 
-<h2 id="faq">よくある質問</h2>
+<h2 id="faq">よくある質問
 
-<h3>Q: F-2ビザのポイントはどのように計算されますか？</h3>
+<h3>Q: F-2ビザのポイントはどのように計算されますか？
 A: 年齢、学歴、経歴、韓国語能力などを総合して計算します。
 
-<h3>Q: F-2ビザはどのくらい有効ですか？</h3>
+<h3>Q: F-2ビザはどのくらい有効ですか？
 A: 一般的に2年間有効で、更新が可能です。
 
-<h3>Q: ポイントが不足した場合はどうすればよいですか？</h3>
+<h3>Q: ポイントが不足した場合はどうすればよいですか？
 A: 追加の資格要件を満たすか、ポイントを上げる方法を探す必要があります。
 
-<h3>Q: 韓国語能力が不足している場合はどうすればよいですか？</h3>
+<h3>Q: 韓国語能力が不足している場合はどうすればよいですか？
 A: TOPIK試験を通じて韓国語能力を認証し、ポイントを取得することができます。
 
-<h3>Q: ビザ申請後に拒否された場合はどうすればよいですか？</h3>
+<h3>Q: ビザ申請後に拒否された場合はどうすればよいですか？
 A: 拒否理由を確認し、必要な措置を講じた後、再申請する必要があります。
 
-<h3>Q: F-2ビザとF-5ビザの違いは何ですか？</h3>
+<h3>Q: F-2ビザとF-5ビザの違いは何ですか？
 A: F-5ビザは永住権であり、F-2ビザよりも安定した滞在資格を提供します。
 
-<h3>Q: ビザ申請の処理期間はどのくらいですか？</h3>
-A: 一般的に2-4週間かかります。管轄機関によって異なる場合があります。</h3>
+<h3>Q: ビザ申請の処理期間はどのくらいですか？
+A: 一般的に2-4週間かかります。管轄機関によって異なる場合があります。
 
 内部リンク: [お問い合わせ](/contact), [ブログ](/blog), [ビザ申請代行サービス](/visa-services), [韓国語教育プログラム](/korean-language-program).
 

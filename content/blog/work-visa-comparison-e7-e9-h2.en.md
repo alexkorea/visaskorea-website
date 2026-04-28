@@ -19,16 +19,16 @@ To work in Korea, foreigners can apply for various types of visas. The represent
 <li><strong>H-2 Visa:</strong> A visa for foreigners from specific countries, requiring a family relationship with a Korean.</li>
 </ul></div>
 
-<h2 id="section-e7">E-7 Visa</h2>
+<h2 id="section-e7">E-7 Visa
 The E-7 visa is for foreigners engaged in specific professional occupations, primarily in high-education job categories. To apply for this visa, a relevant degree and a minimum of 2 years of experience are required. Generally, E-7 visa holders work in IT, engineering, and healthcare fields.
 
-<h2 id="section-e9">E-9 Visa</h2>
+<h2 id="section-e9">E-9 Visa
 The E-9 visa is for foreigners engaged in non-professional occupations. This visa supports foreign workers in manufacturing, construction, and other sectors. The E-9 visa does not have minimum educational requirements and can be applied for with a valid employment contract.
 
-<h2 id="section-h2">H-2 Visa</h2>
+<h2 id="section-h2">H-2 Visa
 The H-2 visa is for foreigners from specific countries and requires a family relationship with a Korean. This visa helps foreign workers reside and work stably in Korea. The H-2 visa is generally issued to foreigners engaged in agriculture, construction, and similar fields.
 
-<h2 id="comparison">Visa Comparison Table</h2>
+<h2 id="comparison">Visa Comparison Table
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
 <tr style="background:#1e40af;color:white">
 <th style="padding:12px;text-align:left;border:1px solid #e5e7eb">Visa Type</th>
@@ -56,30 +56,30 @@ The H-2 visa is for foreigners from specific countries and requires a family rel
 </tr>
 </table>
 
-<h2 id="common-mistakes">Common Mistakes and Precautions</h2>
+<h2 id="common-mistakes">Common Mistakes and Precautions
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>Warning:</strong> If you do not accurately check the submitted documents when applying for a visa, there is a high possibility of delays or denials. In particular, the employment contract and proof of experience are essential.</div>
 
-<h2 id="faq">Frequently Asked Questions</h2>
-<h3>Q: What are the requirements for applying for an E-7 visa?</h3>
+<h2 id="faq">Frequently Asked Questions
+<h3>Q: What are the requirements for applying for an E-7 visa?
 A: The E-7 visa requires a degree in a relevant field and more than 2 years of experience.
 
-<h3>Q: In what occupations is the E-9 visa used?</h3>
+<h3>Q: In what occupations is the E-9 visa used?
 A: The E-9 visa is used in non-professional occupations, such as manufacturing or construction.
 
-<h3>Q: What is the validity period of the H-2 visa?</h3>
+<h3>Q: What is the validity period of the H-2 visa?
 A: The validity period of the H-2 visa is generally 2 years and can be extended.
 
-<h3>Q: What common errors occur during the visa application process?</h3>
+<h3>Q: What common errors occur during the visa application process?
 A: Common errors include incomplete documents and submitting inappropriate employment contracts.
 
-<h3>Q: How do I renew my visa?</h3>
+<h3>Q: How do I renew my visa?
 A: Visa renewal can be applied for starting 3 months before expiration, and necessary documents must be submitted.
 
-<h3>Q: What occupations can E-7 visa holders work in Korea?</h3>
+<h3>Q: What occupations can E-7 visa holders work in Korea?
 A: They can work in various professional fields such as IT, engineering, and healthcare.
 
-<h3>Q: Why is an employment contract necessary for the E-9 visa?</h3>
-A: The E-9 visa requires an employment contract, which allows for legal employment.</h3>
+<h3>Q: Why is an employment contract necessary for the E-9 visa?
+A: The E-9 visa requires an employment contract, which allows for legal employment.
 
 ℹ️ <strong>Note:</strong> The required documents and conditions vary by visa type, so it is advisable to check with the relevant authorities before applying.
 

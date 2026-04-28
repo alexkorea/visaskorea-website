@@ -13,7 +13,7 @@ The D-8 Business Investment Visa is issued to **foreign nationals who invest 100
 In actual screening, the overseas remittance route, the deposit into a domestic corporate account, the foreign-invested company registration, the office lease, and the specificity of the business plan all need to connect in one coherent storyline. No matter how many documents you file, a weak narrative here will unravel everything — and conversely, even a lean file gets approved quickly when the source of funds and the real substance of the business are crystal clear. The core idea is this: **D-8 is a visa that turns the story of money into documented evidence**.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8 Visa Basics and Three Subtypes</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Eligibility: 100M KRW Investment and Foreign Investment Registration</a></li>
@@ -419,7 +419,7 @@ D-8 is a visa where the story of your funds and the substance of your business s
 Vision Administrative Office handles D-8 business investment visa applications, incorporation, and foreign-invested company registration as one continuous workflow. We review from the earliest stage so that your funding structure and business plan lock together cleanly.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office</h3>
+  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 Phone: <strong>02-363-2251</strong></li>
     <li>✉️ Email: <strong>5000meter@gmail.com</strong></li>

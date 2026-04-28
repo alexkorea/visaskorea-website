@@ -13,7 +13,7 @@ D-8 企业投资签证是**外国人向韩国法人投资 1 亿韩元以上**,�
 在实际审查中,资金的海外汇款路径、汇入国内法人账户的记录、外国人投资企业登记情况、经营场所租赁状况以及事业计划书的具体程度必须环环相扣。材料再多,若这条脉络薄弱,仍会立刻出问题;反之,即使材料精简,只要资金来源与经营实体清晰,签证就能迅速下发。核心在于:**D-8 是一种需要用凭证讲清"资金故事"的签证**。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8 签证的基本结构与三种类型</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 签发条件:1 亿投资金与外国人投资登记</a></li>
@@ -419,7 +419,7 @@ D-8 是一种比起材料数量,更先看重资金说明与经营实体的签证
 Vision 行政士事务所将 D-8 企业投资签证申请、法人设立以及外国人投资企业登记一并整合办理,从最初阶段开始为您检查资金结构与事业规划之间的匹配度。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Vision 行政士事务所 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">Vision 行政士事务所 (VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 电话:<strong>02-363-2251</strong></li>
     <li>✉️ 邮箱:<strong>5000meter@gmail.com</strong></li>

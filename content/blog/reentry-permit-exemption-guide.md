@@ -19,18 +19,18 @@ slug: "reentry-permit-exemption-guide"
 <li>처리 기간은 일반적으로 1-2주 소요됩니다.</li>
 </ul></div>
 
-<h2 id="eligibility">재입국허가 면제 대상</h2>
+<h2 id="eligibility">재입국허가 면제 대상
 재입국허가 면제 제도의 적용 대상은 다음과 같습니다:
 - 한국에 거주하는 외국인으로서 비자 연장 또는 변경 절차를 진행 중인 자
 - 외국인 등록증을 소지하고 있는 자
 - 특정 국가의 외국인으로, 한국과 비자 면제 협정을 체결한 경우
 
-<h2 id="application">신청 방법</h2>
+<h2 id="application">신청 방법
 재입국허가 면제를 받기 위해서는 다음과 같은 절차를 따라야 합니다. 
 1. 온라인 또는 관할 출입국 관리 사무소를 통해 신청합니다.
 2. 신청서 작성 후 제출합니다.
 
-<h2 id="documents">필요 서류</h2>
+<h2 id="documents">필요 서류
 재입국허가 면제를 신청하기 위해 필요한 서류는 다음과 같습니다:
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
 <tr style="background:#1e40af;color:white">
@@ -51,12 +51,12 @@ slug: "reentry-permit-exemption-guide"
 </tr>
 </table>
 
-<h2 id="process">처리 절차</h2>
+<h2 id="process">처리 절차
 신청 후 처리 절차는 다음과 같습니다:
 1. 서류 제출 후 1-2주 이내에 결과 통보.
 2. 승인이 되면 재입국이 가능합니다.
 
-<h2 id="common-mistakes">자주 발생하는 실수</h2>
+<h2 id="common-mistakes">자주 발생하는 실수
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>주의:</strong> 신청서 누락 및 잘못된 서류 제출이 자주 발생합니다. 모든 서류를 정확히 준비하는 것이 중요합니다.</div>
 
 <h3>Q:</h3> 재입국허가 면제를 신청하기 위한 최소 거주 기간은 얼마인가요?  
@@ -80,7 +80,7 @@ slug: "reentry-permit-exemption-guide"
 <h3>Q:</h3> 재입국허가 면제 신청 후 변경 사항이 발생하면 어떻게 하나요?  
 <h3>A:</h3> 변경 사항 발생 시 즉시 관할 출입국 관리 사무소에 연락해야 합니다.
 
-<h2>관련 서비스</h2>
+<h2>관련 서비스
 - [비자 연장 서비스](/visa-extension)
 - [외국인 등록 서비스](/foreign-registration)
 - [비자 변경 안내](/visa-change)

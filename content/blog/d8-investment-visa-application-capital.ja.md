@@ -29,7 +29,7 @@ D-8企業投資ビザの審査で最も重要なのは、資本金の準備と�
 ---
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 資本金要件：審査は資金の出所説明で決まる {#capital-requirements}</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 投資資格と企業設立：まず投資タイプと会社形態を確認 {#eligibility-and-incorporation}</a></li>
@@ -42,7 +42,7 @@ D-8企業投資ビザの審査で最も重要なのは、資本金の準備と�
   </ul>
 </nav>
 
-<h2 id="section-1">資本金要件：審査は資金の出所説明で決まる {#capital-requirements}</h2>
+<h2 id="section-1">資本金要件：審査は資金の出所説明で決まる {#capital-requirements}
 
 ### 資本金の基準と実際の審査  
 D-8企業投資ビザの資本金最低条件は「外国人投資促進法」と入国管理法によって明確に定められています。  
@@ -70,7 +70,7 @@ D-8企業投資ビザの資本金最低条件は「外国人投資促進法」�
 
 ---
 
-<h2 id="section-2">投資資格と企業設立：まず投資タイプと会社形態を確認 {#eligibility-and-incorporation}</h2>
+<h2 id="section-2">投資資格と企業設立：まず投資タイプと会社形態を確認 {#eligibility-and-incorporation}
 
 ### 投資タイプごとの認可範囲  
 株式会社設立や出資、合同会社など様々なタイプの中で、審査では投資者がどの形で参加するのかが明確でなければ処理されません。  
@@ -97,7 +97,7 @@ D-8企業投資ビザの資本金最低条件は「外国人投資促進法」�
 
 ---
 
-<h2 id="section-3">D-8申請の流れ：よく見落とす投資金送金と事業計画書 {#d8-procedure}</h2>
+<h2 id="section-3">D-8申請の流れ：よく見落とす投資金送金と事業計画書 {#d8-procedure}
 
 ### 主な申請手順  
 D-8企業投資ビザの申請は次のステップで進みます。
@@ -132,7 +132,7 @@ D-8企業投資ビザの申請は次のステップで進みます。
 </figure>
 
 
-<h2 id="section-4">事業計画書作成のポイント：説得力が重要、内容が弱いと審査に通らない {#business-plan}</h2>
+<h2 id="section-4">事業計画書作成のポイント：説得力が重要、内容が弱いと審査に通らない {#business-plan}
 
 ### 事業計画書の実務ポイント  
 ただの文章ではなく、実際の事業展開可能性や投資金の使途計画、売上予想などを具体的にまとめる必要があります。  
@@ -158,7 +158,7 @@ D-8企業投資ビザの申請は次のステップで進みます。
 
 ---
 
-<h2 id="section-5">審査基準と最新政策：基準は毎年変わり、管轄機関ごとに異なる {#examination-criteria}</h2>
+<h2 id="section-5">審査基準と最新政策：基準は毎年変わり、管轄機関ごとに異なる {#examination-criteria}
 
 ### 審査で差が出るポイント  
 現場では単なる資本金の入金だけではなく、  
@@ -184,7 +184,7 @@ D-8企業投資ビザの申請は次のステップで進みます。
 
 ---
 
-<h2 id="section-6">よくある質問 {#faq}</h2>
+<h2 id="section-6">よくある質問 {#faq}
 
 **Q1. D-8企業投資ビザ申請時の資本金最低基準はいくらですか？**  
 A. 業種や会社形態、申請タイミングによって異なります。最も正確な情報は管轄機関や公式法令を必ずご確認ください。
@@ -207,7 +207,7 @@ A. ケースによって異なりますので、無料相談にて正確にご�
 
 ---
 
-<h2 id="section-7">相談・お問い合わせ案内 {#consulting}</h2>
+<h2 id="section-7">相談・お問い合わせ案内 {#consulting}
 
 Vision行政書士事務所  
 電話番号：02-363-2251  
@@ -218,7 +218,7 @@ D-8企業投資ビザ申請や資本金説明、実際の審査対応、事業�
 
 ---
 
-<h2 id="section-8">専門家への相談が必要ですか？</h2>
+<h2 id="section-8">専門家への相談が必要ですか？
 
 複雑な手続き、一人で悩まないでください。専門行政士が丁寧にご案内いたします。
 

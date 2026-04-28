@@ -13,7 +13,7 @@ Getting a D-8 extension approved isn't about piling up paperwork. What immigrati
 The issue that trips people up most often in practice is **"the business is running, but we can't prove it with numbers."** Sales exist but there are no tax invoices; there's an office but no employees; the corporate account has money but the source is weakly documented. Extension applications can be filed starting four months before expiry, and preparation should begin at least two months ahead so you have time to respond if supplementary requests come in. This article walks through the entire extension process, focused on the points that actually make a difference in real reviews.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Officers Check First in a D-8 Extension Review</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. When to File and How Stay Duration Is Decided</a></li>
@@ -27,7 +27,7 @@ The issue that trips people up most often in practice is **"the business is runn
   </ul>
 </nav>
 
-## <h2 id="section-1">What Officers Check First in a D-8 Extension Review</h2>
+## What Officers Check First in a D-8 Extension Review
 
 The D-8 is a visa where extension is actually more demanding than the initial issuance. You can get the first issuance on the strength of "intent to invest," but extension is judged on **"whether that intent translated into an actual business."** As you move into year two and year four, the scrutiny ratchets up.
 
@@ -78,7 +78,7 @@ More important than the documents themselves is **consistency across the numbers
   </tbody>
 </table>
 
-## <h2 id="section-2">When to File and How Stay Duration Is Decided</h2>
+## When to File and How Stay Duration Is Decided
 
 Extensions may be filed **from four months before the expiry date up through the expiry date itself**. In practice, applying two to three months before expiry is recommended. Reviews take two to four weeks, and if supplementary documents are requested, add another two to four weeks.
 
@@ -126,7 +126,7 @@ The stay duration granted at extension depends on business performance and corpo
   </tbody>
 </table>
 
-## <h2 id="section-3">Complete List of Required Documents</h2>
+## Complete List of Required Documents
 
 D-8 extension paperwork falls into three broad groups: **identity documents**, **corporate documents**, and **performance documents**. Some immigration offices request additional items depending on jurisdiction, so confirm with your local office before submitting.
 
@@ -171,7 +171,7 @@ The part most people overlook is that **it's not the individual documents but th
   <strong style="color:#1e40af">💡 Practical tip:</strong> Two to three weeks before filing, ask your tax accountant for the VAT taxable base certificate, corporate tax financial statements, and withholding filing statements as a single package. These three together prove, in numbers, that "the business is actually running."
 </div>
 
-## <h2 id="section-4">Application Process — From HiKorea Booking to Approval</h2>
+## Application Process — From HiKorea Booking to Approval
 
 Since 2024, most immigration offices **require an advance reservation through HiKorea (www.hikorea.go.kr)**. Walk-in offices are nearly extinct, so lock in your booking first.
 
@@ -239,7 +239,7 @@ Supplementary requests usually come in the form of an **officer's memo**. Common
 </figure>
 
 
-## <h2 id="section-5">How to Handle Weak Business Performance</h2>
+## How to Handle Weak Business Performance
 
 The question we hear most often before an extension is, "If I have no revenue, will I automatically be denied?" The answer is **"Not automatically — but you need to explain."**
 
@@ -301,7 +301,7 @@ The weaker the results, the more critical it is to submit a separate **business 
   </tbody>
 </table>
 
-## <h2 id="section-6">Where Cash Flow, Taxes, and Insurance Trip You Up</h2>
+## Where Cash Flow, Taxes, and Insurance Trip You Up
 
 These three areas are **where D-8 extensions most often get stuck**. Cases where the business plan reads well but the numbers fall apart account for more than half of all denials.
 
@@ -332,7 +332,7 @@ Insurance records are the core evidence for "whether employees actually exist." 
 - Office downgraded to shared workspace → substance becomes unverifiable, triggering a supplementary request
 - Representative running another business on the side → full-time substance of the business is questioned
 
-## <h2 id="section-7">Common Mistakes and Rejection Cases</h2>
+## Common Mistakes and Rejection Cases
 
 Repeated patterns show up in actual denials and supplementary requests. If this area is weak, even a thick file won't save the outcome.
 
@@ -360,7 +360,7 @@ Changes to residence, corporate address, or representative must be reported to i
 
 Reapplication after denial is possible, but you must submit materials that **directly address the original denial reason**. The key is not "resubmitting" but showing "what has changed."
 
-## <h2 id="section-8">Frequently Asked Questions (FAQ)</h2>
+## Frequently Asked Questions (FAQ)
 
 ### Q1. Can I travel abroad while my extension is under review?
 
@@ -382,7 +382,7 @@ A. Yes. Once the principal D-8 holder's extension is approved, F-3 dependents mu
 
 A. Under the Immigration Act, you can file an objection or pursue administrative review or litigation against a denial of extension. That said, in practice, **departing and reapplying is often the more realistic solution**. If the denial was based on insufficient performance, it's more efficient to build up performance briefly or reapply after a capital increase. If the denial was procedural, an objection may be viable.
 
-## <h2 id="section-9">Consultation Information</h2>
+## Consultation Information
 
 For D-8 extensions, outcomes are decided less by the volume of paperwork and more by consistency across the numbers and proof of real business substance. Diagnosis before filing is particularly important if sales are weak, employees are absent, there's a history of tax arrears, or a prior extension was denied. Vision Administrative Office handles D-8 extensions, re-reviews, and post-denial reapplications across the full practical chain — from analyzing corporate financials, to drafting the business performance statement, to accompanying clients on immigration visits.
 

@@ -19,18 +19,18 @@ slug: "reentry-permit-exemption-guide"
 <li>处理时间通常为1-2周。</li>
 </ul></div>
 
-<h2 id="eligibility">再入境许可免除对象</h2>
+<h2 id="eligibility">再入境许可免除对象
 再入境许可免除制度的适用对象如下：
 - 在韩国居住的外国人，正在进行签证延长或变更程序者
 - 持有外国人登记证者
 - 特定国家的外国人，与韩国签订了签证免除协议者
 
-<h2 id="application">申请方法</h2>
+<h2 id="application">申请方法
 要获得再入境许可免除，需按照以下程序进行：
 1. 通过在线或主管出入境管理办公室申请。
 2. 填写申请表并提交。
 
-<h2 id="documents">所需文件</h2>
+<h2 id="documents">所需文件
 申请再入境许可免除所需的文件如下：
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
 <tr style="background:#1e40af;color:white">
@@ -51,12 +51,12 @@ slug: "reentry-permit-exemption-guide"
 </tr>
 </table>
 
-<h2 id="process">处理程序</h2>
+<h2 id="process">处理程序
 申请后的处理程序如下：
 1. 提交文件后1-2周内通知结果。
 2. 获得批准后可以再入境。
 
-<h2 id="common-mistakes">常见错误</h2>
+<h2 id="common-mistakes">常见错误
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>注意：</strong> 申请表遗漏及错误文件提交的情况时有发生。准确准备所有文件非常重要。</div>
 
 <h3>问：</h3> 申请再入境许可免除的最低居住期限是多少？  
@@ -80,7 +80,7 @@ slug: "reentry-permit-exemption-guide"
 <h3>问：</h3> 申请再入境许可免除后如果发生变更该怎么办？  
 <h3>答：</h3> 如发生变更，应立即联系主管出入境管理办公室。
 
-<h2>相关服务</h2>
+<h2>相关服务
 - [签证延长服务](/visa-extension)
 - [外国人登记服务](/foreign-registration)
 - [签证变更指南](/visa-change)

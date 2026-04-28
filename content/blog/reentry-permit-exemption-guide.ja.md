@@ -19,18 +19,18 @@ slug: "reentry-permit-exemption-guide"
 <li>処理期間は一般的に1-2週間かかります。</li>
 </ul></div>
 
-<h2 id="eligibility">再入国許可免除対象</h2>
+<h2 id="eligibility">再入国許可免除対象
 再入国許可免除制度の適用対象は以下の通りです:
 - 韓国に居住する外国人で、ビザの延長または変更手続きを進めている者
 - 外国人登録証を所持している者
 - 特定の国の外国人で、韓国とビザ免除協定を結んでいる場合
 
-<h2 id="application">申請方法</h2>
+<h2 id="application">申請方法
 再入国許可免除を受けるためには、以下の手続きを行う必要があります。 
 1. オンラインまたは管轄出入国管理事務所を通じて申請します。
 2. 申請書を作成し、提出します。
 
-<h2 id="documents">必要書類</h2>
+<h2 id="documents">必要書類
 再入国許可免除を申請するために必要な書類は以下の通りです:
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
 <tr style="background:#1e40af;color:white">
@@ -51,12 +51,12 @@ slug: "reentry-permit-exemption-guide"
 </tr>
 </table>
 
-<h2 id="process">処理手続き</h2>
+<h2 id="process">処理手続き
 申請後の処理手続きは以下の通りです:
 1. 書類提出後1-2週間以内に結果通知。
 2. 承認されれば再入国が可能です。
 
-<h2 id="common-mistakes">よくある間違い</h2>
+<h2 id="common-mistakes">よくある間違い
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>注意:</strong> 申請書の不備や誤った書類の提出がよく発生します。すべての書類を正確に準備することが重要です。</div>
 
 <h3>Q:</h3> 再入国許可免除を申請するための最低居住期間はどれくらいですか？  
@@ -80,7 +80,7 @@ slug: "reentry-permit-exemption-guide"
 <h3>Q:</h3> 再入国許可免除申請後に変更があった場合はどうすればよいですか？  
 <h3>A:</h3> 変更があった場合は、直ちに管轄出入国管理事務所に連絡する必要があります。
 
-<h2>関連サービス</h2>
+<h2>関連サービス
 - [ビザ延長サービス](/visa-extension)
 - [外国人登録サービス](/foreign-registration)
 - [ビザ変更案内](/visa-change)

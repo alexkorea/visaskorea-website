@@ -13,7 +13,7 @@ The education and work experience requirements for the E-7 visa may look straigh
 The place where most applicants get stuck is precisely this "major relevance" issue. Even with a bachelor's degree, if the major is disconnected from the job, the reviewer will ask for documents proving the connection through work experience. In fact, it's not uncommon to see applicants with no degree but solid experience pass more cleanly. The key is whether the three pillars — degree, experience, and job description — connect into a single coherent story.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7 Education and Experience Requirements at a Glance</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. How Far Education Credentials Are Recognized</a></li>

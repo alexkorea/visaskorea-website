@@ -19,7 +19,7 @@ The Marriage Immigration Visa (F-6) is a visa for foreign spouses who have marri
 <li>The visa application fee is approximately 60,000 won, and the processing time generally takes 1-3 months.</li>
 </ul></div>
 
-<h2 id="section-application-process">Application Process</h2>
+<h2 id="section-application-process">Application Process
 The application process for the Marriage Immigration Visa (F-6) is as follows:
 1. **Document Preparation**: Prepare all required documents.
 2. **Application Form Completion**: Fill out the application form to be submitted to the immigration office.
@@ -27,7 +27,7 @@ The application process for the Marriage Immigration Visa (F-6) is as follows:
 4. **Interview**: An interview may be conducted if necessary.
 5. **Result Notification**: Notification of visa approval status will be provided.
 
-<h2 id="section-required-documents">Required Documents</h2>
+<h2 id="section-required-documents">Required Documents
 The documents required for the Marriage Immigration Visa application are as follows:
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -57,37 +57,37 @@ The documents required for the Marriage Immigration Visa application are as foll
 </tr>
 </table>
 
-<h2 id="section-costs">Costs</h2>
+<h2 id="section-costs">Costs
 The costs required for the Marriage Immigration Visa application are as follows:
 - **Visa Application Fee**: Approximately 60,000 won
 - Additional costs may arise for document translation and notarization.
 
-<h2 id="section-timeline">Processing Time</h2>
+<h2 id="section-timeline">Processing Time
 Generally, the processing time for the Marriage Immigration Visa application is about 1 to 3 months. This period may vary depending on the completeness of the documents and whether an interview is required.
 
-<h2 id="section-common-mistakes">Common Mistakes and Precautions</h2>
+<h2 id="section-common-mistakes">Common Mistakes and Precautions
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>Note:</strong> Visa applications may be rejected due to incomplete documents or submission of an inaccurate application form. It is advisable to prepare all documents accurately and seek professional assistance if necessary.</div>
 
-<h2 id="section-faq">Frequently Asked Questions</h2>
-<h3>Q: What is the validity period of the Marriage Immigration Visa (F-6)?</h3>
+<h2 id="section-faq">Frequently Asked Questions
+<h3>Q: What is the validity period of the Marriage Immigration Visa (F-6)?
 A: The Marriage Immigration Visa is generally valid for 1 year and can be extended thereafter.
 
-<h3>Q: Is an interview necessary for all visa applicants?</h3>
+<h3>Q: Is an interview necessary for all visa applicants?
 A: Not all applicants are required to have an interview, but it may be requested if necessary.
 
-<h3>Q: What should the financial proof include?</h3>
+<h3>Q: What should the financial proof include?
 A: Financial proof should include income certificates and bank balance certificates of the applicant or spouse.
 
-<h3>Q: Can I reapply if my visa application is rejected?</h3>
+<h3>Q: Can I reapply if my visa application is rejected?
 A: Yes, you can reapply after addressing the reasons for rejection.
 
-<h3>Q: Where should I apply for the Marriage Immigration Visa?</h3>
+<h3>Q: Where should I apply for the Marriage Immigration Visa?
 A: You should apply at the relevant immigration office.
 
-<h3>Q: How should documents be translated?</h3>
+<h3>Q: How should documents be translated?
 A: Documents translated into Korean must be notarized.
 
-<h3>Q: Does my spouse need to reside in Korea when applying for the Marriage Immigration Visa?</h3>
+<h3>Q: Does my spouse need to reside in Korea when applying for the Marriage Immigration Visa?
 A: It is possible. However, the documents may vary depending on the spouse's residency status in Korea.
 
 <div style="background:#eff6ff;border-left:4px solid #3b82f6;padding:16px;margin:20px 0;border-radius:4px">ℹ️ <strong>Note:</strong> It is best to directly contact the relevant immigration office for accurate information.</div>

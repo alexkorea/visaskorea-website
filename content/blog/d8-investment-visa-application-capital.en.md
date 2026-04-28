@@ -15,7 +15,7 @@ This guide covers the capital eligibility, application process, common hurdles d
 ---
 
 <nav>
-  <h2>Table of Contents</h2>
+  <h2>Table of Contents
   <ul>
     <li><a href="#capital-requirements">Capital Requirements: Approval Relies on Fund Source Explanation</a></li>
     <li><a href="#investment-qualification-company-setup">Investor Eligibility & Company Formation: First, Check Investment Type & Entity Structure</a></li>

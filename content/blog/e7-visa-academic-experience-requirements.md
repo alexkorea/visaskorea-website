@@ -13,7 +13,7 @@ E-7 비자의 학력·경력 요건은 겉으로는 간단해 보여도, 실제 
 많이 막히는 부분은 바로 이 "전공 연관성"입니다. 학사 학위가 있어도 전공이 직무와 떨어져 있으면 심사관은 경력으로 연관성을 보완할 서류를 요구합니다. 오히려 학위 없이 경력만 탄탄한 신청자가 더 깔끔하게 통과되는 경우도 흔합니다. 핵심은 학위·경력·직무설명서 세 축이 하나의 이야기로 이어지는지입니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7 학력·경력 요건 한눈에 보기</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 학력 요건을 어디까지 인정하나</a></li>

@@ -13,7 +13,7 @@ The D-8 business investment visa is a residence status granted to **executive, m
 Many people assume "just drop in KRW 100 million and you're done," but actual screening looks at the foreign investment report, remittance route, corporate registration, office lease, and business plan as one package. Especially for a solo investor who is both the funder and the dispatched employee, proving the source of funds and the substance of the business is the very first hurdle.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Types of D-8 Visas and Who They Cover</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. What the KRW 100 Million Capital Rule Really Means</a></li>
@@ -27,7 +27,7 @@ Many people assume "just drop in KRW 100 million and you're done," but actual sc
   </ul>
 </nav>
 
-## <h2 id="section-1">1. Types of D-8 Visas and Who They Cover</h2>
+## 1. Types of D-8 Visas and Who They Cover
 
 The D-8 looks like a single visa, but in practice it splits into three subtypes. Pinning down which one applies to you is step one — otherwise the whole document strategy goes sideways.
 
@@ -76,7 +76,7 @@ The most commonly filed type is the **D-8-1 (Corporate Investment)**. It applies
 
 Two groups typically file for the D-8-1. The first is a company already operating abroad that opens a Korean branch or subsidiary and sends over its staff. The second is an individual foreign national who incorporates in Korea with their own capital — the solo investor. In practice, the solo investor case dominates, and it also draws the tougher scrutiny.
 
-## <h2 id="section-2">2. What the KRW 100 Million Capital Rule Really Means</h2>
+## 2. What the KRW 100 Million Capital Rule Really Means
 
 The KRW 100 million figure is the minimum threshold set by the Foreign Investment Promotion Act. But what the review actually tests is not "did KRW 100 million arrive" — it's **"where did the KRW 100 million come from, how did it arrive, and where is it now?"**
 
@@ -128,7 +128,7 @@ The KRW 100 million must be wired **from the investor's own personal overseas ac
 
 More important than the remittance itself is **where the KRW 100 million originally came from**. Whether it's savings from salary, business income, proceeds from selling real estate, a gift, or a loan — the required evidence changes with the source. If your explanation is thin, the remittance record alone won't convince the reviewer.
 
-## <h2 id="section-3">3. The Full Application Process and Timeline</h2>
+## 3. The Full Application Process and Timeline
 
 The D-8 isn't a visa you knock out with a single filing. Foreign investment notification, incorporation, foreign-invested company registration, and visa issuance all have a set order, and if the order slips, you have to backtrack.
 
@@ -189,7 +189,7 @@ In practice, the fastest cases wrap up in about two months, typical ones run thr
   <strong style="color:#1e40af">💡 Practical tip:</strong> If you're already in Korea on another visa, you can skip the Certificate of Visa Issuance and switch directly to a D-8 through a <strong>change of status of stay</strong>. Skipping the overseas mission step shortens the process dramatically.
 </div>
 
-## <h2 id="section-4">4. From Foreign Investment Notification to Incorporation</h2>
+## 4. From Foreign Investment Notification to Incorporation
 
 Before the visa paperwork even enters the picture, remember: the D-8 begins with **setting up the company**. If you misstep here, no amount of polish at the visa stage will save you.
 
@@ -224,7 +224,7 @@ Once incorporation and business registration are complete and the paid-in capita
 </figure>
 
 
-## <h2 id="section-5">5. Required Documents and Proof of Fund Origin</h2>
+## 5. Required Documents and Proof of Fund Origin
 
 Documents fall into two groups: **corporate documents** and **personal (investor) documents**. The question isn't how many pieces of paper you have — it's whether they all tell the same story without contradicting each other.
 
@@ -289,7 +289,7 @@ The key point is this: it's not "I have KRW 100 million in my account," it's **"
   <strong style="color:#92400e">⚠️ Caution:</strong> If a large amount landed in your account from someone else's home-country account right before the remittance, reviewers will suspect a "sham investment." If it's a gift, you need the donor's details and gift tax filing; if it's a loan, you need a repayment plan. Only then does the chain connect naturally.
 </div>
 
-## <h2 id="section-6">6. Key Points for the Business Plan</h2>
+## 6. Key Points for the Business Plan
 
 A business plan isn't judged on design or page count. What matters is whether **"what you'll sell in Korea, how, and to whom"** actually comes through.
 
@@ -314,7 +314,7 @@ If you have zero IT background but are launching an IT services company, or no r
   <strong style="color:#1e40af">💡 Practical tip:</strong> Put the connection to your career on the <strong>first page</strong> of the business plan. A single paragraph saying "I've done this kind of work in my home country, and I'm applying that experience to the Korean market" makes all the numbers that follow read naturally.
 </div>
 
-## <h2 id="section-7">7. Common Mistakes and Grounds for Denial</h2>
+## 7. Common Mistakes and Grounds for Denial
 
 Look at actual denials and the reasons cluster into five recurring themes.
 
@@ -373,7 +373,7 @@ Especially when the applicant is a dispatched employee rather than the CEO, revi
 
 Once you've been denied, resubmitting the same documents won't change the outcome. You need to pinpoint the denial reason and reinforce exactly that point. Especially for source-of-funds or business-substance denials, without new evidence you'll get the same answer on review.
 
-## <h2 id="section-8">8. Frequently Asked Questions (FAQ)</h2>
+## 8. Frequently Asked Questions (FAQ)
 
 ### Q1. Does investing more than KRW 100 million help my application?
 
@@ -395,14 +395,14 @@ Your spouse and minor children can stay with you on **F-3 dependent visas**. F-3
 
 Yes. If you hold a D-8 for three or more consecutive years, **maintain an investment of at least USD 500,000**, and keep at least five Korean nationals in full-time employment, among other conditions, you can apply for an F-5 investor permanent residency. The specific requirements may change with regulatory updates, so confirm with the relevant agency at the time you apply. The more common path is **D-8 → F-2 (Residence, points-based) → F-5 (Permanent)**.
 
-## <h2 id="section-9">9. Consultation Information</h2>
+## 9. Consultation Information
 
 The D-8 isn't a single visa — it's a long project that runs through **foreign investment notification, incorporation, building real business substance, proving source of funds, and writing the business plan**. Miss one document or get the order wrong, and two to three months can evaporate. Especially for source of funds and the business plan, tailored design for your specific situation matters more than filling out a template.
 
 VISION Administrative Office handles the **entire D-8 business investment visa process under one roof — from incorporation through visa issuance and later extensions or changes**. Knowing in advance where your specific case is likely to stall is the best way to save both time and money.
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">📞 VISION Administrative Office</h3>
+  <h3 style="color:#1e40af;margin-top:0">📞 VISION Administrative Office
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li><strong>Phone:</strong> 02-363-2251</li>
     <li><strong>Email:</strong> 5000meter@gmail.com</li>

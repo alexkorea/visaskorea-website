@@ -19,7 +19,7 @@ slug: "f6-marriage-visa-application"
 <li>签证申请费用约为60,000韩元，处理时间通常为1-3个月。</li>
 </ul></div>
 
-<h2 id="section-application-process">申请程序</h2>
+<h2 id="section-application-process">申请程序
 结婚移民签证(F-6)的申请程序如下：
 1. **文件准备**：准备所有必需的文件。
 2. **填写申请表**：填写提交给出入境管理事务所的申请表。
@@ -27,7 +27,7 @@ slug: "f6-marriage-visa-application"
 4. **面试**：如有必要，可能会进行面试。
 5. **结果通知**：将通知签证批准与否。
 
-<h2 id="section-required-documents">所需文件</h2>
+<h2 id="section-required-documents">所需文件
 申请结婚移民签证时所需的文件如下：
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
@@ -57,37 +57,37 @@ slug: "f6-marriage-visa-application"
 </tr>
 </table>
 
-<h2 id="section-costs">费用</h2>
+<h2 id="section-costs">费用
 申请结婚移民签证所需的费用如下：
 - **签证申请手续费**：约60,000韩元
 - 可能会产生额外的文件翻译和公证费用。
 
-<h2 id="section-timeline">处理时间</h2>
+<h2 id="section-timeline">处理时间
 一般来说，结婚移民签证申请后的处理时间约为1个月到3个月。此时间可能因文件的完整性和面试的必要性而有所不同。
 
-<h2 id="section-common-mistakes">常见错误及注意事项</h2>
+<h2 id="section-common-mistakes">常见错误及注意事项
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>注意：</strong>由于文件不全或申请表不完整，可能导致签证申请被拒绝。建议准确准备所有文件，并在必要时寻求专业人士的帮助。</div>
 
-<h2 id="section-faq">常见问题</h2>
-<h3>问：结婚移民签证(F-6)的有效期是多久？</h3>
+<h2 id="section-faq">常见问题
+<h3>问：结婚移民签证(F-6)的有效期是多久？
 答：结婚移民签证一般有效期为1年，之后可以续签。
 
-<h3>问：申请签证时面试是必须的吗？</h3>
+<h3>问：申请签证时面试是必须的吗？
 答：并非所有申请者都需要面试，但在必要时可能会要求面试。
 
-<h3>问：财务证明应包含哪些内容？</h3>
+<h3>问：财务证明应包含哪些内容？
 答：财务证明应包括申请人或配偶的收入证明和银行余额证明。
 
-<h3>问：签证申请被拒绝后可以重新申请吗？</h3>
+<h3>问：签证申请被拒绝后可以重新申请吗？
 答：可以，您可以修改拒绝原因后重新申请。
 
-<h3>问：结婚移民签证申请在哪里进行？</h3>
+<h3>问：结婚移民签证申请在哪里进行？
 答：应在主管出入境管理事务所申请。
 
-<h3>问：文件翻译如何进行？</h3>
+<h3>问：文件翻译如何进行？
 答：翻译成韩文的文件需要进行公证。
 
-<h3>问：申请结婚移民签证时配偶不在韩国可以吗？</h3>
+<h3>问：申请结婚移民签证时配偶不在韩国可以吗？
 答：可以。但配偶在韩国的居留情况可能会影响文件的不同。
 
 <div style="background:#eff6ff;border-left:4px solid #3b82f6;padding:16px;margin:20px 0;border-radius:4px">ℹ️ <strong>参考：</strong>获取准确的信息，最好直接向主管出入境管理事务所咨询确认。</div>

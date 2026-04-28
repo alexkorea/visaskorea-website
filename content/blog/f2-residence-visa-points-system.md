@@ -19,12 +19,12 @@ F-2 거주비자 점수제는 한국에서 외국인이 안정적으로 거주�
 <li>신청자는 필요한 서류를 준비하고, 관할 기관에 제출해야 합니다.</li>
 </ul></div>
 
-<h2 id="requirements">F-2 비자 자격 요건</h2>
+<h2 id="requirements">F-2 비자 자격 요건
 F-2 비자를 신청하려면 몇 가지 자격 요건을 충족해야 합니다. 일반적으로 요구되는 조건은 다음과 같습니다:
 
 <table style="width:100%;border-collapse:collapse;margin:20px 0"><tr style="background:#1e40af;color:white"><th style="padding:12px;text-align:left;border:1px solid #e5e7eb">자격 요건</th></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">법적 체류 상태를 유지하고 있어야 함</td></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">한국에서의 거주 기간</td></tr><tr><td style="padding:12px;border:1px solid #e5e7eb">한국어 능력 인증서 소지</td></tr></table>
 
-<h2 id="scoring">점수 산정 기준</h2>
+<h2 id="scoring">점수 산정 기준
 F-2 비자의 점수는 다음과 같은 항목에서 산정됩니다:
 
 <ul>
@@ -36,7 +36,7 @@ F-2 비자의 점수는 다음과 같은 항목에서 산정됩니다:
 
 점수 기준은 관할 기관에서 확인이 필요하며, 점수가 80점 이상이어야 F-2 비자 신청이 가능합니다.
 
-<h2 id="application">신청 절차</h2>
+<h2 id="application">신청 절차
 F-2 비자를 신청하기 위해서는 다음과 같은 절차를 따라야 합니다:
 
 1. 필요한 서류 준비
@@ -46,33 +46,33 @@ F-2 비자를 신청하기 위해서는 다음과 같은 절차를 따라야 합
 
 <div style="background:#eff6ff;border-left:4px solid #3b82f6;padding:16px;margin:20px 0;border-radius:4px">ℹ️ <strong>참고:</strong> 신청 서류에는 여권, 사진, 자격 증명서 등이 포함됩니다.</div>
 
-<h2 id="common_mistakes">주요 실수 및 주의사항</h2>
+<h2 id="common_mistakes">주요 실수 및 주의사항
 F-2 비자 신청 시 피해야 할 주요 실수는 다음과 같습니다:
 
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>주의:</strong> 서류 미비나 잘못된 정보 제공은 비자 거부 사유가 됩니다.</div>
 
-<h2 id="faq">자주 묻는 질문</h2>
+<h2 id="faq">자주 묻는 질문
 
-<h3>Q: F-2 비자 점수는 어떻게 계산되나요?</h3>
+<h3>Q: F-2 비자 점수는 어떻게 계산되나요?
 A: 연령, 학력, 경력, 한국어 능력 등을 종합하여 계산합니다.
 
-<h3>Q: F-2 비자는 얼마나 유효한가요?</h3>
+<h3>Q: F-2 비자는 얼마나 유효한가요?
 A: 일반적으로 2년 동안 유효하며, 갱신이 가능합니다.
 
-<h3>Q: 점수가 부족하면 어떻게 하나요?</h3>
+<h3>Q: 점수가 부족하면 어떻게 하나요?
 A: 추가 자격 요건을 충족하거나 점수를 올릴 수 있는 방법을 찾아야 합니다.
 
-<h3>Q: 한국어 능력이 부족하면 어떻게 하나요?</h3>
+<h3>Q: 한국어 능력이 부족하면 어떻게 하나요?
 A: TOPIK 시험을 통해 한국어 능력을 인증받아 점수를 획득할 수 있습니다.
 
-<h3>Q: 비자 신청 후 거부되면 어떻게 해야 하나요?</h3>
+<h3>Q: 비자 신청 후 거부되면 어떻게 해야 하나요?
 A: 거부 사유를 확인하고 필요한 조치를 취한 후 재신청해야 합니다.
 
-<h3>Q: F-2 비자와 F-5 비자의 차이는 무엇인가요?</h3>
+<h3>Q: F-2 비자와 F-5 비자의 차이는 무엇인가요?
 A: F-5 비자는 영주권으로, F-2 비자보다 안정적인 체류 자격을 제공합니다.
 
-<h3>Q: 비자 신청의 처리 기간은 얼마나 되나요?</h3>
-A: 일반적으로 2-4주 소요됩니다. 관할 기관에 따라 다를 수 있습니다.</h3>
+<h3>Q: 비자 신청의 처리 기간은 얼마나 되나요?
+A: 일반적으로 2-4주 소요됩니다. 관할 기관에 따라 다를 수 있습니다.
 
 내부 링크: [연락하기](/contact), [블로그](/blog), [비자 신청 대행 서비스](/visa-services), [한국어 교육 프로그램](/korean-language-program).
 

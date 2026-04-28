@@ -13,7 +13,7 @@ The D-8-4 is designed for foreign founders who **cannot meet the 100 million KRW
 The step that trips up most applicants in practice isn't the number of documents but rather **explaining "why this business qualifies as a technology startup."** Holding up a single patent doesn't automatically make you a D-8-4 candidate — the patent must clearly tie to the corporation's actual business operations. Below, we'll walk through eligibility requirements, documents, the OASIS points system, application procedures, differences from D-8-1, and common reasons for rejection.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Is the D-8-4 Technology Startup Visa</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Detailed Eligibility Requirements</a></li>
@@ -28,7 +28,7 @@ The step that trips up most applicants in practice isn't the number of documents
   </ul>
 </nav>
 
-<h2 id="section-1">1. What Is the D-8-4 Technology Startup Visa</h2>
+<h2 id="section-1">1. What Is the D-8-4 Technology Startup Visa
 
 The D-8-4 refers to the **technology startup (OASIS) track within the D-8 Corporate Investment visa category**. Unlike the standard D-8-1 for general corporate establishment or the D-8-2 for venture enterprises, the D-8-4 recognizes the founder's **intellectual property and academic credentials** as a substitute for capital. Its official name is "Technology Startup," and it is categorized as a subclass of D-8 Corporate Investment under Attached Table 1-2 of the Enforcement Decree of the Immigration Act.
 
@@ -48,7 +48,7 @@ The most common pathway is entering Korea on a D-10 job-seeker visa, completing 
   <strong style="color:#1e40af">💡 Practical Tip:</strong> The D-8-4 is often misunderstood as "a visa you can get without capital." In actual review, you must demonstrate the substance of your corporate operations, so supporting evidence such as an office lease, utility bills, and social insurance enrollment must also be in place.
 </div>
 
-<h2 id="section-2">2. Detailed Eligibility Requirements</h2>
+<h2 id="section-2">2. Detailed Eligibility Requirements
 
 D-8-4 eligibility branches into two main tracks: **degree-based + OASIS points** and **intellectual property-based**. Satisfying just one qualifies you to apply, but in practice **applicants who meet both conditions have higher approval rates**.
 
@@ -110,7 +110,7 @@ Foreign-granted patents must be converted into a Korean Intellectual Property Of
   <strong style="color:#92400e">⚠️ Caution:</strong> Virtual offices (including some shared office spaces) are increasingly cited as grounds for rejection. At a minimum, you need an independent space with a dedicated unit number assigned to you, and the lease agreement must specify the exclusive floor area.
 </div>
 
-<h2 id="section-3">3. OASIS Startup Immigration System and the Points Scheme</h2>
+<h2 id="section-3">3. OASIS Startup Immigration System and the Points Scheme
 
 D-8-4 applications accumulate points through the **OASIS (Overall Assistance for Startup Immigration System) program** operated by the Ministry of Justice. It's not simply a yes/no check on eligibility — **accumulating 80 points or more** is effectively the passing line.
 
@@ -168,7 +168,7 @@ OASIS is organized in stages: OASIS-1 (basic training), OASIS-2 (advanced), OASI
 
 If you hold only a bachelor's degree and no patent, reaching 80 points is tight. In that case, the plan is to **raise your TOPIK score, win a startup competition, or attract investment** to fill the gap. The practical approach is to lay out the points table and start plugging the weakest categories first.
 
-<h2 id="section-4">4. Complete Document Checklist</h2>
+<h2 id="section-4">4. Complete Document Checklist
 
 ### 4-1. Core Documents
 
@@ -208,7 +208,7 @@ With business plans, persuasiveness matters more than length. Reviewers look at 
 
 Vague phrases like "responding to the Fourth Industrial Revolution" are more likely to hurt than help. The connection between your patent claims and your business must be spelled out in writing.
 
-<h2 id="section-5">5. Application Process Step by Step</h2>
+<h2 id="section-5">5. Application Process Step by Step
 
 <table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
   <thead style="background:#f0f7ff">
@@ -289,7 +289,7 @@ To curb abuse of the technology startup track, the Ministry of Justice has been 
 </figure>
 
 
-<h2 id="section-6">6. Comparing D-8-1, D-8-2, and D-8-4</h2>
+<h2 id="section-6">6. Comparing D-8-1, D-8-2, and D-8-4
 
 ### 6-1. Differences Among the Three Types
 
@@ -344,7 +344,7 @@ If you can actually remit 100 million KRW in capital, D-8-1 is faster and cleane
 
 One viable strategy is to enter and launch under D-8-4 initially, and once the business grows, add a foreign investment notification to **convert to or run in parallel with D-8-1**. Your visa status is not set in stone.
 
-<h2 id="section-7">7. Stay Period, Extension, and Family Accompaniment</h2>
+<h2 id="section-7">7. Stay Period, Extension, and Family Accompaniment
 
 ### 7-1. Initial Period of Stay
 
@@ -372,7 +372,7 @@ While residing on D-8-4, accumulating enough points allows you to **change to F-
   <strong style="color:#1e40af">💡 Practical Tip:</strong> Starting three months before your extension deadline, consolidate your revenue records, tax payment evidence, and employee social insurance records into a single file. The overwhelming majority of extension rejections come down to "no documents to prove performance." You don't fail because you lack documents — you fail because you didn't keep records along the way.
 </div>
 
-<h2 id="section-8">8. Common Mistakes and Reasons for Rejection</h2>
+<h2 id="section-8">8. Common Mistakes and Reasons for Rejection
 
 ### 8-1. The Misconception That a Patent Is All You Need
 
@@ -402,7 +402,7 @@ If you failed to properly report job-seeking activity during D-10 status, or exc
   <strong style="color:#92400e">⚠️ Caution:</strong> Once rejected, your "prior rejection history" remains on record. Reapplication isn't impossible, but if you refile without addressing the reason for rejection, the second attempt will return the same result. Rushing your first filing is slower in the end than filing once preparations are fully complete.
 </div>
 
-<h2 id="section-9">9. Frequently Asked Questions (FAQ)</h2>
+<h2 id="section-9">9. Frequently Asked Questions (FAQ)
 
 **Q1. My patent is still pending — can I apply for D-8-4 before it's granted?**
 
@@ -424,7 +424,7 @@ A. There's no statutory minimum, but **30 to 50 million KRW or more is recommend
 
 A. Switching to a completely different industry can jeopardize your D-8-4 status. This is because **the very identity of "technology startup" gets shaken**. Expanding within the scope connected to your existing intellectual property is less problematic, but when replacing your industry wholesale, confirm with the competent Immigration Office in advance.
 
-<h2 id="section-10">10. Consultation Information</h2>
+<h2 id="section-10">10. Consultation Information
 
 The D-8-4 has relatively few required documents, yet its approval rate is low. The reason is simple: too many applications **lack the narrative that connects degree, patent, and business plan**. No matter how strong your patent or how advanced your degree, if the explanation that ties these three into a single business is weak, the application falters at review.
 

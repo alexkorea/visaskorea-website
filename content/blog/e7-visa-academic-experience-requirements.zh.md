@@ -13,7 +13,7 @@ E-7签证的学历和工作经历要求表面看似简单,但在实际审查中,
 最容易卡住的地方正是这个"专业关联性"。即使拥有学士学位,如果专业与职务脱节,审查官会要求提供工作经历来补充关联性证明。反而是那些没有学位但工作经历扎实的申请人,通过审查时更加干净利落。关键在于学位、工作经历和岗位说明书这三条主线能否串成一个完整的故事。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
+  <h3 style="color:#1e40af;margin-top:0">目录
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7学历与工作经历要求一览</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 学历要求的认定范围</a></li>

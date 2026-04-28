@@ -13,7 +13,7 @@ F-6 결혼이민비자는 서류 개수가 많아서 어렵다기보다, **서�
 많이 놓치는 부분은 바로 **교제 진정성 입증**과 **소득 요건 증빙**입니다. 서류 구색은 맞춰도 이 두 블록이 약하면 심사에서 바로 걸립니다. 특히 한국인 배우자의 연간 소득 요건(2인 가구 기준 전년도 한국인 가구 중위소득 70% 이상)과 외국인 배우자의 기초 한국어 능력 확인이 실무에서 가장 먼저 보는 지점이라, 서류를 모으기 전에 이 두 요건부터 맞출 수 있는지 판단해야 합니다.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
+  <h3 style="color:#1e40af;margin-top:0">목차
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-6 결혼이민비자 서류 구성 전체 지도</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 한국인 배우자(초청자)가 준비할 서류</a></li>

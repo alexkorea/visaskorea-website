@@ -19,18 +19,18 @@ The foreign re-entry permit exemption system allows foreigners to return to Kore
 <li>The processing period typically takes 1-2 weeks.</li>
 </ul></div>
 
-<h2 id="eligibility">Eligibility for Re-entry Permit Exemption</h2>
+<h2 id="eligibility">Eligibility for Re-entry Permit Exemption
 The following individuals are eligible for the re-entry permit exemption system:
 - Foreigners residing in Korea who are in the process of visa extension or change
 - Individuals holding a foreign registration card
 - Foreigners from specific countries that have signed a visa waiver agreement with Korea
 
-<h2 id="application">Application Method</h2>
+<h2 id="application">Application Method
 To receive the re-entry permit exemption, the following procedures must be followed:
 1. Apply online or through the relevant immigration office.
 2. Fill out and submit the application form.
 
-<h2 id="documents">Required Documents</h2>
+<h2 id="documents">Required Documents
 The documents required to apply for the re-entry permit exemption are as follows:
 <table style="width:100%;border-collapse:collapse;margin:20px 0">
 <tr style="background:#1e40af;color:white">
@@ -51,12 +51,12 @@ The documents required to apply for the re-entry permit exemption are as follows
 </tr>
 </table>
 
-<h2 id="process">Processing Procedure</h2>
+<h2 id="process">Processing Procedure
 The processing procedure after application is as follows:
 1. Notification of results within 1-2 weeks after document submission.
 2. Re-entry is possible once approved.
 
-<h2 id="common-mistakes">Common Mistakes</h2>
+<h2 id="common-mistakes">Common Mistakes
 <div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">⚠️ <strong>Note:</strong> Missing application forms and incorrect document submissions are common. It is important to prepare all documents accurately.</div>
 
 <h3>Q:</h3> What is the minimum residency period required to apply for the re-entry permit exemption?  
@@ -80,7 +80,7 @@ The processing procedure after application is as follows:
 <h3>Q:</h3> What should I do if changes occur after applying for the re-entry permit exemption?  
 <h3>A:</h3> If changes occur, you must contact the relevant immigration office immediately.
 
-<h2>Related Services</h2>
+<h2>Related Services
 - [Visa Extension Service](/visa-extension)
 - [Foreign Registration Service](/foreign-registration)
 - [Visa Change Guide](/visa-change)

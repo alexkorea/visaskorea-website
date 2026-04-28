@@ -13,7 +13,7 @@ D-8企業投資ビザは、**外国人が韓国法人に1億ウォン以上を�
 実際の審査では、資金の海外送金経路、国内法人口座への入金、外国人投資企業としての登録、事業所の賃貸借、事業計画書の具体性が一本の線で繋がっている必要があります。書類が多くてもこの流れが弱ければすぐに引っかかり、逆に書類が簡素でも資金の出所と事業の実体が明確であれば早く発給されます。要点はこれに尽きます。**D-8は「お金の物語」を証憑で形にするビザ**なのです。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8ビザの基本構造と3つの類型</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 発給要件:投資金1億と外国人投資登録</a></li>
@@ -419,7 +419,7 @@ D-8は、書類の数よりも資金の説明と事業の実体が先に見ら�
 ビジョン行政士事務所は、D-8企業投資ビザの申請と法人設立、外国人投資企業登録を一つの流れとしてご案内します。資金構造と事業計画が噛み合うよう、初期段階から点検いたします。
 
 <div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)</h3>
+  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)
   <ul style="list-style:none;padding-left:0;line-height:1.9">
     <li>📞 電話: <strong>02-363-2251</strong></li>
     <li>✉️ メール: <strong>5000meter@gmail.com</strong></li>

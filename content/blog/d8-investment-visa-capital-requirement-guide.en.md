@@ -13,7 +13,7 @@ The D-8 Corporate Investment Visa is a residency status for foreigners who want 
 This is where things get tricky. Having KRW 100 million sitting in a bank account doesn't automatically get you approved. <strong>Immigration officers verify where the money came from, whether your company has a viable operating structure, and whether your business plan is realistic</strong> — step by step. Even if you have a thick stack of documents, one gap in this chain can lead to rejection. This is exactly where most people get stuck when trying to handle the process on their own.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Is a D-8 Corporate Investment Visa – Visa Types and Eligibility</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. The Real Standard for Capital Requirements – What KRW 100 Million Actually Means</a></li>
@@ -30,7 +30,7 @@ This is where things get tricky. Having KRW 100 million sitting in a bank accoun
 
 ---
 
-<h2 id="section-1">1. What Is a D-8 Corporate Investment Visa – Visa Types and Eligibility</h2>
+<h2 id="section-1">1. What Is a D-8 Corporate Investment Visa – Visa Types and Eligibility
 
 ### Definition of the D-8 Visa
 
@@ -86,7 +86,7 @@ In practice, D-8 visa applicants generally fall into three categories:
 
 ---
 
-<h2 id="section-2">2. The Real Standard for Capital Requirements – What KRW 100 Million Actually Means</h2>
+<h2 id="section-2">2. The Real Standard for Capital Requirements – What KRW 100 Million Actually Means
 
 ### The Legal Standard: KRW 100 Million or More
 
@@ -146,7 +146,7 @@ Under the D-8-4 (Technology Startup) category, the capital requirement may be re
 
 ---
 
-<h2 id="section-3">3. D-8 Visa Application Process – Step-by-Step Workflow</h2>
+<h2 id="section-3">3. D-8 Visa Application Process – Step-by-Step Workflow
 
 Applying for a D-8 visa is not simply a matter of gathering documents and submitting them. You must follow the sequence of <strong>company registration → foreign investment notification → visa application</strong>, and each step involves a different government agency.
 
@@ -213,7 +213,7 @@ This is where most issues arise. Registering the corporation before filing the f
 
 ---
 
-<h2 id="section-4">4. Required Documents and Key Preparation Tips</h2>
+<h2 id="section-4">4. Required Documents and Key Preparation Tips
 
 ### Standard Document Checklist
 
@@ -255,7 +255,7 @@ Documents issued in your home country (income certificates, employment verificat
 
 ---
 
-<h2 id="section-5">5. Writing a Business Plan – What Makes or Breaks Your Application</h2>
+<h2 id="section-5">5. Writing a Business Plan – What Makes or Breaks Your Application
 
 ### How Much Weight the Business Plan Carries
 
@@ -330,7 +330,7 @@ In real-world reviews, the following gaps make or break an application:
 </figure>
 
 
-<h2 id="section-6">6. Proof of Fund Sources – The Most Common Roadblock</h2>
+<h2 id="section-6">6. Proof of Fund Sources – The Most Common Roadblock
 
 ### Why Fund Source Verification Is the Hardest Part
 
@@ -375,7 +375,7 @@ The <strong>foreign exchange transfer route</strong> from your home country to K
 
 ---
 
-<h2 id="section-7">7. Review Criteria and Processing Times</h2>
+<h2 id="section-7">7. Review Criteria and Processing Times
 
 ### What Immigration Officers Focus On
 
@@ -432,7 +432,7 @@ Processing times vary depending on the application type.
 
 ---
 
-<h2 id="section-8">8. Common Mistakes and Rejection Cases</h2>
+<h2 id="section-8">8. Common Mistakes and Rejection Cases
 
 Certain mistake patterns appear repeatedly in actual D-8 visa applications. Knowing them in advance can help you avoid the same pitfalls.
 
@@ -462,7 +462,7 @@ Some applicants submit a single bank balance certificate and consider the fund s
 
 ---
 
-<h2 id="section-faq">9. Frequently Asked Questions (FAQ)</h2>
+<h2 id="section-faq">9. Frequently Asked Questions (FAQ)
 
 ### Q1. Does the KRW 100 million capital requirement have to be paid in cash?
 
@@ -486,14 +486,14 @@ Yes. If you have maintained <strong>continuous residence in Korea for five or mo
 
 ---
 
-<h2 id="section-cta">10. Consultation with VISION Administrative Office</h2>
+<h2 id="section-cta">10. Consultation with VISION Administrative Office
 
 The D-8 Corporate Investment Visa involves a multi-agency process spanning capital preparation, company incorporation, document preparation, and the visa application itself. The two areas where applicants most often struggle — and where rejections are concentrated — are building a coherent fund source narrative and writing a business plan that meets review standards.
 
 VISION Administrative Office provides end-to-end practical support for the entire D-8 visa application process. We handle fund source structuring, business plan review, guidance through the corporate registration process, and direct document filing with the Immigration Office.
 
 <div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:12px;margin:24px 0;text-align:center">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office</h3>
+  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
   <p style="margin:8px 0"><strong>Phone:</strong> 02-363-2251</p>
   <p style="margin:8px 0"><strong>Email:</strong> 5000meter@gmail.com</p>
   <p style="margin:8px 0"><strong>Address:</strong> 3F Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614, South Korea</p>

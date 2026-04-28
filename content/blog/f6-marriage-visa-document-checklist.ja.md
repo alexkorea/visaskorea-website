@@ -13,7 +13,7 @@ F-6結婚移民ビザは、書類の数が多くて難しいというより、**
 多くの人が見落としがちなのが、**交際の真実性の疎明**と**所得要件の立証**です。書類の形は揃えても、この2ブロックが弱いと審査で即座に引っかかります。特に韓国人配偶者の年間所得要件(2人世帯基準で前年度の韓国人世帯中位所得の70%以上)と、外国人配偶者の基礎的な韓国語能力の確認は、実務で真っ先に見られるポイントなので、書類を集め始める前にこの2つの要件をクリアできるかどうかを見極めておく必要があります。
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
+  <h3 style="color:#1e40af;margin-top:0">目次
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-6結婚移民ビザ書類構成の全体マップ</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 韓国人配偶者(招聘者)が準備する書類</a></li>

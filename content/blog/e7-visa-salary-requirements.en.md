@@ -13,7 +13,7 @@ When it comes to the E-7 visa, the single criterion that most often determines a
 Here's the crux: clearing the number on paper isn't the end of the story. Reviewers also scrutinize how the salary is actually paid, which allowances are included, and whether the wage level is reasonable against the company's revenue. No matter how thick your document pile is, weak explanations on these points lead straight to document supplementation requests or outright denial. Below, we walk through the threshold figures, how the calculation works, exceptions by occupation, and the common sticking points that trip applicants up in actual review.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. The Basic Principle Behind E-7 Salary Standards — What Is 80% of GNI?</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 2026 Threshold Amounts and Year-Over-Year Changes</a></li>
@@ -28,7 +28,7 @@ Here's the crux: clearing the number on paper isn't the end of the story. Review
   </ul>
 </nav>
 
-## <h2 id="section-1">1. The Basic Principle Behind E-7 Salary Standards — What Is 80% of GNI?</h2>
+## 1. The Basic Principle Behind E-7 Salary Standards — What Is 80% of GNI?
 
 The starting point for E-7 visa salary standards is **80% of the previous year's per capita Gross National Income (GNI)**. Based on the per capita GNI published by the Bank of Korea and Statistics Korea, the Ministry of Justice issues an annual review threshold.
 
@@ -44,7 +44,7 @@ The threshold was set at 80% rather than 100% to accommodate entry-level and jun
 
 The Employment Permit System (E-9) under the Ministry of Employment and Labor applies the Minimum Wage Act directly, but the E-7 operates under a **separate Ministry of Justice immigration standard**. In other words, clearing minimum wage alone isn't enough — you have to meet the much higher GNI 80% threshold.
 
-## <h2 id="section-2">2. 2026 Threshold Amounts and Year-Over-Year Changes</h2>
+## 2. 2026 Threshold Amounts and Year-Over-Year Changes
 
 Since per capita GNI shifts annually, the E-7 salary cutoff ticks up a little each year. Here's the rough trajectory by year.
 
@@ -99,7 +99,7 @@ Since per capita GNI shifts annually, the E-7 salary cutoff ticks up a little ea
 
 A frequent snag in practice is the question of **"which year's standard applies."** Typically it isn't the filing date but rather the date the relevant year's manual takes effect. If you're submitting late in one year or early in the next — right when the new benchmark kicks in — applicants filing in early spring should be sure to **redraft their contracts to match the updated GNI 80% amount** to stay safe.
 
-## <h2 id="section-3">3. Tiered Standards by Occupation — 70%, 80%, 100%, 150%</h2>
+## 3. Tiered Standards by Occupation — 70%, 80%, 100%, 150%
 
 The E-7 looks like a single category from the outside, but review standards actually vary by occupation. Here are the numbers upfront.
 
@@ -148,7 +148,7 @@ People often refer to the E-7 as one monolithic visa, but actual review is split
 
 Plenty of applicants ask, "Is a higher salary always an advantage?" In reality, the 1.5× or 2× GNI tracks are a trade-off: they **waive or relax** education and experience requirements in exchange for a higher salary floor. Flipping that around, if your credentials are already strong, there's no reason to stretch for a higher salary figure. Putting a salary the company can't realistically afford on paper only **trips you up during the ability-to-pay review**.
 
-## <h2 id="section-4">4. What Counts as Salary and What Doesn't</h2>
+## 4. What Counts as Salary and What Doesn't
 
 This is where many applicants get stuck. Even if your contract lists "annual salary of KRW 37 million," what actually gets credited depends entirely on what's inside that figure.
 
@@ -215,7 +215,7 @@ If your contract reads "monthly pay KRW 3 million (overtime included)" under a c
   <strong style="color:#1e40af">💡 Practitioner's Tip:</strong> When your contract salary is close to the threshold, break out the components: <strong>"Base pay KRW XX × 12 months + regular bonus KRW XX × 2 payments."</strong> If you only write the total, the reviewer has to back-compute the breakdown — and items tend to fall out of the calculation during that reconstruction, dragging the recognized salary down.
 </div>
 
-## <h2 id="section-5">5. How the Minimum Wage Act Interacts with E-7 Salary Rules</h2>
+## 5. How the Minimum Wage Act Interacts with E-7 Salary Rules
 
 The E-7 salary standard isn't directly tied to minimum wage, but in practice you have to look at both at once.
 
@@ -276,7 +276,7 @@ Two reasons.
 </figure>
 
 
-## <h2 id="section-6">6. Balancing Company Size, Revenue, and Salary During Review</h2>
+## 6. Balancing Company Size, Revenue, and Salary During Review
 
 A high salary alone isn't enough. Reviewers also examine **whether the sponsoring company can realistically afford that salary**. This is where many applications diverge.
 
@@ -309,7 +309,7 @@ Another classic sticking point. If domestic employees at the company average KRW
   </ul>
 </div>
 
-## <h2 id="section-7">7. Proving Actual Salary Payments at Extension or Change of Status</h2>
+## 7. Proving Actual Salary Payments at Extension or Change of Status
 
 For the initial application, the contract carries the weight. But at the **stay extension** stage, you need to prove "you actually received that salary." This is a classic snag point for extensions.
 
@@ -359,7 +359,7 @@ If your salary changes while you're employed, you'll need to file a **change of 
   <strong style="color:#92400e">⚠️ Note:</strong> Saying "business has been tough this year, so we cut the salary by KRW 10 million" effectively means the case gets re-reviewed. If the reduced salary falls short of the GNI threshold, the extension can be blocked on the spot, so contact your local immigration office in advance or prepare supplementary measures alongside the filing.
 </div>
 
-## <h2 id="section-8">8. Common Mistakes and Denial Cases</h2>
+## 8. Common Mistakes and Denial Cases
 
 A round-up of the mistake patterns we see most often on the ground.
 
@@ -430,7 +430,7 @@ A contract that lists a salary but omits weekly working hours makes the hourly e
   </tbody>
 </table>
 
-## <h2 id="section-9">9. Frequently Asked Questions (FAQ)</h2>
+## 9. Frequently Asked Questions (FAQ)
 
 **Q1. If my contract salary lands exactly on GNI 80%, am I fine?**
 
@@ -452,7 +452,7 @@ A. Housing is classified as a fringe benefit and isn't folded into salary. Even 
 
 A. It's treated as either a falsified contract or unpaid wages, which can lead to extension denial. Three documents — the withholding receipt, payroll transfer records, and the insurance-reported monthly pay — all need to **reconcile with the contract salary**. If your salary genuinely came down due to company circumstances, first check whether the reduced figure still clears the GNI threshold; if it doesn't, you'll need a separate supplementation strategy before filing the extension. This is hard to judge on your own, so we recommend consulting your local immigration office in advance.
 
-## <h2 id="section-10">10. Consultation Inquiries</h2>
+## 10. Consultation Inquiries
 
 The E-7 salary standard isn't simply a matter of hitting a number on the surface — contract structure, the company's financials, and proof of actual payment all get weighed together. The closer you sit to the threshold, the more a single line of formatting on paper can decide the outcome.
 

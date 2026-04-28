@@ -13,7 +13,7 @@ The most common reasons an E-7 visa gets denied cluster around three points: **a
 Reapplication isn't about stamping the same documents one more time. If you resubmit with the denial points untouched, **the second rejection comes faster than the first**. The core idea is this: find the weak link from the first application, cut it out, and rebuild with **a new evidentiary structure**. Below, we'll walk through each denial reason and the corresponding reapplication strategy.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. How E-7 Denials Actually Unfold</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Denial Reason 1: Occupational Code vs. Actual Duties Mismatch</a></li>
@@ -27,7 +27,7 @@ Reapplication isn't about stamping the same documents one more time. If you resu
   </ul>
 </nav>
 
-<h2 id="section-1">1. How E-7 Denials Actually Unfold</h2>
+<h2 id="section-1">1. How E-7 Denials Actually Unfold
 
 The E-7 (Specially Designated Activities) visa, as the name suggests, is **restricted to specific occupations**. It's issued only within the 85 professional occupations designated by the Ministry of Justice. On the surface it looks straightforward, but in actual review, every document gets re-read through the lens of the occupational code. Even with the same contract, a different occupational code means a completely different set of requirements.
 
@@ -71,7 +71,7 @@ Denial notices usually carry only brief phrases like "insufficient qualification
 
 The pattern that actually trips most cases up is **when "occupation mismatch" and "weak education/career" overlap**. When only one is wrong it's manageable; when both are tangled together, the denial rate climbs the highest.
 
-<h2 id="section-2">2. Denial Reason 1: Occupational Code vs. Actual Duties Mismatch</h2>
+<h2 id="section-2">2. Denial Reason 1: Occupational Code vs. Actual Duties Mismatch
 
 This is where cases stumble most often. The company writes down "IT Specialist," but the actual job description reveals basic customer service or translation work mixed in. Reviewing officers cross-read the job description, the organizational chart, and the duty-assignment document. That's where the cracks show.
 
@@ -91,7 +91,7 @@ What applicants often miss isn't the length of the job description but **the spe
 
 If the occupational code was wrong from the start, resubmitting under the same code is a waste of time. In that case you need to either **reapply under a different occupational code** or restructure the duties themselves before submitting. If this part stays weak, the outcome won't change no matter how many times you try.
 
-<h2 id="section-3">3. Denial Reason 2: Insufficient Evidence of Education and Career</h2>
+<h2 id="section-3">3. Denial Reason 2: Insufficient Evidence of Education and Career
 
 The E-7 generally requires **a bachelor's degree or higher plus 1 year of related experience**, or **a master's degree or higher**, or **5 or more years of experience in the relevant field** (requirements vary by occupation). Even when the numbers line up, applicants often get stuck on **"relevance."**
 
@@ -143,7 +143,7 @@ If the certificate only shows the company name, tenure, and title, the officer h
 
 For foreign education records, originals carrying **an apostille** or consular authentication from the Korean embassy are the baseline. Without this, the review doesn't even begin — it comes back as a supplemental request. And repeated supplemental requests themselves become a negative signal in the review.
 
-<h2 id="section-4">4. Denial Reason 3: Employer Requirements and Workplace Reality</h2>
+<h2 id="section-4">4. Denial Reason 3: Employer Requirements and Workplace Reality
 
 A surprising number of cases involve the applicant meeting every requirement personally but **the company being the blocker**. More important than documents is whether the company has the substance and scale to genuinely employ a foreign worker.
 
@@ -195,7 +195,7 @@ In practice, reviewing officers or immigration staff sometimes visit the workpla
 
 If the reason the company specifically needs a foreign worker isn't clear, the officer concludes "this could be filled by a domestic hire." The job description needs to spell out concretely **why non-Korean language skills are essential** and **why the position requires direct engagement with overseas markets, technologies, or partners**.
 
-<h2 id="section-5">5. Denial Reason 4: Wages Below Threshold and Domestic Employment Protection</h2>
+<h2 id="section-5">5. Denial Reason 4: Wages Below Threshold and Domestic Employment Protection
 
 The E-7 generally requires a wage **equal to or above 80% of the prior year's per-capita Gross National Income (GNI)** (with exceptions by occupation and experience — confirm with the relevant authority). You'd think matching the number is enough, but in practice the structure of the wage itself is often the issue.
 
@@ -247,7 +247,7 @@ Reviewers actually compare salaries with Korean employees at the same company. I
 </figure>
 
 
-<h2 id="section-6">6. How to Read the Denial Notice and Trace the Real Cause</h2>
+<h2 id="section-6">6. How to Read the Denial Notice and Trace the Real Cause
 
 Denial notices are usually short. Phrases like "insufficient requirements," "lack of employment necessity," or "documents not adequate" make up most of what's written. Before reading the notice itself, look first at **which provision was cited**.
 
@@ -266,7 +266,7 @@ If you diagnose the cause based on the notice alone, the reapplication will tang
   <strong style="color:#1e40af">💡 Practical Tip:</strong> The riskiest move is reapplying emotionally right after a denial. Spend at least 2–4 weeks on analyzing the reason and restructuring the documents. If the same weak point stays in place, the second review dismisses the case faster than the first.
 </div>
 
-<h2 id="section-7">7. Reapplication Strategy: What to Change and What to Keep</h2>
+<h2 id="section-7">7. Reapplication Strategy: What to Change and What to Keep
 
 Reapplication isn't **"resubmitting the same file"** — it's **"replacing the weak link."** The first step is deciding what to change and what to leave alone.
 
@@ -327,7 +327,7 @@ When you attach a letter of explanation with a reapplication, leave out emotiona
   </ul>
 </div>
 
-<h2 id="section-8">8. Common Mistakes and a Checklist</h2>
+<h2 id="section-8">8. Common Mistakes and a Checklist
 
 Here are the repeat mistakes we see most often in consultations. Each one looks small, but they pile up quickly into a denial.
 
@@ -355,7 +355,7 @@ With a denial already on record, **switching only the occupational code and refi
   <strong style="color:#92400e">⚠️ Caution:</strong> The single most common cause of a second denial is rushing a reapplication while only guessing at the reason. If the first denial was "insufficient qualifications" and you reinforce only the company's records, the reviewer concludes nothing has changed. The axis of the problem and the axis of your remediation must line up for the outcome to shift.
 </div>
 
-<h2 id="section-9">9. Frequently Asked Questions (FAQ)</h2>
+<h2 id="section-9">9. Frequently Asked Questions (FAQ)
 
 ### Q1. After an E-7 denial, how long should I wait before reapplying?
 

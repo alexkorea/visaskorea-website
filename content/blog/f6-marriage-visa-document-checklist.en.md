@@ -13,7 +13,7 @@ The F-6 marriage immigration visa isn't difficult because of the sheer number of
 The two blocks people most often underestimate are **proof of a genuine relationship** and **income documentation**. You can tick every box on the list, but if these two blocks are weak, the application gets flagged immediately at screening. In particular, the Korean spouse's annual income requirement (at least 70% of the prior year's median Korean household income for a two-person household) and the foreign spouse's basic Korean language ability are the first things reviewers look at — so before you start gathering documents, you need to assess whether you can meet these two requirements.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. The Full Map of F-6 Document Requirements</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Documents the Korean Spouse (Sponsor) Must Prepare</a></li>

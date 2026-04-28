@@ -13,7 +13,7 @@ An F-6 visa is rarely denied for just one reason. The most common pattern is a c
 An appeal (administrative challenge) and a reapplication are completely different procedures. **An appeal is an administrative process that contests the denial itself within 90 days**, while **a reapplication is filing a brand-new case from scratch**. In practice, a reapplication with reinforced weak points usually has a higher approval rate than an appeal. The more abstract the denial reason — like "lack of relationship genuineness" — the more likely you are to be denied again with the same documents. What you should look at first is the legal provisions cited in the denial notice, then the volume and quality of evidence you can strengthen.
 
 <nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
+  <h3 style="color:#1e40af;margin-top:0">Table of Contents
   <ul style="list-style:none;padding-left:0">
     <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Why F-6 Visas Actually Get Denied</a></li>
     <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. How to Read the Denial Notice</a></li>
@@ -26,7 +26,7 @@ An appeal (administrative challenge) and a reapplication are completely differen
   </ul>
 </nav>
 
-## <h2 id="section-1">Why F-6 Visas Actually Get Denied</h2>
+## Why F-6 Visas Actually Get Denied
 
 Because the F-6 visa administratively verifies marriage — a deeply private domain — more than half of all denials get bundled under **"lack of genuineness."** Even when the surface reason looks like a single item, in practice it is the cumulative result of several weak spots.
 
@@ -90,7 +90,7 @@ In fact, even when income is more than enough, two or three of the items above s
   <strong style="color:#92400e">⚠️ Note:</strong> Even a notice that looks like it was denied "without stated reasons" almost always has internal grounds behind it. You can partially uncover the basis through an Information Disclosure Request to Immigration, and reapplying blindly without that information usually leads to another denial on the same grounds.
 </div>
 
-## <h2 id="section-2">How to Read the Denial Notice</h2>
+## How to Read the Denial Notice
 
 The denial notice is short, but **every cited statute and phrase determines what you should do next.** Skimming the notice and moving on usually leads to picking the wrong direction for your remediation.
 
@@ -144,7 +144,7 @@ The denial notice is short, but **every cited statute and phrase determines what
 
 It is very common to be denied for "lack of genuineness" and then reapply with nothing but extra income documents. In that case the original denial reason remains untouched, and the reviewer has no choice but to reach the same conclusion. The point is to **add evidence that maps directly onto the stated reason for denial**.
 
-## <h2 id="section-3">Appeal vs. Reapplication: Which to Choose</h2>
+## Appeal vs. Reapplication: Which to Choose
 
 After a denial, you have two paths. Which one favors you depends on the denial reason and how much you can strengthen your case.
 
@@ -197,7 +197,7 @@ After a denial, you have two paths. Which one favors you depends on the denial r
   <strong style="color:#1e40af">💡 Practical Tip:</strong> Filing an appeal and preparing a reapplication in parallel is risky. Litigating the same matter on two tracks can lead to conflicting statements and leaves a poor impression on reviewers. Picking one lane and committing to it raises your odds.
 </div>
 
-## <h2 id="section-4">Strategies for Strengthening Income and Financial Requirements</h2>
+## Strategies for Strengthening Income and Financial Requirements
 
 If you were denied for insufficient income, the path forward is relatively clear. That said, last-minute fixes like padding a bank balance tend to raise more suspicion than they resolve.
 
@@ -271,7 +271,7 @@ Whether an exemption applies varies case by case, so check with the relevant aut
 </figure>
 
 
-## <h2 id="section-5">Rebuilding Evidence of a Genuine Relationship</h2>
+## Rebuilding Evidence of a Genuine Relationship
 
 The toughest denial reason to address is lack of genuineness. The core of remediation is **timeline more than volume**.
 
@@ -305,7 +305,7 @@ Each spouse should write their own statement, but **the underlying facts must al
   <strong style="color:#92400e">⚠️ Note:</strong> Submitting clipped fragments of social media messages invites suspicion. Where possible, capture continuous threads showing both the start and end dates, and attach translations alongside any conversations in foreign languages.
 </div>
 
-## <h2 id="section-6">Interview Preparation and Consistency in Statements</h2>
+## Interview Preparation and Consistency in Statements
 
 Compared with other visa categories, **the interview carries unusually heavy weight** for the F-6. Even with flawless paperwork, a denial can come simply from inconsistent answers in the interview.
 
@@ -361,7 +361,7 @@ In the actual review, short and accurate answers earn more trust than long and e
 
 If your basic Korean communication ability is judged inadequate, that becomes a denial ground on its own. **TOPIK Level 1 or higher**, or a score from the **Ministry of Justice's designated KIIP pre-assessment**, strengthens your case meaningfully. If the prior denial cited language as a factor, raising your score before the reapplication often determines whether you pass.
 
-## <h2 id="section-7">Common Mistakes and Behaviors to Avoid</h2>
+## Common Mistakes and Behaviors to Avoid
 
 These are the mistakes most frequently seen in reapplications after a first denial. They're where outcomes diverge.
 
@@ -426,7 +426,7 @@ Rather than refiling immediately after a denial, **stockpiling supporting eviden
   </tbody>
 </table>
 
-## <h2 id="section-8">Frequently Asked Questions (FAQ)</h2>
+## Frequently Asked Questions (FAQ)
 
 ### Q1. Is it disadvantageous to reapply for an F-6 right after a denial?
 
