@@ -6,6 +6,39 @@ const SITE_NAME_KR = "비자스코리아"
 const NOTION_KEY = process.env.NOTION_API_KEY || ""
 const NOTION_DB = "34c5bd7c-ac5a-81a9-9af5-fcc768064652"
 
+const rateMap = new Map<string, { count: number; ts: number }>()
+const RATE_WINDOW_MS = 5 * 60 * 1000
+const RATE_MAX = 3
+
+function getClientIp(req: Request): string {
+  return req.headers.get("cf-connecting-ip") ||
+    req.headers.get("x-forwarded-for")?.split(",")[0].trim() ||
+    "unknown"
+}
+
+function isRateLimited(ip: string): boolean {
+  const now = Date.now()
+  const entry = rateMap.get(ip)
+  if (!entry || now - entry.ts > RATE_WINDOW_MS) {
+    rateMap.set(ip, { count: 1, ts: now })
+    return false
+  }
+  entry.count++
+  return entry.count > RATE_MAX
+}
+
+const DISPOSABLE_DOMAINS = new Set([
+  "mailinator.com","guerrillamail.com","tempmail.com","throwaway.email","10minutemail.com",
+  "yopmail.com","sharklasers.com","guerrillamailblock.com","spam4.me","trashmail.com",
+  "maildrop.cc","getairmail.com","dispostable.com","mailnull.com","spamgourmet.com",
+  "fakeinbox.com","tempr.email","discard.email","spamhereplease.com","mailnesia.com",
+])
+
+function isDisposableEmail(email: string): boolean {
+  const domain = email.split("@")[1]?.toLowerCase() || ""
+  return DISPOSABLE_DOMAINS.has(domain)
+}
+
 async function sendEmail(fields: Record<string, string>, senderName: string, senderEmail: string) {
   const appPassword = process.env.GMAIL_APP_PASSWORD
   if (!appPassword) {
@@ -84,8 +117,26 @@ async function addToCalendar(data: Record<string, string>) {
 
 export async function POST(request: Request) {
   try {
+    const ip = getClientIp(request)
+    if (isRateLimited(ip)) {
+      return NextResponse.json({ success: false, error: "Too many requests" }, { status: 429 })
+    }
+
     const body = await request.json()
+
+    if (body.website) {
+      return NextResponse.json({ success: true })
+    }
+
     const { name, email, phone, nationality, currentVisa, country, service, message } = body
+
+    if (!name?.trim() || !email?.trim() || !message?.trim()) {
+      return NextResponse.json({ success: false, error: "Missing required fields" }, { status: 400 })
+    }
+
+    if (isDisposableEmail(email)) {
+      return NextResponse.json({ success: false, error: "Invalid email" }, { status: 400 })
+    }
 
     const text = `[VisasKorea] 새 상담 문의
 
