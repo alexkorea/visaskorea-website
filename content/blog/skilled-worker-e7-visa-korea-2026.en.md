@@ -7,13 +7,13 @@ image: "/slides/documents.jpg"
 slug: "skilled-worker-e7-visa-korea-2026"
 ---
 
-# Skilled Worker E-7 Visa Korea: E-7-3 Application Guide (2026)
+## Skilled Worker E-7 Visa Korea: E-7-3 Application Guide (2026)
 
 The **E-7-3 Skilled Technical Worker visa** is a subcategory of the E-7 (Specific Activities) visa designed for foreign nationals employed in designated manufacturing, construction, and technical occupations that require mid-level technical skills. Unlike the professional E-7-1, the E-7-3 does not require a university degree — it emphasizes on-the-job skills certification and prior work experience.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#1e40af;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#categories" style="color:#2563eb;text-decoration:none">1. E-7-3 vs E-7-1 vs E-7-4</a></li><li><a href="#eligibility" style="color:#2563eb;text-decoration:none">2. Eligibility Requirements</a></li><li><a href="#occupations" style="color:#2563eb;text-decoration:none">3. Qualifying Occupations</a></li><li><a href="#documents" style="color:#2563eb;text-decoration:none">4. Required Documents</a></li><li><a href="#process" style="color:#2563eb;text-decoration:none">5. Application Process</a></li><li><a href="#salary" style="color:#2563eb;text-decoration:none">6. Salary Requirements</a></li><li><a href="#faq" style="color:#2563eb;text-decoration:none">7. FAQ</a></li></ul></nav>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#235099;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#categories" style="color:#235099;text-decoration:none">1. E-7-3 vs E-7-1 vs E-7-4</a></li><li><a href="#eligibility" style="color:#235099;text-decoration:none">2. Eligibility Requirements</a></li><li><a href="#occupations" style="color:#235099;text-decoration:none">3. Qualifying Occupations</a></li><li><a href="#documents" style="color:#235099;text-decoration:none">4. Required Documents</a></li><li><a href="#process" style="color:#235099;text-decoration:none">5. Application Process</a></li><li><a href="#salary" style="color:#235099;text-decoration:none">6. Salary Requirements</a></li><li><a href="#faq" style="color:#235099;text-decoration:none">7. FAQ</a></li></ul></nav>
 
-<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#15803d;margin-top:0">Key Points</h3><ul>
+<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#198754;margin-top:0">Key Points</h3><ul>
 <li>E-7-3: manufacturing/technical skill workers — no university degree required</li>
 <li>Minimum 5 years relevant work experience (or skills certification + 2 years)</li>
 <li>Employer must be a registered Korean business; employer quota system applies</li>
@@ -126,7 +126,7 @@ E-7-3 holders can accumulate points under the F-2-7 point-based residency system
 Not necessarily. If you are already in Korea on a valid status (e.g., C-3, D-2, D-10), you may apply for a change of status to E-7-3 without leaving. If you are outside Korea, you apply at the nearest Korean consulate.
 
 <div style="background:#eff6ff;border:1px solid #bfdbfe;padding:24px;border-radius:8px;margin:32px 0">
-<h3 style="color:#1e40af;margin-top:0">E-7-3 Skilled Worker Visa Application Support</h3>
+<h3 style="color:#235099;margin-top:0">E-7-3 Skilled Worker Visa Application Support</h3>
 <p>VISION Administrative Scrivener Office handles E-7-3 and E-7-4 skilled worker visa applications, including quota confirmation, experience certificate preparation, employer documentation, and submission. We work with both the applicant and their Korean employer throughout the process.</p>
 <a href="/en/contact" style="display:inline-block;background:#A33344;color:#fff;padding:18px 32px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px">Free Consultation →</a>
 </div>

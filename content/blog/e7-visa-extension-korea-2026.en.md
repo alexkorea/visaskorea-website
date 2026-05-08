@@ -7,13 +7,13 @@ image: "/slides/documents.jpg"
 slug: "e7-visa-extension-korea-2026"
 ---
 
-# E-7 Visa Extension Korea: Complete Renewal Guide (2026)
+## E-7 Visa Extension Korea: Complete Renewal Guide (2026)
 
 The E-7 (Specific Activities) visa must be renewed before it expires if you wish to continue working in Korea. Unlike some visa types, the E-7 extension requires your employer's active participation and a fresh review of salary, duties, and qualifications. This guide walks through exactly what you need and how to get it done.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#1e40af;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#eligibility" style="color:#2563eb;text-decoration:none">1. Who Can Extend an E-7 Visa?</a></li><li><a href="#documents" style="color:#2563eb;text-decoration:none">2. Required Documents</a></li><li><a href="#process" style="color:#2563eb;text-decoration:none">3. Application Process</a></li><li><a href="#timeline" style="color:#2563eb;text-decoration:none">4. Timeline and Fees</a></li><li><a href="#rejection" style="color:#2563eb;text-decoration:none">5. Common Rejection Reasons</a></li><li><a href="#faq" style="color:#2563eb;text-decoration:none">6. FAQ</a></li></ul></nav>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#235099;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#eligibility" style="color:#235099;text-decoration:none">1. Who Can Extend an E-7 Visa?</a></li><li><a href="#documents" style="color:#235099;text-decoration:none">2. Required Documents</a></li><li><a href="#process" style="color:#235099;text-decoration:none">3. Application Process</a></li><li><a href="#timeline" style="color:#235099;text-decoration:none">4. Timeline and Fees</a></li><li><a href="#rejection" style="color:#235099;text-decoration:none">5. Common Rejection Reasons</a></li><li><a href="#faq" style="color:#235099;text-decoration:none">6. FAQ</a></li></ul></nav>
 
-<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#15803d;margin-top:0">Key Points</h3><ul>
+<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#198754;margin-top:0">Key Points</h3><ul>
 <li>File your extension at your local immigration office at least 4 weeks before expiry</li>
 <li>Your employer must submit an updated employment contract and payroll evidence</li>
 <li>Salary must still meet the minimum for your occupation code</li>
@@ -116,7 +116,7 @@ Korean language proficiency is not a formal requirement for most E-7 occupation 
 Yes. Your extension is independent of your dependents' visa status. However, if your dependents are on F-3 dependent visas linked to your E-7, they will also need to extend their status.
 
 <div style="background:#eff6ff;border:1px solid #bfdbfe;padding:24px;border-radius:8px;margin:32px 0">
-<h3 style="color:#1e40af;margin-top:0">E-7 Visa Extension Specialist Support</h3>
+<h3 style="color:#235099;margin-top:0">E-7 Visa Extension Specialist Support</h3>
 <p>VISION Administrative Scrivener Office handles E-7 visa extensions, employer changes, and occupation code verifications. We prepare the full document package, liaise with your employer's HR department, and submit on your behalf.</p>
 <a href="/en/contact" style="display:inline-block;background:#A33344;color:#fff;padding:18px 32px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px">Free Consultation →</a>
 </div>

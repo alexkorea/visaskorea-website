@@ -7,13 +7,13 @@ image: "/slides/business.jpg"
 slug: "foreign-direct-investment-company-korea-2026"
 ---
 
-# Foreign Direct Investment Company Setup in Korea (2026)
+## Foreign Direct Investment Company Setup in Korea (2026)
 
 Setting up a **foreign-invested company (외국인투자기업)** in Korea under the **Foreign Investment Promotion Act (FIPA)** is the primary route for foreign nationals who want to establish a Korean business and obtain the D-8 corporate investment visa. This guide explains the FDI registration framework, the minimum capital requirements, the step-by-step process, and how the company structure connects to your visa status.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#1e40af;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#what" style="color:#2563eb;text-decoration:none">1. What Is FDI Registration?</a></li><li><a href="#requirements" style="color:#2563eb;text-decoration:none">2. FDI Requirements</a></li><li><a href="#process" style="color:#2563eb;text-decoration:none">3. Step-by-Step Process</a></li><li><a href="#documents" style="color:#2563eb;text-decoration:none">4. Required Documents</a></li><li><a href="#visa" style="color:#2563eb;text-decoration:none">5. D-8 Visa Connection</a></li><li><a href="#faq" style="color:#2563eb;text-decoration:none">6. FAQ</a></li></ul></nav>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#235099;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#what" style="color:#235099;text-decoration:none">1. What Is FDI Registration?</a></li><li><a href="#requirements" style="color:#235099;text-decoration:none">2. FDI Requirements</a></li><li><a href="#process" style="color:#235099;text-decoration:none">3. Step-by-Step Process</a></li><li><a href="#documents" style="color:#235099;text-decoration:none">4. Required Documents</a></li><li><a href="#visa" style="color:#235099;text-decoration:none">5. D-8 Visa Connection</a></li><li><a href="#faq" style="color:#235099;text-decoration:none">6. FAQ</a></li></ul></nav>
 
-<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#15803d;margin-top:0">Key Points</h3><ul>
+<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#198754;margin-top:0">Key Points</h3><ul>
 <li>Minimum FDI capital: KRW 100 million (approx. USD 75,000) remitted from overseas</li>
 <li>FDI registration issued by KOTRA or regional trade promotion agencies</li>
 <li>Company form: most use LLC (유한회사) or Corp (주식회사)</li>
@@ -125,7 +125,7 @@ Some FDI companies qualify for corporate income tax reductions or exemptions for
 Yes. Many small FDI companies use the LLC form because it requires fewer governance formalities. Both are valid for FDI registration and D-8 visa purposes.
 
 <div style="background:#eff6ff;border:1px solid #bfdbfe;padding:24px;border-radius:8px;margin:32px 0">
-<h3 style="color:#1e40af;margin-top:0">FDI Company Registration & D-8 Visa Specialist</h3>
+<h3 style="color:#235099;margin-top:0">FDI Company Registration & D-8 Visa Specialist</h3>
 <p>VISION Administrative Scrivener Office handles the full FDI company setup process — from FDI notification and Korean company incorporation to FDI registration and D-8 visa application. We work with your overseas attorney and Korean bank to ensure the remittance trail and document package meets immigration standards.</p>
 <a href="/en/contact" style="display:inline-block;background:#A33344;color:#fff;padding:18px 32px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px">Free Consultation →</a>
 </div>

@@ -7,13 +7,13 @@ image: "/slides/business.jpg"
 slug: "foreign-company-branch-registration-korea-2026"
 ---
 
-# Foreign Company Branch Registration in Korea: Complete Guide (2026)
+## Foreign Company Branch Registration in Korea: Complete Guide (2026)
 
 Foreign companies looking to establish a presence in Korea without setting up a separate legal entity have two main options: a **branch office (지점)** that can conduct business and generate revenue, or a **liaison office (연락사무소)** for non-commercial activities such as market research and communication. This guide explains both paths, the registration requirements, and what each structure means for visa and tax purposes.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#1e40af;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#types" style="color:#2563eb;text-decoration:none">1. Branch vs. Liaison Office</a></li><li><a href="#requirements" style="color:#2563eb;text-decoration:none">2. Registration Requirements</a></li><li><a href="#documents" style="color:#2563eb;text-decoration:none">3. Required Documents</a></li><li><a href="#process" style="color:#2563eb;text-decoration:none">4. Registration Process</a></li><li><a href="#visa" style="color:#2563eb;text-decoration:none">5. Visa for Branch Staff (D-7)</a></li><li><a href="#faq" style="color:#2563eb;text-decoration:none">6. FAQ</a></li></ul></nav>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#235099;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#types" style="color:#235099;text-decoration:none">1. Branch vs. Liaison Office</a></li><li><a href="#requirements" style="color:#235099;text-decoration:none">2. Registration Requirements</a></li><li><a href="#documents" style="color:#235099;text-decoration:none">3. Required Documents</a></li><li><a href="#process" style="color:#235099;text-decoration:none">4. Registration Process</a></li><li><a href="#visa" style="color:#235099;text-decoration:none">5. Visa for Branch Staff (D-7)</a></li><li><a href="#faq" style="color:#235099;text-decoration:none">6. FAQ</a></li></ul></nav>
 
-<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#15803d;margin-top:0">Key Points</h3><ul>
+<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#198754;margin-top:0">Key Points</h3><ul>
 <li>Branch office: can do business, earn revenue, hire staff — registered with Court Registry and NTS</li>
 <li>Liaison office: market research and support only — cannot sign contracts or earn income in Korea</li>
 <li>Dispatched employees from HQ qualify for D-7 intra-company transferee visa</li>
@@ -119,7 +119,7 @@ No. The FDI (Foreign Direct Investment) registration and the D-8 visa apply to s
 Approximately 4–8 weeks from the time you begin gathering documents abroad, depending on apostille processing times in your home country and the completeness of your submission.
 
 <div style="background:#eff6ff;border:1px solid #bfdbfe;padding:24px;border-radius:8px;margin:32px 0">
-<h3 style="color:#1e40af;margin-top:0">Foreign Branch & Liaison Office Registration Specialist</h3>
+<h3 style="color:#235099;margin-top:0">Foreign Branch & Liaison Office Registration Specialist</h3>
 <p>VISION Administrative Scrivener Office handles foreign company branch and liaison office registration in Korea from end to end — document preparation, apostille guidance, court filing, tax registration, and D-7 visa support for dispatched staff.</p>
 <a href="/en/contact" style="display:inline-block;background:#A33344;color:#fff;padding:18px 32px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px">Free Consultation →</a>
 </div>
