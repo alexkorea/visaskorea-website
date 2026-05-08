@@ -353,9 +353,8 @@ export function Header({ locale, dict }: HeaderProps) {
                     ))}
                   </div>
                 </div>
-                <Button className="mt-4 w-full gap-2" asChild>
+                <Button className="mt-4 w-full" style={{background:'#A33344',color:'#fff',borderColor:'#A33344'}} asChild>
                   <Link href={`/${locale}/contact`}>
-                    <Phone className="h-4 w-4" />
                     {dict.common.freeConsultation}
                   </Link>
                 </Button>
