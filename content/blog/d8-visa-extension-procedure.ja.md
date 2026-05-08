@@ -12,20 +12,6 @@ D-8ビザの更新は、書類の枚数を揃えれば通るというもので�
 
 実務で最も多く引っかかる部分は、**「事業はしているが数字で証明できない」**ケースです。売上はあるのに税金計算書がなく、事務所はあるのに従業員がおらず、法人口座に資金はあるのに出所の説明が弱い。更新申請は満了4ヶ月前から可能で、遅くとも2ヶ月前には書類準備に入ってこそ、補正要請が来ても対応する時間が残ります。本記事では、実際の審査で差が出るポイントを中心に更新手続き全体を整理します。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8更新審査でまず見られるポイント</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 更新申請時期と滞在期間付与基準</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 必要書類の総整理</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 申請手続き — HiKorea予約から許可まで</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 事業実績が不足している場合の対応方法</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 資金フロー・税金・4大保険で引っかかるポイント</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. よくある失敗と不許可事例</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくある質問(FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 相談案内</a></li>
-  </ul>
-</nav>
 
 ## D-8更新審査でまず見られるポイント
 
@@ -41,39 +27,39 @@ D-8は新規発給よりも更新の方が審査が厳しくなるビザです�
 
 ### 新規発給と比較した更新審査の違い
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">新規発給</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">更新(2年目以降)</th>
+      <th>区分</th>
+      <th>新規発給</th>
+      <th>更新(2年目以降)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">核心判断基準</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資資金の適法性、事業計画の妥当性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">実際の経営実績、売上・雇用の維持状況</td>
+      <td>核心判断基準</td>
+      <td>投資資金の適法性、事業計画の妥当性</td>
+      <td>実際の経営実績、売上・雇用の維持状況</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">要求書類の性格</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">予定・計画中心(事業計画書、投資証憑)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">実績中心(財務諸表、納税証明、4大保険)</td>
+      <td>要求書類の性格</td>
+      <td>予定・計画中心(事業計画書、投資証憑)</td>
+      <td>実績中心(財務諸表、納税証明、4大保険)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">滞在期間付与</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通常1年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">実績に応じて1年~2年の差異付与</td>
+      <td>滞在期間付与</td>
+      <td>通常1年</td>
+      <td>実績に応じて1年~2年の差異付与</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">審査難易度</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中程度</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高い — 数字での証明を要求</td>
+      <td>審査難易度</td>
+      <td>中程度</td>
+      <td>高い — 数字での証明を要求</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">よく引っかかるポイント</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資金出所の説明不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上なし、従業員なし、税金滞納</td>
+      <td>よく引っかかるポイント</td>
+      <td>資金出所の説明不足</td>
+      <td>売上なし、従業員なし、税金滞納</td>
     </tr>
   </tbody>
 </table>
@@ -86,42 +72,42 @@ D-8は新規発給よりも更新の方が審査が厳しくなるビザです�
 
 満了日当日までに申請できないと、不法滞在状態になります。この場合は出国後の再入国が必要で、自動出国命令の履歴が残ると再発給審査で不利に作用します。特に企業投資ビザの場合、**滞在期間超過の履歴自体が再審査で減点要素**として働きます。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 滞在期間満了日は外国人登録証ではなく、パスポートのスタンプとHiKoreaの滞在期間を基準に確認してください。出入国により期間が短縮されたケースを見落としがちです。
+<div>
+  <strong>⚠️ 注意:</strong> 滞在期間満了日は外国人登録証ではなく、パスポートのスタンプとHiKoreaの滞在期間を基準に確認してください。出入国により期間が短縮されたケースを見落としがちです。
 </div>
 
 ### 滞在期間付与基準
 
 更新時に付与される滞在期間は、事業実績と法人の安定性によって分かれます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">事業実績の水準</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">通常の付与期間</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">判断根拠</th>
+      <th>事業実績の水準</th>
+      <th>通常の付与期間</th>
+      <th>判断根拠</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上1億以上、韓国人雇用2名以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業安定性の立証</td>
+      <td>売上1億以上、韓国人雇用2名以上</td>
+      <td>2年</td>
+      <td>事業安定性の立証</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上あり、雇用あり、税金納付正常</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">基本更新条件を充足</td>
+      <td>売上あり、雇用あり、税金納付正常</td>
+      <td>1年</td>
+      <td>基本更新条件を充足</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上低調、雇用なし</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6ヶ月~1年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">短期更新後の再審査</td>
+      <td>売上低調、雇用なし</td>
+      <td>6ヶ月~1年</td>
+      <td>短期更新後の再審査</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">税金滞納、4大保険未加入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不許可の可能性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業実体の疑い</td>
+      <td>税金滞納、4大保険未加入</td>
+      <td>不許可の可能性</td>
+      <td>事業実体の疑い</td>
     </tr>
   </tbody>
 </table>
@@ -149,26 +135,26 @@ D-8更新書類は大きく**身分関係書類**、**法人関係書類**、**�
 
 ### 実績立証書類
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 実績立証チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>直近1年の法人税申告書または財務諸表</li>
-    <li>直近4四半期の付加価値税課税標準証明</li>
-    <li>納税証明書(国税・地方税)</li>
-    <li>法人口座の取引明細書(直近6ヶ月~1年)</li>
-    <li>4大保険加入者名簿(健康保険EDIの出力)</li>
-    <li>給与台帳および源泉徴収履行状況申告書</li>
-    <li>主要取引先の税金計算書コピーまたは契約書</li>
-    <li>事務所内部写真(最近撮影したもの)</li>
-  </ul>
+<div>
+  <strong>✅ 実績立証チェックリスト</strong>
+
+    直近1年の法人税申告書または財務諸表
+    直近4四半期の付加価値税課税標準証明
+    納税証明書(国税・地方税)
+    法人口座の取引明細書(直近6ヶ月~1年)
+    4大保険加入者名簿(健康保険EDIの出力)
+    給与台帳および源泉徴収履行状況申告書
+    主要取引先の税金計算書コピーまたは契約書
+    事務所内部写真(最近撮影したもの)
+
 </div>
 
 ### 書類の本当の意味
 
 見落とされがちなのは、**書類それぞれではなく書類間の連携**です。付加価値税申告の売上と法人口座への入金明細、税金計算書が互いに一致していなければなりません。給与台帳と4大保険の納付明細、源泉徴収申告が一致する必要があります。数字が食い違えば、すぐに補正要請が出ます。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のコツ:</strong> 更新申請の2~3週間前に、税理士から付加価値税課税標準証明、法人税の財務諸表、源泉徴収履行状況申告書を一括で受け取っておきましょう。この3点が「事業が実際に回っていること」を数字で証明します。
+<div>
+  <strong>💡 実務のコツ:</strong> 更新申請の2~3週間前に、税理士から付加価値税課税標準証明、法人税の財務諸表、源泉徴収履行状況申告書を一括で受け取っておきましょう。この3点が「事業が実際に回っていること」を数字で証明します。
 </div>
 
 ## 申請手続き — HiKorea予約から許可まで
@@ -177,44 +163,44 @@ D-8更新書類は大きく**身分関係書類**、**法人関係書類**、**�
 
 ### 段階別の進行フロー
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">ステップ</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">やるべきこと</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">所要期間</th>
+      <th>ステップ</th>
+      <th>やるべきこと</th>
+      <th>所要期間</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. 事前点検</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資金維持の確認、財務状態の点検、税金滞納の確認</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">満了3~4ヶ月前</td>
+      <td>1. 事前点検</td>
+      <td>投資金維持の確認、財務状態の点検、税金滞納の確認</td>
+      <td>満了3~4ヶ月前</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. 書類準備</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">税務・法人・実績書類の発給、事業実績説明書の作成</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~3週間</td>
+      <td>2. 書類準備</td>
+      <td>税務・法人・実績書類の発給、事業実績説明書の作成</td>
+      <td>2~3週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. HiKorea予約</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄出入国事務所への訪問予約(ソウル南部・水原などは1~2ヶ月待ち)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1日~2ヶ月</td>
+      <td>3. HiKorea予約</td>
+      <td>管轄出入国事務所への訪問予約(ソウル南部・水原などは1~2ヶ月待ち)</td>
+      <td>1日~2ヶ月</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. 訪問受付</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出入国への訪問、書類提出、手数料納付</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
+      <td>4. 訪問受付</td>
+      <td>出入国への訪問、書類提出、手数料納付</td>
+      <td>当日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. 審査</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">担当審査官の配属、書類検討、必要時の補正要請</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~6週間</td>
+      <td>5. 審査</td>
+      <td>担当審査官の配属、書類検討、必要時の補正要請</td>
+      <td>2~6週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6. 許可・通知</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">SMS通知、外国人登録証の滞在期間更新</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通知後すぐ</td>
+      <td>6. 許可・通知</td>
+      <td>SMS通知、外国人登録証の滞在期間更新</td>
+      <td>通知後すぐ</td>
     </tr>
   </tbody>
 </table>
@@ -227,16 +213,12 @@ D-8更新書類は大きく**身分関係書類**、**法人関係書類**、**�
 
 補正要請は通常、**審査官の意見書の形式**で届きます。「直近の売上詳細」「取引先の実在確認資料」「賃料納付証憑」といった具体的な要請が多いです。補正期限は7~14日が一般的で、期限内に提出できないと不許可処分となる可能性があります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 補正要請を受けて「何とかして辻褄を合わせよう」と虚偽資料を提出すると、出入国の調査対象になります。実績が足りないなら足りないと正直に書き、代わりに今後の計画を具体的に提出する方がはるかに良いです。
+<div>
+  <strong>⚠️ 注意:</strong> 補正要請を受けて「何とかして辻褄を合わせよう」と虚偽資料を提出すると、出入国の調査対象になります。実績が足りないなら足りないと正直に書き、代わりに今後の計画を具体的に提出する方がはるかに良いです。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 事業実績が不足している場合の対応方法
@@ -269,34 +251,34 @@ D-8更新書類は大きく**身分関係書類**、**法人関係書類**、**�
 
 ### 実績不足時の滞在期間付与予測
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">状況</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">予想される結果</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">対応戦略</th>
+      <th>状況</th>
+      <th>予想される結果</th>
+      <th>対応戦略</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上なし + 投資金・雇用維持</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6ヶ月~1年の短期更新</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業実績説明書を詳細に作成</td>
+      <td>売上なし + 投資金・雇用維持</td>
+      <td>6ヶ月~1年の短期更新</td>
+      <td>事業実績説明書を詳細に作成</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上低調 + 税金申告正常</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1年更新の可能性あり</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">今後の契約書・注文書の証憑添付</td>
+      <td>売上低調 + 税金申告正常</td>
+      <td>1年更新の可能性あり</td>
+      <td>今後の契約書・注文書の証憑添付</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上0ウォン + 雇用0名</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不許可の可能性が高い</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">更新前に実績確保を優先</td>
+      <td>売上0ウォン + 雇用0名</td>
+      <td>不許可の可能性が高い</td>
+      <td>更新前に実績確保を優先</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資金減少(1億ウォン未満)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ほぼ不許可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">追加増資後に申請</td>
+      <td>投資金減少(1億ウォン未満)</td>
+      <td>ほぼ不許可</td>
+      <td>追加増資後に申請</td>
     </tr>
   </tbody>
 </table>
@@ -317,8 +299,8 @@ D-8更新で**最も多く引っかかるのは**まさにこの3点です。事
 
 ### 税金の滞納・未申告
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 法人税・付加価値税・源泉徴収税のうち一つでも滞納状態であれば、更新はほぼ不許可となります。申請前に国税・地方税の納税証明書を発給し、滞納の有無を必ず確認してください。滞納があれば完納後に申請する必要があります。
+<div>
+  <strong>⚠️ 注意:</strong> 法人税・付加価値税・源泉徴収税のうち一つでも滞納状態であれば、更新はほぼ不許可となります。申請前に国税・地方税の納税証明書を発給し、滞納の有無を必ず確認してください。滞納があれば完納後に申請する必要があります。
 </div>
 
 ### 4大保険の加入状況
@@ -388,7 +370,6 @@ D-8の更新は、書類の枚数よりも数字間の一貫性と事業実体�
 
 **ビジョン行政士事務所(VISION Administrative Office)**
 
-- 電話: **02-363-2251**
 - メール: **5000meter@gmail.com**
 - 住所: (04614) ソウル特別市中区退渓路324、3階(ソンウビル)
 

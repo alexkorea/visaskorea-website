@@ -12,21 +12,6 @@ The F-6 marriage immigration visa isn't difficult because of the sheer number of
 
 The two blocks people most often underestimate are **proof of a genuine relationship** and **income documentation**. You can tick every box on the list, but if these two blocks are weak, the application gets flagged immediately at screening. In particular, the Korean spouse's annual income requirement (at least 70% of the prior year's median Korean household income for a two-person household) and the foreign spouse's basic Korean language ability are the first things reviewers look at — so before you start gathering documents, you need to assess whether you can meet these two requirements.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. The Full Map of F-6 Document Requirements</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Documents the Korean Spouse (Sponsor) Must Prepare</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Documents the Foreign Spouse (Applicant) Must Prepare</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Proof of a Genuine Relationship — The Block Where Most Applications Stall</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Income and Financial Requirement Documentation</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Housing Requirement Documentation</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Additional Documents That Vary by Nationality and Situation</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes and Real Denial Patterns</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. Consultation Information</a></li>
-  </ul>
-</nav>
 
 ## <a id="section-1"></a>1. The Full Map of F-6 Document Requirements
 
@@ -41,44 +26,44 @@ F-6 paperwork breaks down into **six blocks**. If you just chase a flat checklis
 5. **Housing documents** (property register extract, lease agreement, proof of cohabitation with family)
 6. **Foreign spouse's home-country documents** (certificate of no marriage / capacity to marry, criminal record, and country-specific additions)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Block</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Core Documents</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Common Sticking Points</th>
+      <th>Block</th>
+      <th>Core Documents</th>
+      <th>Common Sticking Points</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Identity & Marriage</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Passport, marriage registration certificate, family relations certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Whether both Korean and home-country marriage registrations are complete</td>
+      <td>Identity & Marriage</td>
+      <td>Passport, marriage registration certificate, family relations certificate</td>
+      <td>Whether both Korean and home-country marriage registrations are complete</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Korean Spouse's Identity</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Identity guarantee, criminal record certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Past sponsorship history, any domestic violence record</td>
+      <td>Korean Spouse's Identity</td>
+      <td>Identity guarantee, criminal record certificate</td>
+      <td>Past sponsorship history, any domestic violence record</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Relationship Evidence</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Relationship history statement, photos, messenger logs</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Whether the timeline from first meeting to marriage is unbroken</td>
+      <td>Relationship Evidence</td>
+      <td>Relationship history statement, photos, messenger logs</td>
+      <td>Whether the timeline from first meeting to marriage is unbroken</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Finances & Income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certificate of income, employment verification, bank statements</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Whether prior-year income meets the threshold</td>
+      <td>Finances & Income</td>
+      <td>Certificate of income, employment verification, bank statements</td>
+      <td>Whether prior-year income meets the threshold</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Housing</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Property register extract or lease agreement</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Square footage threshold, presence of other occupants</td>
+      <td>Housing</td>
+      <td>Property register extract or lease agreement</td>
+      <td>Square footage threshold, presence of other occupants</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign Home-Country</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certificate of no marriage, capacity-to-marry certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Apostille / consular legalization / certified translation chain</td>
+      <td>Foreign Home-Country</td>
+      <td>Certificate of no marriage, capacity-to-marry certificate</td>
+      <td>Apostille / consular legalization / certified translation chain</td>
     </tr>
   </tbody>
 </table>
@@ -87,8 +72,8 @@ F-6 paperwork breaks down into **six blocks**. If you just chase a flat checklis
 
 Before touching paperwork, the first thing to verify is **whether you meet the eligibility requirements**. You can spend a month gathering documents only to find the income is short, or that the Korean spouse has sponsored another foreign spouse within the last five years — in which case a restriction kicks in immediately. When the underlying eligibility is weak, no amount of document polish will change the outcome.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> If the Korean spouse has sponsored another foreign spouse within the past five years, re-sponsorship is restricted as a general rule. This applies even after divorce and remarriage, so before collecting any documents, confirm with the civil affairs desk at your local immigration office whether sponsorship is even permitted in your case.
+<div>
+  <strong>⚠️ Caution:</strong> If the Korean spouse has sponsored another foreign spouse within the past five years, re-sponsorship is restricted as a general rule. This applies even after divorce and remarriage, so before collecting any documents, confirm with the civil affairs desk at your local immigration office whether sponsorship is even permitted in your case.
 </div>
 
 ## <a id="section-2"></a>2. Documents the Korean Spouse (Sponsor) Must Prepare
@@ -116,49 +101,49 @@ The criminal record certificate must be issued specifically **for F-6 sponsorshi
 
 Financial documents are covered in a dedicated section below. For housing, submit a property register extract if the home is in your name, or the lease agreement plus a landlord's consent letter if you're renting.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Document</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Where to Obtain</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Validity</th>
+      <th>Document</th>
+      <th>Where to Obtain</th>
+      <th>Validity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Basic certificate (detailed)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Supreme Court Electronic Family Relations System</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Within 3 months</td>
+      <td>Basic certificate (detailed)</td>
+      <td>Supreme Court Electronic Family Relations System</td>
+      <td>Within 3 months</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Marriage registration certificate (detailed)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Supreme Court Electronic Family Relations System</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Within 3 months</td>
+      <td>Marriage registration certificate (detailed)</td>
+      <td>Supreme Court Electronic Family Relations System</td>
+      <td>Within 3 months</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Resident registration extract</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Gov24, community service center</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Within 3 months</td>
+      <td>Resident registration extract</td>
+      <td>Gov24, community service center</td>
+      <td>Within 3 months</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Criminal record certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Police station, Gov24</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Within 3 months, kept sealed</td>
+      <td>Criminal record certificate</td>
+      <td>Police station, Gov24</td>
+      <td>Within 3 months, kept sealed</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Identity guarantee</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Completed on the immigration form</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Handwritten signature required</td>
+      <td>Identity guarantee</td>
+      <td>Completed on the immigration form</td>
+      <td>Handwritten signature required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certificate of income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Hometax, tax office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Prior-year assessment</td>
+      <td>Certificate of income</td>
+      <td>Hometax, tax office</td>
+      <td>Prior-year assessment</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Tax payment certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Hometax, tax office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Within 3 months</td>
+      <td>Tax payment certificate</td>
+      <td>Hometax, tax office</td>
+      <td>Within 3 months</td>
     </tr>
   </tbody>
 </table>
@@ -189,8 +174,8 @@ Then a **notarized Korean translation** must be attached in Korea before submiss
 
 Basic Korean proficiency can be shown with TOPIK Level 1 or higher, completion of a designated training program, or a relevant degree. Exemptions — such as **nationality of a Korean-speaking country, continuous residence in Korea for more than one year, or the ability of the couple to communicate in a shared language (verified through official records)** — are accepted only on a narrow basis.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> For home-country documents, it's safest to have the Korean translation certified at a <strong>Korean translation bureau or notary's office</strong>. Many applicants bring only English translations prepared in their home country, but screening almost always demands a fresh notarized Korean translation. Preparing the translation before leaving for Korea saves you a round trip.
+<div>
+  <strong>💡 Practical Tip:</strong> For home-country documents, it's safest to have the Korean translation certified at a <strong>Korean translation bureau or notary's office</strong>. Many applicants bring only English translations prepared in their home country, but screening almost always demands a fresh notarized Korean translation. Preparing the translation before leaving for Korea saves you a round trip.
 </div>
 
 ## <a id="section-4"></a>4. Proof of a Genuine Relationship — The Block Where Most Applications Stall
@@ -217,8 +202,8 @@ For the relationship history statement, an **unbroken timeline matters more than
 
 Many applicants bring only **the last one or two weeks of messenger logs**, but what reviewers actually look for is a **natural flow spanning the full duration of the relationship**. Dumping only a single month of messages often raises suspicion rather than allaying it.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> If the couple married without ever meeting in person beforehand — communicating only via video call and messenger — the case is automatically flagged for an additional interview and field investigation. At minimum, you must be able to prove that the two of you were physically together before the marriage, using passport entry stamps and photographs.
+<div>
+  <strong>⚠️ Caution:</strong> If the couple married without ever meeting in person beforehand — communicating only via video call and messenger — the case is automatically flagged for an additional interview and field investigation. At minimum, you must be able to prove that the two of you were physically together before the marriage, using passport entry stamps and photographs.
 </div>
 
 ### Interview Questions That Most Often Reveal Inconsistencies
@@ -253,39 +238,39 @@ If income is below the threshold, you can still qualify by **substituting one of
 
 Alternative proof is evaluated **case-by-case** by the competent authority, so if you're below the income line, inquire with your local immigration office before filing.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Primary Document</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Supporting Documents</th>
+      <th>Category</th>
+      <th>Primary Document</th>
+      <th>Supporting Documents</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Salaried employee</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Withholding tax receipt for earned income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Employment verification, payroll bank statement</td>
+      <td>Salaried employee</td>
+      <td>Withholding tax receipt for earned income</td>
+      <td>Employment verification, payroll bank statement</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business owner</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certificate of income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business registration, VAT taxable-base certificate</td>
+      <td>Business owner</td>
+      <td>Certificate of income</td>
+      <td>Business registration, VAT taxable-base certificate</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Freelancer</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certificate of income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Contracts, deposit records in bank statement</td>
+      <td>Freelancer</td>
+      <td>Certificate of income</td>
+      <td>Contracts, deposit records in bank statement</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Insufficient income / supplemented</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Evidence of combined family income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Real estate register, fixed deposit balances</td>
+      <td>Insufficient income / supplemented</td>
+      <td>Evidence of combined family income</td>
+      <td>Real estate register, fixed deposit balances</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Retired / unemployed</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Most recent prior-year certificate of income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Asset evidence, proof of new employment</td>
+      <td>Retired / unemployed</td>
+      <td>Most recent prior-year certificate of income</td>
+      <td>Asset evidence, proof of new employment</td>
     </tr>
   </tbody>
 </table>
@@ -295,11 +280,7 @@ Alternative proof is evaluated **case-by-case** by the competent authority, so i
 A common question is "Isn't having a lot in the bank enough?" In practice, reviewers look at **income flow first**. If the balance suddenly swells, they'll ask you to account for the source, and weak explanations quickly tangle things up. Combined assets are only ever treated as **supplementary to income**, not as a replacement.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <a id="section-6"></a>6. Housing Requirement Documentation
@@ -317,16 +298,16 @@ The housing requirement has become stricter since 2024. You must have **actual h
 
 What actually gets evaluated is whether the **square footage per occupant** is reasonable. If the unit falls short of the minimum area standard, or if many people already live in the home and a foreign spouse is being added on top, the application can be rejected on **insufficient housing**.
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Housing Document Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Confirm whether the property is in your or your spouse's name (obtain the property register extract)</li>
-    <li>If renting, confirm the lease is currently valid (check the remaining term)</li>
-    <li>For family-owned housing, secure a handwritten cohabitation consent letter</li>
-    <li>Have three or more months of actual rent and maintenance fee transfer records</li>
-    <li>Ensure the address on your resident registration extract matches the submitted address</li>
-    <li>Verify the space can accommodate both spouses' registered residence</li>
-  </ul>
+<div>
+  <strong>✅ Housing Document Checklist</strong>
+
+    Confirm whether the property is in your or your spouse's name (obtain the property register extract)
+    If renting, confirm the lease is currently valid (check the remaining term)
+    For family-owned housing, secure a handwritten cohabitation consent letter
+    Have three or more months of actual rent and maintenance fee transfer records
+    Ensure the address on your resident registration extract matches the submitted address
+    Verify the space can accommodate both spouses' registered residence
+
 </div>
 
 ## <a id="section-7"></a>7. Additional Documents That Vary by Nationality and Situation
@@ -342,44 +323,44 @@ F-6 paperwork includes **country-specific additions**. Missing these causes imme
 - **Japan**: Family register copy (including updated old-format registers), marriage acceptance certificate
 - **US, Canada, Australia**: State/provincial marriage certificate, criminal record certificate, apostille
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Nationality</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Special Additional Documents</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Authentication Method</th>
+      <th>Nationality</th>
+      <th>Special Additional Documents</th>
+      <th>Authentication Method</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">China</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Marriage notarization, single-status notarization</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Consular legalization + certified Korean translation</td>
+      <td>China</td>
+      <td>Marriage notarization, single-status notarization</td>
+      <td>Consular legalization + certified Korean translation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Vietnam</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Marital status confirmation, criminal record</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Consular legalization + certified translation</td>
+      <td>Vietnam</td>
+      <td>Marital status confirmation, criminal record</td>
+      <td>Consular legalization + certified translation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Philippines</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">PSA marriage / no-record certificate, NBI</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Apostille + certified translation</td>
+      <td>Philippines</td>
+      <td>PSA marriage / no-record certificate, NBI</td>
+      <td>Apostille + certified translation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Thailand</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Single-status certificate, police certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Consular legalization + certified translation</td>
+      <td>Thailand</td>
+      <td>Single-status certificate, police certificate</td>
+      <td>Consular legalization + certified translation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Japan</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Family register copy, marriage acceptance certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Apostille + certified translation</td>
+      <td>Japan</td>
+      <td>Family register copy, marriage acceptance certificate</td>
+      <td>Apostille + certified translation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">USA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">State marriage/birth certificate, criminal record</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Apostille + certified translation</td>
+      <td>USA</td>
+      <td>State marriage/birth certificate, criminal record</td>
+      <td>Apostille + certified translation</td>
     </tr>
   </tbody>
 </table>
@@ -392,8 +373,8 @@ For remarriage, issues like the **six-month waiting period after divorce before 
 
 If children will accompany you, the package expands with **the child's birth certificate, the child's passport, proof of parental rights and custody, and the Korean spouse's consent to adopt or bring the child into Korea**. If the child is from a previous spouse, consent from the former spouse for the child's entry may also be required.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Country-specific document names change frequently as home-country laws are amended. China's notarization formats, in particular, have been revised multiple times in recent years, so check the Korean embassy's current guidance right before filing. Notarizations made using outdated forms have to be reissued from the home country.
+<div>
+  <strong>⚠️ Caution:</strong> Country-specific document names change frequently as home-country laws are amended. China's notarization formats, in particular, have been revised multiple times in recent years, so check the Korean embassy's current guidance right before filing. Notarizations made using outdated forms have to be reissued from the home country.
 </div>
 
 ## <a id="section-8"></a>8. Common Mistakes and Real Denial Patterns
@@ -423,28 +404,28 @@ Many applicants bring only home-country English translations, but in most cases 
 - Korean spouse has a **record of domestic violence or sexual offenses**
 - Foreign spouse has a **past record of illegal overstay in Korea**
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> If the outcome is not just a denial but a finding of <strong>suspected marriage of convenience</strong>, that same reason follows you into any future application, making re-approval much harder. A single filing shapes your next chance, so submitting a tightly prepared package on the first attempt gives you a far better position.
+<div>
+  <strong>⚠️ Caution:</strong> If the outcome is not just a denial but a finding of <strong>suspected marriage of convenience</strong>, that same reason follows you into any future application, making re-approval much harder. A single filing shapes your next chance, so submitting a tightly prepared package on the first attempt gives you a far better position.
 </div>
 
 ### Final Pre-Submission Check
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Final Pre-Submission Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Are all Korean documents issued within the past 3 months?</li>
-    <li>Is the authentication chain for home-country documents (apostille / consular legalization) fully complete?</li>
-    <li>Are notarized Korean translations attached to home-country documents?</li>
-    <li>Does the detailed marriage registration certificate clearly show your current marriage?</li>
-    <li>Is the Korean spouse's certificate of income based on the prior-year assessment?</li>
-    <li>Do the address on the housing documents and the resident registration extract match?</li>
-    <li>Are relationship photos distributed across time points (not clustered only around the wedding)?</li>
-    <li>Do messenger and call records span the entire duration of the relationship?</li>
-    <li>Is the foreign spouse's basic Korean proficiency evidence or exemption clearly established?</li>
-    <li>Is the Korean spouse's criminal record certificate still sealed?</li>
-    <li>Is there a handwritten signature on the identity guarantee?</li>
-    <li>Does the passport have at least 6 months of remaining validity?</li>
-  </ul>
+<div>
+  <strong>✅ Final Pre-Submission Checklist</strong>
+
+    Are all Korean documents issued within the past 3 months?
+    Is the authentication chain for home-country documents (apostille / consular legalization) fully complete?
+    Are notarized Korean translations attached to home-country documents?
+    Does the detailed marriage registration certificate clearly show your current marriage?
+    Is the Korean spouse's certificate of income based on the prior-year assessment?
+    Do the address on the housing documents and the resident registration extract match?
+    Are relationship photos distributed across time points (not clustered only around the wedding)?
+    Do messenger and call records span the entire duration of the relationship?
+    Is the foreign spouse's basic Korean proficiency evidence or exemption clearly established?
+    Is the Korean spouse's criminal record certificate still sealed?
+    Is there a handwritten signature on the identity guarantee?
+    Does the passport have at least 6 months of remaining validity?
+
 </div>
 
 ## <a id="section-9"></a>9. Frequently Asked Questions (FAQ)
@@ -472,7 +453,6 @@ VISION Administrative Office handles the full range of F-6 marriage immigration 
 
 **VISION Administrative Office**
 
-- Phone: 02-363-2251
 - Email: 5000meter@gmail.com
 - Address: 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614
 
@@ -485,4 +465,3 @@ Consultations can proceed with just one spouse present, and we plan the schedule
 Don't navigate complex procedures alone. Our professional consultants will guide you.
 
 **[Request Free Consultation](https://visaskorea.co.kr/en/contact)**
-

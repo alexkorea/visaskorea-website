@@ -12,21 +12,6 @@ D-8签证并非只要凑齐材料就能获批。**1亿韩元注册资本的缴�
 
 实际审查中,审查官会综合考察**投资资金的境外汇款路径、投资人的履历与资金实力、经营场所的物理实体、事业计划的盈利结构**。即使材料再多,如果这条脉络没有呈现出来,就会导致补正要求或直接拒签。以下按实际审查顺序整理拒签原因与审查要点。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8签证审查中真正关注的内容</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 导致拒签的7大核心原因</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 1亿韩元注册资本要求 - 金额不如来源说明重要</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 事业计划书中决定成败的关键</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 法人设立与外国人投资申报阶段的失误</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 办公室与经营场所的实体核查</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 拒签后的再次申请策略</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见错误</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题(FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询指南</a></li>
-  </ul>
-</nav>
 
 ## D-8签证审查中真正关注的内容
 
@@ -46,49 +31,49 @@ D-8是面向外国人投资企业的经营、管理、生产技术人员发放�
 
 现场审查时,审查官并不会从上到下一页页翻阅材料。而是按照外国人投资申报书→汇款凭证→法人登记簿→租赁合同→事业计划书→申请人履历的顺序,**交叉核查资金流向与事业实体**。如果这个顺序无法自然衔接,就会被判定为说明不足。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务小贴士:</strong> 不要仅仅按受理顺序整理材料,而应按照"这笔钱从哪里来、用在了哪里、做什么事业"能一句话概括的方式来组织。只有这一句话清晰呈现,审查官才会认可整套材料。
+<div>
+  <strong>💡 实务小贴士:</strong> 不要仅仅按受理顺序整理材料,而应按照"这笔钱从哪里来、用在了哪里、做什么事业"能一句话概括的方式来组织。只有这一句话清晰呈现,审查官才会认可整套材料。
 </div>
 
 ## 导致拒签的7大核心原因
 
 拒签通知书上通常会使用"投资真实性不足"、"事业实体不充分"等表述。这些表述背后实际存在的情形整理如下。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">拒签原因</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">实际出现的问题</th>
+      <th>拒签原因</th>
+      <th>实际出现的问题</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资金来源不明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">境外汇款记录突然出现,此前无相关资金往来历史</td>
+      <td>投资金来源不明</td>
+      <td>境外汇款记录突然出现,此前无相关资金往来历史</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">资金实际缴纳无法确认</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">虽有FDI申报,但注册资本账户无余额或已被支取</td>
+      <td>资金实际缴纳无法确认</td>
+      <td>虽有FDI申报,但注册资本账户无余额或已被支取</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">经营场所实体不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">只有共享办公室地址,无办公设备和人员</td>
+      <td>经营场所实体不足</td>
+      <td>只有共享办公室地址,无办公设备和人员</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事业计划书缺乏可行性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营收预期与注册资本规模不匹配,或完全没有行业经验</td>
+      <td>事业计划书缺乏可行性</td>
+      <td>营收预期与注册资本规模不匹配,或完全没有行业经验</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">申请人资格不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">非投资人的普通员工申请D-8,或申请人没有经营实权</td>
+      <td>申请人资格不足</td>
+      <td>非投资人的普通员工申请D-8,或申请人没有经营实权</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">涉嫌借名</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">实际由韩国人运营,外国人仅在登记簿上挂名</td>
+      <td>涉嫌借名</td>
+      <td>实际由韩国人运营,外国人仅在登记簿上挂名</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">以往居留记录问题</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">存在过往非法滞留、虚假邀请等违反居留秩序的记录</td>
+      <td>以往居留记录问题</td>
+      <td>存在过往非法滞留、虚假邀请等违反居留秩序的记录</td>
     </tr>
   </tbody>
 </table>
@@ -97,8 +82,8 @@ D-8是面向外国人投资企业的经营、管理、生产技术人员发放�
 
 实务中最频繁见到的拒签原因是**投资金来源不明**和**经营场所实体不足**。这两种情况并非材料本身有错,而是说明不够有力,导致审查官无法建立确信。反过来说,只要把这两点准备好,其余部分一般不会成为大问题。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 即使拒签理由写的是"事业实体不充分",实际内部原因也可能是涉嫌借名。这可能是需要重新审视整体结构而非单纯补正的信号。
+<div>
+  <strong>⚠️ 注意:</strong> 即使拒签理由写的是"事业实体不充分",实际内部原因也可能是涉嫌借名。这可能是需要重新审视整体结构而非单纯补正的信号。
 </div>
 
 ## 1亿韩元注册资本要求 - 金额不如来源说明重要
@@ -115,29 +100,29 @@ D-8签证以外国人投资促进法规定的**1亿韩元以上外国人直接�
 
 ### 资金流向情形对比
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">情形</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">审查判断</th>
+      <th>情形</th>
+      <th>审查判断</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">从本人海外账户直接汇款 + 1年以上余额记录</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无需额外说明即可顺利通过</td>
+      <td>从本人海外账户直接汇款 + 1年以上余额记录</td>
+      <td>无需额外说明即可顺利通过</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">经亲属账户中转汇款</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">需补充赠与合同、亲属关系证明等</td>
+      <td>经亲属账户中转汇款</td>
+      <td>需补充赠与合同、亲属关系证明等</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">汇款前夕突然有大额资金入账</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">要求说明资金来源,未提交可能被拒</td>
+      <td>汇款前夕突然有大额资金入账</td>
+      <td>要求说明资金来源,未提交可能被拒</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">现金携带入境后存入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">必须有海关申报记录,否则判定来源不明</td>
+      <td>现金携带入境后存入</td>
+      <td>必须有海关申报记录,否则判定来源不明</td>
     </tr>
   </tbody>
 </table>
@@ -160,25 +145,25 @@ D-8签证以外国人投资促进法规定的**1亿韩元以上外国人直接�
 
 ### 容易忽略的部分
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 事业计划书检查清单</strong>
-  <ul style="margin-top:12px">
-    <li>行业选择理由与本人履历之间的关联逻辑阐述</li>
-    <li>1亿韩元注册资本的具体使用项目(租金、设备、库存、人工成本等)</li>
-    <li>第一年、第二年的预期营收及依据</li>
-    <li>主要客户、供应链、销售渠道的实际接触记录</li>
-    <li>竞争对手分析及差异化</li>
-    <li>选址韩国国内经营场所的理由</li>
-    <li>雇佣计划及人工成本的计算依据</li>
-  </ul>
+<div>
+  <strong>✅ 事业计划书检查清单</strong>
+
+    行业选择理由与本人履历之间的关联逻辑阐述
+    1亿韩元注册资本的具体使用项目(租金、设备、库存、人工成本等)
+    第一年、第二年的预期营收及依据
+    主要客户、供应链、销售渠道的实际接触记录
+    竞争对手分析及差异化
+    选址韩国国内经营场所的理由
+    雇佣计划及人工成本的计算依据
+
 </div>
 
 ### 不同行业需要有不同写法
 
 贸易/批发零售、餐饮、IT服务、制造业的审查重点各不相同。贸易业如果客户合同、订购意向书薄弱,会立即被认定说明不足。餐饮业的核心是位置、菜单、厨房设备报价。IT服务必须呈现开发人员招募计划和技术说明。**无视行业特性的通用型事业计划书大多会被要求补正**。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 直接套用网上流传的事业计划书模板,会与其他申请人的语句雷同。审查官经常见到相同模板。一旦被怀疑是复制粘贴,这本身就会成为扣分因素。
+<div>
+  <strong>⚠️ 注意:</strong> 直接套用网上流传的事业计划书模板,会与其他申请人的语句雷同。审查官经常见到相同模板。一旦被怀疑是复制粘贴,这本身就会成为扣分因素。
 </div>
 
 ## 法人设立与外国人投资申报阶段的失误
@@ -187,39 +172,39 @@ D-8的办理顺序为:法人设立→外国人投资申报(FDI)→注册资本�
 
 ### 各阶段常见失误
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">阶段</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">常见失误</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">结果</th>
+      <th>阶段</th>
+      <th>常见失误</th>
+      <th>结果</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">先汇款,后补办FDI申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能无法认定为外国人投资</td>
+      <td>外国人投资申报</td>
+      <td>先汇款,后补办FDI申报</td>
+      <td>可能无法认定为外国人投资</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">注册资本汇款</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申报金额与汇款金额不一致</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资企业登记延迟</td>
+      <td>注册资本汇款</td>
+      <td>申报金额与汇款金额不一致</td>
+      <td>外国人投资企业登记延迟</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">将韩国人登记为代表理事</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人的经营实体难以认定</td>
+      <td>法人登记</td>
+      <td>将韩国人登记为代表理事</td>
+      <td>外国人的经营实体难以认定</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业执照登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">行业代码与事业计划不符</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">须按行业要求重新审查</td>
+      <td>营业执照登记</td>
+      <td>行业代码与事业计划不符</td>
+      <td>须按行业要求重新审查</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投资企业登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">签证申请时未备齐登记证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">受理退回</td>
+      <td>外国人投资企业登记</td>
+      <td>签证申请时未备齐登记证</td>
+      <td>受理退回</td>
     </tr>
   </tbody>
 </table>
@@ -239,11 +224,7 @@ D-8的办理顺序为:法人设立→外国人投资申报(FDI)→注册资本�
 相反,如果从注册资本账户回汇至个人账户,或有用途不明的大额资金流出,就会被怀疑为虚假缴纳。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 办公室与经营场所的实体核查
@@ -254,34 +235,34 @@ D-8审查中现场核查并非惯例,但一旦产生疑虑,出入境人员会实
 
 最近仅凭共享办公室地址作为经营场所凭证的案例很多,出入境厅会区分**共享办公室仅是地址挂靠还是真正有办公空间**。根据行业不同,有些情况下共享办公室根本无法说明事业实体。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">行业</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">共享办公室接受度</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">需补强项</th>
+      <th>行业</th>
+      <th>共享办公室接受度</th>
+      <th>需补强项</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">IT/咨询/小规模贸易</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">相对接受</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">专用办公间、常驻办公凭证</td>
+      <td>IT/咨询/小规模贸易</td>
+      <td>相对接受</td>
+      <td>专用办公间、常驻办公凭证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">批发零售/库存型业务</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">较低</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">需另租仓库、门店</td>
+      <td>批发零售/库存型业务</td>
+      <td>较低</td>
+      <td>需另租仓库、门店</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">餐饮/服务业</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不予认定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">实际营业场所租赁及许可</td>
+      <td>餐饮/服务业</td>
+      <td>不予认定</td>
+      <td>实际营业场所租赁及许可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">制造业</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不予认定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">工厂及生产设备核查</td>
+      <td>制造业</td>
+      <td>不予认定</td>
+      <td>工厂及生产设备核查</td>
     </tr>
   </tbody>
 </table>
@@ -305,33 +286,33 @@ D-8一旦被拒,后续申请中以往的记录会被累计反映。以相同的�
 
 ### 按拒签原因分别应对
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">拒签原因</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">再次申请前的措施</th>
+      <th>拒签原因</th>
+      <th>再次申请前的措施</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资金来源不明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">取得来源凭证、重建资金流向、必要时对赠与合同公证</td>
+      <td>投资金来源不明</td>
+      <td>取得来源凭证、重建资金流向、必要时对赠与合同公证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事业实体不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">转为实体办公室、配齐办公设备、取得初期交易业绩后再申请</td>
+      <td>事业实体不足</td>
+      <td>转为实体办公室、配齐办公设备、取得初期交易业绩后再申请</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事业计划书薄弱</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">根据行业特点全面重写,补强客户接触证据</td>
+      <td>事业计划书薄弱</td>
+      <td>根据行业特点全面重写,补强客户接触证据</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">涉嫌借名</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">重新设计整体结构(转为实际由外国人经营的架构)</td>
+      <td>涉嫌借名</td>
+      <td>重新设计整体结构(转为实际由外国人经营的架构)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">违反居留秩序记录</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出境后经过一定时间、补强情况说明书</td>
+      <td>违反居留秩序记录</td>
+      <td>出境后经过一定时间、补强情况说明书</td>
     </tr>
   </tbody>
 </table>
@@ -340,8 +321,8 @@ D-8一旦被拒,后续申请中以往的记录会被累计反映。以相同的�
 
 拒签后立即再次申请只适用于单纯的材料遗漏。因实体问题被拒的情况,**最好积累3~6个月以上的事业运营业绩之后再提交**。销售税票、交易明细、员工四大保险加入记录累积越多,说明就越有力。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务小贴士:</strong> 再次申请时必须在情况说明书中具体写明"发生了哪些变化"。如果仅仅重新提交材料,此前的拒签理由会自动延续。请以书面形式体现办公室变更、已有交易业绩、追加确认了资金来源等变更点。
+<div>
+  <strong>💡 实务小贴士:</strong> 再次申请时必须在情况说明书中具体写明"发生了哪些变化"。如果仅仅重新提交材料,此前的拒签理由会自动延续。请以书面形式体现办公室变更、已有交易业绩、追加确认了资金来源等变更点。
 </div>
 
 ## 常见错误
@@ -402,13 +383,12 @@ A. 因单纯材料遗漏而被拒的情况下,补正后可立即再次申请。�
 
 D-8签证**资金流向设计与事业实体构建**比材料准备更优先。如果在这个结构薄弱的状态下提交,补正和拒签会反复发生,时间与成本投入只会更大。Vision行政士事务所基于实际审查脉络,提供D-8新申请、拒签后再申请、事业计划书审核、外国人投资申报、法人设立、居留资格变更等一整套支持。
 
-<div style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">Vision行政士事务所 (VISION Administrative Office)
-  <ul style="list-style:none;padding-left:0;margin:0">
-    <li><strong>电话:</strong> 02-363-2251</li>
-    <li><strong>邮箱:</strong> 5000meter@gmail.com</li>
-    <li><strong>地址:</strong> (04614) 首尔特别市中区退溪路324号3层(成宇大厦)</li>
-  </ul>
+<div>
+### Vision行政士事务所 (VISION Administrative Office)
+
+    <strong>邮箱:</strong> 5000meter@gmail.com
+    <strong>地址:</strong> (04614) 首尔特别市中区退溪路324号3层(成宇大厦)
+
 </div>
 
 如果已收到D-8拒签通知书,或希望在申请前检查整体结构,请整理好现有材料和自身情况后联系我们。法令、公告的具体细节存在变动可能性,需向所辖出入境·外国人厅确认。

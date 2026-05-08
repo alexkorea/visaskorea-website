@@ -12,20 +12,6 @@ E-7特定活动签证的**85个职种**大致分为三大类。**E-7-1 专业人
 
 最常卡住的地方是职种选择本身。公司叫"开发者"，但审查官是按照KSCO职业分类表的标准来看的。关键在于此：必须从**业务内容 → KSCO职种代码 → E-7细分代码**反推匹配，学历与经历要超过该职种的要件，受理才不会卡壳。下面按分类梳理85个职种，并指出实际申请实务中最容易卡住的点。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7签证85个职种结构一览</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. E-7-1专业人才67个职种分类</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-7-2准专业人才9个职种</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. E-7-3一般技能人才9个职种</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 各职种学历、经历、年薪要件对比</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 申请流程与所需材料</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 常见错误与拒签理由</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见问题(FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 咨询信息</a></li>
-  </ul>
-</nav>
 
 ## E-7签证85个职种结构一览
 
@@ -41,8 +27,8 @@ E-7是赋予"外国人根据与大韩民国内公共或私营机构等签订的�
 
 85这个数字是三条通道的总和。67 + 9 + 9 = 85。此外还有**E-7-4 熟练技能人才（积分制）**、**E-7-S 负面清单方式优秀人才（尖端领域）**等独立通道，这些与职种清单分开运营。本文以传统的"85个职种"组合为基准展开。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示：</strong>说明本人业务时不要笼统地写"IT开发"，而应先通过<strong>KSCO职业分类代码</strong>确认，然后再匹配E-7细分代码（例如：S140计算机系统设计、分析师），这是实际受理中最顺畅的做法。
+<div>
+  <strong>💡 实务提示：</strong>说明本人业务时不要笼统地写"IT开发"，而应先通过<strong>KSCO职业分类代码</strong>确认，然后再匹配E-7细分代码（例如：S140计算机系统设计、分析师），这是实际受理中最顺畅的做法。
 </div>
 
 ## E-7-1专业人才67个职种分类
@@ -51,54 +37,54 @@ E-7-1是85个职种中最大的一组。67个职种被划分为8个大类。进�
 
 ### 大类构成
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">大类</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">代表职种</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">职种数</th>
+      <th>大类</th>
+      <th>代表职种</th>
+      <th>职种数</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">管理者</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">经营高管、战略管理、人事劳务管理、生产管理、海外营销管理等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">12个</td>
+      <td>管理者</td>
+      <td>经营高管、战略管理、人事劳务管理、生产管理、海外营销管理等</td>
+      <td>12个</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">科学、工程专家</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">生命科学研究员、自然科学研究员、社会科学研究员、机械工程师、电气工程师等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">14个</td>
+      <td>科学、工程专家</td>
+      <td>生命科学研究员、自然科学研究员、社会科学研究员、机械工程师、电气工程师等</td>
+      <td>14个</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">信息通信专家</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">计算机系统设计与分析师、系统软件开发者、应用软件开发者、网络专家、数据库管理员等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">8个</td>
+      <td>信息通信专家</td>
+      <td>计算机系统设计与分析师、系统软件开发者、应用软件开发者、网络专家、数据库管理员等</td>
+      <td>8个</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">保健、医疗专家</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">专科医师、牙科医师、中医师、兽医师、药剂师等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">5个</td>
+      <td>保健、医疗专家</td>
+      <td>专科医师、牙科医师、中医师、兽医师、药剂师等</td>
+      <td>5个</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">教育专家</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大学讲师、海外技术专门学校教师、特殊学校教师等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3个</td>
+      <td>教育专家</td>
+      <td>大学讲师、海外技术专门学校教师、特殊学校教师等</td>
+      <td>3个</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法律、经营、金融专家</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">律师、会计师、税务师、经营顾问、金融保险专家、投资专家等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">12个</td>
+      <td>法律、经营、金融专家</td>
+      <td>律师、会计师、税务师、经营顾问、金融保险专家、投资专家等</td>
+      <td>12个</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">文化、艺术、广播专家</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">作家、翻译家、设计师、影像剪辑师、播音员、演艺经纪公司从业者等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">7个</td>
+      <td>文化、艺术、广播专家</td>
+      <td>作家、翻译家、设计师、影像剪辑师、播音员、演艺经纪公司从业者等</td>
+      <td>7个</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">其他专业职</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海外舰艇修理技术员、特殊机械安装与维修技术员等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6个</td>
+      <td>其他专业职</td>
+      <td>海外舰艇修理技术员、特殊机械安装与维修技术员等</td>
+      <td>6个</td>
     </tr>
   </tbody>
 </table>
@@ -119,24 +105,24 @@ E-7-2是将专业性相对较低，但在特定产业中外国人需求明确的
 
 ### 9个职种完整清单
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">代码</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">职种名</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">主要业务</th>
+      <th>代码</th>
+      <th>职种名</th>
+      <th>主要业务</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S510</td><td style="border:1px solid #e5e7eb;padding:10px">免税店销售员</td><td style="border:1px solid #e5e7eb;padding:10px">面向外国客户的免税品销售与引导</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S520</td><td style="border:1px solid #e5e7eb;padding:10px">航空运输事务员</td><td style="border:1px solid #e5e7eb;padding:10px">机场值机、出票等</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S530</td><td style="border:1px solid #e5e7eb;padding:10px">酒店前台事务员</td><td style="border:1px solid #e5e7eb;padding:10px">外国客户客房预订与入住接待</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S540</td><td style="border:1px solid #e5e7eb;padding:10px">医疗协调员</td><td style="border:1px solid #e5e7eb;padding:10px">外国患者招揽、翻译与诊疗引导</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S550</td><td style="border:1px solid #e5e7eb;padding:10px">客户咨询事务员</td><td style="border:1px solid #e5e7eb;padding:10px">外语呼叫中心咨询</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S560</td><td style="border:1px solid #e5e7eb;padding:10px">技术经营专家</td><td style="border:1px solid #e5e7eb;padding:10px">技术型企业的特殊营销与管理</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S570</td><td style="border:1px solid #e5e7eb;padding:10px">观光翻译导游</td><td style="border:1px solid #e5e7eb;padding:10px">观光导游（需国家认证资格）</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S580</td><td style="border:1px solid #e5e7eb;padding:10px">赌场荷官</td><td style="border:1px solid #e5e7eb;padding:10px">外国人专用赌场现场运营</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S590</td><td style="border:1px solid #e5e7eb;padding:10px">主厨、厨师</td><td style="border:1px solid #e5e7eb;padding:10px">本国传统料理烹饪（5年以上经历）</td></tr>
+    <tr><td>S510</td><td>免税店销售员</td><td>面向外国客户的免税品销售与引导</td></tr>
+    <tr><td>S520</td><td>航空运输事务员</td><td>机场值机、出票等</td></tr>
+    <tr><td>S530</td><td>酒店前台事务员</td><td>外国客户客房预订与入住接待</td></tr>
+    <tr><td>S540</td><td>医疗协调员</td><td>外国患者招揽、翻译与诊疗引导</td></tr>
+    <tr><td>S550</td><td>客户咨询事务员</td><td>外语呼叫中心咨询</td></tr>
+    <tr><td>S560</td><td>技术经营专家</td><td>技术型企业的特殊营销与管理</td></tr>
+    <tr><td>S570</td><td>观光翻译导游</td><td>观光导游（需国家认证资格）</td></tr>
+    <tr><td>S580</td><td>赌场荷官</td><td>外国人专用赌场现场运营</td></tr>
+    <tr><td>S590</td><td>主厨、厨师</td><td>本国传统料理烹饪（5年以上经历）</td></tr>
   </tbody>
 </table>
 
@@ -144,8 +130,8 @@ E-7-2是将专业性相对较低，但在特定产业中外国人需求明确的
 
 实务中，**S590主厨、厨师**最为棘手。需要以书面材料证明5年以上本国料理从业经历，但本国小型餐厅的在职证明往往需要公证、附加认证（Apostille）才能被认可。不是光经历足够就行，还需要对**餐厅规模、菜单构成、本人在厨房中的角色**逐一说明。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>S570观光翻译导游必须持有韩国观光公社颁发的<strong>观光翻译导游资格证</strong>。没有资格证仅以导游业务申请E-7-2，会在材料阶段直接被驳回。
+<div>
+  <strong>⚠️ 注意：</strong>S570观光翻译导游必须持有韩国观光公社颁发的<strong>观光翻译导游资格证</strong>。没有资格证仅以导游业务申请E-7-2，会在材料阶段直接被驳回。
 </div>
 
 ## E-7-3一般技能人才9个职种
@@ -154,24 +140,24 @@ E-7-3是现场熟练技能工种。比起学位，**实际技术经历**与**技
 
 ### 9个职种完整清单
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">代码</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">职种名</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">核心要件</th>
+      <th>代码</th>
+      <th>职种名</th>
+      <th>核心要件</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S610</td><td style="border:1px solid #e5e7eb;padding:10px">动物饲养员</td><td style="border:1px solid #e5e7eb;padding:10px">畜牧、水产相关学历或5年经历</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S620</td><td style="border:1px solid #e5e7eb;padding:10px">养殖技术员</td><td style="border:1px solid #e5e7eb;padding:10px">水产养殖相关经历、资格</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S630</td><td style="border:1px solid #e5e7eb;padding:10px">清真屠宰员</td><td style="border:1px solid #e5e7eb;padding:10px">伊斯兰国家国籍 + 屠宰经历</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S640</td><td style="border:1px solid #e5e7eb;padding:10px">乐器制造、维修员</td><td style="border:1px solid #e5e7eb;padding:10px">传统乐器、西洋乐器制作经历</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S650</td><td style="border:1px solid #e5e7eb;padding:10px">船舶焊工</td><td style="border:1px solid #e5e7eb;padding:10px">焊接技能资格 + 确定造船厂就业</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S660</td><td style="border:1px solid #e5e7eb;padding:10px">涂装工</td><td style="border:1px solid #e5e7eb;padding:10px">涂装技能经历</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S670</td><td style="border:1px solid #e5e7eb;padding:10px">飞机维修员</td><td style="border:1px solid #e5e7eb;padding:10px">航空维修士资格 + 国土部告示要件</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S680</td><td style="border:1px solid #e5e7eb;padding:10px">铝合金铸造员</td><td style="border:1px solid #e5e7eb;padding:10px">铸造经历</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S690</td><td style="border:1px solid #e5e7eb;padding:10px">根基产业熟练技能工</td><td style="border:1px solid #e5e7eb;padding:10px">铸造、模具、塑性加工、焊接、表面处理、热处理领域经历</td></tr>
+    <tr><td>S610</td><td>动物饲养员</td><td>畜牧、水产相关学历或5年经历</td></tr>
+    <tr><td>S620</td><td>养殖技术员</td><td>水产养殖相关经历、资格</td></tr>
+    <tr><td>S630</td><td>清真屠宰员</td><td>伊斯兰国家国籍 + 屠宰经历</td></tr>
+    <tr><td>S640</td><td>乐器制造、维修员</td><td>传统乐器、西洋乐器制作经历</td></tr>
+    <tr><td>S650</td><td>船舶焊工</td><td>焊接技能资格 + 确定造船厂就业</td></tr>
+    <tr><td>S660</td><td>涂装工</td><td>涂装技能经历</td></tr>
+    <tr><td>S670</td><td>飞机维修员</td><td>航空维修士资格 + 国土部告示要件</td></tr>
+    <tr><td>S680</td><td>铝合金铸造员</td><td>铸造经历</td></tr>
+    <tr><td>S690</td><td>根基产业熟练技能工</td><td>铸造、模具、塑性加工、焊接、表面处理、热处理领域经历</td></tr>
   </tbody>
 </table>
 
@@ -186,56 +172,52 @@ S650船舶焊工近几年发放量增长迅速。与造船厂所在地区（蔚�
 - 企业仅能在外国人雇用许可人数限额内发出邀请
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Two blue Ukrainian passports placed on a white surface, close-up view." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Two blue Ukrainian passports placed on a white surface, close-up view.](https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 各职种学历、经历、年薪要件对比
 
 三条通道的要件差异，从这张表中一目了然。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">分类</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">E-7-1 专业人才</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">E-7-2 准专业人才</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">E-7-3 一般技能人才</th>
+      <th>分类</th>
+      <th>E-7-1 专业人才</th>
+      <th>E-7-2 准专业人才</th>
+      <th>E-7-3 一般技能人才</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">基本学历</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">学士以上 + 1年经历，或硕士以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">专科以上或相关经历</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">技能资格或长期经历</td>
+      <td>基本学历</td>
+      <td>学士以上 + 1年经历，或硕士以上</td>
+      <td>专科以上或相关经历</td>
+      <td>技能资格或长期经历</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">经历可替代期限</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">学位不对口时需5年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">各职种2~5年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">各职种3~5年</td>
+      <td>经历可替代期限</td>
+      <td>学位不对口时需5年以上</td>
+      <td>各职种2~5年</td>
+      <td>各职种3~5年</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低年薪标准</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">上年度GNI的80%以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">上年度GNI的80%以上（部分职种例外）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">同岗位韩国员工平均的80%以上</td>
+      <td>最低年薪标准</td>
+      <td>上年度GNI的80%以上</td>
+      <td>上年度GNI的80%以上（部分职种例外）</td>
+      <td>同岗位韩国员工平均的80%以上</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">企业要件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业额、本国员工用工人数标准</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">各职种特有要件（酒店星级、外国客户占比等）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">行业、配额限制</td>
+      <td>企业要件</td>
+      <td>营业额、本国员工用工人数标准</td>
+      <td>各职种特有要件（酒店星级、外国客户占比等）</td>
+      <td>行业、配额限制</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">用工比例限制</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本国员工每5人对1名外国人（原则）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">因职种而异</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按职种适用配额</td>
+      <td>用工比例限制</td>
+      <td>本国员工每5人对1名外国人（原则）</td>
+      <td>因职种而异</td>
+      <td>按职种适用配额</td>
     </tr>
   </tbody>
 </table>
@@ -257,66 +239,66 @@ S650船舶焊工近几年发放量增长迅速。与造船厂所在地区（蔚�
 
 ### 申请流程步骤表
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">步骤</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">办理机关</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">所需时间</th>
+      <th>步骤</th>
+      <th>内容</th>
+      <th>办理机关</th>
+      <th>所需时间</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. 职种匹配</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">业务内容与KSCO、E-7代码匹配</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事前审查</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2周</td>
+      <td>1. 职种匹配</td>
+      <td>业务内容与KSCO、E-7代码匹配</td>
+      <td>事前审查</td>
+      <td>1~2周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. 签证发放认定书申请</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">雇主向辖区出入境厅提交</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辖区出入境、外国人厅</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4周</td>
+      <td>2. 签证发放认定书申请</td>
+      <td>雇主向辖区出入境厅提交</td>
+      <td>辖区出入境、外国人厅</td>
+      <td>2~4周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. 签证申请</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">在本国韩国大使馆领取签证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">驻外使领馆</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3~10日</td>
+      <td>3. 签证申请</td>
+      <td>在本国韩国大使馆领取签证</td>
+      <td>驻外使领馆</td>
+      <td>3~10日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. 入境</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">入境韩国及滞留资格确认</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">机场出入境</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
+      <td>4. 入境</td>
+      <td>入境韩国及滞留资格确认</td>
+      <td>机场出入境</td>
+      <td>当日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. 外国人登录</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">入境90日内前往辖区出入境厅</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辖区出入境、外国人厅</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">到访当日受理</td>
+      <td>5. 外国人登录</td>
+      <td>入境90日内前往辖区出入境厅</td>
+      <td>辖区出入境、外国人厅</td>
+      <td>到访当日受理</td>
     </tr>
   </tbody>
 </table>
 
 ### 通用提交材料
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ E-7签证发放认定书通用清单</strong>
-  <ul style="margin-top:12px">
-    <li>签证发放认定申请书（指定表格）</li>
-    <li>护照复印件及护照照片</li>
-    <li>雇用合同或拟任用确认书</li>
-    <li>学位证及成绩证明书（附加认证或领事认证）</li>
-    <li>经历证明书（注明在职期间、职位、负责业务）</li>
-    <li>资格证复印件（职种必需时）</li>
-    <li>雇主营业执照复印件</li>
-    <li>法人登记簿誊本、纳税证明书</li>
-    <li>本国员工用工现状证明材料（雇用保险参保人名册等）</li>
-    <li>财务报表或营业额证明资料</li>
-    <li>职务说明书（Job Description）— <strong>业务与职种代码一致性说明是核心</strong></li>
-  </ul>
+<div>
+  <strong>✅ E-7签证发放认定书通用清单</strong>
+
+    签证发放认定申请书（指定表格）
+    护照复印件及护照照片
+    雇用合同或拟任用确认书
+    学位证及成绩证明书（附加认证或领事认证）
+    经历证明书（注明在职期间、职位、负责业务）
+    资格证复印件（职种必需时）
+    雇主营业执照复印件
+    法人登记簿誊本、纳税证明书
+    本国员工用工现状证明材料（雇用保险参保人名册等）
+    财务报表或营业额证明资料
+    职务说明书（Job Description）— <strong>业务与职种代码一致性说明是核心</strong>
+
 </div>
 
 ### 各职种补充材料示例
@@ -327,8 +309,8 @@ S650船舶焊工近几年发放量增长迅速。与造船厂所在地区（蔚�
 - **船舶焊工（S650）**：焊接资格证 + 造船厂拟分配确认书 + 住宿计划
 - **观光翻译导游（S570）**：观光翻译导游资格证
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>海外出具的材料大多需要<strong>附加认证（Apostille）或驻外使领馆领事认证</strong>。只附翻译件而遗漏原件认证的话，连受理都无法完成。尤其中国、越南出具的材料，建议从公证阶段就另行妥善办理。
+<div>
+  <strong>⚠️ 注意：</strong>海外出具的材料大多需要<strong>附加认证（Apostille）或驻外使领馆领事认证</strong>。只附翻译件而遗漏原件认证的话，连受理都无法完成。尤其中国、越南出具的材料，建议从公证阶段就另行妥善办理。
 </div>
 
 ## 常见错误与拒签理由
@@ -355,8 +337,8 @@ E-7不只是看"人"，还看"公司"。**营业额不足1亿韩元**、**本国
 
 专业与职务不一致时，**5年以上经历**是强制要求，若经历仅3~4年，便会直接卡住。补学位用额外资格证、结业证也是一种方式，但根本仍是要补足经历年限。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>过去以E-9（非专业就业）入境，现想转换为E-7的情况下，另设有<strong>熟练技能人才积分制（E-7-4）</strong>通道。若直接用一般E-7-1~3代码申请将无法受理。需要先确认自身情况是否属于积分制对象。
+<div>
+  <strong>⚠️ 注意：</strong>过去以E-9（非专业就业）入境，现想转换为E-7的情况下，另设有<strong>熟练技能人才积分制（E-7-4）</strong>通道。若直接用一般E-7-1~3代码申请将无法受理。需要先确认自身情况是否属于积分制对象。
 </div>
 
 ### 被拒后能再申请吗？
@@ -391,7 +373,6 @@ E-7根据85个职种中归入哪一项，要件和材料构成会完全不同。
 
 **Vision行政士事务所（VISION Administrative Office）**
 
-- 电话：**02-363-2251**
 - 邮箱：**5000meter@gmail.com**
 - 地址：**(04614) 首尔特别市中区退溪路324号，3层（成友大厦）**
 

@@ -104,7 +104,6 @@ Without a strong explanation here, the application is usually denied.
 
 > **Practical Tip:** The smaller the company's revenue, the more strictly proof of salary source and ability to pay will be scrutinized.
 
-Apply for a free consultation now → 02-363-2251 / KakaoTalk: alexkorea
 Exact fees and procedures will be explained during the free consultation.
 
 
@@ -229,7 +228,6 @@ In practice, the occupation classification and countable items should be verifie
 The VISION Administrative Office handles E-7 visa issuance, extension, and change of status directly.
 The exact salary standard and supporting documents for your situation will be explained through a free consultation.
 
-- **Phone:** 02-363-2251
 - **Email:** 5000meter@gmail.com
 - **KakaoTalk:** alexkorea
 - **Address:** 3F Sungwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614

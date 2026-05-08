@@ -12,21 +12,6 @@ When it comes to the E-7 visa, the single criterion that most often determines a
 
 Here's the crux: clearing the number on paper isn't the end of the story. Reviewers also scrutinize how the salary is actually paid, which allowances are included, and whether the wage level is reasonable against the company's revenue. No matter how thick your document pile is, weak explanations on these points lead straight to document supplementation requests or outright denial. Below, we walk through the threshold figures, how the calculation works, exceptions by occupation, and the common sticking points that trip applicants up in actual review.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. The Basic Principle Behind E-7 Salary Standards — What Is 80% of GNI?</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 2026 Threshold Amounts and Year-Over-Year Changes</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Tiered Standards by Occupation — 70%, 80%, 100%, 150%</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. What Counts as Salary and What Doesn't</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. How the Minimum Wage Act Interacts with E-7 Salary Rules</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Balancing Company Size, Revenue, and Salary During Review</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Proving Actual Salary Payments at Extension or Change of Status</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes and Denial Cases</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. Consultation Inquiries</a></li>
-  </ul>
-</nav>
 
 ## 1. The Basic Principle Behind E-7 Salary Standards — What Is 80% of GNI?
 
@@ -48,51 +33,51 @@ The Employment Permit System (E-9) under the Ministry of Employment and Labor ap
 
 Since per capita GNI shifts annually, the E-7 salary cutoff ticks up a little each year. Here's the rough trajectory by year.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Applicable Year</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Benchmark GNI (per capita, KRW)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">GNI 80% (General Cutoff)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">GNI 70% (Relaxed Category)</th>
+      <th>Applicable Year</th>
+      <th>Benchmark GNI (per capita, KRW)</th>
+      <th>GNI 80% (General Cutoff)</th>
+      <th>GNI 70% (Relaxed Category)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2022</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~40.48 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~32.38 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~28.34 million</td>
+      <td>2022</td>
+      <td>~40.48 million</td>
+      <td>~32.38 million</td>
+      <td>~28.34 million</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2023</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~42.20 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~33.76 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~29.54 million</td>
+      <td>2023</td>
+      <td>~42.20 million</td>
+      <td>~33.76 million</td>
+      <td>~29.54 million</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2024</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~43.00 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~34.40 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~30.10 million</td>
+      <td>2024</td>
+      <td>~43.00 million</td>
+      <td>~34.40 million</td>
+      <td>~30.10 million</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2025</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~45.00 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~36.00 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~31.50 million</td>
+      <td>2025</td>
+      <td>~45.00 million</td>
+      <td>~36.00 million</td>
+      <td>~31.50 million</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2026 (projected)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~46.00 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~36.80 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">~32.20 million</td>
+      <td>2026 (projected)</td>
+      <td>~46.00 million</td>
+      <td>~36.80 million</td>
+      <td>~32.20 million</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> The figures above are working approximations used in practice. The Ministry of Justice issues a revised Visa Issuance Practice Manual each year, and exact numbers may shift depending on when the update is published. <strong>Always verify the latest immigration office announcements and the current edition of the manual right before you file.</strong>
+<div>
+  <strong>⚠️ Note:</strong> The figures above are working approximations used in practice. The Ministry of Justice issues a revised Visa Issuance Practice Manual each year, and exact numbers may shift depending on when the update is published. <strong>Always verify the latest immigration office announcements and the current edition of the manual right before you file.</strong>
 </div>
 
 ### Contract Reference Dates and When Standards Take Effect
@@ -103,34 +88,34 @@ A frequent snag in practice is the question of **"which year's standard applies.
 
 The E-7 looks like a single category from the outside, but review standards actually vary by occupation. Here are the numbers upfront.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Salary Threshold</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Covered Occupations (examples)</th>
+      <th>Category</th>
+      <th>Salary Threshold</th>
+      <th>Covered Occupations (examples)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Standard E-7 roles</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">80% of GNI or higher</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">General office/technical roles, most managerial and specialist positions</td>
+      <td>Standard E-7 roles</td>
+      <td>80% of GNI or higher</td>
+      <td>General office/technical roles, most managerial and specialist positions</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Relaxed category</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">70% of GNI or higher</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certain skilled workers, tourism interpreters, some "root industry" occupations</td>
+      <td>Relaxed category</td>
+      <td>70% of GNI or higher</td>
+      <td>Certain skilled workers, tourism interpreters, some "root industry" occupations</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Semi-skilled / technical subset</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Separate minimum-wage-plus standard</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Some E-7-3 and E-7-4 occupations</td>
+      <td>Semi-skilled / technical subset</td>
+      <td>Separate minimum-wage-plus standard</td>
+      <td>Some E-7-3 and E-7-4 occupations</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">High-earning top talent</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1.5× or 2× GNI or higher</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Advanced-tech R&D roles, designated top-talent tracks</td>
+      <td>High-earning top talent</td>
+      <td>1.5× or 2× GNI or higher</td>
+      <td>Advanced-tech R&D roles, designated top-talent tracks</td>
     </tr>
   </tbody>
 </table>
@@ -156,49 +141,49 @@ This is where many applicants get stuck. Even if your contract lists "annual sal
 
 For E-7 review, the salary in scope is centered on **pre-tax base pay plus fixed allowances**. The baseline is whatever can be annualized as monthly pay × 12 — fixed, uniformly paid amounts.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Item</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Included in Salary?</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Practical Notes</th>
+      <th>Item</th>
+      <th>Included in Salary?</th>
+      <th>Practical Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Base pay</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Yes (O)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">The core component. Monthly base pay × 12</td>
+      <td>Base pay</td>
+      <td>Yes (O)</td>
+      <td>The core component. Monthly base pay × 12</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Fixed meal / commuting allowance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Limited inclusion</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Amounts within the tax-exempt cap may not be recognized</td>
+      <td>Fixed meal / commuting allowance</td>
+      <td>Limited inclusion</td>
+      <td>Amounts within the tax-exempt cap may not be recognized</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Regular bonuses (paid 2+ times a year on schedule)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Yes (O)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Must be specified in the contract and work rules to be recognized</td>
+      <td>Regular bonuses (paid 2+ times a year on schedule)</td>
+      <td>Yes (O)</td>
+      <td>Must be specified in the contract and work rules to be recognized</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Performance bonuses (variable)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Excluded as a rule</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not treated as salary if payment isn't guaranteed</td>
+      <td>Performance bonuses (variable)</td>
+      <td>Excluded as a rule</td>
+      <td>Not treated as salary if payment isn't guaranteed</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Overtime, night-shift, and holiday pay</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Excluded</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Tied to hours worked, so not folded into annual salary</td>
+      <td>Overtime, night-shift, and holiday pay</td>
+      <td>Excluded</td>
+      <td>Tied to hours worked, so not folded into annual salary</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">In-kind benefits like housing or company car</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Excluded</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Counted as fringe benefits, not recognized as wages</td>
+      <td>In-kind benefits like housing or company car</td>
+      <td>Excluded</td>
+      <td>Counted as fringe benefits, not recognized as wages</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Severance pay</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Excluded</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Even under bundled-salary contracts, immigration strips it out</td>
+      <td>Severance pay</td>
+      <td>Excluded</td>
+      <td>Even under bundled-salary contracts, immigration strips it out</td>
     </tr>
   </tbody>
 </table>
@@ -211,8 +196,8 @@ This is a common setup at smaller companies. The contract reads: "Annual salary 
 
 If your contract reads "monthly pay KRW 3 million (overtime included)" under a comprehensive wage system, reviewers **strip out the overtime portion** and count only the remaining base pay. That can cause the annual figure to plummet. If you're using a comprehensive wage structure, the safer move is to rewrite the contract to **separately itemize overtime and base pay**.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practitioner's Tip:</strong> When your contract salary is close to the threshold, break out the components: <strong>"Base pay KRW XX × 12 months + regular bonus KRW XX × 2 payments."</strong> If you only write the total, the reviewer has to back-compute the breakdown — and items tend to fall out of the calculation during that reconstruction, dragging the recognized salary down.
+<div>
+  <strong>💡 Practitioner's Tip:</strong> When your contract salary is close to the threshold, break out the components: <strong>"Base pay KRW XX × 12 months + regular bonus KRW XX × 2 payments."</strong> If you only write the total, the reviewer has to back-compute the breakdown — and items tend to fall out of the calculation during that reconstruction, dragging the recognized salary down.
 </div>
 
 ## 5. How the Minimum Wage Act Interacts with E-7 Salary Rules
@@ -232,48 +217,44 @@ Two reasons.
 
 ### The Review Sequence Used in Practice
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">What's Checked</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">If Not Met</th>
+      <th>Step</th>
+      <th>What's Checked</th>
+      <th>If Not Met</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Does the nominal contract salary exceed the GNI benchmark (70%, 80%, or 150%)?</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Document supplementation or denial</td>
+      <td>Step 1</td>
+      <td>Does the nominal contract salary exceed the GNI benchmark (70%, 80%, or 150%)?</td>
+      <td>Document supplementation or denial</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Does the threshold still hold when only eligible wage components are counted?</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Effective salary recalculated; supplementation if short</td>
+      <td>Step 2</td>
+      <td>Does the threshold still hold when only eligible wage components are counted?</td>
+      <td>Effective salary recalculated; supplementation if short</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Is the hourly equivalent above minimum wage?</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Employment contract must be redrafted</td>
+      <td>Step 3</td>
+      <td>Is the hourly equivalent above minimum wage?</td>
+      <td>Employment contract must be redrafted</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Can the company actually pay (revenue, capital, existing pay levels)?</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Sponsoring company re-reviewed</td>
+      <td>Step 4</td>
+      <td>Can the company actually pay (revenue, capital, existing pay levels)?</td>
+      <td>Sponsoring company re-reviewed</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> Even a contract stating "KRW 38 million annual salary" can be rejected outright if the working conditions exceed 52 hours per week, because the hourly equivalent falls below minimum wage. Leaving the working-hours field blank or keeping it vague actually raises suspicion rather than helping your case.
+<div>
+  <strong>⚠️ Note:</strong> Even a contract stating "KRW 38 million annual salary" can be rejected outright if the working conditions exceed 52 hours per week, because the hourly equivalent falls below minimum wage. Leaving the working-hours field blank or keeping it vague actually raises suspicion rather than helping your case.
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 6. Balancing Company Size, Revenue, and Salary During Review
@@ -294,19 +275,19 @@ Another classic sticking point. If domestic employees at the company average KRW
 - The **per-person labor cost** as a share of annual revenue shouldn't stray too far from the industry average.
 - If the sponsored foreign national's salary exceeds the CEO's or executives' compensation, you'll need a separate explanation.
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Salary Document Review Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Does the employment contract separately itemize base pay, regular bonus, and fixed allowances?</li>
-    <li>Does it meet the GNI benchmark (70%, 80%, or 150%) using eligible wage components alone?</li>
-    <li>Is the hourly equivalent above the current year's minimum wage?</li>
-    <li>Can the sponsoring company support that salary through its revenue, capital, and existing pay levels?</li>
-    <li>Is the figure defensible when compared to domestic peers' average pay for the same role?</li>
-    <li>If using a comprehensive wage system, is the overtime portion separately itemized?</li>
-    <li>Are provided housing or vehicles bundled into the stated wage, causing the actual base pay to look understated?</li>
-    <li>Are bonuses phrased only as variable pay, as in "depending on business performance"?</li>
-    <li>Do last year's withholding receipts or payroll records line up with the contract salary?</li>
-  </ul>
+<div>
+  <strong>✅ Salary Document Review Checklist</strong>
+
+    Does the employment contract separately itemize base pay, regular bonus, and fixed allowances?
+    Does it meet the GNI benchmark (70%, 80%, or 150%) using eligible wage components alone?
+    Is the hourly equivalent above the current year's minimum wage?
+    Can the sponsoring company support that salary through its revenue, capital, and existing pay levels?
+    Is the figure defensible when compared to domestic peers' average pay for the same role?
+    If using a comprehensive wage system, is the overtime portion separately itemized?
+    Are provided housing or vehicles bundled into the stated wage, causing the actual base pay to look understated?
+    Are bonuses phrased only as variable pay, as in "depending on business performance"?
+    Do last year's withholding receipts or payroll records line up with the contract salary?
+
 </div>
 
 ## 7. Proving Actual Salary Payments at Extension or Change of Status
@@ -315,34 +296,34 @@ For the initial application, the contract carries the weight. But at the **stay 
 
 ### Required Documentation at Extension
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Document</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Check Point</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Where Applicants Often Get Stuck</th>
+      <th>Document</th>
+      <th>Check Point</th>
+      <th>Where Applicants Often Get Stuck</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Earned income withholding receipt</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Does total pay match the contract salary?</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Contract says KRW 36 million but withholding shows KRW 29 million</td>
+      <td>Earned income withholding receipt</td>
+      <td>Does total pay match the contract salary?</td>
+      <td>Contract says KRW 36 million but withholding shows KRW 29 million</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Payroll transfer records (bank passbook copy)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Regular monthly deposits, paid from the company's account</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Paid in cash, or from the CEO's personal account</td>
+      <td>Payroll transfer records (bank passbook copy)</td>
+      <td>Regular monthly deposits, paid from the company's account</td>
+      <td>Paid in cash, or from the CEO's personal account</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Four major insurance enrollment records</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Does the reported monthly pay match the contract salary?</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Under-reported insurance filings show a lower monthly pay</td>
+      <td>Four major insurance enrollment records</td>
+      <td>Does the reported monthly pay match the contract salary?</td>
+      <td>Under-reported insurance filings show a lower monthly pay</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Payroll ledger and pay slips</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Do the itemized breakdowns match the contract structure?</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Overtime or performance pay is recorded as base pay</td>
+      <td>Payroll ledger and pay slips</td>
+      <td>Do the itemized breakdowns match the contract structure?</td>
+      <td>Overtime or performance pay is recorded as base pay</td>
     </tr>
   </tbody>
 </table>
@@ -355,8 +336,8 @@ This is where reviewers get most sensitive. If the contract states KRW 36 millio
 
 If your salary changes while you're employed, you'll need to file a **change of workplace or conditions report**, or attach a statement of reasons at the next extension. Even when a pay cut reflects legitimate financial difficulty, if the reduced salary slips below the GNI threshold, the extension may be denied.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> Saying "business has been tough this year, so we cut the salary by KRW 10 million" effectively means the case gets re-reviewed. If the reduced salary falls short of the GNI threshold, the extension can be blocked on the spot, so contact your local immigration office in advance or prepare supplementary measures alongside the filing.
+<div>
+  <strong>⚠️ Note:</strong> Saying "business has been tough this year, so we cut the salary by KRW 10 million" effectively means the case gets re-reviewed. If the reduced salary falls short of the GNI threshold, the extension can be blocked on the spot, so contact your local immigration office in advance or prepare supplementary measures alongside the filing.
 </div>
 
 ## 8. Common Mistakes and Denial Cases
@@ -393,39 +374,39 @@ A contract that lists a salary but omits weekly working hours makes the hourly e
 
 ### Summary of Real Denial and Supplementation Cases
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Case</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Stated Salary</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Outcome</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Root Cause</th>
+      <th>Case</th>
+      <th>Stated Salary</th>
+      <th>Outcome</th>
+      <th>Root Cause</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">A (IT developer)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">38 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Approved after supplementation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Stripping out 12M performance bonus left 26M base; additional contract supplementation required</td>
+      <td>A (IT developer)</td>
+      <td>38 million</td>
+      <td>Approved after supplementation</td>
+      <td>Stripping out 12M performance bonus left 26M base; additional contract supplementation required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">B (Hotel management)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">36.5 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Denied</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Housing benefit of 9M bundled in; actual base only 27.5M</td>
+      <td>B (Hotel management)</td>
+      <td>36.5 million</td>
+      <td>Denied</td>
+      <td>Housing benefit of 9M bundled in; actual base only 27.5M</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">C (Researcher, top-talent track)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">68 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Denied</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Company revenue of 400M; insufficient proof of ability to pay</td>
+      <td>C (Researcher, top-talent track)</td>
+      <td>68 million</td>
+      <td>Denied</td>
+      <td>Company revenue of 400M; insufficient proof of ability to pay</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D (Skilled-worker conversion)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">33 million</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Approved</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Met the relaxed E-7-4 threshold and secured enough points for the points system</td>
+      <td>D (Skilled-worker conversion)</td>
+      <td>33 million</td>
+      <td>Approved</td>
+      <td>Met the relaxed E-7-4 threshold and secured enough points for the points system</td>
     </tr>
   </tbody>
 </table>
@@ -460,7 +441,6 @@ Vision Administrative Office supports initial E-7 applications, extensions, and 
 
 **Vision Administrative Office (VISION Administrative Office)**
 
-- Phone: **02-363-2251**
 - Email: **5000meter@gmail.com**
 - Address: **(04614) 3rd Floor, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul**
 

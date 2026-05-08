@@ -12,21 +12,8 @@ F-6結婚ビザの申請が拒否されたとき、多くの夫婦が挫折し�
 
 F-6ビザ拒否の最も一般的な理由は、婚姻の真正性立証不足(約40%)、所得要件未達(約25%)、書類偽造または虚偽情報提供(約15%)、犯罪歴または出入国関連法規違反(約10%)、その他の理由(約10%)と現れています。拒否通知書を受け取った日から90日以内に異議申立てをするか、拒否理由を補完して新たな申請を進めることができます。再申請時には以前の申請記録がすべて検討されるため、単に同じ書類を再提出するのではなく、具体的な補完証憑を準備する必要があります。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-6ビザ拒否通知後、直ちに確認すべき事項</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 主要拒否理由別の具体的原因分析</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 異議申立てと再申請の違いおよび選択基準</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 婚姻真正性立証のための補完書類準備</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 所得要件未達時の解決策</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 再申請時期と戦略的準備方法</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. よくある失敗と予防法</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくある質問</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">F-6ビザ拒否通知後、直ちに確認すべき事項
+## F-6ビザ拒否通知後、直ちに確認すべき事項
 
 F-6ビザ拒否通知書を受け取ったら、最初にすべきことは**正確な拒否理由を確認**することです。出入国管理事務所が発行する拒否通知書には、法的根拠とともに具体的な拒否理由が明示されています。この内容を正確に理解できなければ、効果的な対応は不可能です。
 
@@ -40,7 +27,7 @@ F-6ビザ拒否通知書を受け取ったら、最初にすべきことは**正
 
 通知書の拒否理由が抽象的であったり理解しにくい場合、**処分を下した出入国管理事務所に直接訪問するか電話して具体的な説明を要請**できます。担当公務員から、どの書類が不足していたのか、どの部分が審査基準に達しなかったのかを具体的に問い合わせることが重要です。
 
-<div style="background:#fff3cd;border-left:4px solid #ffc107;padding:15px;margin:20px 0">
+<div>
 <strong>⚠️ 重要:</strong> 拒否通知を受けた日から90日以内に異議申立てができます。この期間を過ぎると異議申立ての権利が消滅するため、必ず日付を確認して記録しておく必要があります。
 </div>
 
@@ -54,7 +41,7 @@ F-6ビザ拒否通知書を受け取ったら、最初にすべきことは**正
 4. 以前提出した書類目録およびコピーの再確認
 5. 担当出入国管理事務所の連絡先および担当者情報の把握
 
-<h2 id="section-2">主要拒否理由別の具体的原因分析
+## 主要拒否理由別の具体的原因分析
 
 F-6ビザ拒否理由は大きく五つのタイプに分類でき、それぞれの理由は異なる対応戦略を要求します。
 
@@ -87,7 +74,7 @@ F-6ビザ拒否理由は大きく五つのタイプに分類でき、それぞ�
 - 面談時の虚偽陳述
 - 過去の出入国記録に関する虚偽情報提供
 
-<div style="background:#ffebee;border-left:4px solid #f44336;padding:15px;margin:20px 0">
+<div>
 <strong>⚠️ 警告:</strong> 書類偽造や虚偽情報提供が摘発されると、再申請時にも非常に不利になり、今後の他のビザ申請にも永久的な影響を及ぼす可能性があります。この場合、必ず専門家の助けを受けるべきです。
 </div>
 
@@ -108,7 +95,7 @@ F-6ビザ拒否理由は大きく五つのタイプに分類でき、それぞ�
 - 申請資格自体がない場合(例:婚姻届が完了していない)
 - 以前のビザ申請での反復的な拒否履歴
 
-<h2 id="section-3">異議申立てと再申請の違いおよび選択基準
+## 異議申立てと再申請の違いおよび選択基準
 
 F-6ビザ拒否に対応する方法は大きく**異議申立て(行政審判)**と**再申請**の二つがあります。それぞれの特徴と適切な状況を理解して選択する必要があります。
 
@@ -157,44 +144,44 @@ F-6ビザ拒否に対応する方法は大きく**異議申立て(行政審判)*
 - 必ず拒否理由に対する具体的な補完が必要
 - 補完書類に対する説明書(疎明書)添付を推奨
 
-<table style="width:100%;border-collapse:collapse;margin:20px 0">
+<table>
   <thead>
-    <tr style="background:#1e40af;color:white">
-      <th style="border:1px solid #ddd;padding:12px">区分</th>
-      <th style="border:1px solid #ddd;padding:12px">異議申立て</th>
-      <th style="border:1px solid #ddd;padding:12px">再申請</th>
+    <tr>
+      <th>区分</th>
+      <th>異議申立て</th>
+      <th>再申請</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>申請時期</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">拒否通知後90日以内</td>
-      <td style="border:1px solid #ddd;padding:10px">制限なし(即時可能)</td>
-    </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>手数料</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">なし</td>
-      <td style="border:1px solid #ddd;padding:10px">申請手数料再納付</td>
+      <td><strong>申請時期</strong></td>
+      <td>拒否通知後90日以内</td>
+      <td>制限なし(即時可能)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>審査期間</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">30~60日</td>
-      <td style="border:1px solid #ddd;padding:10px">一般申請と同じ(2週間~2か月)</td>
-    </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>成功率</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">低い(10~15%)</td>
-      <td style="border:1px solid #ddd;padding:10px">補完の程度により様々</td>
+      <td><strong>手数料</strong></td>
+      <td>なし</td>
+      <td>申請手数料再納付</td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>適切な場合</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">処分が不当だと判断される時</td>
-      <td style="border:1px solid #ddd;padding:10px">明確な補完事項がある時</td>
+      <td><strong>審査期間</strong></td>
+      <td>30~60日</td>
+      <td>一般申請と同じ(2週間~2か月)</td>
     </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>併行可能可否</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">再申請準備併行可能</td>
-      <td style="border:1px solid #ddd;padding:10px">異議申立て進行中でも可能</td>
+    <tr>
+      <td><strong>成功率</strong></td>
+      <td>低い(10~15%)</td>
+      <td>補完の程度により様々</td>
+    </tr>
+    <tr>
+      <td><strong>適切な場合</strong></td>
+      <td>処分が不当だと判断される時</td>
+      <td>明確な補完事項がある時</td>
+    </tr>
+    <tr>
+      <td><strong>併行可能可否</strong></td>
+      <td>再申請準備併行可能</td>
+      <td>異議申立て進行中でも可能</td>
     </tr>
   </tbody>
 </table>
@@ -206,7 +193,7 @@ F-6ビザ拒否に対応する方法は大きく**異議申立て(行政審判)*
 3. **時間的余裕がない場合**: 再申請優先
 4. **複雑な法的争点がある場合**: 異議申立て + 専門家相談
 
-<h2 id="section-4">婚姻真正性立証のための補完書類準備
+## 婚姻真正性立証のための補完書類準備
 
 婚姻の真正性不足で拒否された場合、再申請時に最も重要なのは、夫婦関係が真正であることを客観的に立証することです。単に「私たちは愛しています」という主張ではなく、具体的で検証可能な証憑資料を体系的に準備する必要があります。
 
@@ -280,7 +267,7 @@ F-6ビザ拒否に対応する方法は大きく**異議申立て(行政審判)*
 - 感情的表現より事実的記述優先
 - 写真や証憑と連結するように作成
 
-<div style="background:#e8f5e9;border-left:4px solid #4caf50;padding:15px;margin:20px 0">
+<div>
 <strong>💡 ヒント:</strong> 証憑資料は多いほど良いですが、やみくもにすべての資料を提出するよりも、時期別に分類して目次を作成し体系的に整理する方がより効果的です。審査官が簡単に確認できるよう配慮することが重要です。
 </div>
 
@@ -295,7 +282,7 @@ F-6ビザ拒否に対応する方法は大きく**異議申立て(行政審判)*
 
 陳述書には作成者の身元(氏名、連絡先)、夫婦との関係、夫婦を知った経緯、関係の真正性を判断できる具体的事例を含める必要があり、署名捺印が必要です。
 
-<h2 id="section-5">所得要件未達時の解決策
+## 所得要件未達時の解決策
 
 所得要件未達でF-6ビザが拒否された場合、次のような方法で要件を満たすことができます。
 
@@ -357,60 +344,60 @@ F-6ビザの所得要件は法務部告示で定められ、定期的に変更�
 
 ### 所得証憑書類チェックリスト
 
-<table style="width:100%;border-collapse:collapse;margin:20px 0">
+<table>
   <thead>
-    <tr style="background:#1e40af;color:white">
-      <th style="border:1px solid #ddd;padding:12px">所得タイプ</th>
-      <th style="border:1px solid #ddd;padding:12px">必須書類</th>
-      <th style="border:1px solid #ddd;padding:12px">追加書類</th>
+    <tr>
+      <th>所得タイプ</th>
+      <th>必須書類</th>
+      <th>追加書類</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>勤労所得</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td><strong>勤労所得</strong></td>
+      <td>
         - 在職証明書<br>
         - 所得金額証明書<br>
         - 源泉徴収票
       </td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td>
         - 給与明細書(最近6か月)<br>
         - 通帳入金履歴<br>
         - 4大保険加入確認書
       </td>
     </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>事業所得</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">
+    <tr>
+      <td><strong>事業所得</strong></td>
+      <td>
         - 事業者登録証<br>
         - 所得金額証明書<br>
         - 付加価値税課税標準証明書
       </td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td>
         - 売上帳簿<br>
         - 事業場写真<br>
         - 取引先契約書
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>財産所得</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td><strong>財産所得</strong></td>
+      <td>
         - 賃貸借契約書<br>
         - 所得金額証明書<br>
         - 通帳入金履歴
       </td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td>
         - 不動産登記簿謄本<br>
         - 財産税納付確認書
       </td>
     </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>金融資産</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">
+    <tr>
+      <td><strong>金融資産</strong></td>
+      <td>
         - 残高証明書<br>
         - 預金取引明細書
       </td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td>
         - 入金経路説明書<br>
         - 金融取引確認書
       </td>
@@ -418,7 +405,7 @@ F-6ビザの所得要件は法務部告示で定められ、定期的に変更�
   </tbody>
 </table>
 
-<div style="background:#fff3cd;border-left:4px solid #ffc107;padding:15px;margin:20px 0">
+<div>
 <strong>⚠️ 注意:</strong> 急に通帳に大きな金額を入金することは、かえって疑いを持たれる可能性があります。資産証憑時には必ずその資金の出所を明確に説明できる必要があります。
 </div>
 
@@ -433,7 +420,7 @@ F-6ビザの所得要件は法務部告示で定められ、定期的に変更�
 
 このような例外事由を主張する際は、関連証憑(診断書、妊娠確認書、在職証明書など)とともに詳細な疎明書を提出する必要があります。
 
-<h2 id="section-6">再申請時期と戦略的準備方法
+## 再申請時期と戦略的準備方法
 
 F-6ビザ再申請はいつでも可能ですが、**十分な準備なしに性急に再申請するのは望ましくありません**。拒否履歴が累積すると、以後の申請でもより厳格な審査を受けることになるため、確実に補完してから申請することが重要です。
 
@@ -553,7 +540,7 @@ F-6ビザ再申請はいつでも可能ですが、**十分な準備なしに性
 私たち夫婦は真に愛し合い、韓国で家庭を築きたいと思います...
 ```
 
-<h2 id="section-7">よくある失敗と予防法
+## よくある失敗と予防法
 
 F-6ビザ再申請過程で多くの申請者が繰り返す失敗があります。これを事前に認知して予防することが成功への近道です。
 
@@ -635,23 +622,23 @@ F-6ビザ再申請過程で多くの申請者が繰り返す失敗がありま�
 - 通訳アプリや翻訳ツール使用履歴を見せる
 - 面談時、簡単な会話でも直接交わせるよう準備
 
-<div style="background:#e3f2fd;border-left:4px solid #2196f3;padding:15px;margin:20px 0">
+<div>
 <strong>📌 チェックリスト:再申請前の最終確認</strong>
-<ul style="margin:10px 0">
-<li>☐ 拒否理由を正確に把握し、それぞれに対する補完策を準備</li>
-<li>☐ すべての書類が真実で正確か確認</li>
-<li>☐ 翻訳の正確性および公証可否確認</li>
-<li>☐ 疎明書作成および補完事項を明確に説明</li>
-<li>☐ 配偶者と面談練習完了</li>
-<li>☐ 現在の滞在期間確認および延長必要時の措置</li>
-<li>☐ 書類間の一貫性および日付確認</li>
-<li>☐ 全体書類目次作成および整理</li>
-<li>☐ コピーおよび原本を区分して準備</li>
-<li>☐ 受付後連絡可能な連絡先確認</li>
-</ul>
+
+☐ 拒否理由を正確に把握し、それぞれに対する補完策を準備
+☐ すべての書類が真実で正確か確認
+☐ 翻訳の正確性および公証可否確認
+☐ 疎明書作成および補完事項を明確に説明
+☐ 配偶者と面談練習完了
+☐ 現在の滞在期間確認および延長必要時の措置
+☐ 書類間の一貫性および日付確認
+☐ 全体書類目次作成および整理
+☐ コピーおよび原本を区分して準備
+☐ 受付後連絡可能な連絡先確認
+
 </div>
 
-<h2 id="section-8">よくある質問
+## よくある質問
 
 ### Q1: F-6ビザが拒否されたら再申請に制限期間がありますか?
 
@@ -692,8 +679,7 @@ F-6ビザ拒否後の再申請は、単に書類を再提出することでは�
 
 拒否の挫折を承認の喜びに変えられるよう、VISION行政書士事務所が共にします。
 
-**📞 相談お問い合わせ: +82-2-363-2251**  
-**📧 メール: 5000meter@gmail.com**  
+**📧 メール: 5000meter@gmail.com**
 **🏢 訪問相談: (04614) ソウル市中区退渓路324, 三階 (ソンウビル)  東大門歴史文化公園駅4番出口10m | 東大門歴史文化公園駅4番出口10m**
 
 *初回相談は無料で行われ、お客様の状況に合った最適な解決策をご提示いたします。*

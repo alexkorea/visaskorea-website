@@ -12,21 +12,6 @@ The education and work experience requirements for the E-7 visa may look straigh
 
 The place where most applicants get stuck is precisely this "major relevance" issue. Even with a bachelor's degree, if the major is disconnected from the job, the reviewer will ask for documents proving the connection through work experience. In fact, it's not uncommon to see applicants with no degree but solid experience pass more cleanly. The key is whether the three pillars — degree, experience, and job description — connect into a single coherent story.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7 Education and Experience Requirements at a Glance</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. How Far Education Credentials Are Recognized</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Work Experience Requirements and How Years Are Calculated</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Scenarios by Education and Experience Combination</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Requirement Differences Across the 85 Occupations</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Preparing Supporting Documents, Translation, and Notarization</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Pressure Points in Actual Review</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. Consultation Information</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1"></span>1. E-7 Education and Experience Requirements at a Glance
 
@@ -36,39 +21,39 @@ The E-7 (Specially Designated Activities) visa is issued when foreign nationals 
 
 In practice, these three combinations are the first thing reviewers look at.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Type</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Education</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Experience</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Notes</th>
+      <th>Type</th>
+      <th>Education</th>
+      <th>Experience</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">A</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Master's or higher</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not required</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Limited to jobs related to the major</td>
+      <td>A</td>
+      <td>Master's or higher</td>
+      <td>Not required</td>
+      <td>Limited to jobs related to the major</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">B</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bachelor's</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1+ year in the relevant job</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Additional experience weight if major doesn't match</td>
+      <td>B</td>
+      <td>Bachelor's</td>
+      <td>1+ year in the relevant job</td>
+      <td>Additional experience weight if major doesn't match</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">C</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Associate degree</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3+ years in the relevant job</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2- or 3-year program standard</td>
+      <td>C</td>
+      <td>Associate degree</td>
+      <td>3+ years in the relevant job</td>
+      <td>2- or 3-year program standard</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">High school or below</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">5+ years in the relevant job</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Mainly recognized in skilled-function categories</td>
+      <td>D</td>
+      <td>High school or below</td>
+      <td>5+ years in the relevant job</td>
+      <td>Mainly recognized in skilled-function categories</td>
     </tr>
   </tbody>
 </table>
@@ -91,8 +76,8 @@ Graduates of 2-year junior colleges are classified as holding an "associate degr
 
 Even before the degree itself, reviewers look at **the link between your major and the job**. For example, if an applicant with a bachelor's in Business Administration applies for an IT engineer role, the reviewer will ask, "Why are you qualified for this job?" If that explanation is weak, no quantity of documents will prevent the case from being held up.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Submitting just a copy of the degree certificate is not enough. The transcript must show how the courses you took connect to the job. If the transcript is not available in English or Korean, a translation plus notarization is required separately.
+<div>
+  <strong>⚠️ Caution:</strong> Submitting just a copy of the degree certificate is not enough. The transcript must show how the courses you took connect to the job. If the transcript is not available in English or Korean, a translation plus notarization is required separately.
 </div>
 
 ### Preferential Treatment for Master's and Doctoral Degrees
@@ -109,50 +94,50 @@ In principle, it starts from regular employment after graduation. Periods of int
 
 Even with many documents, if the employment verification letter is missing these items, the experience won't be recognized.
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Employment Verification Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Official name of employer (company) and business registration number (or overseas equivalent)</li>
-    <li>Exact start and end dates (YYYY-MM-DD)</li>
-    <li>Specific description of position and duties</li>
-    <li>Weekly working hours (to determine part-time status)</li>
-    <li>Signature of issuer, company seal, and date of issue</li>
-    <li>Contact information of the issuing officer (for reviewer verification)</li>
-  </ul>
+<div>
+  <strong>✅ Employment Verification Checklist</strong>
+
+    Official name of employer (company) and business registration number (or overseas equivalent)
+    Exact start and end dates (YYYY-MM-DD)
+    Specific description of position and duties
+    Weekly working hours (to determine part-time status)
+    Signature of issuer, company seal, and date of issue
+    Contact information of the issuing officer (for reviewer verification)
+
 </div>
 
 ### Judging Whether Jobs Are the Same or Similar
 
 The most frequent snag in counting years of experience is whether "that experience is in the same field as the applied job." For example, even with 3 years as a server engineer, if the applied position is frontend development, the reviewer will ask for additional evidence of related technology stacks and project history.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Situation</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Experience Recognition</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">How to Supplement</th>
+      <th>Situation</th>
+      <th>Experience Recognition</th>
+      <th>How to Supplement</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Same job, full-time</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Fully recognized</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Employment verification + certificate of employment</td>
+      <td>Same job, full-time</td>
+      <td>Fully recognized</td>
+      <td>Employment verification + certificate of employment</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Similar job</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Partially recognized</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Project list and detailed duties</td>
+      <td>Similar job</td>
+      <td>Partially recognized</td>
+      <td>Project list and detailed duties</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Freelance or contract</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Conditionally recognized</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Tax payment records, contracts, remittance history</td>
+      <td>Freelance or contract</td>
+      <td>Conditionally recognized</td>
+      <td>Tax payment records, contracts, remittance history</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Internship</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not recognized in principle</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Proof of conversion to full-time required</td>
+      <td>Internship</td>
+      <td>Not recognized in principle</td>
+      <td>Proof of conversion to full-time required</td>
     </tr>
   </tbody>
 </table>
@@ -179,8 +164,8 @@ For E-7-4 (skilled function) categories like cooks or welders, experience outwei
 
 With only a high school diploma, at least 5 years of experience in the same job is required. In this case, **third-party evidence from official institutions** — such as tax certificates issued by the home country's tax authority or national pension (or equivalent) contribution records — becomes decisive.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> When education is weak, showing the "depth" of experience beats simply extending years. A portfolio document describing one or two projects in concrete detail persuades reviewers more than 10 years' worth of employment letters.
+<div>
+  <strong>💡 Practical Tip:</strong> When education is weak, showing the "depth" of experience beats simply extending years. A portfolio document describing one or two projects in concrete detail persuades reviewers more than 10 years' worth of employment letters.
 </div>
 
 ## <span id="section-5"></span>5. Requirement Differences Across the 85 Occupations
@@ -203,39 +188,39 @@ Animal keepers, aquaculture technicians, shipbuilding welders, and similar roles
 
 Evaluated through a points-based system, scoring education, experience, income, and Korean language ability. Here the "total points" matter before "meeting requirements."
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Core Requirement</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Minimum Salary Guideline</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Representative Occupations</th>
+      <th>Category</th>
+      <th>Core Requirement</th>
+      <th>Minimum Salary Guideline</th>
+      <th>Representative Occupations</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Degree and major</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Applied at 80%+ of prior-year GNI</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Management consultant, systems engineer</td>
+      <td>E-7-1</td>
+      <td>Degree and major</td>
+      <td>Applied at 80%+ of prior-year GNI</td>
+      <td>Management consultant, systems engineer</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Experience and language</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Separate notice per occupation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Duty-free sales, hotel service</td>
+      <td>E-7-2</td>
+      <td>Experience and language</td>
+      <td>Separate notice per occupation</td>
+      <td>Duty-free sales, hotel service</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Certification and skill</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Separate notice per occupation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Shipbuilding welder, animal keeper</td>
+      <td>E-7-3</td>
+      <td>Certification and skill</td>
+      <td>Separate notice per occupation</td>
+      <td>Shipbuilding welder, animal keeper</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Points-based</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">At or above the scoring-table threshold</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Manufacturing, construction skilled function</td>
+      <td>E-7-4</td>
+      <td>Points-based</td>
+      <td>At or above the scoring-table threshold</td>
+      <td>Manufacturing, construction skilled function</td>
     </tr>
   </tbody>
 </table>
@@ -243,11 +228,7 @@ Evaluated through a points-based system, scoring education, experience, income, 
 Salary benchmarks and separate requirements for each occupation change frequently. For the latest standards, check with the competent immigration office.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6"></span>6. Preparing Supporting Documents, Translation, and Notarization
@@ -256,34 +237,34 @@ Salary benchmarks and separate requirements for each occupation change frequentl
 
 The basic set is the degree certificate, graduation certificate, and transcript. For overseas documents, the following steps apply.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Description</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">Time Required</th>
+      <th>Step</th>
+      <th>Description</th>
+      <th>Time Required</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Obtain original from home-country university</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>1</td>
+      <td>Obtain original from home-country university</td>
+      <td>1–2 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Apostille or consular verification</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–3 weeks</td>
+      <td>2</td>
+      <td>Apostille or consular verification</td>
+      <td>1–3 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Korean translation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–5 days</td>
+      <td>3</td>
+      <td>Korean translation</td>
+      <td>2–5 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Notarization of the translation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–3 days</td>
+      <td>4</td>
+      <td>Notarization of the translation</td>
+      <td>1–3 days</td>
     </tr>
   </tbody>
 </table>
@@ -296,8 +277,8 @@ In addition to the employment verification letter, bundling in **pay stubs, cert
 
 It's safer to use a professional translation service or a certified translator. Self-translations almost always end up being redone. Before translation quality, the uniformity of format and terminology is what reviewers check first.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> If your name is written even slightly differently on the passport, degree certificate, and employment verification letter, everything comes back as a supplementation request. Align all documents to the Roman-letter spelling on your passport. Missing middle names are also a common cause of failure.
+<div>
+  <strong>⚠️ Caution:</strong> If your name is written even slightly differently on the passport, degree certificate, and employment verification letter, everything comes back as a supplementation request. Align all documents to the Roman-letter spelling on your passport. Missing middle names are also a common cause of failure.
 </div>
 
 ## <span id="section-7"></span>7. Pressure Points in Actual Review
@@ -340,8 +321,8 @@ Using only abstract phrasing like "international duties" or "managerial role" ma
 
 When the English name on your passport differs from the names on your education and experience documents, or when date formats differ and create contradictions — these weak points damage the credibility of the entire factual record.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Falsified employment verification letters can escalate into criminal matters on charges of forgery. Documents submitted in the past remain on record for reviews under other residency statuses, so any conflict with your current application will be exposed immediately.
+<div>
+  <strong>⚠️ Caution:</strong> Falsified employment verification letters can escalate into criminal matters on charges of forgery. Documents submitted in the past remain on record for reviews under other residency statuses, so any conflict with your current application will be exposed immediately.
 </div>
 
 ## <span id="section-9"></span>9. Frequently Asked Questions (FAQ)
@@ -372,7 +353,6 @@ The actual judgment criteria for E-7 visa education and experience requirements 
 
 **VISION Administrative Office**
 
-- Phone: **02-363-2251**
 - Email: **5000meter@gmail.com**
 - Address: (04614) 3rd Floor, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul
 

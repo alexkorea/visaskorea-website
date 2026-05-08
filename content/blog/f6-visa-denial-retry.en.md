@@ -12,19 +12,6 @@ An F-6 visa is rarely denied for just one reason. The most common pattern is a c
 
 An appeal (administrative challenge) and a reapplication are completely different procedures. **An appeal is an administrative process that contests the denial itself within 90 days**, while **a reapplication is filing a brand-new case from scratch**. In practice, a reapplication with reinforced weak points usually has a higher approval rate than an appeal. The more abstract the denial reason — like "lack of relationship genuineness" — the more likely you are to be denied again with the same documents. What you should look at first is the legal provisions cited in the denial notice, then the volume and quality of evidence you can strengthen.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Why F-6 Visas Actually Get Denied</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. How to Read the Denial Notice</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Appeal vs. Reapplication: Which to Choose</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Strategies for Strengthening Income and Financial Requirements</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Rebuilding Evidence of a Genuine Relationship</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Interview Preparation and Consistency in Statements</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Common Mistakes and Behaviors to Avoid</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Frequently Asked Questions (FAQ)</a></li>
-  </ul>
-</nav>
 
 ## Why F-6 Visas Actually Get Denied
 
@@ -32,44 +19,44 @@ Because the F-6 visa administratively verifies marriage — a deeply private dom
 
 ### Top Categories of Denial Reasons
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Type of Denial Reason</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">What It Actually Means</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Difficulty to Remedy</th>
+      <th>Type of Denial Reason</th>
+      <th>What It Actually Means</th>
+      <th>Difficulty to Remedy</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Insufficient income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Sponsor's annual income is below the threshold</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Moderate</td>
+      <td>Insufficient income</td>
+      <td>Sponsor's annual income is below the threshold</td>
+      <td>Moderate</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Lack of relationship genuineness</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Weak proof of how you met and how long you dated</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">High</td>
+      <td>Lack of relationship genuineness</td>
+      <td>Weak proof of how you met and how long you dated</td>
+      <td>High</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Insufficient language communication</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Basic communication ability not demonstrated</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Moderate</td>
+      <td>Insufficient language communication</td>
+      <td>Basic communication ability not demonstrated</td>
+      <td>Moderate</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Inadequate housing</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Difficulty confirming actual residence</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Low</td>
+      <td>Inadequate housing</td>
+      <td>Difficulty confirming actual residence</td>
+      <td>Low</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Sponsor disqualification</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Sponsorship restriction within 5 years, background flags</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">High</td>
+      <td>Sponsor disqualification</td>
+      <td>Sponsorship restriction within 5 years, background flags</td>
+      <td>High</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Inconsistent statements</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Conflicting answers between spouses in interview</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">High</td>
+      <td>Inconsistent statements</td>
+      <td>Conflicting answers between spouses in interview</td>
+      <td>High</td>
     </tr>
   </tbody>
 </table>
@@ -86,8 +73,8 @@ There are many cases where every box appears checked on paper, yet the applicati
 
 In fact, even when income is more than enough, two or three of the items above stacking together will lead to denial under "lack of genuineness." If this area is weak, no amount of paperwork will get you through.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> Even a notice that looks like it was denied "without stated reasons" almost always has internal grounds behind it. You can partially uncover the basis through an Information Disclosure Request to Immigration, and reapplying blindly without that information usually leads to another denial on the same grounds.
+<div>
+  <strong>⚠️ Note:</strong> Even a notice that looks like it was denied "without stated reasons" almost always has internal grounds behind it. You can partially uncover the basis through an Information Disclosure Request to Immigration, and reapplying blindly without that information usually leads to another denial on the same grounds.
 </div>
 
 ## How to Read the Denial Notice
@@ -103,39 +90,39 @@ The denial notice is short, but **every cited statute and phrase determines what
 
 ### Decoding the Wording on Denial Notices
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Wording on Notice</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Actual Weak Point</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Priority Reinforcement</th>
+      <th>Wording on Notice</th>
+      <th>Actual Weak Point</th>
+      <th>Priority Reinforcement</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"Difficult to confirm genuineness of marriage"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Insufficient relationship evidence</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Chronological dating record</td>
+      <td>"Difficult to confirm genuineness of marriage"</td>
+      <td>Insufficient relationship evidence</td>
+      <td>Chronological dating record</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"Sponsor's ability to support family inadequate"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Weak income/asset documentation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Add employment and tax records</td>
+      <td>"Sponsor's ability to support family inadequate"</td>
+      <td>Weak income/asset documentation</td>
+      <td>Add employment and tax records</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"Difficulty in communication"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No proof of language ability</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">TOPIK score, course completion certificate</td>
+      <td>"Difficulty in communication"</td>
+      <td>No proof of language ability</td>
+      <td>TOPIK score, course completion certificate</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"National interest or public safety concerns"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Issues found in background check</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Explanatory statement, legal counsel</td>
+      <td>"National interest or public safety concerns"</td>
+      <td>Issues found in background check</td>
+      <td>Explanatory statement, legal counsel</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"Doubt over authenticity of submitted documents"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Translation/notarization issues or factual conflicts</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Reissue and re-notarize documents</td>
+      <td>"Doubt over authenticity of submitted documents"</td>
+      <td>Translation/notarization issues or factual conflicts</td>
+      <td>Reissue and re-notarize documents</td>
     </tr>
   </tbody>
 </table>
@@ -150,39 +137,39 @@ After a denial, you have two paths. Which one favors you depends on the denial r
 
 ### Appeal vs. Reapplication, Side by Side
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Appeal (incl. Administrative Trial)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Reapplication</th>
+      <th>Category</th>
+      <th>Appeal (incl. Administrative Trial)</th>
+      <th>Reapplication</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Deadline</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Within 90 days of receiving notice (administrative trial)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No fixed limit (separate guidance may apply)</td>
+      <td>Deadline</td>
+      <td>Within 90 days of receiving notice (administrative trial)</td>
+      <td>No fixed limit (separate guidance may apply)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Nature</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Contests the legality or fairness of the prior denial</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Filed as a brand-new case</td>
+      <td>Nature</td>
+      <td>Contests the legality or fairness of the prior denial</td>
+      <td>Filed as a brand-new case</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Best Suited For</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Clear factual or legal errors</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">When weak points can be reinforced</td>
+      <td>Best Suited For</td>
+      <td>Clear factual or legal errors</td>
+      <td>When weak points can be reinforced</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Time Required</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Several months up to 6+ months</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Standard review timeline after refiling</td>
+      <td>Time Required</td>
+      <td>Several months up to 6+ months</td>
+      <td>Standard review timeline after refiling</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Practical Approval Rate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Generally low</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Higher when remediation is thorough</td>
+      <td>Practical Approval Rate</td>
+      <td>Generally low</td>
+      <td>Higher when remediation is thorough</td>
     </tr>
   </tbody>
 </table>
@@ -193,8 +180,8 @@ After a denial, you have two paths. Which one favors you depends on the denial r
 - If the denial is based on an **abstract judgment of genuineness**, a reapplication is more favorable. The same person reviewing the same materials rarely changes their mind.
 - If time is critical, a **reapplication** is the rational choice. Administrative trials commonly take more than 6 months.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> Filing an appeal and preparing a reapplication in parallel is risky. Litigating the same matter on two tracks can lead to conflicting statements and leaves a poor impression on reviewers. Picking one lane and committing to it raises your odds.
+<div>
+  <strong>💡 Practical Tip:</strong> Filing an appeal and preparing a reapplication in parallel is risky. Litigating the same matter on two tracks can lead to conflicting statements and leaves a poor impression on reviewers. Picking one lane and committing to it raises your odds.
 </div>
 
 ## Strategies for Strengthening Income and Financial Requirements
@@ -207,44 +194,44 @@ The figure shifts year to year, but generally Korea requires income at or above 
 
 ### Priority of Income Documentation
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Document</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Evidentiary Strength</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Practical Notes</th>
+      <th>Document</th>
+      <th>Evidentiary Strength</th>
+      <th>Practical Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Withholding tax receipt for earned income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Very strong</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Most recent year is the baseline</td>
+      <td>Withholding tax receipt for earned income</td>
+      <td>Very strong</td>
+      <td>Most recent year is the baseline</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Income certificate (Sodeuk-geumaek)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Strong</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Issued by the National Tax Service</td>
+      <td>Income certificate (Sodeuk-geumaek)</td>
+      <td>Strong</td>
+      <td>Issued by the National Tax Service</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">VAT taxable base for business owners</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Strong</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Essential for the self-employed</td>
+      <td>VAT taxable base for business owners</td>
+      <td>Strong</td>
+      <td>Essential for the self-employed</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Employment certificate / contract</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Moderate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Weak when submitted alone</td>
+      <td>Employment certificate / contract</td>
+      <td>Moderate</td>
+      <td>Weak when submitted alone</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bank balance / asset certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Supporting</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Weak as a substitute for income</td>
+      <td>Bank balance / asset certificate</td>
+      <td>Supporting</td>
+      <td>Weak as a substitute for income</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Real estate registry / rental income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Supporting</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">More credit when the cash flow is regular</td>
+      <td>Real estate registry / rental income</td>
+      <td>Supporting</td>
+      <td>More credit when the cash flow is regular</td>
     </tr>
   </tbody>
 </table>
@@ -264,11 +251,7 @@ The income requirement may be waived or relaxed in the following cases.
 Whether an exemption applies varies case by case, so check with the relevant authority.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/20325768/pexels-photo-20325768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Explore Bukchon Hanok Village in Seoul, showcasing traditional Korean architecture and bustling streets." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Explore Bukchon Hanok Village in Seoul, showcasing traditional Korean architecture and bustling streets.](https://images.pexels.com/photos/20325768/pexels-photo-20325768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## Rebuilding Evidence of a Genuine Relationship
@@ -279,18 +262,18 @@ The toughest denial reason to address is lack of genuineness. The core of remedi
 
 What the reviewer wants to see is "how the two of you met, what time you spent together, and why you decided to marry." A curated set of **30 photos arranged chronologically** has a higher pass rate than 100 scattered photos.
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Relationship Evidence Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>A statement describing how and when you first met (introduction, social media, travel, etc.)</li>
-    <li>Chronological photos: early dating → mid-relationship → wedding → marriage registration</li>
-    <li>Messenger and call log screenshots (with dates visible)</li>
-    <li>Mutual visit history shown via flight tickets and immigration records</li>
-    <li>Records of money transfers, gifts, and other financial exchanges</li>
-    <li>Photos or videos with family and acquaintances together</li>
-    <li>Wedding photos and a guest list</li>
-    <li>Public records like marriage registration and family relationship certificate</li>
-  </ul>
+<div>
+  <strong>✅ Relationship Evidence Checklist</strong>
+
+    A statement describing how and when you first met (introduction, social media, travel, etc.)
+    Chronological photos: early dating → mid-relationship → wedding → marriage registration
+    Messenger and call log screenshots (with dates visible)
+    Mutual visit history shown via flight tickets and immigration records
+    Records of money transfers, gifts, and other financial exchanges
+    Photos or videos with family and acquaintances together
+    Wedding photos and a guest list
+    Public records like marriage registration and family relationship certificate
+
 </div>
 
 ### How to Write the Personal Statement
@@ -301,8 +284,8 @@ What stands out in a personal statement is **specificity** rather than length. D
 
 Each spouse should write their own statement, but **the underlying facts must align**. If one says you met in April and the other says June, that becomes grounds for denial on the spot. Before either of you starts writing, **build a shared timeline together** first.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> Submitting clipped fragments of social media messages invites suspicion. Where possible, capture continuous threads showing both the start and end dates, and attach translations alongside any conversations in foreign languages.
+<div>
+  <strong>⚠️ Note:</strong> Submitting clipped fragments of social media messages invites suspicion. Where possible, capture continuous threads showing both the start and end dates, and attach translations alongside any conversations in foreign languages.
 </div>
 
 ## Interview Preparation and Consistency in Statements
@@ -311,39 +294,39 @@ Compared with other visa categories, **the interview carries unusually heavy wei
 
 ### Common Question Categories
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Question Area</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Sample Question</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Preparation Point</th>
+      <th>Question Area</th>
+      <th>Sample Question</th>
+      <th>Preparation Point</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">How you met</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Place, time, and who introduced you</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Align dates and locations</td>
+      <td>How you met</td>
+      <td>Place, time, and who introduced you</td>
+      <td>Align dates and locations</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Decision to marry</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">When and who proposed first</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Back it up with photos and messages</td>
+      <td>Decision to marry</td>
+      <td>When and who proposed first</td>
+      <td>Back it up with photos and messages</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Daily life details</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Spouse's job, family, hobbies</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Memorize basic personal info</td>
+      <td>Daily life details</td>
+      <td>Spouse's job, family, hobbies</td>
+      <td>Memorize basic personal info</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Language use</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Which language you usually speak together</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Match the language you actually use</td>
+      <td>Language use</td>
+      <td>Which language you usually speak together</td>
+      <td>Match the language you actually use</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Future plans</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Residence and career plans after entering Korea</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Align with the sponsor's answers</td>
+      <td>Future plans</td>
+      <td>Residence and career plans after entering Korea</td>
+      <td>Align with the sponsor's answers</td>
     </tr>
   </tbody>
 </table>
@@ -375,8 +358,8 @@ These are the mistakes most frequently seen in reapplications after a first deni
 6. **Reapplying immediately (within 2 weeks) after denial** — there isn't enough time to reinforce the case, so the result is the same
 7. **Trying to hide the denial history by routing through a different visa** — everything remains visible in the immigration system
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> Entering on a short-term visit visa (C-3) after denial to continue married life and then applying for an F-6 inside Korea works only in limited cases, and the change of status itself can be denied. Forced workarounds erode credibility on your next application.
+<div>
+  <strong>⚠️ Note:</strong> Entering on a short-term visit visa (C-3) after denial to continue married life and then applying for an F-6 inside Korea works only in limited cases, and the change of status itself can be denied. Forced workarounds erode credibility on your next application.
 </div>
 
 ### Cases Where the Remediation Direction Was Wrong
@@ -389,39 +372,39 @@ Rather than refiling immediately after a denial, **stockpiling supporting eviden
 
 ### Step-by-Step Flow for Appeals and Reapplications
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Stage</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">What to Do</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Time Estimate</th>
+      <th>Stage</th>
+      <th>What to Do</th>
+      <th>Time Estimate</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Analyze the denial notice and pin down the reason</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>Step 1</td>
+      <td>Analyze the denial notice and pin down the reason</td>
+      <td>1–2 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Use an Information Disclosure Request to surface internal grounds</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–3 weeks</td>
+      <td>Step 2</td>
+      <td>Use an Information Disclosure Request to surface internal grounds</td>
+      <td>2–3 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Decide between appeal and reapplication</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 week</td>
+      <td>Step 3</td>
+      <td>Decide between appeal and reapplication</td>
+      <td>1 week</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Strengthen evidence per reason and rewrite personal statements</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">4–8 weeks</td>
+      <td>Step 4</td>
+      <td>Strengthen evidence per reason and rewrite personal statements</td>
+      <td>4–8 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Refile and prepare for the interview</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Typically 1–3 months of review</td>
+      <td>Step 5</td>
+      <td>Refile and prepare for the interview</td>
+      <td>Typically 1–3 months of review</td>
     </tr>
   </tbody>
 </table>
@@ -454,7 +437,6 @@ Because F-6 denial reasons tend to be abstract, **trying to chart a remediation 
 
 **Vision Administrative Office (VISION Administrative Office)**
 
-- Phone: 02-363-2251
 - Email: 5000meter@gmail.com
 - Address: (04614) 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul
 
@@ -467,4 +449,3 @@ If you bring your denial notice, previously submitted documents, and immigration
 Don't navigate complex procedures alone. Our professional consultants will guide you.
 
 **[Request Free Consultation](https://visaskorea.co.kr/en/contact)**
-

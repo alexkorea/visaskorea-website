@@ -12,23 +12,8 @@ The D-8-4 is designed for foreign founders who **cannot meet the 100 million KRW
 
 The step that trips up most applicants in practice isn't the number of documents but rather **explaining "why this business qualifies as a technology startup."** Holding up a single patent doesn't automatically make you a D-8-4 candidate — the patent must clearly tie to the corporation's actual business operations. Below, we'll walk through eligibility requirements, documents, the OASIS points system, application procedures, differences from D-8-1, and common reasons for rejection.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Is the D-8-4 Technology Startup Visa</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Detailed Eligibility Requirements</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. OASIS Startup Immigration System and the Points Scheme</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Complete Document Checklist</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Application Process Step by Step</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Comparing D-8-1, D-8-2, and D-8-4</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Stay Period, Extension, and Family Accompaniment</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes and Reasons for Rejection</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. Consultation Information</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">1. What Is the D-8-4 Technology Startup Visa
+## 1. What Is the D-8-4 Technology Startup Visa
 
 The D-8-4 refers to the **technology startup (OASIS) track within the D-8 Corporate Investment visa category**. Unlike the standard D-8-1 for general corporate establishment or the D-8-2 for venture enterprises, the D-8-4 recognizes the founder's **intellectual property and academic credentials** as a substitute for capital. Its official name is "Technology Startup," and it is categorized as a subclass of D-8 Corporate Investment under Attached Table 1-2 of the Enforcement Decree of the Immigration Act.
 
@@ -44,44 +29,44 @@ The biggest difference is that **the 100 million KRW minimum investment requirem
 
 The most common pathway is entering Korea on a D-10 job-seeker visa, completing startup preparations, and then changing status to D-8-4.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> The D-8-4 is often misunderstood as "a visa you can get without capital." In actual review, you must demonstrate the substance of your corporate operations, so supporting evidence such as an office lease, utility bills, and social insurance enrollment must also be in place.
+<div>
+  <strong>💡 Practical Tip:</strong> The D-8-4 is often misunderstood as "a visa you can get without capital." In actual review, you must demonstrate the substance of your corporate operations, so supporting evidence such as an office lease, utility bills, and social insurance enrollment must also be in place.
 </div>
 
-<h2 id="section-2">2. Detailed Eligibility Requirements
+## 2. Detailed Eligibility Requirements
 
 D-8-4 eligibility branches into two main tracks: **degree-based + OASIS points** and **intellectual property-based**. Satisfying just one qualifies you to apply, but in practice **applicants who meet both conditions have higher approval rates**.
 
 ### 2-1. Academic Requirements
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Minimum Degree</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Notes</th>
+      <th>Category</th>
+      <th>Minimum Degree</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Korean university graduate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bachelor's or higher</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No major restriction; original graduation certificate</td>
+      <td>Korean university graduate</td>
+      <td>Bachelor's or higher</td>
+      <td>No major restriction; original graduation certificate</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Overseas university graduate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bachelor's or higher</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Apostille or consular confirmation required</td>
+      <td>Overseas university graduate</td>
+      <td>Bachelor's or higher</td>
+      <td>Apostille or consular confirmation required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Master's / doctoral program completer</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Master's preferred</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bonus points in the OASIS system</td>
+      <td>Master's / doctoral program completer</td>
+      <td>Master's preferred</td>
+      <td>Bonus points in the OASIS system</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Junior college graduate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not eligible alone</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Possible only with intellectual property</td>
+      <td>Junior college graduate</td>
+      <td>Not eligible alone</td>
+      <td>Possible only with intellectual property</td>
     </tr>
   </tbody>
 </table>
@@ -106,54 +91,54 @@ Foreign-granted patents must be converted into a Korean Intellectual Property Of
 - Secured physical business address (virtual offices are generally not accepted)
 - Business registration certificate issued
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Virtual offices (including some shared office spaces) are increasingly cited as grounds for rejection. At a minimum, you need an independent space with a dedicated unit number assigned to you, and the lease agreement must specify the exclusive floor area.
+<div>
+  <strong>⚠️ Caution:</strong> Virtual offices (including some shared office spaces) are increasingly cited as grounds for rejection. At a minimum, you need an independent space with a dedicated unit number assigned to you, and the lease agreement must specify the exclusive floor area.
 </div>
 
-<h2 id="section-3">3. OASIS Startup Immigration System and the Points Scheme
+## 3. OASIS Startup Immigration System and the Points Scheme
 
 D-8-4 applications accumulate points through the **OASIS (Overall Assistance for Startup Immigration System) program** operated by the Ministry of Justice. It's not simply a yes/no check on eligibility — **accumulating 80 points or more** is effectively the passing line.
 
 ### 3-1. Points Category Overview
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Max Points</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Details</th>
+      <th>Category</th>
+      <th>Max Points</th>
+      <th>Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Education</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 25 pts</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">PhD 25 / Master's 20 / Bachelor's 15</td>
+      <td>Education</td>
+      <td>Up to 25 pts</td>
+      <td>PhD 25 / Master's 20 / Bachelor's 15</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Intellectual property</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 30 pts</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Patent 30 / Utility model 20 / Design·Trademark 10</td>
+      <td>Intellectual property</td>
+      <td>Up to 30 pts</td>
+      <td>Patent 30 / Utility model 20 / Design·Trademark 10</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Korean language proficiency</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 20 pts</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">TOPIK Level 6: 20 / Level 5: 15 / Level 4: 10</td>
+      <td>Korean language proficiency</td>
+      <td>Up to 20 pts</td>
+      <td>TOPIK Level 6: 20 / Level 5: 15 / Level 4: 10</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Startup training</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 10 pts</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Completion of OASIS-1 basic training</td>
+      <td>Startup training</td>
+      <td>Up to 10 pts</td>
+      <td>Completion of OASIS-1 basic training</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Startup competition awards</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 15 pts</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Placement in government- or local-recognized competitions</td>
+      <td>Startup competition awards</td>
+      <td>Up to 15 pts</td>
+      <td>Placement in government- or local-recognized competitions</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Investment attracted</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 20 pts</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Tiered by VC / angel investment amount</td>
+      <td>Investment attracted</td>
+      <td>Up to 20 pts</td>
+      <td>Tiered by VC / angel investment amount</td>
     </tr>
   </tbody>
 </table>
@@ -168,28 +153,28 @@ OASIS is organized in stages: OASIS-1 (basic training), OASIS-2 (advanced), OASI
 
 If you hold only a bachelor's degree and no patent, reaching 80 points is tight. In that case, the plan is to **raise your TOPIK score, win a startup competition, or attract investment** to fill the gap. The practical approach is to lay out the points table and start plugging the weakest categories first.
 
-<h2 id="section-4">4. Complete Document Checklist
+## 4. Complete Document Checklist
 
 ### 4-1. Core Documents
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Required Document Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Application for Confirmation of Visa Issuance or Application for Change of Status</li>
-    <li>Passport (original and copy)</li>
-    <li>One standard passport photo (3.5cm × 4.5cm, taken within the last 6 months)</li>
-    <li>Fees (130,000 KRW for status change, plus separate CCVI issuance fee)</li>
-    <li>Corporate registration certificate</li>
-    <li>Copy of business registration certificate</li>
-    <li>Articles of incorporation</li>
-    <li>Shareholder register</li>
-    <li>Office lease agreement and proof of recent rent payments</li>
-    <li>Business plan (including technical merit, market viability, and revenue model)</li>
-    <li>Degree certificate and academic transcript (apostille or consular confirmation)</li>
-    <li>Certified copy of intellectual property registration (patent registration, etc.)</li>
-    <li>Supporting evidence for OASIS points calculation</li>
-    <li>Proof of residence (lease agreement or accommodation confirmation)</li>
-  </ul>
+<div>
+  <strong>✅ Required Document Checklist</strong>
+
+    Application for Confirmation of Visa Issuance or Application for Change of Status
+    Passport (original and copy)
+    One standard passport photo (3.5cm × 4.5cm, taken within the last 6 months)
+    Fees (130,000 KRW for status change, plus separate CCVI issuance fee)
+    Corporate registration certificate
+    Copy of business registration certificate
+    Articles of incorporation
+    Shareholder register
+    Office lease agreement and proof of recent rent payments
+    Business plan (including technical merit, market viability, and revenue model)
+    Degree certificate and academic transcript (apostille or consular confirmation)
+    Certified copy of intellectual property registration (patent registration, etc.)
+    Supporting evidence for OASIS points calculation
+    Proof of residence (lease agreement or accommodation confirmation)
+
 </div>
 
 ### 4-2. Filing Abroad vs. Domestic Status Change
@@ -208,56 +193,56 @@ With business plans, persuasiveness matters more than length. Reviewers look at 
 
 Vague phrases like "responding to the Fourth Industrial Revolution" are more likely to hurt than help. The connection between your patent claims and your business must be spelled out in writing.
 
-<h2 id="section-5">5. Application Process Step by Step
+## 5. Application Process Step by Step
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Description</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Estimated Time</th>
+      <th>Step</th>
+      <th>Description</th>
+      <th>Estimated Time</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Complete OASIS training and calculate points</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–4 weeks</td>
+      <td>Step 1</td>
+      <td>Complete OASIS training and calculate points</td>
+      <td>2–4 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">File or finalize transfer of intellectual property</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Several weeks to months</td>
+      <td>Step 2</td>
+      <td>File or finalize transfer of intellectual property</td>
+      <td>Several weeks to months</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Establish corporation and register business</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–3 weeks</td>
+      <td>Step 3</td>
+      <td>Establish corporation and register business</td>
+      <td>2–3 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Lease office and set up operations</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>Step 4</td>
+      <td>Lease office and set up operations</td>
+      <td>1–2 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 5</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Draft business plan and assemble documents</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–4 weeks</td>
+      <td>Step 5</td>
+      <td>Draft business plan and assemble documents</td>
+      <td>2–4 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 6</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Book visit to competent Immigration Office and file</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–4 weeks after booking</td>
+      <td>Step 6</td>
+      <td>Book visit to competent Immigration Office and file</td>
+      <td>2–4 weeks after booking</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 7</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Review in progress (on-site inspection if needed)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–6 weeks</td>
+      <td>Step 7</td>
+      <td>Review in progress (on-site inspection if needed)</td>
+      <td>2–6 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Step 8</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Approval notice and issuance of Alien Registration Card</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>Step 8</td>
+      <td>Approval notice and issuance of Alien Registration Card</td>
+      <td>1–2 weeks</td>
     </tr>
   </tbody>
 </table>
@@ -277,61 +262,57 @@ To curb abuse of the technology startup track, the Ministry of Justice has been 
 - Whether the posted company name matches the registered name
 - Whether bank account activity aligns with business operations
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> If no one — neither the applicant nor an employee — is present on the day of inspection, the company is suspected of being a "paper company." Since inspection notice is often not given in advance, staying at the office between filing and approval is the safer choice.
+<div>
+  <strong>⚠️ Caution:</strong> If no one — neither the applicant nor an employee — is present on the day of inspection, the company is suspected of being a "paper company." Since inspection notice is often not given in advance, staying at the office between filing and approval is the safer choice.
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up view of an open passport displaying various travel stamps in an airport setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Close-up view of an open passport displaying various travel stamps in an airport setting.](https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">6. Comparing D-8-1, D-8-2, and D-8-4
+## 6. Comparing D-8-1, D-8-2, and D-8-4
 
 ### 6-1. Differences Among the Three Types
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-1</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-2</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-4</th>
+      <th>Category</th>
+      <th>D-8-1</th>
+      <th>D-8-2</th>
+      <th>D-8-4</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Target</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Staff of foreign-invested corporations</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Venture enterprise founders</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign technology founders</td>
+      <td>Target</td>
+      <td>Staff of foreign-invested corporations</td>
+      <td>Venture enterprise founders</td>
+      <td>Foreign technology founders</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Minimum investment</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">100 million KRW or more</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Separate capital requirement</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No monetary requirement</td>
+      <td>Minimum investment</td>
+      <td>100 million KRW or more</td>
+      <td>Separate capital requirement</td>
+      <td>No monetary requirement</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Core evidence</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign investment notification</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Venture enterprise certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Degree + IP + OASIS points</td>
+      <td>Core evidence</td>
+      <td>Foreign investment notification</td>
+      <td>Venture enterprise certificate</td>
+      <td>Degree + IP + OASIS points</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporate form</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Stock / limited liability</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Venture-certified corporation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">General corporation acceptable</td>
+      <td>Corporate form</td>
+      <td>Stock / limited liability</td>
+      <td>Venture-certified corporation</td>
+      <td>General corporation acceptable</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Review focus</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Origin of capital transfer</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Ongoing venture status</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Technical merit and business link</td>
+      <td>Review focus</td>
+      <td>Origin of capital transfer</td>
+      <td>Ongoing venture status</td>
+      <td>Technical merit and business link</td>
     </tr>
   </tbody>
 </table>
@@ -344,7 +325,7 @@ If you can actually remit 100 million KRW in capital, D-8-1 is faster and cleane
 
 One viable strategy is to enter and launch under D-8-4 initially, and once the business grows, add a foreign investment notification to **convert to or run in parallel with D-8-1**. Your visa status is not set in stone.
 
-<h2 id="section-7">7. Stay Period, Extension, and Family Accompaniment
+## 7. Stay Period, Extension, and Family Accompaniment
 
 ### 7-1. Initial Period of Stay
 
@@ -368,11 +349,11 @@ Spouses and minor children of a D-8-4 holder can stay together on an **F-3 depen
 
 While residing on D-8-4, accumulating enough points allows you to **change to F-2-7 (points-based residency)**, and after five or more years on F-2 you can apply for F-5 permanent residency. If you're planning for long-term settlement, it pays to map out this route in advance.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> Starting three months before your extension deadline, consolidate your revenue records, tax payment evidence, and employee social insurance records into a single file. The overwhelming majority of extension rejections come down to "no documents to prove performance." You don't fail because you lack documents — you fail because you didn't keep records along the way.
+<div>
+  <strong>💡 Practical Tip:</strong> Starting three months before your extension deadline, consolidate your revenue records, tax payment evidence, and employee social insurance records into a single file. The overwhelming majority of extension rejections come down to "no documents to prove performance." You don't fail because you lack documents — you fail because you didn't keep records along the way.
 </div>
 
-<h2 id="section-8">8. Common Mistakes and Reasons for Rejection
+## 8. Common Mistakes and Reasons for Rejection
 
 ### 8-1. The Misconception That a Patent Is All You Need
 
@@ -398,11 +379,11 @@ Because there's no capital requirement, some applicants form a corporation with 
 
 If you failed to properly report job-seeking activity during D-10 status, or exceeded the part-time work limit as a D-2 student, you'll be penalized during the status change. **Whether you've faithfully complied with your current visa status** is also a review point.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Once rejected, your "prior rejection history" remains on record. Reapplication isn't impossible, but if you refile without addressing the reason for rejection, the second attempt will return the same result. Rushing your first filing is slower in the end than filing once preparations are fully complete.
+<div>
+  <strong>⚠️ Caution:</strong> Once rejected, your "prior rejection history" remains on record. Reapplication isn't impossible, but if you refile without addressing the reason for rejection, the second attempt will return the same result. Rushing your first filing is slower in the end than filing once preparations are fully complete.
 </div>
 
-<h2 id="section-9">9. Frequently Asked Questions (FAQ)
+## 9. Frequently Asked Questions (FAQ)
 
 **Q1. My patent is still pending — can I apply for D-8-4 before it's granted?**
 
@@ -424,14 +405,13 @@ A. There's no statutory minimum, but **30 to 50 million KRW or more is recommend
 
 A. Switching to a completely different industry can jeopardize your D-8-4 status. This is because **the very identity of "technology startup" gets shaken**. Expanding within the scope connected to your existing intellectual property is less problematic, but when replacing your industry wholesale, confirm with the competent Immigration Office in advance.
 
-<h2 id="section-10">10. Consultation Information
+## 10. Consultation Information
 
 The D-8-4 has relatively few required documents, yet its approval rate is low. The reason is simple: too many applications **lack the narrative that connects degree, patent, and business plan**. No matter how strong your patent or how advanced your degree, if the explanation that ties these three into a single business is weak, the application falters at review.
 
 Vision Administrative Affairs Office has handled numerous D-8-series corporate investment visa cases, particularly D-8-4 technology startup and D-8-2 venture startup applications. We provide step-by-step guidance, from OASIS points planning and business plan structuring to on-site inspection preparation.
 
 **📞 Vision Administrative Affairs Office**
-- Phone: **02-363-2251**
 - Email: **5000meter@gmail.com**
 - Address: 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614
 

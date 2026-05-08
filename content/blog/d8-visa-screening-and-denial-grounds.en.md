@@ -10,22 +10,8 @@ slug: "d8-visa-screening-and-denial-grounds"
 
 What decides D-8 visa approval is not the size of the capital but **how the source of funds is explained and whether the business has real substance**. Applicants must be essential professional personnel of a foreign-invested company that meets the investment requirements under the Foreign Investment Promotion Act, and both incorporation and foreign investment notification must be completed before the application can be filed. Below, I walk through what reviewers look at first, the rejection reasons that come up most often, and the points where a case can still be saved during the supplementation stage.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What D-8 Reviewers Actually Look For — Persuasiveness Over Document Count</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Capital Requirements — Eligibility Beats Amount</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Business Plan — Persuasiveness Over Length</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Top 5 D-8 Rejection Reasons — Phrases That Show Up in Actual Notices</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. After Rejection — Supplementation or Refiling Comes First</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Pre-Application Self-Check Checklist</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Frequently Asked Questions (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Consultation</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Need Expert Consultation?</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">What D-8 Reviewers Actually Look For — Persuasiveness Over Document Count
+## What D-8 Reviewers Actually Look For — Persuasiveness Over Document Count
 
 ### The flow of funds matters more than the balance
 
@@ -37,7 +23,7 @@ Real substance is recognized when the office lease, business registration, emplo
 
 > **Practical tip:** Many applicants file within one to two months of incorporation with zero revenue, but having contracts, purchase orders, or MOUs that show the stage of business progress makes proving substance much easier.
 
-<h2 id="section-2">Capital Requirements — Eligibility Beats Amount
+## Capital Requirements — Eligibility Beats Amount
 
 ### Qualifying capital under the Foreign Investment Promotion Act
 
@@ -59,7 +45,7 @@ These four show up most often during supplementation. Threshold figures for capi
 | Use of capital | Evidence of use for business operations | Immediate withdrawal, transfer to personal account |
 | Foreign-invested company registration | Registration certificate issued | Visa filed before registration |
 
-<h2 id="section-3">Business Plan — Persuasiveness Over Length
+## Business Plan — Persuasiveness Over Length
 
 ### The structure a reviewer reads in five minutes
 
@@ -76,7 +62,7 @@ When this part is weak, even sufficient capital ends in supplementation or rejec
 
 > **Caution:** When the revenue projections in the business plan don't match the corporate account's transaction flow, reviewers treat it as a credibility issue. The plan and the accounting records need to speak with the same voice.
 
-<h2 id="section-4">Top 5 D-8 Rejection Reasons — Phrases That Show Up in Actual Notices
+## Top 5 D-8 Rejection Reasons — Phrases That Show Up in Actual Notices
 
 ### 1) Unclear source of funds
 
@@ -99,17 +85,12 @@ The foreign investment notification is done, but the visa is filed before regist
 A history of overstaying on a short-term visa, illegal employment, or submitting false documents. With this background, the same documentation gets a different level of scrutiny. How much stricter the review becomes depends on the individual record, so a pre-review is the first step.
 
 > Exact costs and procedures should be confirmed through expert consultation.
-> **Free consultation now → 02-363-2251 / KakaoTalk: alexkorea**
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up view of an open passport displaying various travel stamps in an airport setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Close-up view of an open passport displaying various travel stamps in an airport setting.](https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">After Rejection — Supplementation or Refiling Comes First
+## After Rejection — Supplementation or Refiling Comes First
 
 ### Supplementation order vs. rejection notice
 
@@ -131,7 +112,7 @@ Resubmitting the same documents for the same reason gives nearly the same result
 | Response | Submit specified additional documents | Analyze rejection reason and reinforce |
 | Record | Relatively light | May affect future reviews |
 
-<h2 id="section-6">Pre-Application Self-Check Checklist
+## Pre-Application Self-Check Checklist
 
 - Does the remittance flow run in a single line from your overseas account to the capital account?
 - Are both the foreign investment notification certificate and the foreign-invested company registration certificate in hand?
@@ -144,7 +125,7 @@ If two or more of these six points are weak, reinforcement before filing is what
 
 Detailed D-8 operating guidelines are available from the Korea Immigration Service at [Hi Korea visa information](https://www.hikorea.go.kr) and [Korea Immigration Service notices](https://www.immigration.go.kr). Detailed criteria can change, so confirmation with the responsible authority is recommended.
 
-<h2 id="section-7">Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 **Q1. Is it enough for the D-8 capital to just sit in the bank account?**
 No. More than the balance, what comes first is whether the foreign investment notification and foreign-invested company registration are complete and the investment qualifies. The remittance flow under the applicant's own name has to stay unbroken.
@@ -164,13 +145,12 @@ Eligibility aside, the burden of proving substance gets heavier. Without suffici
 **Q6. Can I use the capital for business operations?**
 Evidence of use that fits the business purpose actually helps prove substance. However, a pattern of withdrawing to a personal account immediately after payment can lead to rejection.
 
-<h2 id="section-8">Consultation
+## Consultation
 
 Costs vary by case and will be explained precisely during the free consultation. Government fees consist of the official government fee plus administrative processing costs, and additional documentation costs may vary by case.
 
 **VISION Administrative Office**
 
-- Phone: 02-363-2251
 - KakaoTalk: alexkorea
 - Email: 5000meter@gmail.com
 - Address: 3F, 324 Toegye-ro, Jung-gu, Seoul (Sungwoo Building), 04614
@@ -179,9 +159,8 @@ If you're heading into a D-8 application and the source-of-funds explanation, bu
 
 ---
 
-<h2 id="section-9">Need Expert Consultation?
+## Need Expert Consultation?
 
 Don't navigate complex procedures alone. Our professional consultants will guide you.
 
 **[Request Free Consultation](https://visaskorea.co.kr/en/contact)**
-

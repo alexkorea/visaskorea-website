@@ -12,25 +12,10 @@ D-8企业投资签证是外国人在韩国设立法人并亲自从事经营活�
 
 问题正是从这里开始的。仅仅把1亿韩元存入银行账户，并不意味着签证就能自动获批。<strong>这笔资金从何而来、法人是否具备实际运营条件、商业计划是否切实可行</strong>，审查官都会逐一核实。即使材料齐全，只要上述任何一个环节出现断裂，申请就会被驳回。而这恰恰是大多数人在自行准备过程中最容易受阻的地方。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 什么是D-8企业投资签证——签证类型与适用对象</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 注册资本要求的实际标准——1亿韩元意味着什么</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. D-8签证申请流程——分步详解</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 所需材料清单及准备注意事项</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 商业计划书撰写——决定审查成败的关键</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 资金来源证明——最容易受阻的环节</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 审查标准与所需时间</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见错误与驳回案例</a></li>
-    <li><a href="#section-faq" style="color:#2563eb;text-decoration:none">9. 常见问题解答（FAQ）</a></li>
-    <li><a href="#section-cta" style="color:#2563eb;text-decoration:none">10. 远景行政士事务所咨询指南</a></li>
-  </ul>
-</nav>
 
 ---
 
-<h2 id="section-1">1. 什么是D-8企业投资签证——签证类型与适用对象
+## 1. 什么是D-8企业投资签证——签证类型与适用对象
 
 ### D-8签证的定义
 
@@ -40,34 +25,34 @@ D-8企业投资签证是根据《出入境管理法施行令》附表1规定的�
 
 D-8签证并非单一类型，而是根据投资形式分为多个子类。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">类型</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">适用对象</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">核心条件</th>
+<tr>
+<th>类型</th>
+<th>适用对象</th>
+<th>核心条件</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8-1</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外商投资企业的经营、管理、生产、技术领域核心人员</td>
-<td style="border:1px solid #e5e7eb;padding:10px">根据《外商投资促进法》完成外商投资企业注册</td>
+<td>D-8-1</td>
+<td>外商投资企业的经营、管理、生产、技术领域核心人员</td>
+<td>根据《外商投资促进法》完成外商投资企业注册</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8-2</td>
-<td style="border:1px solid #e5e7eb;padding:10px">对风险投资企业等进行投资的个人投资者</td>
-<td style="border:1px solid #e5e7eb;padding:10px">持有风险企业认定证书或风险企业投资确认</td>
+<td>D-8-2</td>
+<td>对风险投资企业等进行投资的个人投资者</td>
+<td>持有风险企业认定证书或风险企业投资确认</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8-3</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外国个体经营者（满足投资金额标准）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">投资1亿韩元以上，完成法人或个体工商户注册</td>
+<td>D-8-3</td>
+<td>外国个体经营者（满足投资金额标准）</td>
+<td>投资1亿韩元以上，完成法人或个体工商户注册</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8-4</td>
-<td style="border:1px solid #e5e7eb;padding:10px">技术创业签证（初创企业签证）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">持有知识产权或相关学位 + 以技术为基础创业</td>
+<td>D-8-4</td>
+<td>技术创业签证（初创企业签证）</td>
+<td>持有知识产权或相关学位 + 以技术为基础创业</td>
 </tr>
 </tbody>
 </table>
@@ -80,13 +65,13 @@ D-8签证并非单一类型，而是根据投资形式分为多个子类。
 - 拟在韩国设立分公司或当地法人的海外企业负责人
 - 打算以技术为基础创办初创企业的外籍技术人才
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示：</strong> D-8-4（技术创业）类型在某些情况下可以放宽1亿韩元的资本金要求。如果持有知识产权或拥有相关领域硕士及以上学位，建议优先考虑该类型，可能更为有利。
+<div>
+  <strong>💡 实务提示：</strong> D-8-4（技术创业）类型在某些情况下可以放宽1亿韩元的资本金要求。如果持有知识产权或拥有相关领域硕士及以上学位，建议优先考虑该类型，可能更为有利。
 </div>
 
 ---
 
-<h2 id="section-2">2. 注册资本要求的实际标准——1亿韩元意味着什么
+## 2. 注册资本要求的实际标准——1亿韩元意味着什么
 
 ### 法定标准：1亿韩元以上
 
@@ -100,42 +85,42 @@ D-8签证的资本金标准为<strong>《外商投资促进法》规定的最低
 2. **实际投资是否完成** ——是否已作为法人注册资本完成缴纳
 3. **企业运营的可行性** ——1亿韩元是否足以支撑该业务的实际运营
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 借钱存入账户，在签证申请后立即取出的所谓"过账资金"，审查中很容易被识破。出入境管理局会核查存取款记录，一旦发现资金流向异常，将要求补充说明或直接驳回申请。
+<div>
+  <strong>⚠️ 注意：</strong> 借钱存入账户，在签证申请后立即取出的所谓"过账资金"，审查中很容易被识破。出入境管理局会核查存取款记录，一旦发现资金流向异常，将要求补充说明或直接驳回申请。
 </div>
 
 ### 注册资本与投资金额的区别
 
 这两个容易混淆的概念，可以做如下区分：
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">注册资本</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">投资金额</th>
+<tr>
+<th>区分</th>
+<th>注册资本</th>
+<th>投资金额</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">定义</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法人设立时登记在工商登记簿上的金额</td>
-<td style="border:1px solid #e5e7eb;padding:10px">根据《外商投资促进法》外国人实际投入的金额</td>
+<td>定义</td>
+<td>法人设立时登记在工商登记簿上的金额</td>
+<td>根据《外商投资促进法》外国人实际投入的金额</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">金额标准</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法人设立时可自由设定（无最低限制）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8签证要求最低1亿韩元</td>
+<td>金额标准</td>
+<td>法人设立时可自由设定（无最低限制）</td>
+<td>D-8签证要求最低1亿韩元</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8审查标准</td>
-<td style="border:1px solid #e5e7eb;padding:10px">注册资本本身不是关键，外国人投资比例才是核心</td>
-<td style="border:1px solid #e5e7eb;padding:10px">直接核查外国人名下投资金额是否达到1亿韩元以上</td>
+<td>D-8审查标准</td>
+<td>注册资本本身不是关键，外国人投资比例才是核心</td>
+<td>直接核查外国人名下投资金额是否达到1亿韩元以上</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">常见失误</td>
-<td style="border:1px solid #e5e7eb;padding:10px">注册资本很高但外国人持股比例不足</td>
-<td style="border:1px solid #e5e7eb;padding:10px">投资金额来源证明材料不充分</td>
+<td>常见失误</td>
+<td>注册资本很高但外国人持股比例不足</td>
+<td>投资金额来源证明材料不充分</td>
 </tr>
 </tbody>
 </table>
@@ -146,57 +131,57 @@ D-8-4（技术创业）类型可以放宽资本金要求。持有知识产权或
 
 ---
 
-<h2 id="section-3">3. D-8签证申请流程——分步详解
+## 3. D-8签证申请流程——分步详解
 
 D-8签证申请并非简单地收集材料后提交即可。必须严格按照<strong>设立法人 → 外商投资申报 → 签证申请</strong>的顺序进行，且各步骤分属不同的主管机构。
 
 ### 完整流程
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">步骤</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">内容</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">主管机构</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所需时间</th>
+<tr>
+<th>步骤</th>
+<th>内容</th>
+<th>主管机构</th>
+<th>所需时间</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">1</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外商投资申报</td>
-<td style="border:1px solid #e5e7eb;padding:10px">大韩贸易投资振兴公社（KOTRA）/ 外汇银行</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1~3天</td>
+<td>1</td>
+<td>外商投资申报</td>
+<td>大韩贸易投资振兴公社（KOTRA）/ 外汇银行</td>
+<td>1~3天</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">2</td>
-<td style="border:1px solid #e5e7eb;padding:10px">投资款汇入及外商投资企业注册</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外汇银行 / KOTRA</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1~2周</td>
+<td>2</td>
+<td>投资款汇入及外商投资企业注册</td>
+<td>外汇银行 / KOTRA</td>
+<td>1~2周</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">3</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法人设立登记</td>
-<td style="border:1px solid #e5e7eb;padding:10px">登记所（法院）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">3~7天</td>
+<td>3</td>
+<td>法人设立登记</td>
+<td>登记所（法院）</td>
+<td>3~7天</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">4</td>
-<td style="border:1px solid #e5e7eb;padding:10px">税务登记</td>
-<td style="border:1px solid #e5e7eb;padding:10px">辖区税务署</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1~3天</td>
+<td>4</td>
+<td>税务登记</td>
+<td>辖区税务署</td>
+<td>1~3天</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">5</td>
-<td style="border:1px solid #e5e7eb;padding:10px">办公场所租赁及实体确认</td>
-<td style="border:1px solid #e5e7eb;padding:10px">自行办理</td>
-<td style="border:1px solid #e5e7eb;padding:10px">随时</td>
+<td>5</td>
+<td>办公场所租赁及实体确认</td>
+<td>自行办理</td>
+<td>随时</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">6</td>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8签证申请（签证签发认定书或居留资格变更）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">出入境管理局</td>
-<td style="border:1px solid #e5e7eb;padding:10px">2~6周</td>
+<td>6</td>
+<td>D-8签证申请（签证签发认定书或居留资格变更）</td>
+<td>出入境管理局</td>
+<td>2~6周</td>
 </tr>
 </tbody>
 </table>
@@ -213,28 +198,28 @@ D-8签证申请并非简单地收集材料后提交即可。必须严格按照<s
 
 ---
 
-<h2 id="section-4">4. 所需材料清单及准备注意事项
+## 4. 所需材料清单及准备注意事项
 
 ### 基本材料清单
 
 以下是D-8签证申请中通用的基本材料。根据申请类型（签证签发认定书、居留资格变更等）会有所差异，因此<strong>务必事先向辖区出入境管理局进行最终确认</strong>。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ D-8签证基本材料清单</strong>
-  <ul style="margin-top:12px">
-    <li>护照复印件</li>
-    <li>证件照（3.5cm × 4.5cm）</li>
-    <li>签证申请表（统一申请表）</li>
-    <li>外商投资企业注册证明</li>
-    <li>法人登记簿謄本</li>
-    <li>税务登记证复印件</li>
-    <li>投资款汇款凭证（海外汇款确认书、外汇买入证明等）</li>
-    <li>资金来源证明材料（母国收入证明、财产税纳税证明等）</li>
-    <li>商业计划书</li>
-    <li>办公场所租赁合同及办公室照片</li>
-    <li>股东名册或出资确认书</li>
-    <li>个人简历（含申请人相关工作经历）</li>
-  </ul>
+<div>
+  <strong>✅ D-8签证基本材料清单</strong>
+
+    护照复印件
+    证件照（3.5cm × 4.5cm）
+    签证申请表（统一申请表）
+    外商投资企业注册证明
+    法人登记簿謄本
+    税务登记证复印件
+    投资款汇款凭证（海外汇款确认书、外汇买入证明等）
+    资金来源证明材料（母国收入证明、财产税纳税证明等）
+    商业计划书
+    办公场所租赁合同及办公室照片
+    股东名册或出资确认书
+    个人简历（含申请人相关工作经历）
+
 </div>
 
 ### 材料准备中最容易忽略的要点
@@ -249,13 +234,13 @@ D-8签证申请并非简单地收集材料后提交即可。必须严格按照<s
 
 从母国获取的材料（收入证明、在职证明、学历证明等），<strong>大多数情况下需要进行海牙认证（Apostille）或领事认证</strong>。如果未经认证就提交，材料本身将不被认可。母国材料的准备通常需要2~4周时间，因此这是整个流程中应最先着手办理的部分。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 中国、越南、印度尼西亚等未加入海牙认证公约的国家，需要经过该国外交部认证 + 韩国驻当地大使馆认证的双重程序。仅这一过程就可能耗时一个月以上，务必预留充足的时间。
+<div>
+  <strong>⚠️ 注意：</strong> 中国、越南、印度尼西亚等未加入海牙认证公约的国家，需要经过该国外交部认证 + 韩国驻当地大使馆认证的双重程序。仅这一过程就可能耗时一个月以上，务必预留充足的时间。
 </div>
 
 ---
 
-<h2 id="section-5">5. 商业计划书撰写——决定审查成败的关键
+## 5. 商业计划书撰写——决定审查成败的关键
 
 ### 商业计划书在审查中的重要性
 
@@ -279,58 +264,54 @@ D-8签证申请并非简单地收集材料后提交即可。必须严格按照<s
 
 ### 商业计划书撰写的实务标准
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">项目</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">描述水平——薄弱（有驳回风险）</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">描述水平——充实（可通过审查）</th>
+<tr>
+<th>项目</th>
+<th>描述水平——薄弱（有驳回风险）</th>
+<th>描述水平——充实（可通过审查）</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">业务内容</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"从事贸易业务"</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"从中国进口电子元器件，以B2B模式向韩国制造企业供货。已与3家主要客户签订合作备忘录"</td>
+<td>业务内容</td>
+<td>"从事贸易业务"</td>
+<td>"从中国进口电子元器件，以B2B模式向韩国制造企业供货。已与3家主要客户签订合作备忘录"</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">盈利模式</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"计划实现盈利"</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"单价5,000韩元 × 月供货2万件 = 月营收目标1亿韩元，利润率15%"</td>
+<td>盈利模式</td>
+<td>"计划实现盈利"</td>
+<td>"单价5,000韩元 × 月供货2万件 = 月营收目标1亿韩元，利润率15%"</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">投资金使用</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"用于办公室租赁及日常运营"</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"办公室押金3,000万韩元，首批库存采购4,000万韩元，人工费（6个月）2,000万韩元，营销费用1,000万韩元"</td>
+<td>投资金使用</td>
+<td>"用于办公室租赁及日常运营"</td>
+<td>"办公室押金3,000万韩元，首批库存采购4,000万韩元，人工费（6个月）2,000万韩元，营销费用1,000万韩元"</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">雇佣计划</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"后期计划招聘"</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"公司成立后3个月内计划招聘2名韩国本地员工（销售1名，物流1名），年薪各3,000万韩元"</td>
+<td>雇佣计划</td>
+<td>"后期计划招聘"</td>
+<td>"公司成立后3个月内计划招聘2名韩国本地员工（销售1名，物流1名），年薪各3,000万韩元"</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">市场分析</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"韩国市场很大"</td>
-<td style="border:1px solid #e5e7eb;padding:10px">"2025年韩国电子元器件进口规模约XX万亿韩元。目标客户群为中小型制造企业，年需求量约XX万件"</td>
+<td>市场分析</td>
+<td>"韩国市场很大"</td>
+<td>"2025年韩国电子元器件进口规模约XX万亿韩元。目标客户群为中小型制造企业，年需求量约XX万件"</td>
 </tr>
 </tbody>
 </table>
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示：</strong> 商业计划书的篇幅通常以A4纸10~20页为宜。篇幅太短则说明不充分，太长则重点模糊。审查官每天要处理数十份申请，因此<strong>关键数据和依据一目了然的结构</strong>才是最佳方案。
+<div>
+  <strong>💡 实务提示：</strong> 商业计划书的篇幅通常以A4纸10~20页为宜。篇幅太短则说明不充分，太长则重点模糊。审查官每天要处理数十份申请，因此<strong>关键数据和依据一目了然的结构</strong>才是最佳方案。
 </div>
 
 ---
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">6. 资金来源证明——最容易受阻的环节
+## 6. 资金来源证明——最容易受阻的环节
 
 ### 为什么资金来源证明最为困难
 
@@ -375,7 +356,7 @@ D-8签证申请并非简单地收集材料后提交即可。必须严格按照<s
 
 ---
 
-<h2 id="section-7">7. 审查标准与所需时间
+## 7. 审查标准与所需时间
 
 ### 出入境管理局的审查重点
 
@@ -391,33 +372,33 @@ D-8签证审查中，出入境管理局重点考量的标准如下：
 
 根据申请类型不同，处理时间有所差异。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">申请类型</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">受理机构</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">一般所需时间</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">要求补正时</th>
+<tr>
+<th>申请类型</th>
+<th>受理机构</th>
+<th>一般所需时间</th>
+<th>要求补正时</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">签证签发认定书申请</td>
-<td style="border:1px solid #e5e7eb;padding:10px">出入境管理局</td>
-<td style="border:1px solid #e5e7eb;padding:10px">3~6周</td>
-<td style="border:1px solid #e5e7eb;padding:10px">额外2~4周</td>
+<td>签证签发认定书申请</td>
+<td>出入境管理局</td>
+<td>3~6周</td>
+<td>额外2~4周</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">居留资格变更</td>
-<td style="border:1px solid #e5e7eb;padding:10px">出入境管理局</td>
-<td style="border:1px solid #e5e7eb;padding:10px">2~4周</td>
-<td style="border:1px solid #e5e7eb;padding:10px">额外2~3周</td>
+<td>居留资格变更</td>
+<td>出入境管理局</td>
+<td>2~4周</td>
+<td>额外2~3周</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">驻外使领馆签证签发</td>
-<td style="border:1px solid #e5e7eb;padding:10px">韩国大使馆/领事馆</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1~2周（认定书签发后）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">因机构而异</td>
+<td>驻外使领馆签证签发</td>
+<td>韩国大使馆/领事馆</td>
+<td>1~2周（认定书签发后）</td>
+<td>因机构而异</td>
 </tr>
 </tbody>
 </table>
@@ -432,7 +413,7 @@ D-8签证审查中，出入境管理局重点考量的标准如下：
 
 ---
 
-<h2 id="section-8">8. 常见错误与驳回案例
+## 8. 常见错误与驳回案例
 
 在实际D-8签证申请中，有一些反复出现的典型错误。提前了解这些情况，就能避免重蹈覆辙。
 
@@ -456,13 +437,13 @@ D-8签证审查中，出入境管理局重点考量的标准如下：
 
 只提交一份银行存款证明就认为资金来源证明已完成。存款证明仅能说明"目前账户中有这笔钱"，<strong>完全无法解释这笔钱的来源</strong>。资金来源证明需要单独准备。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 一旦有D-8签证被驳回的记录，再次申请时审查标准将更为严格。从一开始就准确准备好材料和流程，远比被驳回后重新申请更能节省时间和费用。
+<div>
+  <strong>⚠️ 注意：</strong> 一旦有D-8签证被驳回的记录，再次申请时审查标准将更为严格。从一开始就准确准备好材料和流程，远比被驳回后重新申请更能节省时间和费用。
 </div>
 
 ---
 
-<h2 id="section-faq">9. 常见问题解答（FAQ）
+## 9. 常见问题解答（FAQ）
 
 ### Q1. D-8签证的1亿韩元资本金必须以现金方式缴纳吗？
 
@@ -486,16 +467,15 @@ D-8签证审查中，出入境管理局重点考量的标准如下：
 
 ---
 
-<h2 id="section-cta">10. 远景行政士事务所咨询指南
+## 10. 远景行政士事务所咨询指南
 
 D-8企业投资签证涉及从资金筹备、法人设立、材料撰写到签证申请等多个机构的复合流程。其中最难独自完成的，是构建资金来源证明的逻辑链条，以及按照审查标准撰写商业计划书这两个环节——驳回案例也恰恰集中在这两个方面。
 
 远景行政士事务所以实务标准为基础，提供D-8签证申请全流程的专业支持。从资金来源梳理、商业计划书审核、法人设立流程指导到出入境管理局的材料提交，全程亲自跟进办理。
 
-<div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:12px;margin:24px 0;text-align:center">
-  <h3 style="color:#1e40af;margin-top:0">远景行政士事务所（VISION Administrative Office）
-  <p style="margin:8px 0"><strong>电话：</strong> 02-363-2251</p>
-  <p style="margin:8px 0"><strong>邮箱：</strong> 5000meter@gmail.com</p>
-  <p style="margin:8px 0"><strong>地址：</strong> （04614）首尔特别市中区退溪路324号3层（城宇大厦）</p>
-  <p style="margin-top:16px;color:#374151">从资金结构梳理到签证申请，我们将根据您的实际情况提供具体、专业的咨询服务。</p>
+<div>
+### 远景行政士事务所（VISION Administrative Office）
+  <p><strong>邮箱：</strong> 5000meter@gmail.com</p>
+  <p><strong>地址：</strong> （04614）首尔特别市中区退溪路324号3层（城宇大厦）</p>
+  <p>从资金结构梳理到签证申请，我们将根据您的实际情况提供具体、专业的咨询服务。</p>
 </div>

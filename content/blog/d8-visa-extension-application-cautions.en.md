@@ -14,22 +14,8 @@ This guide is for current D-8 holders (D-8-1, D-8-3, D-8-4) — foreign investor
 
 We'll cover when to file, the required documents, what reviewing officers actually look at, the common mistakes that trigger denials, and the recently updated operational standards that change frequently.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What a D-8 Visa Extension Really Is — The Basic Framework First</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. D-8 Extension Process — Step by Step</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Where Things Most Commonly Get Stuck</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. The Critical Mistakes That Trigger Denials</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Recently Updated Operational Standards — What's Felt in Practice</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. D-8 Extension Checklist — Final Pre-Filing Review</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — The Questions We Actually Get</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Need a Professional Consultation?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Need Expert Consultation?</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">What a D-8 Visa Extension Really Is — The Basic Framework First</h2>
+## What a D-8 Visa Extension Really Is — The Basic Framework First
 
 A D-8 extension is not just a stay renewal — it's **a re-verification that your business is still operating normally**.
 
@@ -54,7 +40,7 @@ In practice, filing one to two months before expiration is recommended.
 
 > **Note:** Filing after the expiration date results in fines and can negatively affect future visa reviews. For the exact penalty schedule, check the [Hi Korea / Korea Immigration Service](https://www.hikorea.go.kr) notices.
 
-<h2 id="section-2">D-8 Extension Process — Step by Step</h2>
+## D-8 Extension Process — Step by Step
 
 It looks simple on the surface, but in reality 80% of the outcome is decided during pre-screening.
 
@@ -91,7 +77,7 @@ Processing times vary by office, and finding the fastest one is a practical bit 
 
 If approved, the new stay period is added to the back of your Alien Registration Card. If denied, you'll receive the reason and need to rework your strategy for re-application or a status change.
 
-<h2 id="section-3">Where Things Most Commonly Get Stuck</h2>
+## Where Things Most Commonly Get Stuck
 
 Even if your paperwork is thorough, weakness here will tangle the whole case.
 
@@ -133,13 +119,12 @@ Reporting each change as it happens ultimately reduces the burden at extension t
 
 **For exact costs and procedures, please consult with a professional.**
 
-Free consultation now → 02-363-2251 / KakaoTalk: alexkorea
 
 Costs vary case by case, and exact figures will be given during the free consultation.
 
 ---
 
-<h2 id="section-4">The Critical Mistakes That Trigger Denials</h2>
+## The Critical Mistakes That Trigger Denials
 
 Before asking whether you'll pass, look at the **weak points** in your specific case.
 
@@ -170,14 +155,10 @@ Especially under D-8-1, if capital falls below the foreign-investment-reported a
 Sort out registration changes with the [Ministry of Trade, Industry and Energy](https://www.motie.go.kr) and [KOTRA](https://www.investkorea.org) before going into the extension to avoid complications.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A hand holding a Russian passport over a map, suggesting travel preparation." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A hand holding a Russian passport over a map, suggesting travel preparation.](https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">Recently Updated Operational Standards — What's Felt in Practice</h2>
+## Recently Updated Operational Standards — What's Felt in Practice
 
 D-8 operational guidelines are revised frequently.
 
@@ -197,7 +178,7 @@ Even with the same documents, the frequency of supplemental requests and process
 
 In recent comparable cases, simply changing the filing office reduced the supplementation burden, so case-by-case strategy matters.
 
-<h2 id="section-6">D-8 Extension Checklist — Final Pre-Filing Review</h2>
+## D-8 Extension Checklist — Final Pre-Filing Review
 
 - Confirm the stay expiration date (filing opens 4 months prior)
 - Print corporate bank balance and transaction history
@@ -210,7 +191,7 @@ In recent comparable cases, simply changing the filing office reduced the supple
 - Number of days the representative has been in Korea
 - Tax arrears and outstanding penalties cleared
 
-<h2 id="section-7">FAQ — The Questions We Actually Get</h2>
+## FAQ — The Questions We Actually Get
 
 **Q1. Can I file for an extension after the expiration date?**
 
@@ -254,7 +235,7 @@ The D-8 presumes that the foreign national is personally conducting management o
 
 Changing the representative can directly affect visa eligibility, so review is needed before the change is made.
 
-<h2 id="section-8">Need a Professional Consultation?</h2>
+## Need a Professional Consultation?
 
 For a D-8 extension, results turn not on the volume of paperwork but on **how persuasively you can explain the substance of the business**.
 
@@ -265,7 +246,6 @@ VISION Administrative Office, drawing on experience handling extension cases acr
 ### About VISION Administrative Office
 
 - Office Name: VISION Administrative Office
-- Phone: 02-363-2251
 - Email: 5000meter@gmail.com
 - KakaoTalk: alexkorea
 - Address: 3F, 324 Toegye-ro, Jung-gu, Seoul (Sungwoo Building), 04614
@@ -276,9 +256,8 @@ Laws and operational standards may change, so please verify with the relevant au
 
 ---
 
-<h2 id="section-9">Need Expert Consultation?</h2>
+## Need Expert Consultation?
 
 Don't navigate complex procedures alone. Our professional consultants will guide you.
 
 **[Request Free Consultation](https://visaskorea.co.kr/en/contact)**
-

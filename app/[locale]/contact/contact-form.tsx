@@ -244,7 +244,7 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
         <div className="bg-gray-50 rounded-lg p-5 border border-gray-200 text-center">
           <h3 className="font-semibold text-gray-900 mb-1">전화 상담</h3>
           <p className="text-primary text-lg font-medium">02-363-2251</p>
-          <p className="text-sm text-gray-500 mt-1">평일 09:00 ~ 18:00</p>
+          <p className="text-sm text-gray-500 mt-1">평일 09:30 – 17:30</p>
         </div>
         <div className="bg-gray-50 rounded-lg p-5 border border-gray-200 text-center">
           <h3 className="font-semibold text-gray-900 mb-1">카카오톡 상담</h3>

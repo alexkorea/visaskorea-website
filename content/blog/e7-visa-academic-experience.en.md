@@ -121,7 +121,6 @@ Whether this applies to your specific situation, however, can only be determined
 
 > **Practical tip:** When your education is weak, prepare thorough work experience documentation; when your experience is weak, build out education and certification documentation. There's a real tendency for evaluators to be more lenient on one side when the other side is rock solid.
 
-If you're unsure whether your education and work experience meet E-7 requirements, **get accurate guidance through a free consultation. Phone: 02-363-2251 / KakaoTalk: alexkorea**
 
 <h2 id="section-4">How Education and Experience Requirements Differ by Occupation</h2>
 
@@ -222,7 +221,6 @@ Having your documents reviewed for weak points upfront is faster than reapplying
 
 Vision Administrative Office handles E-7 and other employment visa cases end-to-end, including education and experience matching, document supplementation, and occupational code review.
 
-- **Phone:** 02-363-2251
 - **Email:** 5000meter@gmail.com
 - **KakaoTalk:** alexkorea
 - **Address:** 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul (04614)

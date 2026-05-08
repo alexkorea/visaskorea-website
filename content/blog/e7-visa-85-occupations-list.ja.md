@@ -20,7 +20,6 @@ E-7ビザは法務部が告示した85職種に限って発給される専門人
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7ビザ85職種の分類体系</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. E-7-1 専門人材67職種</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-7-2 準専門人材9職種</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 今すぐ無料相談のお申し込み → 02-363-2251 / カカオトーク:alexkorea</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. E-7-3 一般技能人材9職種</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 職種別に資格要件が分かれる重要ポイント</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 申請時によくつまずくポイント</a></li>
@@ -115,7 +114,6 @@ E-7-2では学歴よりも外国語能力と実務とのマッチングが先に
 
 > **実務のヒント:**採用会社が免税店・観光ホテルとして登録されているか、定款と事業者登録証の業種が一致しているかをまず確認してください。
 
-<h2 id="section-4">今すぐ無料相談のお申し込み → 02-363-2251 / カカオトーク:alexkorea</h2>
 
 ご自身の職務が85職種のどこに該当するか、学歴・経歴が資格を満たしているかについて、事例ごとの検討がまず必要です。
 
@@ -250,7 +248,6 @@ E-7ビザは85職種という幅の広さの分だけ、事例ごとの変数が
 
 **ビジョン行政士事務所(VISION Administrative Office)**
 
-- 電話:02-363-2251
 - メール:5000meter@gmail.com
 - 住所:(04614) ソウル特別市中区退渓路324、3階(ソンウビル)
 - カカオトーク相談:alexkorea

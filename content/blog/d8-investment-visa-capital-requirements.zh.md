@@ -10,24 +10,8 @@ slug: "d8-investment-visa-capital-requirements"
 
 D-8 企业投资签证是授予外国人在韩国投资一定金额以上、设立并运营法人的经营、管理、生产、技术领域核心人员的长期居留资格。光把注册资本数字凑齐并不能获批，资金来源、法人实体、事业计划书必须串成一条线才能通过。本文将从实务角度梳理注册资本要求、外商投资企业登记、提交材料、事业计划书撰写以及审查中常见的卡点。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8 企业投资签证的基本结构</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 注册资本要求 —— 比数字更优先的是资金来源</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 外商投资企业登记流程</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. D-8 申请材料梳理</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 事业计划书，说服力比篇幅更重要</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 实际审查中常见的卡点</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 申请流程</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见问题（FAQ）</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 参考官方资料</a></li>
-    <li style="margin:8px 0"><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询信息</a></li>
-    <li style="margin:8px 0"><a href="#section-11" style="color:#2563eb;text-decoration:none">11. 需要专家咨询？</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">D-8 企业投资签证的基本结构
+## D-8 企业投资签证的基本结构
 
 ### 哪些人可以申请
 D-8 是依据《出入境管理法施行令》附表 1-2 设立的居留资格，授予《外商投资促进法》项下外商投资企业的经营、管理、生产、技术领域必需的专业人才。不仅包括亲自设立公司的投资人本人，也包括总部派遣的高管和核心技术人员。单纯的事务性岗位或一般业务岗位不在 D-8 范围之内。
@@ -44,7 +28,7 @@ D-8 是依据《出入境管理法施行令》附表 1-2 设立的居留资格�
 
 D-8-4 与一般 D-8 在注册资本和评估要求上属于不同的通道，从准备阶段就需要区分对待。
 
-<h2 id="section-2">注册资本要求 —— 比数字更优先的是资金来源
+## 注册资本要求 —— 比数字更优先的是资金来源
 
 ### 《外商投资促进法》规定的最低投资金额
 《外商投资促进法施行令》对认定为外商投资的最低出资金额另有规定，D-8 签证必须出资达到该标准以上才能申请。具体的金额标准可在《外商投资促进法施行令》正文中确认，且政策可能会有变动，申请时需向主管机构核实。
@@ -60,7 +44,7 @@ D-8-4 与一般 D-8 在注册资本和评估要求上属于不同的通道，从
 
 如果这部分说明不充分，即使资金到位，外商投资登记环节就会卡住。
 
-<h2 id="section-3">外商投资企业登记流程
+## 外商投资企业登记流程
 
 ### 先在外汇银行或 KOTRA 申报
 在把资金汇入韩国之前，必须先在外汇银行或 KOTRA 完成外商投资申报。未经申报直接汇入的资金，认定为注册资本会很麻烦。顺序是：申报 → 汇款 → 设立法人 → 外商投资企业登记。
@@ -71,7 +55,7 @@ D-8-4 与一般 D-8 在注册资本和评估要求上属于不同的通道，从
 ### 取得外商投资企业登记证
 必须在 KOTRA 或外汇银行取得外商投资企业登记证，才能作为 D-8 申请材料提交。没有登记证，出入境环节就无法继续。
 
-<h2 id="section-4">D-8 申请材料梳理
+## D-8 申请材料梳理
 
 ### 基本材料
 | 材料 | 用途 | 备注 |
@@ -94,7 +78,7 @@ D-8-4 与一般 D-8 在注册资本和评估要求上属于不同的通道，从
 
 材料数量不重要，这些补充资料更能直接展现业务的真实性。
 
-<h2 id="section-5">事业计划书，说服力比篇幅更重要
+## 事业计划书，说服力比篇幅更重要
 
 ### 常见问题
 有人会把事业计划书写到 30~40 页，但篇幅越长，矛盾越容易暴露。一般在以下几个部分说服力会变弱。
@@ -115,14 +99,10 @@ D-8-4 与一般 D-8 在注册资本和评估要求上属于不同的通道，从
 这四点必须在事业计划书的前部清晰呈现，后面的篇幅才有意义。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7235814/pexels-photo-7235814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Explore your wanderlust with maps, a compass, and a vintage camera." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Explore your wanderlust with maps, a compass, and a vintage camera.](https://images.pexels.com/photos/7235814/pexels-photo-7235814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">实际审查中常见的卡点
+## 实际审查中常见的卡点
 
 ### 被怀疑是空壳公司的情形
 办公室是虚拟办公室、没有员工、几乎没有交易记录，这种组合很容易被怀疑是空壳公司。即使注册资本到位，实体不扎实的话 D-8 也会被卡。
@@ -135,7 +115,7 @@ D-8-4 与一般 D-8 在注册资本和评估要求上属于不同的通道，从
 
 > **实务提示：** 注册资本、申请材料、事业计划书各说各话就会导致拒签。让三者讲同一个故事，才是 D-8 真正的核心工作。
 
-<h2 id="section-7">申请流程
+## 申请流程
 
 | 步骤 | 内容 | 主体 |
 | --- | --- | --- |
@@ -149,7 +129,7 @@ D-8-4 与一般 D-8 在注册资本和评估要求上属于不同的通道，从
 
 这些流程中，第 1~4 步往往比签证审查本身耗时更久。
 
-<h2 id="section-8">常见问题（FAQ）
+## 常见问题（FAQ）
 
 **Q1. 注册资本到位 D-8 就能下来吗？**
 注册资本达标只是起点，资金来源、法人实体、事业计划书必须同时匹配，才有获批的可能。只把数字凑齐的案例是实际审查中最容易卡住的。
@@ -169,7 +149,7 @@ D-8-4 通过持有知识产权或技术、创业移民综合支援系统（OASIS
 **Q6. 费用大概多少？**
 除政府公示的手续费和行政办理费外，还会产生设立法人、翻译、公证、咨询等费用。费用因案而异，免费咨询时会给出准确说明。
 
-<h2 id="section-9">参考官方资料
+## 参考官方资料
 
 - 出入境、外国人政策本部 Hi Korea：https://www.hikorea.go.kr
 - 法务部出入境、外国人政策本部：https://www.immigration.go.kr
@@ -178,12 +158,11 @@ D-8-4 通过持有知识产权或技术、创业移民综合支援系统（OASIS
 
 法令和公示可能修订，申请时需向主管机构核实。
 
-<h2 id="section-10">咨询信息
+## 咨询信息
 
 D-8 不只是注册资本数字的问题，而是一种**资金来源、法人实体、事业计划书**必须串成一条线才能获批的签证。从在韩国第一次设立法人的阶段开始，就把汇款结构和材料链一起搭好，是减少拒签的途径。
 
 - **办公室：** Vision 行政士事务所（VISION Administrative Office）
-- **电话：** 02-363-2251
 - **邮箱：** 5000meter@gmail.com
 - **地址：** （04614）首尔特别市中区退溪路 324 号 3 层（成宇大厦）
 
@@ -191,9 +170,8 @@ D-8 不只是注册资本数字的问题，而是一种**资金来源、法人�
 
 ---
 
-<h2 id="section-11">需要专家咨询？
+## 需要专家咨询？
 
 复杂的手续不必独自烦恼。专业行政士将为您提供亲切指导。
 
 **[申请免费咨询](https://visaskorea.co.kr/zh/contact)**
-

@@ -12,23 +12,8 @@ D-8-4 是为外国创业者设计的签证,它**免除了 1 亿韩元的资本�
 
 实务中最容易卡住的并不是材料数量,而是**"为什么这项业务是技术创业"的阐述环节**。拿着一张专利证书并不意味着马上就能拿到 D-8-4,只有该专利与法人公司的实际经营直接挂钩,才能顺利通过审查。下面我们按顺序梳理资格要件、申请材料、OASIS 积分制、申请流程、与 D-8-1 的区别,以及常见的拒签原因。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. 什么是 D-8-4 技术创业签证</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 申请资格要件详解</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. OASIS 创业移民综合系统与积分制</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 所需材料汇总</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 申请流程分步推进</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. D-8-1、D-8-2 与 D-8-4 的对比</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 停留期限、延期与家属陪同</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见错误与拒签原因</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题(FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询指引</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">1. 什么是 D-8-4 技术创业签证
+## 1. 什么是 D-8-4 技术创业签证
 
 D-8-4 指的是**企业投资签证 D-8 滞留资格中的技术创业(OASIS)类别**。与一般法人设立型的 D-8-1 或风险企业型的 D-8-2 不同,它把创业者本人的**知识产权与学历**作为资本的替代手段予以认可。其正式名称为"技术创业(Technology Startup)",列于《出入境管理法施行令》附表 1 之 2 中,作为 D-8 企业投资的细分类别。
 
@@ -44,44 +29,44 @@ D-8-4 指的是**企业投资签证 D-8 滞留资格中的技术创业(OASIS)类
 
 最常见的路径是先以 D-10 求职签证入境,完成创业准备后再申请变更为 D-8-4。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong> D-8-4 常被误解为"无需资本金即可取得的签证"。实际审查中必须体现出法人运营的实质性,因此办公室租赁合同、通信费、四大保险参保等运营痕迹也要同步齐备。
+<div>
+  <strong>💡 实务提示:</strong> D-8-4 常被误解为"无需资本金即可取得的签证"。实际审查中必须体现出法人运营的实质性,因此办公室租赁合同、通信费、四大保险参保等运营痕迹也要同步齐备。
 </div>
 
-<h2 id="section-2">2. 申请资格要件详解
+## 2. 申请资格要件详解
 
 D-8-4 资格主要分为**学历 + OASIS 积分制**与**知识产权**两条路径。只要满足其中一条即可申请,但实际上**两条件同时具备的案例通过率更高**。
 
 ### 2-1. 学历要件
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">类别</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">最低学历</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">备注</th>
+      <th>类别</th>
+      <th>最低学历</th>
+      <th>备注</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">韩国大学毕业生</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本科以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不限专业,须提供毕业证书原件</td>
+      <td>韩国大学毕业生</td>
+      <td>本科以上</td>
+      <td>不限专业,须提供毕业证书原件</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">海外大学毕业生</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本科以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">必须办理海牙认证或领事认证</td>
+      <td>海外大学毕业生</td>
+      <td>本科以上</td>
+      <td>必须办理海牙认证或领事认证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">硕博课程修完者</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">硕士以上优先</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">在 OASIS 积分制中可加分</td>
+      <td>硕博课程修完者</td>
+      <td>硕士以上优先</td>
+      <td>在 OASIS 积分制中可加分</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">专科毕业生</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不能单独申请</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">仅在持有知识产权时可申请</td>
+      <td>专科毕业生</td>
+      <td>不能单独申请</td>
+      <td>仅在持有知识产权时可申请</td>
     </tr>
   </tbody>
 </table>
@@ -106,54 +91,54 @@ D-8-4 资格主要分为**学历 + OASIS 积分制**与**知识产权**两条路
 - 实际办公地址已落实(虚拟办公室原则上不被认可)
 - 营业执照已办理
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 虚拟办公室(部分共享办公)被认定为拒签事由的案例正在增加。至少需要拥有单独房号的独立空间,且租赁合同中必须明确标注专用面积。
+<div>
+  <strong>⚠️ 注意:</strong> 虚拟办公室(部分共享办公)被认定为拒签事由的案例正在增加。至少需要拥有单独房号的独立空间,且租赁合同中必须明确标注专用面积。
 </div>
 
-<h2 id="section-3">3. OASIS 创业移民综合系统与积分制
+## 3. OASIS 创业移民综合系统与积分制
 
 D-8-4 通过法务部运营的 **OASIS(Overall Assistance for Startup Immigration System)项目**累积积分后提交申请。审查不仅仅看是否满足基本条件,实际上**累计 80 分以上**才是通过线。
 
 ### 3-1. 积分项目概览
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">分值</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
+      <th>项目</th>
+      <th>分值</th>
+      <th>内容</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">学历</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最高 25 分</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">博士 25 / 硕士 20 / 本科 15</td>
+      <td>学历</td>
+      <td>最高 25 分</td>
+      <td>博士 25 / 硕士 20 / 本科 15</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">知识产权</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最高 30 分</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">专利 30 / 实用新型 20 / 外观设计·商标 10</td>
+      <td>知识产权</td>
+      <td>最高 30 分</td>
+      <td>专利 30 / 实用新型 20 / 外观设计·商标 10</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">韩语能力</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最高 20 分</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">TOPIK 6 级 20 / 5 级 15 / 4 级 10</td>
+      <td>韩语能力</td>
+      <td>最高 20 分</td>
+      <td>TOPIK 6 级 20 / 5 级 15 / 4 级 10</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">创业培训</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最高 10 分</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">OASIS-1 基础培训结业</td>
+      <td>创业培训</td>
+      <td>最高 10 分</td>
+      <td>OASIS-1 基础培训结业</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">创业竞赛获奖</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最高 15 分</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">政府或地方公认竞赛入围</td>
+      <td>创业竞赛获奖</td>
+      <td>最高 15 分</td>
+      <td>政府或地方公认竞赛入围</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资引进业绩</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最高 20 分</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按 VC、天使投资金额分档</td>
+      <td>投资引进业绩</td>
+      <td>最高 20 分</td>
+      <td>按 VC、天使投资金额分档</td>
     </tr>
   </tbody>
 </table>
@@ -168,28 +153,28 @@ OASIS 分为 OASIS-1(基础培训)、OASIS-2(进阶)、OASIS-3(导师辅导)、O
 
 如果只有本科学历、没有专利,要凑满 80 分并不容易。此时可以通过**提高 TOPIK 成绩、获取创业竞赛奖项,或引入投资以补足积分**。先把积分表摆在面前,从短缺的项目开始补齐才是现实的做法。
 
-<h2 id="section-4">4. 所需材料汇总
+## 4. 所需材料汇总
 
 ### 4-1. 基本材料
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 必备材料清单</strong>
-  <ul style="margin-top:12px">
-    <li>签证发放认可申请书或滞留资格变更许可申请书</li>
-    <li>护照原件及复印件</li>
-    <li>标准规格照片 1 张(3.5cm × 4.5cm,近 6 个月内)</li>
-    <li>手续费(滞留资格变更 13 万韩元,签证发放认可书另计)</li>
-    <li>法人登记簿誊本</li>
-    <li>营业执照副本</li>
-    <li>公司章程</li>
-    <li>股东名册</li>
-    <li>办公室租赁合同及近期租金缴纳凭证</li>
-    <li>商业计划书(含技术性、市场性、盈利模式)</li>
-    <li>学位证及成绩单(海牙认证或领事认证)</li>
-    <li>知识产权登记原簿(如专利登记原簿)</li>
-    <li>OASIS 积分认定相关证明材料</li>
-    <li>居住地证明材料(租赁合同或住宿提供确认书)</li>
-  </ul>
+<div>
+  <strong>✅ 必备材料清单</strong>
+
+    签证发放认可申请书或滞留资格变更许可申请书
+    护照原件及复印件
+    标准规格照片 1 张(3.5cm × 4.5cm,近 6 个月内)
+    手续费(滞留资格变更 13 万韩元,签证发放认可书另计)
+    法人登记簿誊本
+    营业执照副本
+    公司章程
+    股东名册
+    办公室租赁合同及近期租金缴纳凭证
+    商业计划书(含技术性、市场性、盈利模式)
+    学位证及成绩单(海牙认证或领事认证)
+    知识产权登记原簿(如专利登记原簿)
+    OASIS 积分认定相关证明材料
+    居住地证明材料(租赁合同或住宿提供确认书)
+
 </div>
 
 ### 4-2. 海外公馆申请与国内变更申请的区别
@@ -208,56 +193,56 @@ OASIS 分为 OASIS-1(基础培训)、OASIS-2(进阶)、OASIS-3(导师辅导)、O
 
 笼统写"应对第四次产业革命"反而会减分。专利权利要求与业务的连接必须在字里行间体现出来。
 
-<h2 id="section-5">5. 申请流程分步推进
+## 5. 申请流程分步推进
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">阶段</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">预计耗时</th>
+      <th>阶段</th>
+      <th>内容</th>
+      <th>预计耗时</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第 1 阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">完成 OASIS 培训并核算积分</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4 周</td>
+      <td>第 1 阶段</td>
+      <td>完成 OASIS 培训并核算积分</td>
+      <td>2~4 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第 2 阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">知识产权申请或受让完成</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">数周至数月</td>
+      <td>第 2 阶段</td>
+      <td>知识产权申请或受让完成</td>
+      <td>数周至数月</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第 3 阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人设立与营业执照办理</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~3 周</td>
+      <td>第 3 阶段</td>
+      <td>法人设立与营业执照办理</td>
+      <td>2~3 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第 4 阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">办公室租赁与运营基础搭建</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 周</td>
+      <td>第 4 阶段</td>
+      <td>办公室租赁与运营基础搭建</td>
+      <td>1~2 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第 5 阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">撰写商业计划书并准备材料</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4 周</td>
+      <td>第 5 阶段</td>
+      <td>撰写商业计划书并准备材料</td>
+      <td>2~4 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第 6 阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管辖出入境预约与递交</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">预约后 2~4 周</td>
+      <td>第 6 阶段</td>
+      <td>管辖出入境预约与递交</td>
+      <td>预约后 2~4 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第 7 阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">审查进行(必要时现场核查)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~6 周</td>
+      <td>第 7 阶段</td>
+      <td>审查进行(必要时现场核查)</td>
+      <td>2~6 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第 8 阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">许可通知与外国人登录证发放</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 周</td>
+      <td>第 8 阶段</td>
+      <td>许可通知与外国人登录证发放</td>
+      <td>1~2 周</td>
     </tr>
   </tbody>
 </table>
@@ -277,61 +262,57 @@ OASIS 分为 OASIS-1(基础培训)、OASIS-2(进阶)、OASIS-3(导师辅导)、O
 - 门牌公司名称是否与登记簿上的商号一致
 - 对公账户流水是否与业务运营相吻合
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 如果核查当日本人不在且没有员工在岗,很容易被怀疑为"纸面公司"。现场核查通常不提前通知,因此在递交申请到获得许可之间,最好保证本人常驻办公室。
+<div>
+  <strong>⚠️ 注意:</strong> 如果核查当日本人不在且没有员工在岗,很容易被怀疑为"纸面公司"。现场核查通常不提前通知,因此在递交申请到获得许可之间,最好保证本人常驻办公室。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up view of an open passport displaying various travel stamps in an airport setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Close-up view of an open passport displaying various travel stamps in an airport setting.](https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">6. D-8-1、D-8-2 与 D-8-4 的对比
+## 6. D-8-1、D-8-2 与 D-8-4 的对比
 
 ### 6-1. 三种类型的差异
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-1</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-2</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-4</th>
+      <th>项目</th>
+      <th>D-8-1</th>
+      <th>D-8-2</th>
+      <th>D-8-4</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">适用对象</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外商投资法人员工</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">风险企业创业者</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">技术创业外国人</td>
+      <td>适用对象</td>
+      <td>外商投资法人员工</td>
+      <td>风险企业创业者</td>
+      <td>技术创业外国人</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低投资金额</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">另设资本要件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无金额要件</td>
+      <td>最低投资金额</td>
+      <td>1 亿韩元以上</td>
+      <td>另设资本要件</td>
+      <td>无金额要件</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">核心证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外商投资申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">风险企业确认书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">学历 + 知识产权 + OASIS 积分</td>
+      <td>核心证明</td>
+      <td>外商投资申报</td>
+      <td>风险企业确认书</td>
+      <td>学历 + 知识产权 + OASIS 积分</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人形态</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">株式会社 / 有限会社</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">获风险企业认证的法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">一般法人亦可</td>
+      <td>法人形态</td>
+      <td>株式会社 / 有限会社</td>
+      <td>获风险企业认证的法人</td>
+      <td>一般法人亦可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">审查重点</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金汇入路径</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">风险企业属性维持</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">技术性与业务关联性</td>
+      <td>审查重点</td>
+      <td>资本金汇入路径</td>
+      <td>风险企业属性维持</td>
+      <td>技术性与业务关联性</td>
     </tr>
   </tbody>
 </table>
@@ -344,7 +325,7 @@ OASIS 分为 OASIS-1(基础培训)、OASIS-2(进阶)、OASIS-3(导师辅导)、O
 
 可以先以 D-8-4 入境并创业,待业务扩大后再追加外资申报,**转换或并行持有 D-8-1**。滞留资格并非一成不变。
 
-<h2 id="section-7">7. 停留期限、延期与家属陪同
+## 7. 停留期限、延期与家属陪同
 
 ### 7-1. 首次许可期限
 
@@ -368,11 +349,11 @@ D-8-4 持有者的配偶及未成年子女可以**以 F-3 陪同签证**共同�
 
 在 D-8-4 停留期间积分累积后,可以**变更为 F-2-7(积分制居住)**;持有 F-2 满 5 年后,也可以申请 F-5 永住。有长期定居打算的人,建议提前规划这条路径。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong> 延期前 3 个月起,请把营收记录、纳税凭证、员工四大保险材料整理成一份文档。大多数延期被拒的原因是"没有证明经营业绩的材料"。不是因为材料不够,而是因为平时没有留记录。
+<div>
+  <strong>💡 实务提示:</strong> 延期前 3 个月起,请把营收记录、纳税凭证、员工四大保险材料整理成一份文档。大多数延期被拒的原因是"没有证明经营业绩的材料"。不是因为材料不够,而是因为平时没有留记录。
 </div>
 
-<h2 id="section-8">8. 常见错误与拒签原因
+## 8. 常见错误与拒签原因
 
 ### 8-1. 误以为有专利就够了
 
@@ -398,11 +379,11 @@ D-8-4 持有者的配偶及未成年子女可以**以 F-3 陪同签证**共同�
 
 若在 D-10 停留期间未规范申报求职活动,或以 D-2 学生身份超出兼职工时上限,这些在资格变更阶段都会成为不利因素。**当前滞留资格是否诚实履行**也是审查重点。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 一旦被拒签,再次申请时"此前拒签记录"会被留存。并非不能重新申请,但如果没有真正解决上次的拒签原因,第二次大多仍是同样的结果。与其急于首次递交,不如准备充分后再提交,最终反而更快。
+<div>
+  <strong>⚠️ 注意:</strong> 一旦被拒签,再次申请时"此前拒签记录"会被留存。并非不能重新申请,但如果没有真正解决上次的拒签原因,第二次大多仍是同样的结果。与其急于首次递交,不如准备充分后再提交,最终反而更快。
 </div>
 
-<h2 id="section-9">9. 常见问题(FAQ)
+## 9. 常见问题(FAQ)
 
 **Q1. 专利仍在申请中还未获得授权,能申请 D-8-4 吗?**
 
@@ -424,14 +405,13 @@ A. 法规上没有最低金额,但建议**设定为 3000 万至 5000 万韩元�
 
 A. 如果彻底转到完全不同的行业,维持 D-8-4 资格会变得困难。**因为技术创业这一身份本身会被动摇**。在与持有知识产权相关的范围内扩展项目影响较小,但整体变更行业时,应事先向管辖出入境外国人厅确认。
 
-<h2 id="section-10">10. 咨询指引
+## 10. 咨询指引
 
 D-8-4 虽然所需材料数量不多,但通过率较低。原因很简单——**许多申请都缺少将学位、专利、商业计划"串联"起来的叙事**。即便专利再优秀、学位再高,如果无法说明这三者如何汇聚成一项业务,也会在审查中被淘汰。
 
 Vision 行政士事务所多次承办 D-8 系列企业投资签证,尤其是技术创业 D-8-4 和风险创业 D-8-2 的申请。我们会从 OASIS 积分设计,到商业计划书结构化,再到办公室现场核查应对,逐步提供指引。
 
 **📞 Vision 行政士事务所**
-- 电话:**02-363-2251**
 - 邮箱:**5000meter@gmail.com**
 - 地址:(04614)首尔特别市中区退溪路 324,3 楼(Sungwoo 大厦)
 

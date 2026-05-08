@@ -1,31 +1,17 @@
 ---
-title: "D-8 Corporate Investment Visa Application Process and Capital Requirements"
-date: "2026-04-14"
+title: "D-8 Corporate Investment Visa Korea: Capital Requirements and Application Process (2026)"
+date: "2026-05-08"
 category: "Investment Visa"
-excerpt: "D-8 corporate investment visa hinges on proving fund origin and business substance, not just the 100 million won remittance."
+excerpt: "D-8 corporate investment visa Korea capital requirements explained — KRW 100M minimum, fund source proof, business substance requirements, and full application process (2026)."
 image: "/slides/documents.jpg"
 slug: "d8-capital-requirements-and-application-process"
 ---
-# How to Apply for a D-8 Business Investment Visa and Meet the Capital Requirements: A Practical Guide
+# D-8 Corporate Investment Visa Korea: Capital Requirements and Application Process (2026)
 
 The D-8 business investment visa is a residence status granted to **executive, managerial, production, or technical specialists working at a corporation established through a foreign investment of KRW 100 million or more under the Foreign Investment Promotion Act**. The real issue isn't simply that you wired the money — it's explaining where that money came from and whether the Korean entity is actually doing business. No matter how thick your stack of documents is, weak fund flow or a hollow business will stop you immediately.
 
 Many people assume "just drop in KRW 100 million and you're done," but actual screening looks at the foreign investment report, remittance route, corporate registration, office lease, and business plan as one package. Especially for a solo investor who is both the funder and the dispatched employee, proving the source of funds and the substance of the business is the very first hurdle.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Types of D-8 Visas and Who They Cover</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. What the KRW 100 Million Capital Rule Really Means</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. The Full Application Process and Timeline</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. From Foreign Investment Notification to Incorporation</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Required Documents and Proof of Fund Origin</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Key Points for the Business Plan</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Common Mistakes and Grounds for Denial</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Consultation Information</a></li>
-  </ul>
-</nav>
 
 ## 1. Types of D-8 Visas and Who They Cover
 
@@ -35,39 +21,39 @@ The D-8 looks like a single visa, but in practice it splits into three subtypes.
 
 The most commonly filed type is the **D-8-1 (Corporate Investment)**. It applies when a foreign national invests KRW 100 million or more to set up a Korean corporation and is dispatched as an executive or specialist to run it. The D-8-2 is for venture company investors, and the D-8-4 is a technology-startup (OASIS) visa that adds degree or patent requirements.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-1</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-2</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-4</th>
+      <th>Category</th>
+      <th>D-8-1</th>
+      <th>D-8-2</th>
+      <th>D-8-4</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Target</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Executives or managers of foreign-invested corporations</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Investors or founders of venture companies</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Founders with tech or IP backgrounds</td>
+      <td>Target</td>
+      <td>Executives or managers of foreign-invested corporations</td>
+      <td>Investors or founders of venture companies</td>
+      <td>Founders with tech or IP backgrounds</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Investment threshold</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KRW 100 million or more</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Venture certification required (amount eased)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Technical skill or degree over amount</td>
+      <td>Investment threshold</td>
+      <td>KRW 100 million or more</td>
+      <td>Venture certification required (amount eased)</td>
+      <td>Technical skill or degree over amount</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Education requirement</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">None</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">None</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bachelor's degree or patent required</td>
+      <td>Education requirement</td>
+      <td>None</td>
+      <td>None</td>
+      <td>Bachelor's degree or patent required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Stay duration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 2 years, renewable</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 2 years, renewable</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Up to 2 years, renewable</td>
+      <td>Stay duration</td>
+      <td>Up to 2 years, renewable</td>
+      <td>Up to 2 years, renewable</td>
+      <td>Up to 2 years, renewable</td>
     </tr>
   </tbody>
 </table>
@@ -84,42 +70,42 @@ The KRW 100 million figure is the minimum threshold set by the Foreign Investmen
 
 The KRW 100 million rule applies **per individual foreign investor**, not to the corporation as a whole. If two foreigners co-invest, each must contribute KRW 100 million — KRW 200 million total — for both to qualify for a D-8. If one puts in KRW 150 million and the other only KRW 50 million, the one with KRW 50 million fails the threshold.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Even if total capital is KRW 200 million, if the foreign investor's own stake is under KRW 100 million, no D-8 is issued. Padding the capital by bringing in a Korean partner actually raises more suspicion during review, not less.
+<div>
+  <strong>⚠️ Caution:</strong> Even if total capital is KRW 200 million, if the foreign investor's own stake is under KRW 100 million, no D-8 is issued. Padding the capital by bringing in a Korean partner actually raises more suspicion during review, not less.
 </div>
 
 ### The Remittance Must Go From Your Own Account to a Korean FX Bank
 
 The KRW 100 million must be wired **from the investor's own personal overseas account to a Korean foreign exchange bank**. Third-party remittances, hand-carried cash, or funds borrowed locally and deposited do not count as foreign investment. This is where cases go off the rails all the time.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Remittance method</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Accepted?</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Notes</th>
+      <th>Remittance method</th>
+      <th>Accepted?</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Own overseas account → Korean FX bank</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">✅ Accepted</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">The standard route</td>
+      <td>Own overseas account → Korean FX bank</td>
+      <td>✅ Accepted</td>
+      <td>The standard route</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Third-party account transfer</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">❌ Not accepted as a rule</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Separate gift explanation required</td>
+      <td>Third-party account transfer</td>
+      <td>❌ Not accepted as a rule</td>
+      <td>Separate gift explanation required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Hand-carried cash</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">❌ Practically not accepted</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Hard to register as foreign investment even with a customs declaration</td>
+      <td>Hand-carried cash</td>
+      <td>❌ Practically not accepted</td>
+      <td>Hard to register as foreign investment even with a customs declaration</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Transfer between domestic Korean accounts</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">❌ Not accepted</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Cannot be registered as foreign investment at all</td>
+      <td>Transfer between domestic Korean accounts</td>
+      <td>❌ Not accepted</td>
+      <td>Cannot be registered as foreign investment at all</td>
     </tr>
   </tbody>
 </table>
@@ -134,49 +120,49 @@ The D-8 isn't a visa you knock out with a single filing. Foreign investment noti
 
 ### The Process at a Glance
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Handling agency</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Time required</th>
+      <th>Step</th>
+      <th>Handling agency</th>
+      <th>Time required</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. Foreign investment notification</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA or an FX bank</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Same day to 3 days</td>
+      <td>1. Foreign investment notification</td>
+      <td>KOTRA or an FX bank</td>
+      <td>Same day to 3 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. Remittance and currency exchange</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FX bank</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 days after remittance</td>
+      <td>2. Remittance and currency exchange</td>
+      <td>FX bank</td>
+      <td>1–2 days after remittance</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. Corporate registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Local registry office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>3. Corporate registration</td>
+      <td>Local registry office</td>
+      <td>1–2 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. Business registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Local tax office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3–5 days</td>
+      <td>4. Business registration</td>
+      <td>Local tax office</td>
+      <td>3–5 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. Foreign-invested company registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">KOTRA or an FX bank</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 week</td>
+      <td>5. Foreign-invested company registration</td>
+      <td>KOTRA or an FX bank</td>
+      <td>1 week</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6. Certificate of Visa Issuance application</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Local immigration office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–4 weeks</td>
+      <td>6. Certificate of Visa Issuance application</td>
+      <td>Local immigration office</td>
+      <td>2–4 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7. Visa issuance at the overseas mission</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Korean embassy or consulate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>7. Visa issuance at the overseas mission</td>
+      <td>Korean embassy or consulate</td>
+      <td>1–2 weeks</td>
     </tr>
   </tbody>
 </table>
@@ -185,8 +171,8 @@ The D-8 isn't a visa you knock out with a single filing. Foreign investment noti
 
 In practice, the fastest cases wrap up in about two months, typical ones run three to four months, and if documents need to be supplemented once or twice, five to six months is common. Incorporation delays and snags with the office lease are the usual reasons things stall midway.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical tip:</strong> If you're already in Korea on another visa, you can skip the Certificate of Visa Issuance and switch directly to a D-8 through a <strong>change of status of stay</strong>. Skipping the overseas mission step shortens the process dramatically.
+<div>
+  <strong>💡 Practical tip:</strong> If you're already in Korea on another visa, you can skip the Certificate of Visa Issuance and switch directly to a D-8 through a <strong>change of status of stay</strong>. Skipping the overseas mission step shortens the process dramatically.
 </div>
 
 ## 4. From Foreign Investment Notification to Incorporation
@@ -208,8 +194,8 @@ Wired funds don't immediately become capital. Before incorporation, the money is
 3. **Directors and auditors**: A single-person company is allowed, but it's cleanest for the foreign national to be the CEO when they're also the dispatched employee
 4. **Proof of paid-in capital**: A bank-issued balance certificate is needed at the registration step
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> There are real cases where registering at a "virtual office" that only provides an address — with no actual equipment or staff — results in denial during a status change or extension after an on-site inspection. Your office must be a place where work can happen, not a mailing address.
+<div>
+  <strong>⚠️ Caution:</strong> There are real cases where registering at a "virtual office" that only provides an address — with no actual equipment or staff — results in denial during a status change or extension after an on-site inspection. Your office must be a place where work can happen, not a mailing address.
 </div>
 
 ### Issuance of the Foreign-Invested Company Registration Certificate
@@ -217,11 +203,7 @@ Wired funds don't immediately become capital. Before incorporation, the money is
 Once incorporation and business registration are complete and the paid-in capital is confirmed, you must obtain the **Foreign-Invested Company Registration Certificate**. Only with this certificate can you move on to the D-8 visa application. Filing a Certificate of Visa Issuance without it will get you rejected straight away.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/8061986/pexels-photo-8061986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Blue Ukrainian passports on a light surface, highlighting travel documents." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Blue Ukrainian passports on a light surface, highlighting travel documents.](https://images.pexels.com/photos/8061986/pexels-photo-8061986.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 5. Required Documents and Proof of Fund Origin
@@ -230,63 +212,63 @@ Documents fall into two groups: **corporate documents** and **personal (investor
 
 ### Core Documents for the Certificate of Visa Issuance Application
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ D-8-1 Required Document Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Certificate of Visa Issuance application form and passport copy</li>
-    <li>One standard-format photo</li>
-    <li>Copy of the Foreign-Invested Company Registration Certificate</li>
-    <li>Certified copy of the corporate register</li>
-    <li>Copy of the business registration certificate</li>
-    <li>Foreign investment notification form and remittance/exchange evidence</li>
-    <li>Shareholder registry</li>
-    <li>Office lease agreement</li>
-    <li>Business plan</li>
-    <li>Career and education records of the dispatched applicant</li>
-    <li>Criminal record certificate from the home country (apostille or consular certification)</li>
-    <li>Documents proving the source of funds</li>
-  </ul>
+<div>
+  <strong>✅ D-8-1 Required Document Checklist</strong>
+
+    Certificate of Visa Issuance application form and passport copy
+    One standard-format photo
+    Copy of the Foreign-Invested Company Registration Certificate
+    Certified copy of the corporate register
+    Copy of the business registration certificate
+    Foreign investment notification form and remittance/exchange evidence
+    Shareholder registry
+    Office lease agreement
+    Business plan
+    Career and education records of the dispatched applicant
+    Criminal record certificate from the home country (apostille or consular certification)
+    Documents proving the source of funds
+
 </div>
 
 ### Source-of-Funds Evidence: The Biggest Stumbling Block
 
 Proving the source of funds is not a one- or two-page affair. The required evidence varies by fund origin.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Source of funds</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Required evidence</th>
+      <th>Source of funds</th>
+      <th>Required evidence</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Salary savings</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Employment certificates, payslips, and income tax records for the past 3–5 years</td>
+      <td>Salary savings</td>
+      <td>Employment certificates, payslips, and income tax records for the past 3–5 years</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business income</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Home-country business registration, financial statements, tax payment records</td>
+      <td>Business income</td>
+      <td>Home-country business registration, financial statements, tax payment records</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Real estate sale</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Sales contract, title transfer, proof of sale proceeds received</td>
+      <td>Real estate sale</td>
+      <td>Sales contract, title transfer, proof of sale proceeds received</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Family gift</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Gift agreement, donor's asset records, gift tax filing</td>
+      <td>Family gift</td>
+      <td>Gift agreement, donor's asset records, gift tax filing</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Loan</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Loan contract and repayment plan (financing the entire investment via loans counts against you)</td>
+      <td>Loan</td>
+      <td>Loan contract and repayment plan (financing the entire investment via loans counts against you)</td>
     </tr>
   </tbody>
 </table>
 
 The key point is this: it's not "I have KRW 100 million in my account," it's **"this KRW 100 million was accumulated over X years through this income and these transactions."** If large sums suddenly appeared recently without a solid explanation, the reviewer will zero in on exactly that and ask.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> If a large amount landed in your account from someone else's home-country account right before the remittance, reviewers will suspect a "sham investment." If it's a gift, you need the donor's details and gift tax filing; if it's a loan, you need a repayment plan. Only then does the chain connect naturally.
+<div>
+  <strong>⚠️ Caution:</strong> If a large amount landed in your account from someone else's home-country account right before the remittance, reviewers will suspect a "sham investment." If it's a gift, you need the donor's details and gift tax filing; if it's a loan, you need a repayment plan. Only then does the chain connect naturally.
 </div>
 
 ## 6. Key Points for the Business Plan
@@ -310,8 +292,8 @@ A flashy 50-page plan often performs worse than a tight 5-page one. Long plans a
 
 If you have zero IT background but are launching an IT services company, or no restaurant experience but are opening one, the reviewer will first ask, "Why is this person doing this business?" If the answer is thin, even strong documentation elsewhere loses its punch.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical tip:</strong> Put the connection to your career on the <strong>first page</strong> of the business plan. A single paragraph saying "I've done this kind of work in my home country, and I'm applying that experience to the Korean market" makes all the numbers that follow read naturally.
+<div>
+  <strong>💡 Practical tip:</strong> Put the connection to your career on the <strong>first page</strong> of the business plan. A single paragraph saying "I've done this kind of work in my home country, and I'm applying that experience to the Korean market" makes all the numbers that follow read naturally.
 </div>
 
 ## 7. Common Mistakes and Grounds for Denial
@@ -338,33 +320,33 @@ If your business registration lists wholesale trade but your business plan talks
 
 Especially when the applicant is a dispatched employee rather than the CEO, reviewers check whether **the applicant's education and experience match the role**. Claiming to be a member of management with no related background will stop you right here.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Denial reason</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">The real issue behind it</th>
+      <th>Denial reason</th>
+      <th>The real issue behind it</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Unclear source of funds</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Money arrived, but its history isn't explained</td>
+      <td>Unclear source of funds</td>
+      <td>Money arrived, but its history isn't explained</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Lack of business substance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Only a registration and an address, no sign of operations</td>
+      <td>Lack of business substance</td>
+      <td>Only a registration and an address, no sign of operations</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Unrealistic business plan</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Numbers listed with no market or competitor analysis</td>
+      <td>Unrealistic business plan</td>
+      <td>Numbers listed with no market or competitor analysis</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Dispatched employee not qualified</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Position and experience don't line up</td>
+      <td>Dispatched employee not qualified</td>
+      <td>Position and experience don't line up</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Suspected sham investment</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Signs that someone else's money was routed through the applicant</td>
+      <td>Suspected sham investment</td>
+      <td>Signs that someone else's money was routed through the applicant</td>
     </tr>
   </tbody>
 </table>
@@ -395,18 +377,22 @@ Your spouse and minor children can stay with you on **F-3 dependent visas**. F-3
 
 Yes. If you hold a D-8 for three or more consecutive years, **maintain an investment of at least USD 500,000**, and keep at least five Korean nationals in full-time employment, among other conditions, you can apply for an F-5 investor permanent residency. The specific requirements may change with regulatory updates, so confirm with the relevant agency at the time you apply. The more common path is **D-8 → F-2 (Residence, points-based) → F-5 (Permanent)**.
 
-## 9. Consultation Information
+## 9. Related Guides
+
+- [D-8 Corporate Investment Visa: Complete Guide](/en/blog/d8-investment-visa-guide) — Subtypes, eligibility, and document checklist
+- [Foreign Direct Investment Company Setup in Korea](/en/blog/foreign-direct-investment-company-korea-2026) — FDI registration process end-to-end
+- [Foreign Company Branch Registration Korea](/en/blog/foreign-company-branch-registration-korea-2026) — Branch vs. liaison office and D-7 visa for dispatched staff
+- [E-7 Visa Extension Korea](/en/blog/e7-visa-extension-korea-2026) — Renewal requirements for employment visa holders
+
+## 10. Consultation
 
 The D-8 isn't a single visa — it's a long project that runs through **foreign investment notification, incorporation, building real business substance, proving source of funds, and writing the business plan**. Miss one document or get the order wrong, and two to three months can evaporate. Especially for source of funds and the business plan, tailored design for your specific situation matters more than filling out a template.
 
-VISION Administrative Office handles the **entire D-8 business investment visa process under one roof — from incorporation through visa issuance and later extensions or changes**. Knowing in advance where your specific case is likely to stall is the best way to save both time and money.
+VISION Administrative Office handles the **entire D-8 corporate investment visa Korea process under one roof — from incorporation through visa issuance and later extensions or changes**. Knowing in advance where your specific case is likely to stall is the best way to save both time and money.
 
-<div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0;border:1px solid #bfdbfe">
-  <h3 style="color:#1e40af;margin-top:0">📞 VISION Administrative Office
-  <ul style="list-style:none;padding-left:0;line-height:1.9">
-    <li><strong>Phone:</strong> 02-363-2251</li>
-    <li><strong>Email:</strong> 5000meter@gmail.com</li>
-    <li><strong>Address:</strong> 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614</li>
-  </ul>
-  <p style="margin-bottom:0;color:#374151">Even a single consultation before filing can catch the spots where you'd otherwise slip up. Reach out by phone or email, and we'll walk you through the documents and expected timeline tailored to your case.</p>
+<div style="background:#eff6ff;border:1px solid #bfdbfe;padding:24px;border-radius:8px;margin:32px 0">
+<h3 style="color:#1e40af;margin-top:0">D-8 Visa Korea — VISION Administrative Office</h3>
+<p>Email: 5000meter@gmail.com · 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614</p>
+<p>Even a single consultation before filing can catch the spots where you'd otherwise slip up.</p>
+<a href="/en/contact" style="display:inline-block;background:#A33344;color:#fff;padding:18px 32px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px">Free Consultation →</a>
 </div>

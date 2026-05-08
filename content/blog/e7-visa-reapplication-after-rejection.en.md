@@ -113,7 +113,6 @@ If any one of these is not met, the application will be rejected regardless of t
 ---
 
 > **If the reason for your E-7 visa rejection isn't clear, get it assessed now.**
-> Vision Administrative Agents Office — Free consultation: **02-363-2251** / KakaoTalk: **alexkorea**
 
 ---
 
@@ -228,7 +227,6 @@ The hard part is this analysis process — and doing it alone is where most peop
 
 **Vision Administrative Agents Office** supports the full process — from analyzing E-7 visa rejection reasons and developing a reapplication strategy to preparing documents and submitting to the immigration office.
 
-- Phone: **02-363-2251**
 - Email: **5000meter@gmail.com**
 - KakaoTalk: **alexkorea**
 - Address: 3F, 324 Toegyero, Jung-gu, Seoul 04614 (Sungwoo Building)

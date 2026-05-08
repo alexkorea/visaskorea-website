@@ -1,33 +1,24 @@
 ---
-title: "D-8 Corporate Investment Visa: Complete Guide"
-date: "2026-04-05"
+title: "D-8 Corporate Investment Visa Korea: Complete Application Guide (2026)"
+date: "2026-05-08"
 category: "Investment Visa"
-excerpt: "Comprehensive guide to D-8 corporate investment visa eligibility, documents, and application process."
+excerpt: "D-8 corporate investment visa Korea — eligibility, minimum capital, required documents, and step-by-step application process. 2026 official immigration manual standard."
 image: "/slides/business.jpg"
 slug: "d8-investment-visa-guide"
 ---
 
-<nav>
+<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin-bottom:30px"><h3 style="color:#1e40af;margin-top:0">Contents</h3><ul style="list-style:none;padding:0"><li><a href="#what" style="color:#2563eb;text-decoration:none">1. What Is the D-8 Visa?</a></li><li><a href="#who" style="color:#2563eb;text-decoration:none">2. Who Needs a D-8 Visa?</a></li><li><a href="#subtypes" style="color:#2563eb;text-decoration:none">3. D-8 Visa Subtypes</a></li><li><a href="#eligibility" style="color:#2563eb;text-decoration:none">4. Eligibility &amp; Capital Requirements</a></li><li><a href="#documents" style="color:#2563eb;text-decoration:none">5. Required Documents</a></li><li><a href="#process" style="color:#2563eb;text-decoration:none">6. Application Process</a></li><li><a href="#faq" style="color:#2563eb;text-decoration:none">7. FAQ</a></li></ul></nav>
 
-#### 📋 Table of Contents
-- [What Is the D-8 Corporate Investment Visa?](#what-is-the-d-8-corporate-investment-visa)
-- [Who Needs a D-8 Visa?](#who-needs-a-d-8-visa)
-- [D-8 Visa Subtypes](#d-8-visa-subtypes)
-- [Eligibility and Investment Requirements](#eligibility-and-investment-requirements)
-- [Required Documents (Detailed)](#required-documents-detailed)
-- [Step-by-Step Application Process](#step-by-step-application-process)
-- [Processing Time and Fees](#processing-time-and-fees)
-- [Family Dependent Visa (F-3)](#family-dependent-visa-f-3)
-- [Transition to Permanent Residency (F-5)](#transition-to-permanent-residency-f-5)
-- [D-8 vs D-9 Comparison](#d-8-vs-d-9-comparison)
-- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-- [Related Services](#related-services)
+<div style="background:#f0fdf4;border:2px solid #22c55e;padding:20px;border-radius:8px;margin:20px 0"><h3 style="color:#15803d;margin-top:0">Key Points</h3><ul>
+<li>Minimum investment: KRW 100 million (≈ USD 75,000) remitted from overseas</li>
+<li>FDI registration certificate required before D-8 visa application</li>
+<li>Initial stay: 1–2 years; renewable while business operates</li>
+<li>Path to F-5 permanent residency available after meeting point thresholds</li>
+</ul></div>
 
-</nav>
+<img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Multinational business meeting" />
 
-<img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Multinational business meeting" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
-
-## What Is the D-8 Corporate Investment Visa?
+## What Is the D-8 Corporate Investment Visa? {#what}
 
 The D-8 Corporate Investment Visa is a residence status issued to foreign nationals who invest in the Republic of Korea under the **Foreign Investment Promotion Act (FIPA)** and engage in management, administration, or specialized technical activities at the invested company. The Korean government actively encourages foreign direct investment, and the D-8 visa serves as one of the key institutional mechanisms supporting this policy. Through this visa, foreign investors can legally reside in Korea while operating as the CEO, executive, or technical specialist of their invested enterprise.
 
@@ -37,7 +28,7 @@ The D-8 visa is issued based on the Foreign-Invested Enterprise Registration Cer
 
 &nbsp;
 
-## Who Needs a D-8 Visa?
+## Who Needs a D-8 Visa? {#who}
 
 The D-8 Corporate Investment Visa is designed for foreign nationals who wish to start a business in Korea or invest in an existing Korean company and participate in its management. Specifically, the following individuals are eligible: representatives of overseas companies entering the Korean market, foreign tech professionals looking to launch startups in Korea, and overseas investors who wish to invest a minimum amount and actively participate in business management.
 
@@ -45,11 +36,11 @@ In recent years, the number of foreigners entering Korea to launch **technology-
 
 Additionally, foreign nationals currently residing in Korea on other visa types such as E-7 (Specific Activities) or D-9 (Trade Management) can change their status to D-8 if they make a direct investment and establish a corporation. Many foreigners who have gained business experience in Korea and decided to pursue independent entrepreneurship utilize this pathway, and the visa conversion procedures are well-established.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Note:</strong> The D-8 visa requires not just investment but actual residence in Korea and active participation in business management. Simply investing without engaging in management activities does not qualify for a D-8 visa.</div>
+<div>💡 <strong>Note:</strong> The D-8 visa requires not just investment but actual residence in Korea and active participation in business management. Simply investing without engaging in management activities does not qualify for a D-8 visa.</div>
 
 &nbsp;
 
-## D-8 Visa Subtypes
+## D-8 Visa Subtypes {#subtypes}
 
 The D-8 Corporate Investment Visa is divided into several subtypes based on the method of investment and the nature of activities. Each subtype has different qualification requirements and investment conditions, so it is crucial to identify the correct subtype for your situation.
 
@@ -64,11 +55,11 @@ The D-8 Corporate Investment Visa is divided into several subtypes based on the 
 
 **D-8-4 (Tech Startup)** is the subtype designed for foreigners with innovative technology who wish to launch startups in Korea. This applies to those who have received a recommendation from the head of a central administrative agency, hold intellectual property rights, or have been recognized for equivalent technological capabilities. Compared to D-8-1, the investment requirements may be reduced, making it advantageous for tech startups. Entry is also possible through government-operated startup visa programs such as OASIS.
 
-<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Reviewing business documents" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Reviewing business documents" />
 
 &nbsp;
 
-## Eligibility and Investment Requirements
+## Eligibility and Investment Requirements {#eligibility}
 
 To apply for a D-8 Corporate Investment Visa, all of the following core requirements must be met. Below is a detailed breakdown of each requirement, including investment amount, equity ratio, and business premises.
 
@@ -87,11 +78,11 @@ The KRW 100 million investment must be paid in as **capital contribution** to th
 
 Regarding the business premises requirement, the key point is that the space must be **capable of supporting actual business operations**. Simply registering a shared office address may not be sufficient, and it is recommended to secure office space appropriate to the nature and scale of the business. However, for business types that inherently do not require large physical spaces, such as IT or software development, a smaller office may be acceptable.
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Warning:</strong> The KRW 100 million investment must be contributed as capital after the corporation is established. Funds held in personal accounts prior to incorporation do not qualify as investment. All funds must go through the formal foreign investment process via a foreign exchange bank.</div>
+<div>⚠️ <strong>Warning:</strong> The KRW 100 million investment must be contributed as capital after the corporation is established. Funds held in personal accounts prior to incorporation do not qualify as investment. All funds must go through the formal foreign investment process via a foreign exchange bank.</div>
 
 &nbsp;
 
-## Required Documents (Detailed)
+## Required Documents (Detailed) {#documents}
 
 The D-8 visa application requires a substantial number of documents. Even a single missing document can delay processing or result in rejection, so please ensure thorough preparation based on the checklist below.
 
@@ -116,7 +107,7 @@ The most challenging aspect of document preparation is **proving the investment 
 
 The business plan has no prescribed format, but it should provide detailed coverage of the **business purpose, main activities, projected revenue, hiring plan, and investment utilization plan**. Since the reviewing officer uses the business plan as a key document to determine whether the business is legitimate and substantive, it deserves careful and thorough preparation. Including market analysis, competitor analysis, and financial projections will strengthen your application.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Note:</strong> Criminal record certificates must be obtained from your home country. Countries that are party to the Apostille Convention require apostille certification, while non-member countries require consular legalization from the relevant embassy. Allow several weeks for processing and prepare early.</div>
+<div>💡 <strong>Note:</strong> Criminal record certificates must be obtained from your home country. Countries that are party to the Apostille Convention require apostille certification, while non-member countries require consular legalization from the relevant embassy. Allow several weeks for processing and prepare early.</div>
 
 &nbsp;
 
@@ -124,7 +115,7 @@ The business plan has no prescribed format, but it should provide detailed cover
 
 The D-8 Corporate Investment Visa application proceeds through six main stages, from investment planning to visa issuance. Below is a detailed guide for each step, including important considerations.
 
-<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business contract signing" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business contract signing" />
 
 ### Step 1: Investment Planning
 
@@ -181,7 +172,7 @@ Processing times are flexible depending on the completeness of your documents an
 
 In terms of costs, beyond visa fees, you should also account for company establishment costs (registration tax, legal fees, etc.), office lease costs, and accounting/tax advisory fees. Total initial costs excluding the investment amount typically range from KRW 5 million to 10 million.
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>Warning:</strong> Fees are subject to change, and visa issuance fees may vary by nationality. Please verify the latest fee schedule with the immigration office or Korean embassy/consulate.</div>
+<div>⚠️ <strong>Warning:</strong> Fees are subject to change, and visa issuance fees may vary by nationality. Please verify the latest fee schedule with the immigration office or Korean embassy/consulate.</div>
 
 &nbsp;
 
@@ -193,7 +184,7 @@ Documents required for the F-3 visa application include proof of family relation
 
 F-3 visa holders are generally not permitted to work, but can engage in part-time employment if they obtain a separate **Permission to Engage in Activities Not Covered by the Status of Stay**. Children can enroll in international schools or regular Korean schools, making this an attractive option for families with school-age children.
 
-<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business professional with family" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Business professional with family" />
 
 &nbsp;
 
@@ -216,7 +207,7 @@ F-5 permanent residency represents the ideal long-term settlement goal for D-8 v
 
 However, permanent residents should be aware of **re-entry permit requirements**. Permanent residency may be revoked if you remain outside Korea for more than 2 years, so it is advisable to obtain a re-entry permit before extended overseas stays.
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>Note:</strong> The length of stay requirement for F-5 transition may be shortened depending on the scale of investment. For example, large-scale investors may be eligible to apply for permanent residency after just 3 years of residence. Consult a professional administrative agent for specific details.</div>
+<div>💡 <strong>Note:</strong> The length of stay requirement for F-5 transition may be shortened depending on the scale of investment. For example, large-scale investors may be eligible to apply for permanent residency after just 3 years of residence. Consult a professional administrative agent for specific details.</div>
 
 &nbsp;
 
@@ -278,12 +269,18 @@ The initial stay period is typically **1 to 2 years**. Extensions of 1 to 3 year
 VISION Administrative Office provides comprehensive services related to the D-8 Corporate Investment Visa.
 
 - [D-8 Corporate Investment Visa Application](/en/visa/d-8) — Full-service support from document preparation to visa issuance
-- [Foreign-Invested Company Establishment](/en/business/foreign-invested-company) — One-stop service for incorporation, business registration, and FIE registration
+- [Foreign Direct Investment Company Setup in Korea](/en/blog/foreign-direct-investment-company-korea-2026) — FDI registration, capital requirements, and D-8 connection explained
+- [Foreign Company Branch Registration Korea](/en/blog/foreign-company-branch-registration-korea-2026) — Branch office vs. liaison office setup and D-7 visa for dispatched staff
 - [D-9 Trade Management Visa](/en/visa/d-9) — D-9 visa application and conversion consulting
 - [F-3 Dependent Visa](/en/visa/f-3) — Family dependent visa application support
 - [F-5 Permanent Residency Visa](/en/visa/f-5) — Eligibility review and application support for permanent residency
 - [Stay Extension](/en/visa/extension) — Visa extension application support
 
+<div style="background:#eff6ff;border:1px solid #bfdbfe;padding:24px;border-radius:8px;margin:32px 0">
+<h3 style="color:#1e40af;margin-top:0">D-8 Corporate Investment Visa Korea Specialist</h3>
+<p>VISION Administrative Scrivener Office handles D-8 visa applications, company incorporation, FDI registration, and business plan preparation. We work with investors from China, Japan, the US, Europe, and Southeast Asia.</p>
+<a href="/en/contact" style="display:inline-block;background:#A33344;color:#fff;padding:18px 32px;border-radius:8px;text-decoration:none;font-weight:700;font-size:15px">Free Consultation →</a>
+</div>
+
 &nbsp;
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">Request a Free Consultation</h3><p style="color:#bfdbfe; margin:0 0 16px;">Our professional administrative agents are here to help. Tel. 02-363-2251</p><a href="/en/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">Request Consultation</a></div>

@@ -12,21 +12,6 @@ D-8ビザは書類さえ揃えれば発給されるビザではありません�
 
 実際の審査では、**投資資金の海外送金経路、投資家の経歴・資金力、事業所の物理的な実体、事業計画の収益構造**を合わせて確認します。書類が多くても、この流れが見えてこなければ補完要請や不許可につながります。以下で不許可理由と審査ポイントを、実際の流れに沿って整理します。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8ビザ審査で実際に見られるポイント</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 不許可につながる主な理由7つ</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 資本金1億ウォン要件 - 金額より出所説明</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 事業計画書で明暗が分かれるポイント</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 法人設立・外国人投資申告段階のミス</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 事務所・事業所の実体確認</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 不許可後の再申請戦略</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくあるミス</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. よくあるご質問 (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. ご相談のご案内</a></li>
-  </ul>
-</nav>
 
 ## D-8ビザ審査で実際に見られるポイント
 
@@ -46,49 +31,49 @@ D-8は外国人投資企業の経営・管理・生産技術人材に発給さ�
 
 現場では、審査官は書類を上から順に読み流すわけではありません。外国人投資申告書 → 送金証憑 → 法人登記簿 → 賃貸借契約 → 事業計画書 → 申請者の経歴の順に、**お金の流れと事業の実体**を突き合わせながら確認します。この順序が自然につながらないと、説明が不十分と判断されます。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント:</strong> 書類を受付順にそのまま並べるのではなく、「このお金がどう入ってきて、どこに使われ、どんな事業を行っているか」が一文で要約できる構成にしてください。この一文が見えると、審査官は書類全体を納得して読み進められます。
+<div>
+  <strong>💡 実務のヒント:</strong> 書類を受付順にそのまま並べるのではなく、「このお金がどう入ってきて、どこに使われ、どんな事業を行っているか」が一文で要約できる構成にしてください。この一文が見えると、審査官は書類全体を納得して読み進められます。
 </div>
 
 ## 不許可につながる主な理由7つ
 
 不許可通知書にはよく「投資の真正性不足」「事業実体不十分」といった表現が使われます。その文言の裏で実際に何が起きているのかを整理すると、以下の通りです。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">不許可理由</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">実際に問題となった点</th>
+      <th>不許可理由</th>
+      <th>実際に問題となった点</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資金の出所が不明確</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海外から送金された履歴が突然現れ、その前の資金履歴がない</td>
+      <td>投資金の出所が不明確</td>
+      <td>海外から送金された履歴が突然現れ、その前の資金履歴がない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">資金の実質的な払込未確認</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FDI申告はあるが、実際の資本金口座に残高がない、または出金済み</td>
+      <td>資金の実質的な払込未確認</td>
+      <td>FDI申告はあるが、実際の資本金口座に残高がない、または出金済み</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業所の実体不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">シェアオフィスの住所のみで、什器・人員が存在しない</td>
+      <td>事業所の実体不足</td>
+      <td>シェアオフィスの住所のみで、什器・人員が存在しない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業計画書の非現実性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上予測が資本金規模と合わない、または業種経験がまったくない</td>
+      <td>事業計画書の非現実性</td>
+      <td>売上予測が資本金規模と合わない、または業種経験がまったくない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">申請者の資格不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資家ではなく一般従業員がD-8を申請、または経営実権がない</td>
+      <td>申請者の資格不足</td>
+      <td>投資家ではなく一般従業員がD-8を申請、または経営実権がない</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">名義貸しの疑い</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">韓国人が実質的に運営し、外国人の名前だけが登記されている構造</td>
+      <td>名義貸しの疑い</td>
+      <td>韓国人が実質的に運営し、外国人の名前だけが登記されている構造</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">過去の滞在記録の問題</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">過去の不法滞在・虚偽招聘など、滞在秩序違反の履歴がある</td>
+      <td>過去の滞在記録の問題</td>
+      <td>過去の不法滞在・虚偽招聘など、滞在秩序違反の履歴がある</td>
     </tr>
   </tbody>
 </table>
@@ -97,8 +82,8 @@ D-8は外国人投資企業の経営・管理・生産技術人材に発給さ�
 
 実務で最もよく目にする不許可理由は、**投資金の出所不明確**と**事業所の実体不足**です。この二つは書類そのものが間違っているわけではなく、説明が弱いせいで審査官が確信を持てない場合に生じます。逆に言えば、この部分がしっかり準備できていれば、残りは大きな変数にはなりません。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 不許可理由に「事業実体不十分」と書かれていても、実際の内部理由は名義貸しの疑いだというケースがあります。単純な補完ではなく、構造そのものを見直すべきサインかもしれません。
+<div>
+  <strong>⚠️ 注意:</strong> 不許可理由に「事業実体不十分」と書かれていても、実際の内部理由は名義貸しの疑いだというケースがあります。単純な補完ではなく、構造そのものを見直すべきサインかもしれません。
 </div>
 
 ## 資本金1億ウォン要件 - 金額より出所説明
@@ -115,29 +100,29 @@ D-8ビザは外国人投資促進法上、**1億ウォン以上の外国人直�
 
 ### 資金の流れシナリオ比較
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">状況</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">審査判断</th>
+      <th>状況</th>
+      <th>審査判断</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">本人の海外口座から直接送金 + 1年以上の残高履歴</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">追加説明なしで問題なく通過</td>
+      <td>本人の海外口座から直接送金 + 1年以上の残高履歴</td>
+      <td>追加説明なしで問題なく通過</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">親族の口座を経由した送金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">贈与契約書・家族関係証明などの追加補完を要求</td>
+      <td>親族の口座を経由した送金</td>
+      <td>贈与契約書・家族関係証明などの追加補完を要求</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">送金直前に大きな金額が突然入金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資金源泉の疎明要請 - 未提出の場合は不許可の可能性</td>
+      <td>送金直前に大きな金額が突然入金</td>
+      <td>資金源泉の疎明要請 - 未提出の場合は不許可の可能性</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">現金を携帯して持ち込み後に入金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">税関申告記録が必須。ない場合は出所不明と判断</td>
+      <td>現金を携帯して持ち込み後に入金</td>
+      <td>税関申告記録が必須。ない場合は出所不明と判断</td>
     </tr>
   </tbody>
 </table>
@@ -160,25 +145,25 @@ D-8ビザは外国人投資促進法上、**1億ウォン以上の外国人直�
 
 ### 見落としがちなポイント
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 事業計画書チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>業種選択の理由と本人の経歴とのつながりの記述</li>
-    <li>資本金1億ウォンの具体的な使用項目(賃料・設備・在庫・人件費など)</li>
-    <li>1年目・2年目の売上予測とその根拠資料</li>
-    <li>主要取引先・サプライチェーン・販路との実際の接触の痕跡</li>
-    <li>競合分析と差別化ポイント</li>
-    <li>韓国国内の事業所立地を選定した理由</li>
-    <li>雇用計画と人件費算定の根拠</li>
-  </ul>
+<div>
+  <strong>✅ 事業計画書チェックリスト</strong>
+
+    業種選択の理由と本人の経歴とのつながりの記述
+    資本金1億ウォンの具体的な使用項目(賃料・設備・在庫・人件費など)
+    1年目・2年目の売上予測とその根拠資料
+    主要取引先・サプライチェーン・販路との実際の接触の痕跡
+    競合分析と差別化ポイント
+    韓国国内の事業所立地を選定した理由
+    雇用計画と人件費算定の根拠
+
 </div>
 
 ### 業種ごとに書き分けが必要
 
 貿易・卸小売、飲食業、ITサービス、製造業では、審査の着眼点が異なります。貿易であれば取引先の契約書・発注意向書が弱いとすぐに説明不足と見られます。飲食業は立地・メニュー・厨房設備の見積もりが肝です。ITサービスは開発人材の確保計画と技術説明が見えてこなければなりません。**業種特性を無視した一般的な事業計画書は、ほとんどが補完対象**になります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> ネットに出回っている事業計画書のひな形をそのまま流用すると、他の申請者と文面が重複します。審査官は同じテンプレートを何度も目にしています。コピペの疑いを持たれた時点で、それ自体が減点要因になります。
+<div>
+  <strong>⚠️ 注意:</strong> ネットに出回っている事業計画書のひな形をそのまま流用すると、他の申請者と文面が重複します。審査官は同じテンプレートを何度も目にしています。コピペの疑いを持たれた時点で、それ自体が減点要因になります。
 </div>
 
 ## 法人設立・外国人投資申告段階のミス
@@ -187,39 +172,39 @@ D-8は、法人設立 → 外国人投資申告(FDI) → 資本金送金・払�
 
 ### 段階別のミスの類型
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">段階</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">よくあるミス</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">結果</th>
+      <th>段階</th>
+      <th>よくあるミス</th>
+      <th>結果</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資申告</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">先に送金し、FDI申告を後から処理</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資として認められない可能性</td>
+      <td>外国人投資申告</td>
+      <td>先に送金し、FDI申告を後から処理</td>
+      <td>外国人投資として認められない可能性</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金送金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申告金額と送金金額が不一致</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録の遅延</td>
+      <td>資本金送金</td>
+      <td>申告金額と送金金額が不一致</td>
+      <td>外国人投資企業登録の遅延</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人登記</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">韓国人を代表取締役として登記</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人の経営実体が認められにくい</td>
+      <td>法人登記</td>
+      <td>韓国人を代表取締役として登記</td>
+      <td>外国人の経営実体が認められにくい</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業者登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">業種コードが事業計画と不一致</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">業種別要件の再検討対象</td>
+      <td>事業者登録</td>
+      <td>業種コードが事業計画と不一致</td>
+      <td>業種別要件の再検討対象</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ビザ申請時点で登録証が未整備</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">受付返戻</td>
+      <td>外国人投資企業登録</td>
+      <td>ビザ申請時点で登録証が未整備</td>
+      <td>受付返戻</td>
     </tr>
   </tbody>
 </table>
@@ -239,11 +224,7 @@ FDI申告前に送金された資金は、外国人直接投資として認め�
 一方で、資本金口座から個人口座へ逆送金されたり、用途不明の大きな金額が流出したりしている場合は、仮装払込の疑いを持たれます。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 事務所・事業所の実体確認
@@ -254,34 +235,34 @@ D-8審査で現地確認は原則ではありませんが、疑わしいと見�
 
 最近ではシェアオフィスの住所だけで事業所の証憑とするケースが多く見られますが、出入国側では**シェアオフィスが単なる住所提供レベルなのか、実際の業務スペースが存在するのか**を区別して見ます。業種によっては、シェアオフィスでは事業の実体がそもそも説明できないケースもあります。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">業種</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">シェアオフィスの受容度</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">必要な補完</th>
+      <th>業種</th>
+      <th>シェアオフィスの受容度</th>
+      <th>必要な補完</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">IT・コンサルティング・小規模貿易</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">比較的受容</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">専用室・常駐業務の証憑</td>
+      <td>IT・コンサルティング・小規模貿易</td>
+      <td>比較的受容</td>
+      <td>専用室・常駐業務の証憑</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">卸小売・在庫保管を伴う事業</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">低い</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">別途の倉庫・店舗の賃貸借が必要</td>
+      <td>卸小売・在庫保管を伴う事業</td>
+      <td>低い</td>
+      <td>別途の倉庫・店舗の賃貸借が必要</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">飲食業・サービス業</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">認定不可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">実際の営業所の賃貸借・許認可</td>
+      <td>飲食業・サービス業</td>
+      <td>認定不可</td>
+      <td>実際の営業所の賃貸借・許認可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">製造業</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">認定不可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">工場・生産設備の確認</td>
+      <td>製造業</td>
+      <td>認定不可</td>
+      <td>工場・生産設備の確認</td>
     </tr>
   </tbody>
 </table>
@@ -305,33 +286,33 @@ D-8が一度不許可になると、以降の申請に過去の記録が累積�
 
 ### 不許可理由別の対応
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">不許可理由</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">再申請前の対応</th>
+      <th>不許可理由</th>
+      <th>再申請前の対応</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資金の出所不明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">源泉証憑の確保、資金履歴の再構成、必要に応じて贈与契約書の公証</td>
+      <td>投資金の出所不明</td>
+      <td>源泉証憑の確保、資金履歴の再構成、必要に応じて贈与契約書の公証</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業の実体不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事務所の切替、什器の整備、初期取引実績の確保後に再申請</td>
+      <td>事業の実体不足</td>
+      <td>事務所の切替、什器の整備、初期取引実績の確保後に再申請</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業計画書が弱い</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">業種特性に合わせた全面再作成、取引先との接触証拠の補強</td>
+      <td>事業計画書が弱い</td>
+      <td>業種特性に合わせた全面再作成、取引先との接触証拠の補強</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">名義貸しの疑い</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">構造そのものの再設計(実際の外国人経営構造への転換)</td>
+      <td>名義貸しの疑い</td>
+      <td>構造そのものの再設計(実際の外国人経営構造への転換)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">滞在秩序違反の履歴</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出国後、一定期間の経過、疎明書の補強</td>
+      <td>滞在秩序違反の履歴</td>
+      <td>出国後、一定期間の経過、疎明書の補強</td>
     </tr>
   </tbody>
 </table>
@@ -340,8 +321,8 @@ D-8が一度不許可になると、以降の申請に過去の記録が累積�
 
 不許可直後にすぐ再申請しても問題ないのは、単純な書類不備の場合だけです。実体の問題で不許可になったケースでは、**少なくとも3〜6か月以上、事業運営の実績を積んでから**再申請した方が得策です。売上の税金計算書、取引履歴、従業員の社会保険加入記録が積み上がるほど、説明力は強くなります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント:</strong> 再申請時には「何が変わったのか」を疎明書に具体的に記載する必要があります。単に書類だけを出し直すと、前回の不許可理由がそのまま引き継がれてしまいます。事務所を変えた、取引実績ができた、資金源泉を追加で確保したといった変更点を、文書で見える形にしてください。
+<div>
+  <strong>💡 実務のヒント:</strong> 再申請時には「何が変わったのか」を疎明書に具体的に記載する必要があります。単に書類だけを出し直すと、前回の不許可理由がそのまま引き継がれてしまいます。事務所を変えた、取引実績ができた、資金源泉を追加で確保したといった変更点を、文書で見える形にしてください。
 </div>
 
 ## よくあるミス
@@ -402,13 +383,12 @@ A. 単純な書類の漏れで不許可になった場合は、補完後すぐ�
 
 D-8ビザは書類準備よりも、**資金の流れの設計と事業実体の構築**が先です。この構造が弱いまま申請すると、補完・不許可が繰り返され、時間と費用がかえって膨らみます。ビジョン行政士事務所は、D-8の新規申請、不許可後の再申請、事業計画書のレビュー、外国人投資申告から法人設立・滞在資格変更まで、実際の審査の流れに沿って支援いたします。
 
-<div style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)
-  <ul style="list-style:none;padding-left:0;margin:0">
-    <li><strong>電話:</strong> 02-363-2251</li>
-    <li><strong>メール:</strong> 5000meter@gmail.com</li>
-    <li><strong>住所:</strong> (04614) ソウル特別市中区退渓路324、3階(ソンウビル)</li>
-  </ul>
+<div>
+### ビジョン行政士事務所 (VISION Administrative Office)
+
+    <strong>メール:</strong> 5000meter@gmail.com
+    <strong>住所:</strong> (04614) ソウル特別市中区退渓路324、3階(ソンウビル)
+
 </div>
 
 D-8の不許可通知書を受け取られた方、あるいは申請前に構造を点検したい方は、お手元の書類と状況を整理のうえ、ご連絡ください。法令・告示の細部は変動する可能性があるため、管轄の出入国・外国人庁での確認が必要です。

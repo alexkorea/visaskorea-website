@@ -12,22 +12,8 @@ E-7ビザが不許可になる最も一般的な理由は、**職種コードと
 
 再申請は、同じ書類にハンコをもう一つ押すだけの作業ではありません。不許可になったポイントをそのままにして再提出すれば、**2回目はもっと早く不許可**になります。核心はこれです。初回申請で弱かった部分を見つけて断ち切り、**新しい立証構造**で組み立て直さなければなりません。以下では、不許可理由ごとの実際のパターンと再申請戦略を一つずつ整理します。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7ビザの不許可が実際に起こる構造</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 不許可理由1：職種コードと実際の業務の不一致</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 不許可理由2：学歴・職歴要件の立証不足</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 不許可理由3：雇用企業の要件と事業所の実態</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 不許可理由4：賃金基準の未達と国民雇用の保護</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 不許可通知書の読み方と原因追跡</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 再申請戦略：何を変え、何を維持するか</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくあるミスとチェックリスト</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. よくある質問(FAQ)</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">1. E-7ビザの不許可が実際に起こる構造
+## 1. E-7ビザの不許可が実際に起こる構造
 
 E-7(特定活動)は、その名の通り**特定職種に限定された**ビザです。法務部が告示した85の専門職種の範囲内でのみ発給されます。一見シンプルに見えても、実際の審査では職種コード一つですべての書類が読み直されます。同じ契約書でも、職種コードが変われば要件がすべて変わるからです。
 
@@ -37,41 +23,41 @@ E-7(特定活動)は、その名の通り**特定職種に限定された**ビ�
 
 ### 不許可のタイプは大きく4つに分かれます
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">不許可タイプ</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">代表的なパターン</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">再申請の難易度</th>
+      <th>不許可タイプ</th>
+      <th>代表的なパターン</th>
+      <th>再申請の難易度</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">職種不適合</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">業務内容が専門職種の範囲外</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高い(職務の再設計が必要)</td>
+      <td>職種不適合</td>
+      <td>業務内容が専門職種の範囲外</td>
+      <td>高い(職務の再設計が必要)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">学歴・職歴不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">専攻不一致または職歴立証が弱い</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中程度(補強可能)</td>
+      <td>学歴・職歴不足</td>
+      <td>専攻不一致または職歴立証が弱い</td>
+      <td>中程度(補強可能)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">雇用企業要件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上・国民雇用・外国人比率の問題</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中程度(企業側資料の補強)</td>
+      <td>雇用企業要件</td>
+      <td>売上・国民雇用・外国人比率の問題</td>
+      <td>中程度(企業側資料の補強)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">賃金・契約不適切</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">GNI基準未達、契約書が曖昧</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">低い(契約の再調整)</td>
+      <td>賃金・契約不適切</td>
+      <td>GNI基準未達、契約書が曖昧</td>
+      <td>低い(契約の再調整)</td>
     </tr>
   </tbody>
 </table>
 
 実際によく引っかかるのは、**「職種不適合」と「学歴・職歴不足」が重なって出るケース**です。どちらか一方だけでなく、2つが絡み合っているときが最も不許可率が高くなります。
 
-<h2 id="section-2">2. 不許可理由1：職種コードと実際の業務の不一致
+## 2. 不許可理由1：職種コードと実際の業務の不一致
 
 最も頻繁に引っかかるポイントです。会社は「IT専門家」と記載しているのに、実際の業務説明を見ると単純な顧客対応や翻訳が混ざっている、というパターンです。審査官は職務記述書、組織図、業務分担表を照らし合わせて読みます。ここで差が出ます。
 
@@ -79,8 +65,8 @@ E-7(特定活動)は、その名の通り**特定職種に限定された**ビ�
 
 肩書きをどれだけ立派につけても、実際の業務が専門職の範疇から外れていれば即不許可です。特に**外国企業特殊語専門家(S1)**、**IT/R&D分野**、**デザイン専門家**は、業務の詳細記述が弱いとたいていこの段階で引っかかります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>「マーケティングマネージャー」「海外営業担当」のような漠然とした肩書きは、かえって審査官の疑いを招きます。一日の業務のうちどの部分がなぜ専門性を要するのか、具体的な行為で書く必要があります。
+<div>
+  <strong>⚠️ 注意：</strong>「マーケティングマネージャー」「海外営業担当」のような漠然とした肩書きは、かえって審査官の疑いを招きます。一日の業務のうちどの部分がなぜ専門性を要するのか、具体的な行為で書く必要があります。
 </div>
 
 ### 職務記述書が弱いと書類全体が揺らぎます
@@ -91,7 +77,7 @@ E-7(特定活動)は、その名の通り**特定職種に限定された**ビ�
 
 最初から職種選択が間違っていた場合、同じ職種コードで再提出するのは時間の無駄です。むしろ**職種コードを変えて再申請**するか、業務自体を再調整したうえで提出すべきです。この部分が弱ければ、回数を重ねても結果は同じです。
 
-<h2 id="section-3">3. 不許可理由2：学歴・職歴要件の立証不足
+## 3. 不許可理由2：学歴・職歴要件の立証不足
 
 E-7は基本的に**学士以上+関連職歴1年**、または**修士以上**、あるいは**関連分野5年以上の職歴**が求められます(職種により差異あり)。数字は満たしていても**「関連性」**で引っかかるケースが多いです。
 
@@ -99,34 +85,34 @@ E-7は基本的に**学士以上+関連職歴1年**、または**修士以上**�
 
 例えば経営学士がIT開発職務で申請する場合、専攻と職務のつながりが弱ければ、審査官は職歴の方に目を移します。ところが経歴証明書が肩書きだけで業務内容がないと、その場で詰みます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">資格タイプ</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">基本要件</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">実務で弱くなる点</th>
+      <th>資格タイプ</th>
+      <th>基本要件</th>
+      <th>実務で弱くなる点</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">学士+1年職歴</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">関連分野での職歴1年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">経歴証明書の業務の具体性</td>
+      <td>学士+1年職歴</td>
+      <td>関連分野での職歴1年以上</td>
+      <td>経歴証明書の業務の具体性</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">修士以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">専攻と職務の関連性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">専攻と職務が遠いときの説明不足</td>
+      <td>修士以上</td>
+      <td>専攻と職務の関連性</td>
+      <td>専攻と職務が遠いときの説明不足</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5年以上の職歴</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">関連分野5年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">職歴期間のブランク、連続性の立証</td>
+      <td>5年以上の職歴</td>
+      <td>関連分野5年以上</td>
+      <td>職歴期間のブランク、連続性の立証</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">国内大学の専門学士</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">職種別に条件付きで認定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">職種コードごとの認定範囲の確認</td>
+      <td>国内大学の専門学士</td>
+      <td>職種別に条件付きで認定</td>
+      <td>職種コードごとの認定範囲の確認</td>
     </tr>
   </tbody>
 </table>
@@ -135,15 +121,15 @@ E-7は基本的に**学士以上+関連職歴1年**、または**修士以上**�
 
 経歴証明書に会社名、在職期間、役職だけあれば、審査官は「この人が本当にその仕事をしていたのか」を確認する術がありません。実際の審査では、**担当プロジェクト、使用技術、チーム規模、成果物**が入った経歴証明書が差をつけます。原文言語の証明書は**公証された翻訳本**と合わせて提出する必要があります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のコツ：</strong>前職の会社が廃業していたり連絡が取れない場合、当時の給与明細書・社会保険加入履歴(該当国)・税務申告書類といった間接的な立証資料を併せて提出すれば、職歴の証明がはるかに強固になります。証明書1枚より、3〜4種類の間接資料のほうがむしろ説得力があります。
+<div>
+  <strong>💡 実務のコツ：</strong>前職の会社が廃業していたり連絡が取れない場合、当時の給与明細書・社会保険加入履歴(該当国)・税務申告書類といった間接的な立証資料を併せて提出すれば、職歴の証明がはるかに強固になります。証明書1枚より、3〜4種類の間接資料のほうがむしろ説得力があります。
 </div>
 
 ### 学歴立証のアポスティーユ漏れ
 
 外国の学歴は、**アポスティーユ**または駐韓大使館の領事確認が付いた原本が基本です。この部分が欠けていると審査が始まらず、補完要請として戻ってきます。補完要請が繰り返されると、それ自体が否定的な審査シグナルになります。
 
-<h2 id="section-4">4. 不許可理由3：雇用企業の要件と事業所の実態
+## 4. 不許可理由3：雇用企業の要件と事業所の実態
 
 申請者本人は要件を満たしているのに、**会社側で引っかかる**ケースがかなりあります。書類以上に重要なのは、会社が外国人を雇用できるだけの実体と規模を備えているかどうかです。
 
@@ -151,34 +137,34 @@ E-7は基本的に**学士以上+関連職歴1年**、または**修士以上**�
 
 通常はこの段階で引っかかります。売上が小さすぎたり、国民雇用がほとんどない会社が外国人ばかり複数人雇おうとすれば、すぐに補完要請が入ります。国民雇用保護の原則があるためです。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">企業要件項目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">一般基準</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">審査で確認する資料</th>
+      <th>企業要件項目</th>
+      <th>一般基準</th>
+      <th>審査で確認する資料</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">国民雇用比率</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">内国人5名以上(職種により差異)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">社会保険加入者名簿</td>
+      <td>国民雇用比率</td>
+      <td>内国人5名以上(職種により差異)</td>
+      <td>社会保険加入者名簿</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人雇用限度</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">内国人対比一定比率以内</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">現在滞在中の外国人名簿</td>
+      <td>外国人雇用限度</td>
+      <td>内国人対比一定比率以内</td>
+      <td>現在滞在中の外国人名簿</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上規模</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">雇用人数に見合う合理的な規模</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">直近2年の財務諸表、付加価値税申告</td>
+      <td>売上規模</td>
+      <td>雇用人数に見合う合理的な規模</td>
+      <td>直近2年の財務諸表、付加価値税申告</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業所の実体</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">実際の営業活動の確認</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事務所写真、賃貸借契約、現地調査</td>
+      <td>事業所の実体</td>
+      <td>実際の営業活動の確認</td>
+      <td>事務所写真、賃貸借契約、現地調査</td>
     </tr>
   </tbody>
 </table>
@@ -187,15 +173,15 @@ E-7は基本的に**学士以上+関連職歴1年**、または**修士以上**�
 
 実務では、審査官や出入国職員が事業所の現場を直接確認することがあります。所在地に実際の事務所がなかったり、シェアオフィスに名前だけ登録している構造なら、この段階でそのまま引っかかります。特に**新設企業**や**1人代表が複数法人を運営**しているケースでは、確認手続きがさらに厳しくなります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>事業者登録はされていても、付加価値税の申告履歴が空だったり、直近6か月間の売上がほぼない会社が外国の専門人材を採用すると言い出せば、審査官はまず「ペーパー雇用」を疑います。売上がない段階なら、投資誘致実績や事業計画書がその空白を埋める必要があります。
+<div>
+  <strong>⚠️ 注意：</strong>事業者登録はされていても、付加価値税の申告履歴が空だったり、直近6か月間の売上がほぼない会社が外国の専門人材を採用すると言い出せば、審査官はまず「ペーパー雇用」を疑います。売上がない段階なら、投資誘致実績や事業計画書がその空白を埋める必要があります。
 </div>
 
 ### 採用必要性の説明が弱いケース
 
 会社がわざわざ外国人を使う理由が示されなければ、審査官は「内国人で代替可能」と判断します。職務記述書に**韓国語以外の言語能力がなぜ必須か**、**海外市場・技術・パートナーとの接点**がなぜそのポジションに必要なのかを具体的に盛り込まなければなりません。
 
-<h2 id="section-5">5. 不許可理由4：賃金基準の未達と国民雇用の保護
+## 5. 不許可理由4：賃金基準の未達と国民雇用の保護
 
 E-7は**前年度の1人当たり国民総所得(GNI)の80%以上**の賃金が原則です(職種別・職歴別の例外あり、所管機関の確認が必要です)。数字を合わせれば済みそうに見えますが、実務では賃金構造自体が問題になります。
 
@@ -207,47 +193,43 @@ E-7は**前年度の1人当たり国民総所得(GNI)の80%以上**の賃金が�
 
 実際の審査では、同じ会社の内国人社員の年俸と比較されます。外国人にだけ著しく低い賃金が設定されていれば、**国民雇用保護原則違反**の疑いと見られます。逆に外国人にだけ異常に高い賃金も、「書類上の賃金」ではないかと疑われます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">賃金チェック項目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">弱い構造</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">強い構造</th>
+      <th>賃金チェック項目</th>
+      <th>弱い構造</th>
+      <th>強い構造</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">賃金水準</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">GNI 80%ぎりぎり</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">職種平均以上</td>
+      <td>賃金水準</td>
+      <td>GNI 80%ぎりぎり</td>
+      <td>職種平均以上</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">賃金構成</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">基本給が低く手当比重が大きい</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">固定給中心</td>
+      <td>賃金構成</td>
+      <td>基本給が低く手当比重が大きい</td>
+      <td>固定給中心</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">支払方法</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">現金の一部を含む</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">全額口座振込、源泉徴収の確認可</td>
+      <td>支払方法</td>
+      <td>現金の一部を含む</td>
+      <td>全額口座振込、源泉徴収の確認可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">内国人との比較</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">同じ職務なのに格差が大きい</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">類似職務と同等か合理的な差</td>
+      <td>内国人との比較</td>
+      <td>同じ職務なのに格差が大きい</td>
+      <td>類似職務と同等か合理的な差</td>
     </tr>
   </tbody>
 </table>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7235814/pexels-photo-7235814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Explore your wanderlust with maps, a compass, and a vintage camera." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Explore your wanderlust with maps, a compass, and a vintage camera.](https://images.pexels.com/photos/7235814/pexels-photo-7235814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">6. 不許可通知書の読み方と原因追跡
+## 6. 不許可通知書の読み方と原因追跡
 
 不許可通知書はたいてい短いものです。「要件未充足」「雇用必要性不足」「提出書類不備」といった文言がほとんどです。通知の有無より先に見るべきは、**どの条項を引用しているか**です。
 
@@ -262,44 +244,44 @@ E-7は**前年度の1人当たり国民総所得(GNI)の80%以上**の賃金が�
 
 通知書だけで原因を決めつけると、再申請でまた引っかかります。まず見るべきは、**審査官が補完要請の段階で何を尋ねたか**です。補完要請の履歴がそのまま不許可ポイントにつながるケースは頻繁にあります。出入国・外国人庁の窓口では、本人の申請案件について簡単な案内を受けられますが、詳細な理由は公開されないこともあるので、**再申請前の情報公開請求**を活用する方法もあります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のコツ：</strong>不許可直後、感情的にすぐ再申請するのが最も危険です。最低2〜4週間は不許可理由の分析と書類の再構成に使うべきです。同じポイントがそのまま残っていれば、2回目の審査は1回目より早く却下されます。
+<div>
+  <strong>💡 実務のコツ：</strong>不許可直後、感情的にすぐ再申請するのが最も危険です。最低2〜4週間は不許可理由の分析と書類の再構成に使うべきです。同じポイントがそのまま残っていれば、2回目の審査は1回目より早く却下されます。
 </div>
 
-<h2 id="section-7">7. 再申請戦略：何を変え、何を維持するか
+## 7. 再申請戦略：何を変え、何を維持するか
 
 再申請は**「同じ書類を出し直すこと」**ではなく、**「弱かった部分を差し替えること」**です。何を変え、何を維持するかをまず切り分けなければなりません。
 
 ### 維持するもの vs 変えるもの
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">不許可理由</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">再申請時に変えるべきもの</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">維持してよいもの</th>
+      <th>不許可理由</th>
+      <th>再申請時に変えるべきもの</th>
+      <th>維持してよいもの</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">職種不適合</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">職種コード、職務記述書、肩書き</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本人の学歴・職歴の基本資料</td>
+      <td>職種不適合</td>
+      <td>職種コード、職務記述書、肩書き</td>
+      <td>本人の学歴・職歴の基本資料</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">学歴・職歴不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">経歴証明書の再発行、アポスティーユ補強</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">雇用契約書、会社の基本資料</td>
+      <td>学歴・職歴不足</td>
+      <td>経歴証明書の再発行、アポスティーユ補強</td>
+      <td>雇用契約書、会社の基本資料</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">雇用企業要件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上・雇用資料、採用必要性の説明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申請者本人の資料</td>
+      <td>雇用企業要件</td>
+      <td>売上・雇用資料、採用必要性の説明</td>
+      <td>申請者本人の資料</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">賃金問題</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">契約書の賃金構造、給与テーブル</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">学歴・職歴・職種資料</td>
+      <td>賃金問題</td>
+      <td>契約書の賃金構造、給与テーブル</td>
+      <td>学歴・職歴・職種資料</td>
     </tr>
   </tbody>
 </table>
@@ -312,22 +294,22 @@ E-7は**前年度の1人当たり国民総所得(GNI)の80%以上**の賃金が�
 
 再申請時に疎明書を添付する際は、感情的な表現を排し、**「前回不許可時に不足していた部分 → どう補強したか → どんな新しい資料を添付したか」**の順に構成しましょう。長く書くより、この3つの軸が明確に示されているかが重要です。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 再申請前のチェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>不許可通知書の文言別に原因分析完了</li>
-    <li>職種コードが実際の業務と合っているか再確認</li>
-    <li>学歴・経歴証明書の具体的な業務内容を補強</li>
-    <li>アポスティーユ/公証翻訳本が完備</li>
-    <li>雇用契約書の賃金構造が固定給中心か確認</li>
-    <li>会社の売上・国民雇用資料の最新版を準備</li>
-    <li>採用必要性(なぜ外国人でなければならないか)の記述を追加</li>
-    <li>再申請疎明書に補強内容を明示</li>
-    <li>前回申請時の補完要請履歴を反映</li>
-  </ul>
+<div>
+  <strong>✅ 再申請前のチェックリスト</strong>
+
+    不許可通知書の文言別に原因分析完了
+    職種コードが実際の業務と合っているか再確認
+    学歴・経歴証明書の具体的な業務内容を補強
+    アポスティーユ/公証翻訳本が完備
+    雇用契約書の賃金構造が固定給中心か確認
+    会社の売上・国民雇用資料の最新版を準備
+    採用必要性(なぜ外国人でなければならないか)の記述を追加
+    再申請疎明書に補強内容を明示
+    前回申請時の補完要請履歴を反映
+
 </div>
 
-<h2 id="section-8">8. よくあるミスとチェックリスト
+## 8. よくあるミスとチェックリスト
 
 実際の相談で頻繁に目にする繰り返しのミスを整理します。小さなミスに見えても、積み重なれば即不許可につながります。
 
@@ -351,11 +333,11 @@ E-7は**前年度の1人当たり国民総所得(GNI)の80%以上**の賃金が�
 
 不許可履歴がある状態で**職種だけ変えてすぐ再申請**すれば、審査官は「職種ショッピング」とみなします。この場合、本人の職務-学歴-職歴のラインが新しい職種と一貫して合っていてこそ、むしろ説得力が生まれます。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>不許可理由を推測だけで急いで再申請することが、再不許可の最もありがちな原因です。初回の不許可が「資格要件未充足」だったのに、会社資料だけ補強して再提出すれば、審査官は何も変わっていないと判断します。問題の軸と補強の軸が一致してこそ結果が変わります。
+<div>
+  <strong>⚠️ 注意：</strong>不許可理由を推測だけで急いで再申請することが、再不許可の最もありがちな原因です。初回の不許可が「資格要件未充足」だったのに、会社資料だけ補強して再提出すれば、審査官は何も変わっていないと判断します。問題の軸と補強の軸が一致してこそ結果が変わります。
 </div>
 
-<h2 id="section-9">9. よくある質問(FAQ)
+## 9. よくある質問(FAQ)
 
 ### Q1. E-7ビザが不許可になった場合、どれくらい待ってから再申請すべきですか？
 
@@ -385,7 +367,6 @@ E-7ビザの不許可通知を受けた直後は、感情的に再申請を急�
 
 **ビジョン行政士事務所**は、E-7不許可事例を職種別・理由別に分析し、再申請時に書類構造を組み立て直す作業を支援します。職種コードの再検討、職務記述書・経歴証明書の補強、雇用企業資料の再構成、再申請疎明書の作成まで、実務全般を共に進めます。
 
-- **電話**:02-363-2251
 - **メール**:5000meter@gmail.com
 - **住所**:(04614) ソウル特別市中区退渓路324、3階(ソンウビル)
 - **事務所名**:ビジョン行政士事務所 (VISION Administrative Office)
@@ -399,4 +380,3 @@ E-7ビザの不許可通知を受けた直後は、感情的に再申請を急�
 複雑な手続き、一人で悩まないでください。専門行政士が丁寧にご案内いたします。
 
 **[無料相談を申し込む](https://visaskorea.co.kr/ja/contact)**
-

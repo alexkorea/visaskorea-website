@@ -14,22 +14,8 @@ D-8 연장은 서류를 다 갖추는 것보다 사업의 실체와 자금 운�
 
 연장 신청 시점, 필수 서류, 실제 심사관이 보는 포인트, 거절을 부르는 흔한 실수, 그리고 변경이 잦은 최근 운영 기준까지 다룹니다.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">목차</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8 비자 연장이란 — 먼저 봐야 할 기본 골격</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. D-8 연장 신청 절차 — 단계별 흐름</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 실무에서 가장 많이 막히는 지점</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 거절을 부르는 결정적 실수들</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 최근 변경된 운영 기준 — 실무에서 체감되는 포인트</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. D-8 연장 체크리스트 — 신청 전 마지막 점검</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — 실제 많이 받는 질문</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 전문가 상담이 필요하신가요?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 전문가 상담이 필요하신가요?</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">D-8 비자 연장이란 — 먼저 봐야 할 기본 골격</h2>
+## D-8 비자 연장이란 — 먼저 봐야 할 기본 골격
 
 D-8은 단순한 체류 연장이 아니라 **사업이 계속 정상 운영되고 있는지를 다시 검증받는 절차**입니다.
 
@@ -54,7 +40,7 @@ D-8은 세부 코드별로 평가 기준이 다릅니다.
 
 > **주의:** 만료일이 지난 뒤 연장 신청을 하면 범칙금 부과와 함께 향후 비자 심사에 불리하게 작용할 가능성이 있습니다. 자세한 부과 기준은 [하이코리아 출입국·외국인정책본부](https://www.hikorea.go.kr) 공지를 확인하세요.
 
-<h2 id="section-2">D-8 연장 신청 절차 — 단계별 흐름</h2>
+## D-8 연장 신청 절차 — 단계별 흐름
 
 겉으로는 간단해 보여도, 실제로는 사전 점검에서 80%가 결정됩니다.
 
@@ -91,7 +77,7 @@ D-8은 세부 코드별로 평가 기준이 다릅니다.
 
 허가 시 등록증 뒷면에 새 체류기간이 부착되며, 불허 시 사유를 받아 재신청 또는 변경 신청 전략을 다시 짜야 합니다.
 
-<h2 id="section-3">실무에서 가장 많이 막히는 지점</h2>
+## 실무에서 가장 많이 막히는 지점
 
 서류가 많아도 이 부분이 약하면 바로 꼬입니다.
 
@@ -133,13 +119,12 @@ D-8은 외국 자본이 한국 경제에 기여하는지를 보는 비자입니�
 
 **정확한 비용과 절차는 전문가 상담을 통해 확인하세요.**
 
-지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea
 
 비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
 
 ---
 
-<h2 id="section-4">거절을 부르는 결정적 실수들</h2>
+## 거절을 부르는 결정적 실수들
 
 통과 여부보다 먼저 봐야 할 것은 본인 케이스의 **약점**입니다.
 
@@ -170,14 +155,10 @@ D-8은 외국 자본이 한국 경제에 기여하는지를 보는 비자입니�
 [산업통상자원부](https://www.motie.go.kr)와 [KOTRA](https://www.investkorea.org) 외투 등록 변경 신고를 먼저 정리한 뒤 연장에 들어가야 꼬임이 없습니다.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A hand holding a Russian passport over a map, suggesting travel preparation." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A hand holding a Russian passport over a map, suggesting travel preparation.](https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">최근 변경된 운영 기준 — 실무에서 체감되는 포인트</h2>
+## 최근 변경된 운영 기준 — 실무에서 체감되는 포인트
 
 D-8 운영 지침은 자주 손질됩니다.
 
@@ -197,7 +178,7 @@ D-8 운영 지침은 자주 손질됩니다.
 
 최근 비슷한 사례에서, 사무소 변경만으로 보완 부담이 줄어든 경우도 있어 케이스별 전략이 갈립니다.
 
-<h2 id="section-6">D-8 연장 체크리스트 — 신청 전 마지막 점검</h2>
+## D-8 연장 체크리스트 — 신청 전 마지막 점검
 
 - 체류기간 만료일 확인 (4개월 전부터 신청 가능)
 - 법인 통장 잔액·입출금 내역 출력
@@ -210,7 +191,7 @@ D-8 운영 지침은 자주 손질됩니다.
 - 대표 본인 한국 체류일수
 - 세금 체납·과태료 정리
 
-<h2 id="section-7">FAQ — 실제 많이 받는 질문</h2>
+## FAQ — 실제 많이 받는 질문
 
 **Q1. 만료일이 지난 뒤 연장 신청해도 되나요?**
 
@@ -254,31 +235,9 @@ D-8은 외국인 본인의 경영·투자 활동을 전제로 합니다.
 
 대표 변경은 비자 자격에 직접 영향을 줄 수 있는 사안이므로, 변경 전 단계에서부터 검토가 필요합니다.
 
-<h2 id="section-8">전문가 상담이 필요하신가요?</h2>
 
-D-8 연장은 서류 수가 아니라 **사업 실체 설명력**에서 결과가 갈립니다.
-
-본인 회사의 자금 흐름·고용·매출 가운데 약한 부분이 있다면, 신청 전 단계에서 어떻게 풀어 설명할지가 결국 통과 여부를 가릅니다.
-
-비전 행정사사무소는 D-8-1·D-8-2·D-8-3·D-8-4 전 분야 연장 케이스를 다뤄온 경험을 바탕으로 본인 상황에 맞춘 전략을 제시합니다.
-
-### 비전행정사사무소 서비스 안내
-
-- 사무소명: 비전 행정사사무소 (VISION Administrative Office)
-- 전화: 02-363-2251
-- 이메일: 5000meter@gmail.com
-- 카카오톡 상담: alexkorea
-- 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
-
-비용은 사례별로 상이하므로 무료 상담 시 정확히 안내드립니다.
-
-법령과 운영 기준은 변동될 수 있으므로, 신청 전 관할 기관 확인이 필요합니다.
-
----
-
-<h2 id="section-9">전문가 상담이 필요하신가요?</h2>
+## 전문가 상담이 필요하신가요?
 
 복잡한 절차, 혼자 고민하지 마세요. 전문 행정사가 친절하게 안내해 드립니다.
 
 **[무료 상담 신청하기](https://visaskorea.co.kr/ko/contact)**
-

@@ -12,25 +12,10 @@ D-8企業投資ビザは、外国人が韓国に法人を設立し、自ら経�
 
 問題はここから始まります。1億ウォンを口座に入れておくだけで、すぐにビザが下りる仕組みではありません。<strong>その資金がどこから来たのか、法人が実際に運営可能な体制にあるのか、事業計画が現実的かどうか</strong>を審査官が一つひとつ確認します。書類がどれだけ揃っていても、この流れに矛盾があれば不許可になります。まさにこの部分で、自力での準備に行き詰まる方がほとんどです。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8企業投資ビザとは──ビザの種類と対象者</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 資本金要件の実際の基準──1億ウォンの意味</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. D-8ビザの申請手続き──ステップごとの流れ</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 必要書類一覧と準備時の注意点</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 事業計画書の作成──審査で差がつくポイント</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 資金出所の証明──最もつまずきやすい段階</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 審査基準と所要期間</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくある失敗と不許可事例</a></li>
-    <li><a href="#section-faq" style="color:#2563eb;text-decoration:none">9. よくある質問（FAQ）</a></li>
-    <li><a href="#section-cta" style="color:#2563eb;text-decoration:none">10. ビジョン行政士事務所のご相談案内</a></li>
-  </ul>
-</nav>
 
 ---
 
-<h2 id="section-1">1. D-8企業投資ビザとは──ビザの種類と対象者
+## 1. D-8企業投資ビザとは──ビザの種類と対象者
 
 ### D-8ビザの定義
 
@@ -40,34 +25,34 @@ D-8企業投資ビザは、「出入国管理法施行令」別表1に定めら�
 
 D-8ビザは一種類ではありません。投資形態によって以下のように細分化されています。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">類型</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">対象</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">主な条件</th>
+<tr>
+<th>類型</th>
+<th>対象</th>
+<th>主な条件</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8-1</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業の経営・管理・生産・技術分野の中核人材</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外国人投資促進法に基づく外国人投資企業の登録</td>
+<td>D-8-1</td>
+<td>外国人投資企業の経営・管理・生産・技術分野の中核人材</td>
+<td>外国人投資促進法に基づく外国人投資企業の登録</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8-2</td>
-<td style="border:1px solid #e5e7eb;padding:10px">ベンチャー企業等に投資した個人投資家</td>
-<td style="border:1px solid #e5e7eb;padding:10px">ベンチャー企業認定書またはベンチャー企業投資確認</td>
+<td>D-8-2</td>
+<td>ベンチャー企業等に投資した個人投資家</td>
+<td>ベンチャー企業認定書またはベンチャー企業投資確認</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8-3</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外国人個人事業者（投資額基準を満たす者）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1億ウォン以上の投資、法人または個人事業者の登録</td>
+<td>D-8-3</td>
+<td>外国人個人事業者（投資額基準を満たす者）</td>
+<td>1億ウォン以上の投資、法人または個人事業者の登録</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8-4</td>
-<td style="border:1px solid #e5e7eb;padding:10px">技術創業ビザ（スタートアップビザ）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">知的財産権の保有または関連学位＋技術ベースの創業</td>
+<td>D-8-4</td>
+<td>技術創業ビザ（スタートアップビザ）</td>
+<td>知的財産権の保有または関連学位＋技術ベースの創業</td>
 </tr>
 </tbody>
 </table>
@@ -80,13 +65,13 @@ D-8ビザは一種類ではありません。投資形態によって以下の�
 - 本国企業の韓国支社または現地法人を設立しようとする海外企業の代表者
 - 技術ベースのスタートアップを起業しようとする外国籍の技術者
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント：</strong> D-8-4（技術創業）類型では、資本金1億ウォンの要件が緩和される場合があります。知的財産権を保有している方や、関連分野の修士号以上の学位をお持ちの方は、まずこの類型を検討するのが有利です。
+<div>
+  <strong>💡 実務のヒント：</strong> D-8-4（技術創業）類型では、資本金1億ウォンの要件が緩和される場合があります。知的財産権を保有している方や、関連分野の修士号以上の学位をお持ちの方は、まずこの類型を検討するのが有利です。
 </div>
 
 ---
 
-<h2 id="section-2">2. 資本金要件の実際の基準──1億ウォンの意味
+## 2. 資本金要件の実際の基準──1億ウォンの意味
 
 ### 法的基準：1億ウォン以上
 
@@ -100,42 +85,42 @@ D-8ビザの資本金基準は、<strong>外国人投資促進法上の最低投
 2. **実際の投資有無** ── 法人の資本金として払い込みが完了しているか
 3. **事業運営の実現可能性** ── 1億ウォンで当該事業を実際に運営できるか
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 1億ウォンを借りて口座に入れ、ビザ申請直後に引き出す、いわゆる「見せ金」は審査ですぐに発覚します。出入国管理事務所は入出金履歴を確認しており、資金の流れが不自然であれば追加の疎明を求められるか、不許可となります。
+<div>
+  <strong>⚠️ 注意：</strong> 1億ウォンを借りて口座に入れ、ビザ申請直後に引き出す、いわゆる「見せ金」は審査ですぐに発覚します。出入国管理事務所は入出金履歴を確認しており、資金の流れが不自然であれば追加の疎明を求められるか、不許可となります。
 </div>
 
 ### 資本金と投資金の違い
 
 混同しやすい概念を整理すると以下のとおりです。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">資本金</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">投資金</th>
+<tr>
+<th>区分</th>
+<th>資本金</th>
+<th>投資金</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">定義</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法人設立時に登記簿に記載される金額</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外国人投資促進法上、外国人が実際に投資した金額</td>
+<td>定義</td>
+<td>法人設立時に登記簿に記載される金額</td>
+<td>外国人投資促進法上、外国人が実際に投資した金額</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">基準額</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法人設立時に自由設定（最低額の制限なし）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8ビザ基準で最低1億ウォン</td>
+<td>基準額</td>
+<td>法人設立時に自由設定（最低額の制限なし）</td>
+<td>D-8ビザ基準で最低1億ウォン</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8審査基準</td>
-<td style="border:1px solid #e5e7eb;padding:10px">資本金そのものよりも外国人の投資比率が重要</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外国人名義の投資金1億ウォン以上かどうかを直接確認</td>
+<td>D-8審査基準</td>
+<td>資本金そのものよりも外国人の投資比率が重要</td>
+<td>外国人名義の投資金1億ウォン以上かどうかを直接確認</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">よくある誤り</td>
-<td style="border:1px solid #e5e7eb;padding:10px">資本金は高いが外国人の投資持分が不足しているケース</td>
-<td style="border:1px solid #e5e7eb;padding:10px">投資金の出所証明書類が不十分なケース</td>
+<td>よくある誤り</td>
+<td>資本金は高いが外国人の投資持分が不足しているケース</td>
+<td>投資金の出所証明書類が不十分なケース</td>
 </tr>
 </tbody>
 </table>
@@ -146,57 +131,57 @@ D-8-4（技術創業）類型では資本金要件が緩和されます。知的
 
 ---
 
-<h2 id="section-3">3. D-8ビザの申請手続き──ステップごとの流れ
+## 3. D-8ビザの申請手続き──ステップごとの流れ
 
 D-8ビザの申請は、単に書類を集めて提出するだけではありません。<strong>法人設立 → 外国人投資届出 → ビザ申請</strong>という順序を必ず守る必要があり、各ステップで担当機関が異なります。
 
 ### 全体の手続きの流れ
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:center">段階</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">内容</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">担当機関</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所要期間</th>
+<tr>
+<th>段階</th>
+<th>内容</th>
+<th>担当機関</th>
+<th>所要期間</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">1</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外国人投資届出</td>
-<td style="border:1px solid #e5e7eb;padding:10px">KOTRA／外国為替銀行</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1〜3日</td>
+<td>1</td>
+<td>外国人投資届出</td>
+<td>KOTRA／外国為替銀行</td>
+<td>1〜3日</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">2</td>
-<td style="border:1px solid #e5e7eb;padding:10px">投資金の送金および外国人投資企業の登録</td>
-<td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行／KOTRA</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1〜2週間</td>
+<td>2</td>
+<td>投資金の送金および外国人投資企業の登録</td>
+<td>外国為替銀行／KOTRA</td>
+<td>1〜2週間</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">3</td>
-<td style="border:1px solid #e5e7eb;padding:10px">法人設立登記</td>
-<td style="border:1px solid #e5e7eb;padding:10px">登記所（法院）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">3〜7日</td>
+<td>3</td>
+<td>法人設立登記</td>
+<td>登記所（法院）</td>
+<td>3〜7日</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">4</td>
-<td style="border:1px solid #e5e7eb;padding:10px">事業者登録</td>
-<td style="border:1px solid #e5e7eb;padding:10px">管轄税務署</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1〜3日</td>
+<td>4</td>
+<td>事業者登録</td>
+<td>管轄税務署</td>
+<td>1〜3日</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">5</td>
-<td style="border:1px solid #e5e7eb;padding:10px">オフィスの賃貸契約および実体の確保</td>
-<td style="border:1px solid #e5e7eb;padding:10px">自社対応</td>
-<td style="border:1px solid #e5e7eb;padding:10px">随時</td>
+<td>5</td>
+<td>オフィスの賃貸契約および実体の確保</td>
+<td>自社対応</td>
+<td>随時</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px;text-align:center">6</td>
-<td style="border:1px solid #e5e7eb;padding:10px">D-8ビザ申請（査証発給認定書または在留資格変更）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">出入国管理事務所</td>
-<td style="border:1px solid #e5e7eb;padding:10px">2〜6週間</td>
+<td>6</td>
+<td>D-8ビザ申請（査証発給認定書または在留資格変更）</td>
+<td>出入国管理事務所</td>
+<td>2〜6週間</td>
 </tr>
 </tbody>
 </table>
@@ -213,28 +198,28 @@ D-8ビザの申請は、単に書類を集めて提出するだけではあり�
 
 ---
 
-<h2 id="section-4">4. 必要書類一覧と準備時の注意点
+## 4. 必要書類一覧と準備時の注意点
 
 ### 基本書類一覧
 
 D-8ビザ申請に共通して求められる書類です。申請の種類（査証発給認定書、在留資格変更など）によって一部異なるため、<strong>管轄の出入国管理事務所での最終確認</strong>が必ず先行する必要があります。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ D-8ビザ基本書類チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>パスポートのコピー</li>
-    <li>証明写真（3.5cm × 4.5cm）</li>
-    <li>ビザ申請書（統合申請書）</li>
-    <li>外国人投資企業登録証明書</li>
-    <li>法人登記簿謄本</li>
-    <li>事業者登録証のコピー</li>
-    <li>投資金送金の証明書類（海外送金確認書、外国為替買入証明書など）</li>
-    <li>資金出所の証明書類（本国の所得証明、固定資産税納税証明など）</li>
-    <li>事業計画書</li>
-    <li>オフィスの賃貸借契約書およびオフィスの写真</li>
-    <li>株主名簿または出資確認書</li>
-    <li>履歴書（申請者の職歴を含む）</li>
-  </ul>
+<div>
+  <strong>✅ D-8ビザ基本書類チェックリスト</strong>
+
+    パスポートのコピー
+    証明写真（3.5cm × 4.5cm）
+    ビザ申請書（統合申請書）
+    外国人投資企業登録証明書
+    法人登記簿謄本
+    事業者登録証のコピー
+    投資金送金の証明書類（海外送金確認書、外国為替買入証明書など）
+    資金出所の証明書類（本国の所得証明、固定資産税納税証明など）
+    事業計画書
+    オフィスの賃貸借契約書およびオフィスの写真
+    株主名簿または出資確認書
+    履歴書（申請者の職歴を含む）
+
 </div>
 
 ### 書類準備で見落としやすい点
@@ -249,13 +234,13 @@ D-8ビザ申請に共通して求められる書類です。申請の種類（�
 
 本国で発行された書類（所得証明、在職証明、学位証明など）は、<strong>アポスティーユ（Apostille）または領事認証</strong>が必要な場合がほとんどです。この認証なしに提出すると、書類自体が認められません。本国の書類準備には通常2〜4週間かかるため、最も早く着手すべき部分です。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> 中国、ベトナム、インドネシアなどアポスティーユ未加盟国の場合、当該国の外務省認証＋駐韓大使館認証という二重の手続きが必要です。この手続きだけで1か月以上かかるケースも珍しくないため、スケジュールには十分な余裕を持たせてください。
+<div>
+  <strong>⚠️ 注意：</strong> 中国、ベトナム、インドネシアなどアポスティーユ未加盟国の場合、当該国の外務省認証＋駐韓大使館認証という二重の手続きが必要です。この手続きだけで1か月以上かかるケースも珍しくないため、スケジュールには十分な余裕を持たせてください。
 </div>
 
 ---
 
-<h2 id="section-5">5. 事業計画書の作成──審査で差がつくポイント
+## 5. 事業計画書の作成──審査で差がつくポイント
 
 ### 事業計画書が審査で占める比重
 
@@ -279,58 +264,54 @@ D-8ビザ申請に共通して求められる書類です。申請の種類（�
 
 ### 事業計画書作成の実務基準
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">項目</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">記載レベル──弱い（不許可リスクあり）</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">記載レベル──強い（許可の可能性あり）</th>
+<tr>
+<th>項目</th>
+<th>記載レベル──弱い（不許可リスクあり）</th>
+<th>記載レベル──強い（許可の可能性あり）</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">事業内容</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「貿易業を行います」</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「中国製電子部品を輸入し、韓国の製造業者にB2B納品します。主要取引先3社とMOU締結予定」</td>
+<td>事業内容</td>
+<td>「貿易業を行います」</td>
+<td>「中国製電子部品を輸入し、韓国の製造業者にB2B納品します。主要取引先3社とMOU締結予定」</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">収益モデル</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「売上を上げる計画です」</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「単価5,000ウォン×月2万個納品＝月商1億ウォン目標。利益率15%」</td>
+<td>収益モデル</td>
+<td>「売上を上げる計画です」</td>
+<td>「単価5,000ウォン×月2万個納品＝月商1億ウォン目標。利益率15%」</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">投資金の使途</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「オフィス賃料、運営費に使用」</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「オフィス保証金3,000万ウォン、初期在庫仕入4,000万ウォン、人件費（6か月分）2,000万ウォン、マーケティング1,000万ウォン」</td>
+<td>投資金の使途</td>
+<td>「オフィス賃料、運営費に使用」</td>
+<td>「オフィス保証金3,000万ウォン、初期在庫仕入4,000万ウォン、人件費（6か月分）2,000万ウォン、マーケティング1,000万ウォン」</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">雇用計画</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「今後採用予定」</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「設立後3か月以内に韓国人社員2名を採用予定（営業1名、物流1名）。年俸各3,000万ウォン」</td>
+<td>雇用計画</td>
+<td>「今後採用予定」</td>
+<td>「設立後3か月以内に韓国人社員2名を採用予定（営業1名、物流1名）。年俸各3,000万ウォン」</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">市場分析</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「韓国市場は大きい」</td>
-<td style="border:1px solid #e5e7eb;padding:10px">「2025年の韓国電子部品輸入規模は約XX兆ウォン。ターゲット顧客は中小製造業者で、年間約XX万個の部品需要が発生」</td>
+<td>市場分析</td>
+<td>「韓国市場は大きい」</td>
+<td>「2025年の韓国電子部品輸入規模は約XX兆ウォン。ターゲット顧客は中小製造業者で、年間約XX万個の部品需要が発生」</td>
 </tr>
 </tbody>
 </table>
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント：</strong> 事業計画書の分量は通常A4で10〜20ページが適切です。短すぎると説明不足、長すぎると要点がぼやけます。審査官は1日に数十件を処理するため、<strong>重要な数値と根拠が一目で分かる構成</strong>が最も効果的です。
+<div>
+  <strong>💡 実務のヒント：</strong> 事業計画書の分量は通常A4で10〜20ページが適切です。短すぎると説明不足、長すぎると要点がぼやけます。審査官は1日に数十件を処理するため、<strong>重要な数値と根拠が一目で分かる構成</strong>が最も効果的です。
 </div>
 
 ---
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-6">6. 資金出所の証明──最もつまずきやすい段階
+## 6. 資金出所の証明──最もつまずきやすい段階
 
 ### なぜ資金出所が最も難しいのか
 
@@ -375,7 +356,7 @@ D-8ビザ申請に共通して求められる書類です。申請の種類（�
 
 ---
 
-<h2 id="section-7">7. 審査基準と所要期間
+## 7. 審査基準と所要期間
 
 ### 出入国管理事務所の審査ポイント
 
@@ -391,33 +372,33 @@ D-8ビザの審査で出入国管理事務所が重視する基準は以下の�
 
 申請の種類によって処理期間が異なります。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
+<table>
 <thead>
-<tr style="background:#f0f7ff">
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">申請種類</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">処理機関</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">通常の所要期間</th>
-<th style="border:1px solid #e5e7eb;padding:10px;text-align:left">補正要求時</th>
+<tr>
+<th>申請種類</th>
+<th>処理機関</th>
+<th>通常の所要期間</th>
+<th>補正要求時</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">査証発給認定書の申請</td>
-<td style="border:1px solid #e5e7eb;padding:10px">出入国管理事務所</td>
-<td style="border:1px solid #e5e7eb;padding:10px">3〜6週間</td>
-<td style="border:1px solid #e5e7eb;padding:10px">追加2〜4週間</td>
+<td>査証発給認定書の申請</td>
+<td>出入国管理事務所</td>
+<td>3〜6週間</td>
+<td>追加2〜4週間</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">在留資格変更</td>
-<td style="border:1px solid #e5e7eb;padding:10px">出入国管理事務所</td>
-<td style="border:1px solid #e5e7eb;padding:10px">2〜4週間</td>
-<td style="border:1px solid #e5e7eb;padding:10px">追加2〜3週間</td>
+<td>在留資格変更</td>
+<td>出入国管理事務所</td>
+<td>2〜4週間</td>
+<td>追加2〜3週間</td>
 </tr>
 <tr>
-<td style="border:1px solid #e5e7eb;padding:10px">在外公館での査証発給</td>
-<td style="border:1px solid #e5e7eb;padding:10px">韓国大使館／領事館</td>
-<td style="border:1px solid #e5e7eb;padding:10px">1〜2週間（認定書発給後）</td>
-<td style="border:1px solid #e5e7eb;padding:10px">機関により異なる</td>
+<td>在外公館での査証発給</td>
+<td>韓国大使館／領事館</td>
+<td>1〜2週間（認定書発給後）</td>
+<td>機関により異なる</td>
 </tr>
 </tbody>
 </table>
@@ -432,7 +413,7 @@ D-8ビザの審査で出入国管理事務所が重視する基準は以下の�
 
 ---
 
-<h2 id="section-8">8. よくある失敗と不許可事例
+## 8. よくある失敗と不許可事例
 
 実際のD-8ビザ申請案件で繰り返し見られる失敗パターンがあります。事前に把握しておけば、同じ過ちを避けることができます。
 
@@ -456,13 +437,13 @@ D-8ビザの審査で出入国管理事務所が重視する基準は以下の�
 
 銀行の残高証明書を1枚だけ提出し、資金出所の証明が完了したと考えるケースです。残高証明書は「現在この金額がある」ことを示すだけであり、<strong>お金がどこから来たのかはまったく説明できません</strong>。出所の証明は別途準備する必要があります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong> D-8ビザの不許可歴がある場合、再申請時の審査基準はさらに厳しくなります。最初から書類と手続きを正確に準備することが、再申請よりも時間とコストを節約する方法です。
+<div>
+  <strong>⚠️ 注意：</strong> D-8ビザの不許可歴がある場合、再申請時の審査基準はさらに厳しくなります。最初から書類と手続きを正確に準備することが、再申請よりも時間とコストを節約する方法です。
 </div>
 
 ---
 
-<h2 id="section-faq">9. よくある質問（FAQ）
+## 9. よくある質問（FAQ）
 
 ### Q1. D-8ビザの資本金1億ウォンは必ず現金で払い込む必要がありますか？
 
@@ -486,16 +467,15 @@ D-8ビザの審査で出入国管理事務所が重視する基準は以下の�
 
 ---
 
-<h2 id="section-cta">10. ビジョン行政士事務所のご相談案内
+## 10. ビジョン行政士事務所のご相談案内
 
 D-8企業投資ビザは、資本金の準備から法人設立、書類作成、ビザ申請まで複数の機関を経る複合的な手続きです。自力での対応が難しいのは、資金出所証明のロジックを組み立てる段階と、事業計画書を審査基準に合わせて作成する段階です。この二つの部分で不許可が集中しています。
 
 ビジョン行政士事務所は、D-8ビザ申請の全工程を実務基準でサポートしています。資金出所の構成、事業計画書の検討、法人設立手続きのご案内、出入国管理事務所への書類提出まで直接対応いたします。
 
-<div style="background:#f0f7ff;border:2px solid #2563eb;padding:24px;border-radius:12px;margin:24px 0;text-align:center">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所（VISION Administrative Office）
-  <p style="margin:8px 0"><strong>電話：</strong> 02-363-2251</p>
-  <p style="margin:8px 0"><strong>メール：</strong> 5000meter@gmail.com</p>
-  <p style="margin:8px 0"><strong>住所：</strong> （04614）ソウル特別市中区退渓路324、3階（ソンウビル）</p>
-  <p style="margin-top:16px;color:#374151">資金構成の整理からビザ申請まで、現在の状況に合わせた具体的なご案内をいたします。</p>
+<div>
+### ビジョン行政士事務所（VISION Administrative Office）
+  <p><strong>メール：</strong> 5000meter@gmail.com</p>
+  <p><strong>住所：</strong> （04614）ソウル特別市中区退渓路324、3階（ソンウビル）</p>
+  <p>資金構成の整理からビザ申請まで、現在の状況に合わせた具体的なご案内をいたします。</p>
 </div>

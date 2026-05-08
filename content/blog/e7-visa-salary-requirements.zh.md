@@ -12,21 +12,6 @@ E-7签证的审批中，年薪标准往往是决定通过与否的关键单一�
 
 关键在于：合同上写明的年薪达到标准并不意味着万事大吉，审查时会同时核查实际发放结构、津贴是否计入、企业营收与薪资之间的合理性等。即便材料齐全，若这部分说明不足，也会立即被要求补件或直接驳回。以下将逐条梳理标准数额、计算方式、各职种例外情形，以及实际审查中最容易卡壳的环节。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7年薪标准的基本原理——GNI 80%究竟是什么</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 2026年适用的基准金额及历年变动</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 各职种差异化标准——70%、80%、100%、150%</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 年薪核算中可计入与不可计入的项目</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 最低工资法与E-7年薪标准的关系</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 公司规模、营收与年薪之间的平衡审查</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 延期与变更时的实际薪资发放凭证</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见失误与拒签案例</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题 (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询联系方式</a></li>
-  </ul>
-</nav>
 
 ## 1. E-7年薪标准的基本原理——GNI 80%究竟是什么
 
@@ -48,51 +33,51 @@ E-7签证年薪标准的起点是**前一年度人均国民总收入（GNI）的
 
 人均GNI每年都会变化，因此E-7年薪门槛也每年小幅上调。历年大致走势如下。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">适用年度</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">基准GNI（人均，韩元）</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">GNI 80%（一般职种门槛）</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">GNI 70%（放宽职种）</th>
+      <th>适用年度</th>
+      <th>基准GNI（人均，韩元）</th>
+      <th>GNI 80%（一般职种门槛）</th>
+      <th>GNI 70%（放宽职种）</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2022</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约4,048万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3,238万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约2,834万</td>
+      <td>2022</td>
+      <td>约4,048万</td>
+      <td>约3,238万</td>
+      <td>约2,834万</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2023</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约4,220万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3,376万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约2,954万</td>
+      <td>2023</td>
+      <td>约4,220万</td>
+      <td>约3,376万</td>
+      <td>约2,954万</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2024</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约4,300万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3,440万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3,010万</td>
+      <td>2024</td>
+      <td>约4,300万</td>
+      <td>约3,440万</td>
+      <td>约3,010万</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2025</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约4,500万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3,600万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3,150万</td>
+      <td>2025</td>
+      <td>约4,500万</td>
+      <td>约3,600万</td>
+      <td>约3,150万</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2026（预定适用）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约4,600万前后</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3,680万前后</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">约3,220万前后</td>
+      <td>2026（预定适用）</td>
+      <td>约4,600万前后</td>
+      <td>约3,680万前后</td>
+      <td>约3,220万前后</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>上述数字为实务中通用的近似值。法务部每年发布签证签发业务手册修订版，数值可能因发布时间而有所变动，<strong>申请前请务必查询管辖出入境机关的最新公告及手册最新版本</strong>。
+<div>
+  <strong>⚠️ 注意：</strong>上述数字为实务中通用的近似值。法务部每年发布签证签发业务手册修订版，数值可能因发布时间而有所变动，<strong>申请前请务必查询管辖出入境机关的最新公告及手册最新版本</strong>。
 </div>
 
 ### 合同基准日与适用时点
@@ -103,34 +88,34 @@ E-7签证年薪标准的起点是**前一年度人均国民总收入（GNI）的
 
 E-7看起来是同一类别，但实际审查标准因职种而异。先从数字开始梳理。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">分类</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">年薪标准</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">对应职种（示例）</th>
+      <th>分类</th>
+      <th>年薪标准</th>
+      <th>对应职种（示例）</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">一般E-7职种</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">GNI 80%以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">一般事务·技术类岗位，大多数管理、专业岗位</td>
+      <td>一般E-7职种</td>
+      <td>GNI 80%以上</td>
+      <td>一般事务·技术类岗位，大多数管理、专业岗位</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">放宽适用职种</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">GNI 70%以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">部分熟练技能人员、旅游翻译、部分根基产业职种</td>
+      <td>放宽适用职种</td>
+      <td>GNI 70%以上</td>
+      <td>部分熟练技能人员、旅游翻译、部分根基产业职种</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">准专业、技能类部分岗位</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最低工资以上另行规定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-3、E-7-4部分职种</td>
+      <td>准专业、技能类部分岗位</td>
+      <td>最低工资以上另行规定</td>
+      <td>E-7-3、E-7-4部分职种</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">高收入优秀人才</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">GNI的1.5倍或2倍以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">尖端技术研发、特定优秀人才通道</td>
+      <td>高收入优秀人才</td>
+      <td>GNI的1.5倍或2倍以上</td>
+      <td>尖端技术研发、特定优秀人才通道</td>
     </tr>
   </tbody>
 </table>
@@ -156,49 +141,49 @@ E-7看起来是同一类别，但实际审查标准因职种而异。先从数�
 
 E-7审查所核定的年薪，以**税前基本工资+固定津贴**为核心。能够按月薪×12换算的固定、一律支付金额是基础。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">是否计入年薪</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">实务备注</th>
+      <th>项目</th>
+      <th>是否计入年薪</th>
+      <th>实务备注</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">基本工资</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">计入（O）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最核心项目。按月基本工资×12换算</td>
+      <td>基本工资</td>
+      <td>计入（O）</td>
+      <td>最核心项目。按月基本工资×12换算</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">固定餐补、交通补助</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">有限计入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">免税额度内的部分有时不被认可</td>
+      <td>固定餐补、交通补助</td>
+      <td>有限计入</td>
+      <td>免税额度内的部分有时不被认可</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">定期奖金（年2次以上定期发放）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">计入（O）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">须在合同、就业规则中明示方可认定</td>
+      <td>定期奖金（年2次以上定期发放）</td>
+      <td>计入（O）</td>
+      <td>须在合同、就业规则中明示方可认定</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">绩效奖金（浮动）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">原则上排除</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无发放保障的不纳入年薪</td>
+      <td>绩效奖金（浮动）</td>
+      <td>原则上排除</td>
+      <td>无发放保障的不纳入年薪</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">加班、夜班、假日津贴</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">排除</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">与工时挂钩，不可计入年薪</td>
+      <td>加班、夜班、假日津贴</td>
+      <td>排除</td>
+      <td>与工时挂钩，不可计入年薪</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">提供住宿、车辆等实物福利</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">排除</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">属于福利待遇，不作为工资认定</td>
+      <td>提供住宿、车辆等实物福利</td>
+      <td>排除</td>
+      <td>属于福利待遇，不作为工资认定</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">退职金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">排除</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">即便是年薪含退职金合同，出入境审查也会剔除</td>
+      <td>退职金</td>
+      <td>排除</td>
+      <td>即便是年薪含退职金合同，出入境审查也会剔除</td>
     </tr>
   </tbody>
 </table>
@@ -211,8 +196,8 @@ E-7审查所核定的年薪，以**税前基本工资+固定津贴**为核心。
 
 若采用综合工资制，写成"含加班费月薪300万韩元"，实务中会**剔除加班费部分**，只保留基本工资。这一减，年薪就骤降。若采用综合工资制，建议将**加班费与基本工资分项明示**，重新拟定合同，方为稳妥。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示：</strong>当合同年薪接近门槛线时，建议按<strong>"基本工资○○万×12个月+定期奖金○○万×2次"</strong>的方式逐项分解明示。若只写总额，审查员在拆解过程中会排除更多不可计入项目，最终认定年薪会被压低。
+<div>
+  <strong>💡 实务提示：</strong>当合同年薪接近门槛线时，建议按<strong>"基本工资○○万×12个月+定期奖金○○万×2次"</strong>的方式逐项分解明示。若只写总额，审查员在拆解过程中会排除更多不可计入项目，最终认定年薪会被压低。
 </div>
 
 ## 5. 最低工资法与E-7年薪标准的关系
@@ -232,48 +217,44 @@ E-7年薪标准虽然与最低工资没有直接关联，但在实务中两项�
 
 ### 实际审查中的核算顺序
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">步骤</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">核查内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">不满足时的处理</th>
+      <th>步骤</th>
+      <th>核查内容</th>
+      <th>不满足时的处理</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第1步</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">合同名义年薪是否超过GNI标准（70%、80%、150%）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">要求补件或驳回</td>
+      <td>第1步</td>
+      <td>合同名义年薪是否超过GNI标准（70%、80%、150%）</td>
+      <td>要求补件或驳回</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第2步</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">仅汇总可计入工资是否仍超过标准</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">重新核算实质年薪，不足则补件</td>
+      <td>第2步</td>
+      <td>仅汇总可计入工资是否仍超过标准</td>
+      <td>重新核算实质年薪，不足则补件</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第3步</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">时薪换算是否高于最低工资</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">要求重新拟定劳动合同</td>
+      <td>第3步</td>
+      <td>时薪换算是否高于最低工资</td>
+      <td>要求重新拟定劳动合同</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第4步</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公司是否具备实际支付能力（营收、资本、现有薪资水平）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">对邀请单位进行复审</td>
+      <td>第4步</td>
+      <td>公司是否具备实际支付能力（营收、资本、现有薪资水平）</td>
+      <td>对邀请单位进行复审</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>哪怕合同写着"年薪3,800万韩元"，一旦显示每周工时超过52小时，时薪换算就可能低于最低工资，合同本身就会被退回。而将工时栏留空或写得含糊，反而更容易引起怀疑。
+<div>
+  <strong>⚠️ 注意：</strong>哪怕合同写着"年薪3,800万韩元"，一旦显示每周工时超过52小时，时薪换算就可能低于最低工资，合同本身就会被退回。而将工时栏留空或写得含糊，反而更容易引起怀疑。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 6. 公司规模、营收与年薪之间的平衡审查
@@ -294,19 +275,19 @@ E-7年薪标准虽然与最低工资没有直接关联，但在实务中两项�
 - 公司年营收的**人均人工成本比重**不可与行业平均相差过大。
 - 若外籍受聘者的薪资高于代表理事、高管，则需另行说明。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 年薪材料核查清单</strong>
-  <ul style="margin-top:12px">
-    <li>劳动合同中是否将基本工资、定期奖金、固定津贴逐项分开列示</li>
-    <li>是否仅凭可计入工资即可满足GNI标准（70%、80%、150%）</li>
-    <li>时薪换算金额是否超过当年度最低工资</li>
-    <li>邀请单位的营收、资本、现有薪资水平是否足以支撑该年薪</li>
-    <li>与公司内部同岗位本地员工平均薪资相比是否可合理说明</li>
-    <li>若采用综合工资制，加班费是否已分项明示</li>
-    <li>是否将住宿、车辆等福利并入薪资，使基本工资被低估</li>
-    <li>奖金是否仅以"依经营业绩"这类浮动方式表述</li>
-    <li>前一年度预扣凭单或工资册是否与合同年薪一致</li>
-  </ul>
+<div>
+  <strong>✅ 年薪材料核查清单</strong>
+
+    劳动合同中是否将基本工资、定期奖金、固定津贴逐项分开列示
+    是否仅凭可计入工资即可满足GNI标准（70%、80%、150%）
+    时薪换算金额是否超过当年度最低工资
+    邀请单位的营收、资本、现有薪资水平是否足以支撑该年薪
+    与公司内部同岗位本地员工平均薪资相比是否可合理说明
+    若采用综合工资制，加班费是否已分项明示
+    是否将住宿、车辆等福利并入薪资，使基本工资被低估
+    奖金是否仅以"依经营业绩"这类浮动方式表述
+    前一年度预扣凭单或工资册是否与合同年薪一致
+
 </div>
 
 ## 7. 延期与变更时的实际薪资发放凭证
@@ -315,34 +296,34 @@ E-7年薪标准虽然与最低工资没有直接关联，但在实务中两项�
 
 ### 延期时的必备凭证
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">材料</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">核查要点</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">常见卡点</th>
+      <th>材料</th>
+      <th>核查要点</th>
+      <th>常见卡点</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">劳动所得预扣凭单</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">总薪金额是否与合同年薪一致</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">合同3,600万，预扣凭单却是2,900万</td>
+      <td>劳动所得预扣凭单</td>
+      <td>总薪金额是否与合同年薪一致</td>
+      <td>合同3,600万，预扣凭单却是2,900万</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">工资转账记录（银行存折副本）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">每月定期入账，由公司名义发放</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">以现金支付或由代表个人账户支付</td>
+      <td>工资转账记录（银行存折副本）</td>
+      <td>每月定期入账，由公司名义发放</td>
+      <td>以现金支付或由代表个人账户支付</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">四大保险参保记录</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">申报的月报酬额是否与合同年薪相符</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">为压缩保险费而将月报酬申报偏低</td>
+      <td>四大保险参保记录</td>
+      <td>申报的月报酬额是否与合同年薪相符</td>
+      <td>为压缩保险费而将月报酬申报偏低</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">工资册、工资明细</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">各项明细是否与合同结构一致</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">把加班费、绩效奖金当作基本工资列示</td>
+      <td>工资册、工资明细</td>
+      <td>各项明细是否与合同结构一致</td>
+      <td>把加班费、绩效奖金当作基本工资列示</td>
     </tr>
   </tbody>
 </table>
@@ -355,8 +336,8 @@ E-7年薪标准虽然与最低工资没有直接关联，但在实务中两项�
 
 在职期间若年薪发生变化，应在**工作单位变更、变动申报**或延期时附上说明。即便是因公司经营困难而降薪，一旦降后年薪跌破GNI门槛，延期就可能被驳回。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>"今年公司经营困难，年薪下调了1,000万韩元"这类调整意味着要重新审查。若下调后的年薪无法达到GNI标准，延期就可能立刻受阻，因此请提前向管辖出入境机关咨询，并一并准备补救方案。
+<div>
+  <strong>⚠️ 注意：</strong>"今年公司经营困难，年薪下调了1,000万韩元"这类调整意味着要重新审查。若下调后的年薪无法达到GNI标准，延期就可能立刻受阻，因此请提前向管辖出入境机关咨询，并一并准备补救方案。
 </div>
 
 ## 8. 常见失误与拒签案例
@@ -393,39 +374,39 @@ E-7年薪标准虽然与最低工资没有直接关联，但在实务中两项�
 
 ### 实际拒签、补件案例小结
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">案例</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">表面年薪</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">审查结果</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">原因</th>
+      <th>案例</th>
+      <th>表面年薪</th>
+      <th>审查结果</th>
+      <th>原因</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">A（IT开发人员）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3,800万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">补件后获批</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">剔除1,200万绩效奖金后基本工资仅2,600万，追加补件</td>
+      <td>A（IT开发人员）</td>
+      <td>3,800万</td>
+      <td>补件后获批</td>
+      <td>剔除1,200万绩效奖金后基本工资仅2,600万，追加补件</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">B（酒店管理岗）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3,650万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不批</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">并入900万住宿折算，实际基本工资仅2,750万</td>
+      <td>B（酒店管理岗）</td>
+      <td>3,650万</td>
+      <td>不批</td>
+      <td>并入900万住宿折算，实际基本工资仅2,750万</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">C（研究员，优秀人才）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6,800万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不批</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">公司营收4亿，支付能力证明不足</td>
+      <td>C（研究员，优秀人才）</td>
+      <td>6,800万</td>
+      <td>不批</td>
+      <td>公司营收4亿，支付能力证明不足</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D（熟练技能人员转换）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3,300万</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">获批</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">满足E-7-4放宽标准，积分制获得加分</td>
+      <td>D（熟练技能人员转换）</td>
+      <td>3,300万</td>
+      <td>获批</td>
+      <td>满足E-7-4放宽标准，积分制获得加分</td>
     </tr>
   </tbody>
 </table>
@@ -460,7 +441,6 @@ VISION行政士事务所在E-7签证初次申请、延期、变更全流程中�
 
 **VISION行政士事务所 (VISION Administrative Office)**
 
-- 电话：**02-363-2251**
 - 邮箱：**5000meter@gmail.com**
 - 地址：**(04614) 首尔特别市中区退溪路324号3层（成宇大厦）**
 

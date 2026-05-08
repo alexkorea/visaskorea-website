@@ -14,22 +14,8 @@ D-8の更新は、書類を揃えることよりも、事業の実体と資金�
 
 更新申請のタイミング、必須書類、実際に審査官が見るポイント、不許可を招く典型的なミス、そして変更が頻繁な最近の運用基準まで取り上げます。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8ビザ更新とは — まず押さえておきたい基本構造</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. D-8更新申請手続き — ステップ別の流れ</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 実務で最も詰まりやすいポイント</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 不許可を招く決定的なミス</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 最近変更された運用基準 — 実務で体感されるポイント</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. D-8更新チェックリスト — 申請前の最終確認</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — よくいただくご質問</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 専門家への相談が必要ですか?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 専門家への相談が必要ですか？</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">D-8ビザ更新とは — まず押さえておきたい基本構造</h2>
+## D-8ビザ更新とは — まず押さえておきたい基本構造
 
 D-8は単なる在留延長ではなく、**事業が引き続き正常に運営されているかを再検証される手続き**です。
 
@@ -54,7 +40,7 @@ D-8は細分コードごとに評価基準が異なります。
 
 > **注意:** 満了日を過ぎてから更新申請を行うと、罰則金が課されるとともに、今後のビザ審査にも不利に働く可能性があります。詳細な賦課基準は[ハイコリア出入国・外国人政策本部](https://www.hikorea.go.kr)の告知をご確認ください。
 
-<h2 id="section-2">D-8更新申請手続き — ステップ別の流れ</h2>
+## D-8更新申請手続き — ステップ別の流れ
 
 一見シンプルに見えますが、実際は事前点検の段階で80%が決まります。
 
@@ -91,7 +77,7 @@ D-8は細分コードごとに評価基準が異なります。
 
 許可された場合は登録証の裏面に新しい在留期間が貼付され、不許可の場合は事由を受け取って再申請または変更申請の戦略を立て直す必要があります。
 
-<h2 id="section-3">実務で最も詰まりやすいポイント</h2>
+## 実務で最も詰まりやすいポイント
 
 書類が多くても、ここが弱いと一気にこじれます。
 
@@ -133,13 +119,12 @@ D-8は外国資本が韓国経済に貢献しているかを見るビザです�
 
 **正確な費用と手続きは専門家への相談でご確認ください。**
 
-今すぐ無料相談のお申し込み → 02-363-2251 / カカオトーク: alexkorea
 
 費用はケースごとに異なりますので、無料相談時に正確にご案内いたします。
 
 ---
 
-<h2 id="section-4">不許可を招く決定的なミス</h2>
+## 不許可を招く決定的なミス
 
 通過の可否よりも先に見るべきなのは、自分のケースの**弱点**です。
 
@@ -170,14 +155,10 @@ D-8は外国資本が韓国経済に貢献しているかを見るビザです�
 [産業通商資源部](https://www.motie.go.kr)と[KOTRA](https://www.investkorea.org)の外資登録変更届を先に整理してから更新に入るほうが、こじれません。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A hand holding a Russian passport over a map, suggesting travel preparation." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A hand holding a Russian passport over a map, suggesting travel preparation.](https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">最近変更された運用基準 — 実務で体感されるポイント</h2>
+## 最近変更された運用基準 — 実務で体感されるポイント
 
 D-8の運用指針は頻繁に手直しされます。
 
@@ -197,7 +178,7 @@ D-8の運用指針は頻繁に手直しされます。
 
 最近の類似事例では、事務所変更だけで補完負担が軽減されたケースもあり、ケースごとに戦略が分かれます。
 
-<h2 id="section-6">D-8更新チェックリスト — 申請前の最終確認</h2>
+## D-8更新チェックリスト — 申請前の最終確認
 
 - 在留期間満了日の確認(4か月前から申請可能)
 - 法人口座の残高・入出金履歴のプリントアウト
@@ -210,7 +191,7 @@ D-8の運用指針は頻繁に手直しされます。
 - 代表本人の韓国滞在日数
 - 税金の滞納・過料の整理
 
-<h2 id="section-7">FAQ — よくいただくご質問</h2>
+## FAQ — よくいただくご質問
 
 **Q1. 満了日を過ぎてから更新申請しても大丈夫ですか?**
 
@@ -254,7 +235,7 @@ D-8は外国人本人の経営・投資活動を前提としています。
 
 代表変更はビザ資格に直接影響しうる事項ですので、変更前の段階から検討が必要です。
 
-<h2 id="section-8">専門家への相談が必要ですか?</h2>
+## 専門家への相談が必要ですか?
 
 D-8の更新は、書類の数ではなく**事業実体の説明力**で結果が分かれます。
 
@@ -265,7 +246,6 @@ D-8の更新は、書類の数ではなく**事業実体の説明力**で結果�
 ### ビジョン行政士事務所サービスのご案内
 
 - 事務所名: ビジョン行政士事務所(VISION Administrative Office)
-- 電話: 02-363-2251
 - メール: 5000meter@gmail.com
 - カカオトーク相談: alexkorea
 - 住所: (04614) ソウル特別市中区退渓路324、3階(ソンウビル)
@@ -276,9 +256,8 @@ D-8の更新は、書類の数ではなく**事業実体の説明力**で結果�
 
 ---
 
-<h2 id="section-9">専門家への相談が必要ですか？</h2>
+## 専門家への相談が必要ですか？
 
 複雑な手続き、一人で悩まないでください。専門行政士が丁寧にご案内いたします。
 
 **[無料相談を申し込む](https://visaskorea.co.kr/ja/contact)**
-

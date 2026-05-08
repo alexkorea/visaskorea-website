@@ -12,21 +12,6 @@ E-7签证的学历和工作经历要求表面看似简单,但在实际审查中,
 
 最容易卡住的地方正是这个"专业关联性"。即使拥有学士学位,如果专业与职务脱节,审查官会要求提供工作经历来补充关联性证明。反而是那些没有学位但工作经历扎实的申请人,通过审查时更加干净利落。关键在于学位、工作经历和岗位说明书这三条主线能否串成一个完整的故事。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7学历与工作经历要求一览</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 学历要求的认定范围</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 工作经历要求与年限计算方法</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 学历与工作经历组合场景</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 各职业(85类职业)要求差异</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 证明材料准备与翻译公证</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 实务审查中的关键点</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见失误</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题(FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询方式</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1"></span>1. E-7学历与工作经历要求一览
 
@@ -36,39 +21,39 @@ E-7(特定活动)是法务部在指定的专业、准专业、熟练技能职业
 
 实务中最先审视的是以下三种组合。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">类型</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">学历</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">工作经历</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">备注</th>
+      <th>类型</th>
+      <th>学历</th>
+      <th>工作经历</th>
+      <th>备注</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">A</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">硕士以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无需</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">仅限专业相关职务</td>
+      <td>A</td>
+      <td>硕士以上</td>
+      <td>无需</td>
+      <td>仅限专业相关职务</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">B</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">学士</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">相关职务1年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">专业不符时工作经历加重</td>
+      <td>B</td>
+      <td>学士</td>
+      <td>相关职务1年以上</td>
+      <td>专业不符时工作经历加重</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">C</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">专科</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">相关职务3年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2年制、3年制标准</td>
+      <td>C</td>
+      <td>专科</td>
+      <td>相关职务3年以上</td>
+      <td>2年制、3年制标准</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高中以下</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">相关职务5年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">主要在熟练技能类别被认可</td>
+      <td>D</td>
+      <td>高中以下</td>
+      <td>相关职务5年以上</td>
+      <td>主要在熟练技能类别被认可</td>
     </tr>
   </tbody>
 </table>
@@ -91,8 +76,8 @@ E-7(特定活动)是法务部在指定的专业、准专业、熟练技能职业
 
 比学位本身更优先审视的是**专业与职务之间的衔接点**。例如,拥有经营学学士学位的申请人申请IT工程师职务时,审查官会追问"你凭什么能胜任这份工作"。如果这个解释不够充分,无论材料多厚,都会立即被搁置。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 仅提交学位证复印件是不够的。需要通过成绩单(Transcript)展示所修课程与职务之间的关联性。如果成绩单没有英文或韩文版本,还需要额外提供翻译件和公证。
+<div>
+  <strong>⚠️ 注意:</strong> 仅提交学位证复印件是不够的。需要通过成绩单(Transcript)展示所修课程与职务之间的关联性。如果成绩单没有英文或韩文版本,还需要额外提供翻译件和公证。
 </div>
 
 ### 硕士、博士学位的优待
@@ -109,50 +94,50 @@ E-7(特定活动)是法务部在指定的专业、准专业、熟练技能职业
 
 即使材料再多,如果工作经历证明书缺少以下项目,该经历也不会被认定。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 工作经历证明书核对清单</strong>
-  <ul style="margin-top:12px">
-    <li>雇主(公司)正式名称及营业执照号码(或海外等同编号)</li>
-    <li>准确的入职日与离职日(YYYY-MM-DD)</li>
-    <li>职位及所负责业务的具体描述</li>
-    <li>每周工作时间(判断是否为兼职)</li>
-    <li>签发人签名、公司公章、签发日期</li>
-    <li>签发负责人的联系方式(供审查官核实)</li>
-  </ul>
+<div>
+  <strong>✅ 工作经历证明书核对清单</strong>
+
+    雇主(公司)正式名称及营业执照号码(或海外等同编号)
+    准确的入职日与离职日(YYYY-MM-DD)
+    职位及所负责业务的具体描述
+    每周工作时间(判断是否为兼职)
+    签发人签名、公司公章、签发日期
+    签发负责人的联系方式(供审查官核实)
+
 </div>
 
 ### 相同、相似职务的判定
 
 在工作经历年限方面最常遇到的问题是"该经历是否与申请职务属于同一领域"。例如,即使做了3年服务器工程师,如果申请的是前端开发职务,审查官还会额外要求相关技术栈和项目经历的证明。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">情况</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">经历认定与否</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">补充方法</th>
+      <th>情况</th>
+      <th>经历认定与否</th>
+      <th>补充方法</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">相同职务正式员工</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">全部认定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">工作经历证明书+在职证明书</td>
+      <td>相同职务正式员工</td>
+      <td>全部认定</td>
+      <td>工作经历证明书+在职证明书</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">相似职务</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">部分认定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">项目清单、所负责业务的详细说明</td>
+      <td>相似职务</td>
+      <td>部分认定</td>
+      <td>项目清单、所负责业务的详细说明</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">自由职业、合同工</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">有条件认定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">纳税记录、合同、汇款明细</td>
+      <td>自由职业、合同工</td>
+      <td>有条件认定</td>
+      <td>纳税记录、合同、汇款明细</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">实习</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">原则上不认定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">需要转正式员工的证明</td>
+      <td>实习</td>
+      <td>原则上不认定</td>
+      <td>需要转正式员工的证明</td>
     </tr>
   </tbody>
 </table>
@@ -179,8 +164,8 @@ E-7(特定活动)是法务部在指定的专业、准专业、熟练技能职业
 
 如果只有高中毕业学历,则要求至少5年以上同一职务的工作经历。这种情况下,由本国税务当局签发的纳税证明、国民年金(或同等)缴纳记录等**官方机构的第三方证明**将起到决定性作用。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务技巧:</strong> 学历较弱时,与其延长工作经历年限,不如展现工作经历的"深度"。一份详细描述1~2个项目的作品集文档,比10年的经历证明书更能说服审查官。
+<div>
+  <strong>💡 实务技巧:</strong> 学历较弱时,与其延长工作经历年限,不如展现工作经历的"深度"。一份详细描述1~2个项目的作品集文档,比10年的经历证明书更能说服审查官。
 </div>
 
 ## <span id="section-5"></span>5. 各职业(85类职业)要求差异
@@ -203,39 +188,39 @@ E-7并非单一要求,85类职业各自有不同的具体要求。大致分为�
 
 采用积分制评估,学历、工作经历、收入、韩语能力全部量化为分数。对这类人员来说,"积分总和"比"满足要求"更为优先。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">类别</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">核心要求</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">最低年薪参考</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">代表职业</th>
+      <th>类别</th>
+      <th>核心要求</th>
+      <th>最低年薪参考</th>
+      <th>代表职业</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">学位、专业</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">适用上年度GNI 80%以上标准</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">经营顾问、系统工程师</td>
+      <td>E-7-1</td>
+      <td>学位、专业</td>
+      <td>适用上年度GNI 80%以上标准</td>
+      <td>经营顾问、系统工程师</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">经历、语言</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按职业类别单独公告</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">免税店销售、酒店服务</td>
+      <td>E-7-2</td>
+      <td>经历、语言</td>
+      <td>按职业类别单独公告</td>
+      <td>免税店销售、酒店服务</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资格证、技能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按职业类别单独公告</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">造船焊工、动物饲养员</td>
+      <td>E-7-3</td>
+      <td>资格证、技能</td>
+      <td>按职业类别单独公告</td>
+      <td>造船焊工、动物饲养员</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">积分制</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">达到积分计算表规定标准以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">制造、建筑熟练技能</td>
+      <td>E-7-4</td>
+      <td>积分制</td>
+      <td>达到积分计算表规定标准以上</td>
+      <td>制造、建筑熟练技能</td>
     </tr>
   </tbody>
 </table>
@@ -243,11 +228,7 @@ E-7并非单一要求,85类职业各自有不同的具体要求。大致分为�
 各职业的年薪标准和附加要求会不定期变动。最新标准需向主管出入境·外国人厅确认。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6"></span>6. 证明材料准备与翻译公证
@@ -256,34 +237,34 @@ E-7并非单一要求,85类职业各自有不同的具体要求。大致分为�
 
 学位证、毕业证书、成绩单是基本套装。若为海外材料,需经过以下程序。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">步骤</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所需时间</th>
+      <th>步骤</th>
+      <th>内容</th>
+      <th>所需时间</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本国大学签发原件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2周</td>
+      <td>1</td>
+      <td>本国大学签发原件</td>
+      <td>1~2周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海牙认证或领事认证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3周</td>
+      <td>2</td>
+      <td>海牙认证或领事认证</td>
+      <td>1~3周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">韩文翻译</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5天</td>
+      <td>3</td>
+      <td>韩文翻译</td>
+      <td>2~5天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">翻译件公证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3天</td>
+      <td>4</td>
+      <td>翻译件公证</td>
+      <td>1~3天</td>
     </tr>
   </tbody>
 </table>
@@ -296,8 +277,8 @@ E-7并非单一要求,85类职业各自有不同的具体要求。大致分为�
 
 翻译交给专业翻译服务或公证翻译师处理较为稳妥。自己翻译的情况几乎都会导致返工。比起翻译质量,格式和术语的统一性才是审查官优先关注的标准。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 如果护照、学位证、工作经历证明书上的姓名标注有任何差异,都会以补正要求被退回。请以护照的罗马字标注为准,统一所有材料。中间名(middle name)遗漏也是常见的失败原因。
+<div>
+  <strong>⚠️ 注意:</strong> 如果护照、学位证、工作经历证明书上的姓名标注有任何差异,都会以补正要求被退回。请以护照的罗马字标注为准,统一所有材料。中间名(middle name)遗漏也是常见的失败原因。
 </div>
 
 ## <span id="section-7"></span>7. 实务审查中的关键点
@@ -340,8 +321,8 @@ E-7并非单一要求,85类职业各自有不同的具体要求。大致分为�
 
 护照英文名与学历、工作经历证明材料上的姓名不同,或日期格式不一致产生矛盾的情况。这一环节薄弱,会让整个事实关系出现裂痕。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 虚假工作经历证明书会被追究伪造嫌疑,甚至引发刑事问题。过去提交的材料会作为数据留存在其他居留资格审查中,一旦与当前申请内容冲突就会立即暴露。
+<div>
+  <strong>⚠️ 注意:</strong> 虚假工作经历证明书会被追究伪造嫌疑,甚至引发刑事问题。过去提交的材料会作为数据留存在其他居留资格审查中,一旦与当前申请内容冲突就会立即暴露。
 </div>
 
 ## <span id="section-9"></span>9. 常见问题(FAQ)
@@ -372,7 +353,6 @@ E-7签证的学历与工作经历要求,会根据职业、国籍、公司情况,
 
 **比前行政士事务所(VISION Administrative Office)**
 
-- 电话:**02-363-2251**
 - 邮箱:**5000meter@gmail.com**
 - 地址:(04614)首尔特别市中区退溪路324号,3楼(成友大厦)
 

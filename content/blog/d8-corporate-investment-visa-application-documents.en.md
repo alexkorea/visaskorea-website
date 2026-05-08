@@ -12,21 +12,6 @@ The D-8 Business Investment Visa is issued to **foreign nationals who invest 100
 
 In actual screening, the overseas remittance route, the deposit into a domestic corporate account, the foreign-invested company registration, the office lease, and the specificity of the business plan all need to connect in one coherent storyline. No matter how many documents you file, a weak narrative here will unravel everything — and conversely, even a lean file gets approved quickly when the source of funds and the real substance of the business are crystal clear. The core idea is this: **D-8 is a visa that turns the story of money into documented evidence**.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8 Visa Basics and Three Subtypes</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Eligibility: 100M KRW Investment and Foreign Investment Registration</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Full List of Required Documents and Practical Checks</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Proving Source of Funds: The First Real Hurdle</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Step-by-Step Process from Incorporation to Visa Issuance</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Writing the Business Plan: Persuasion over Length</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Stay Period, Extensions, and Family Accompaniment</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes and Reasons for Denial</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. Consultation</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1">1. D-8 Visa Basics and Three Subtypes</span>
 
@@ -48,39 +33,39 @@ For sole proprietors running a trading business in Korea. The defining differenc
 
 For foreign nationals with intellectual property rights or original technology who start a company in Korea. This subtype often links up with programs like OASIS — investment thresholds are relaxed, but applicants undergo a technology assessment.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-1 Corporate</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-2 Venture</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-4 Tech Startup</th>
+      <th>Category</th>
+      <th>D-8-1 Corporate</th>
+      <th>D-8-2 Venture</th>
+      <th>D-8-4 Tech Startup</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Investment Amount</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">100M KRW or more</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Meets venture firm requirements</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Reduced capital (via tech assessment)</td>
+      <td>Investment Amount</td>
+      <td>100M KRW or more</td>
+      <td>Meets venture firm requirements</td>
+      <td>Reduced capital (via tech assessment)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Key Proof</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign-invested company registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Venture company confirmation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">IP rights and tech evaluation</td>
+      <td>Key Proof</td>
+      <td>Foreign-invested company registration</td>
+      <td>Venture company confirmation</td>
+      <td>IP rights and tech evaluation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business Form</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporation</td>
+      <td>Business Form</td>
+      <td>Corporation</td>
+      <td>Corporation</td>
+      <td>Corporation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Review Focus</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Source and substance of funds</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Innovation and growth potential</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Technology level and feasibility</td>
+      <td>Review Focus</td>
+      <td>Source and substance of funds</td>
+      <td>Innovation and growth potential</td>
+      <td>Technology level and feasibility</td>
     </tr>
   </tbody>
 </table>
@@ -101,8 +86,8 @@ On top of the 100 million minimum, the applicant must hold **at least 10% of vot
 
 The business premises must be an independent space separate from the applicant's residence. Co-working offices are accepted, but **the space must be usable for actual business operations**, and the lease contract must list the corporation as the tenant. Leases under the representative's personal name frequently cause problems.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Depositing 100 million and then withdrawing it immediately after the visa is issued is a pattern frequently caught during screening and post-issuance monitoring. Investment capital must be money actively used in running the business — treating it as a mere parking deposit often leads to denial at the extension stage.
+<div>
+  <strong>⚠️ Caution:</strong> Depositing 100 million and then withdrawing it immediately after the visa is issued is a pattern frequently caught during screening and post-issuance monitoring. Investment capital must be money actively used in running the business — treating it as a mere parking deposit often leads to denial at the extension stage.
 </div>
 
 ## <span id="section-3">3. Full List of Required Documents and Practical Checks</span>
@@ -140,51 +125,51 @@ Documents break into four groups: **① applicant's personal documents ② corpo
 - Recent financial statements (opening balance sheet for newly incorporated companies)
 - Client contracts and tax invoices (if any)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Document Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Key Documents</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Commonly Missed in Practice</th>
+      <th>Document Category</th>
+      <th>Key Documents</th>
+      <th>Commonly Missed in Practice</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Personal</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Passport, criminal record certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Missing apostille, issued over 6 months ago</td>
+      <td>Personal</td>
+      <td>Passport, criminal record certificate</td>
+      <td>Missing apostille, issued over 6 months ago</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Registration certificate, articles</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Shareholder register not updated</td>
+      <td>Corporate</td>
+      <td>Registration certificate, articles</td>
+      <td>Shareholder register not updated</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Investment Evidence</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign-invested registration, remittance slip</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Remitter name doesn't match shareholder</td>
+      <td>Investment Evidence</td>
+      <td>Foreign-invested registration, remittance slip</td>
+      <td>Remitter name doesn't match shareholder</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business Substance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Lease, on-site photos</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Address on paper, no physical presence</td>
+      <td>Business Substance</td>
+      <td>Lease, on-site photos</td>
+      <td>Address on paper, no physical presence</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Pre-Submission Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Criminal record certificate apostilled or consular-certified at the Korean embassy</li>
-    <li>Passport valid for at least 6 more months</li>
-    <li>Original foreign investment declaration and registration certificate on hand</li>
-    <li>Name on the remittance slip exactly matches the applicant's name</li>
-    <li>Corporate account deposits match the capital payment certificate</li>
-    <li>Photos showing the exterior signage and interior workspace of the premises</li>
-    <li>Lease agreement with the corporation (not the individual) listed as tenant</li>
-    <li>Business plan includes a specific funds usage plan</li>
-    <li>Shareholder register matches the foreign investment registration</li>
-  </ul>
+<div>
+  <strong>✅ Pre-Submission Checklist</strong>
+
+    Criminal record certificate apostilled or consular-certified at the Korean embassy
+    Passport valid for at least 6 more months
+    Original foreign investment declaration and registration certificate on hand
+    Name on the remittance slip exactly matches the applicant's name
+    Corporate account deposits match the capital payment certificate
+    Photos showing the exterior signage and interior workspace of the premises
+    Lease agreement with the corporation (not the individual) listed as tenant
+    Business plan includes a specific funds usage plan
+    Shareholder register matches the foreign investment registration
+
 </div>
 
 ## <span id="section-4">4. Proving Source of Funds: The First Real Hurdle</span>
@@ -209,8 +194,8 @@ Before anything else in a D-8 review, officers look at the **origin of the money
 
 The cleanest way to show the source of funds is to **narrate along a timeline**. Pay slips from three years ago → accumulated balance in the home-country account → withdrawal at the time of remittance → deposit into the Korean corporate account — each step should interlock with the next. When this narrative is weak, even a thick pile of documents will trigger requests for additional explanation.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Borrowing money from a relative, remitting it, and returning it after the visa is issued is treated as disguised investment. If caught, it can lead to visa cancellation and a re-entry ban — we strongly advise against it.
+<div>
+  <strong>⚠️ Caution:</strong> Borrowing money from a relative, remitting it, and returning it after the visa is issued is treated as disguised investment. If caught, it can lead to visa cancellation and a re-entry ban — we strongly advise against it.
 </div>
 
 ## <span id="section-5">5. Step-by-Step Process from Incorporation to Visa Issuance</span>
@@ -219,49 +204,49 @@ Because an out-of-order step often means rebuilding documents from scratch, the 
 
 ### 5-1. Standard Procedure Flow
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Action</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Estimated Time</th>
+      <th>Step</th>
+      <th>Action</th>
+      <th>Estimated Time</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. Foreign Investment Declaration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">File with a foreign exchange bank or KOTRA</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–3 days</td>
+      <td>1. Foreign Investment Declaration</td>
+      <td>File with a foreign exchange bank or KOTRA</td>
+      <td>1–3 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. Remit Investment Funds</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Home country → Korean foreign exchange bank account</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–5 days</td>
+      <td>2. Remit Investment Funds</td>
+      <td>Home country → Korean foreign exchange bank account</td>
+      <td>1–5 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. Incorporation Registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Draft articles, pay in capital, register</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–3 weeks</td>
+      <td>3. Incorporation Registration</td>
+      <td>Draft articles, pay in capital, register</td>
+      <td>2–3 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. Business Registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">File with the relevant tax office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 week</td>
+      <td>4. Business Registration</td>
+      <td>File with the relevant tax office</td>
+      <td>1 week</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. Foreign-Invested Company Registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Obtain the foreign-invested company registration certificate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>5. Foreign-Invested Company Registration</td>
+      <td>Obtain the foreign-invested company registration certificate</td>
+      <td>1–2 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6. Apply for Certificate of Confirmation of Visa Issuance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Submit documents to the local immigration office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–4 weeks</td>
+      <td>6. Apply for Certificate of Confirmation of Visa Issuance</td>
+      <td>Submit documents to the local immigration office</td>
+      <td>2–4 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7. Visa Issuance at Consulate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Collect the visa at a Korean consulate abroad</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>7. Visa Issuance at Consulate</td>
+      <td>Collect the visa at a Korean consulate abroad</td>
+      <td>1–2 weeks</td>
     </tr>
   </tbody>
 </table>
@@ -275,11 +260,7 @@ If you are already in Korea on another status such as D-10 or D-4, you can file 
 From the very beginning to receiving the visa typically takes **two to three months**. If correction notices are issued due to document errors, the process can easily stretch an extra month or more.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up view of an open passport displaying various travel stamps in an airport setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Close-up view of an open passport displaying various travel stamps in an airport setting.](https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6">6. Writing the Business Plan: Persuasion over Length</span>
@@ -308,8 +289,8 @@ With business plans, persuasiveness shows before length does. A **concise five-p
 
 In the funds usage plan, you need to break down **where the 100 million actually gets spent** with specific numbers — e.g., "Office rent: 30M, payroll: 40M, equipment: 20M, working capital: 10M." When this section is vague, the entire business plan reads as abstract.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> Putting a one-line summary connecting "CEO profile → business relevance" on the first page of your plan speeds up review. For example: "10 years distributing cosmetics in Shanghai → founding a K-beauty re-export company in Korea." A single sentence that links career to business is the most persuasive framing.
+<div>
+  <strong>💡 Practical Tip:</strong> Putting a one-line summary connecting "CEO profile → business relevance" on the first page of your plan speeds up review. For example: "10 years distributing cosmetics in Shanghai → founding a K-beauty re-export company in Korea." A single sentence that links career to business is the most persuasive framing.
 </div>
 
 ## <span id="section-7">7. Stay Period, Extensions, and Family Accompaniment</span>
@@ -336,33 +317,33 @@ A D-8 holder's spouse and minor children can enter Korea together on an **F-3 ac
 
 After staying on a D-8 for a certain period, applicants can progress to **F-2 (long-term residence) → F-5 (permanent residence) → citizenship**. CEOs of foreign-invested companies have a fast track directly to F-5 — if investment size and local hiring levels meet specified thresholds, permanent residency can be obtained right away. Standards change periodically, so confirmation with the relevant authorities is necessary.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Initial D-8</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8 Extension</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Direct F-5 Permanent</th>
+      <th>Category</th>
+      <th>Initial D-8</th>
+      <th>D-8 Extension</th>
+      <th>Direct F-5 Permanent</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Key Requirement</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">100M KRW investment, foreign-invested registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business substance, hiring</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">USD 500K investment, 5+ Korean employees, etc.</td>
+      <td>Key Requirement</td>
+      <td>100M KRW investment, foreign-invested registration</td>
+      <td>Business substance, hiring</td>
+      <td>USD 500K investment, 5+ Korean employees, etc.</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Stay Period</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 years</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–3 years</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Indefinite</td>
+      <td>Stay Period</td>
+      <td>1–2 years</td>
+      <td>1–3 years</td>
+      <td>Indefinite</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Main Review Focus</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Source of funds</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Revenue and tax filings</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Continued investment and hiring</td>
+      <td>Main Review Focus</td>
+      <td>Source of funds</td>
+      <td>Revenue and tax filings</td>
+      <td>Continued investment and hiring</td>
     </tr>
   </tbody>
 </table>
@@ -391,8 +372,8 @@ When someone who has spent their career in IT suddenly announces they're opening
 
 If the home-country criminal record certificate lacks an apostille or consular authentication, even a valid original will be rejected at intake. The requirement that the certificate be issued within the last six months also trips up many applicants.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Some brokers offer to connect "investors who lend only their corporate name." If this is classified as disguised investment, it leads not only to visa cancellation but also to criminal prosecution under the Immigration Act. Investment must be made in your own name, with your own funds.
+<div>
+  <strong>⚠️ Caution:</strong> Some brokers offer to connect "investors who lend only their corporate name." If this is classified as disguised investment, it leads not only to visa cancellation but also to criminal prosecution under the Immigration Act. Investment must be made in your own name, with your own funds.
 </div>
 
 ## <span id="section-9">9. Frequently Asked Questions (FAQ)</span>
@@ -418,11 +399,10 @@ D-8 is a visa where the story of your funds and the substance of your business s
 
 Vision Administrative Office handles D-8 business investment visa applications, incorporation, and foreign-invested company registration as one continuous workflow. We review from the earliest stage so that your funding structure and business plan lock together cleanly.
 
-<div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
-  <ul style="list-style:none;padding-left:0;line-height:1.9">
-    <li>📞 Phone: <strong>02-363-2251</strong></li>
-    <li>✉️ Email: <strong>5000meter@gmail.com</strong></li>
-    <li>📍 Address: 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614, Republic of Korea</li>
-  </ul>
+<div>
+### VISION Administrative Office
+
+    ✉️ Email: <strong>5000meter@gmail.com</strong>
+    📍 Address: 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614, Republic of Korea
+
 </div>

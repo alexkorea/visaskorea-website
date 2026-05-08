@@ -12,21 +12,6 @@ F-6 结婚移民签证与其说是因为材料数量多而难办，不如说是*
 
 最容易被忽略的正是**交往真实性证明**和**收入条件证明**这两块。材料种类凑齐了，但只要这两块薄弱，审查阶段立刻就会被卡。尤其是韩国配偶的年度收入要求（以二人家庭为准，达到上一年度韩国家庭中位收入的70%以上）和外国配偶的基础韩语能力确认，是实务中审查员最先看的两个点。所以在开始收集材料之前，必须先判断自己能否满足这两项要求。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-6 结婚移民签证材料构成全景图</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 韩国配偶（邀请方）需要准备的材料</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 外国配偶（申请人）需要准备的材料</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 交往真实性证明资料——最容易卡住的一块</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 收入·财务条件证明材料</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 住房条件证明材料</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 不同国籍·不同情况的附加材料差异</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见失误与实际拒签案例</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题（FAQ）</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询指南</a></li>
-  </ul>
-</nav>
 
 ## <a id="section-1"></a>1. F-6 结婚移民签证材料构成全景图
 
@@ -41,44 +26,44 @@ F-6 材料大致分为**六大块**。如果不按块来看，只是照着材料
 5. **住房条件材料**（不动产登记簿、租赁合同、家庭居住证明）
 6. **外国配偶本国材料**（未婚证明/无配偶声明公证、无犯罪记录、按国籍附加材料）
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">分块</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">核心材料</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">实务中常被卡的地方</th>
+      <th>分块</th>
+      <th>核心材料</th>
+      <th>实务中常被卡的地方</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">身份·婚姻</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">护照、婚姻关系证明、家庭关系证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">韩国和本国是否都完成了结婚登记</td>
+      <td>身份·婚姻</td>
+      <td>护照、婚姻关系证明、家庭关系证明</td>
+      <td>韩国和本国是否都完成了结婚登记</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">韩国配偶身份</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">身份担保书、无犯罪记录证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">过往邀请记录、家庭暴力相关前科</td>
+      <td>韩国配偶身份</td>
+      <td>身份担保书、无犯罪记录证明</td>
+      <td>过往邀请记录、家庭暴力相关前科</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">交往证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">交往经过说明书、照片、聊天记录</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">从相识到结婚的时间线是否连贯</td>
+      <td>交往证明</td>
+      <td>交往经过说明书、照片、聊天记录</td>
+      <td>从相识到结婚的时间线是否连贯</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">财务·收入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">收入金额证明、在职证明、存折</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">是否满足上一年度的收入标准</td>
+      <td>财务·收入</td>
+      <td>收入金额证明、在职证明、存折</td>
+      <td>是否满足上一年度的收入标准</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">住房</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不动产登记簿或租赁合同</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">面积标准、是否有共同居住人</td>
+      <td>住房</td>
+      <td>不动产登记簿或租赁合同</td>
+      <td>面积标准、是否有共同居住人</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国配偶本国</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">未婚证明、本国婚姻登记要件具备证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海牙认证·领事认证·翻译公证链条</td>
+      <td>外国配偶本国</td>
+      <td>未婚证明、本国婚姻登记要件具备证明</td>
+      <td>海牙认证·领事认证·翻译公证链条</td>
     </tr>
   </tbody>
 </table>
@@ -87,8 +72,8 @@ F-6 材料大致分为**六大块**。如果不按块来看，只是照着材料
 
 比准备材料更优先要看的，是**是否满足申请条件**。就算把材料收集一个月，只要收入不够，或者韩国配偶在过去5年内有过邀请外国配偶的记录，就会直接被限制。这一块薄弱的话，材料捆得再好，结果也是一样。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>如果韩国配偶在过去5年内曾以配偶身份邀请过其他外国人，原则上再次邀请会受到限制。即便是离婚后再婚也一样，所以在收集材料之前，应先到出入国民愿室确认是否具备邀请资格。
+<div>
+  <strong>⚠️ 注意：</strong>如果韩国配偶在过去5年内曾以配偶身份邀请过其他外国人，原则上再次邀请会受到限制。即便是离婚后再婚也一样，所以在收集材料之前，应先到出入国民愿室确认是否具备邀请资格。
 </div>
 
 ## <a id="section-2"></a>2. 韩国配偶（邀请方）需要准备的材料
@@ -116,49 +101,49 @@ F-6 材料大致分为**六大块**。如果不按块来看，只是照着材料
 
 财务材料在单独章节中说明。住房材料方面，若是本人名下住房提交不动产登记簿；若是租赁房则需同时提交租赁合同和出租人同意书。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">材料名称</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">开具机构</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">有效期</th>
+      <th>材料名称</th>
+      <th>开具机构</th>
+      <th>有效期</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">基本证明书（详细版）</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大法院电子家庭关系登记系统</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3个月以内</td>
+      <td>基本证明书（详细版）</td>
+      <td>大法院电子家庭关系登记系统</td>
+      <td>3个月以内</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">婚姻关系证明书(详细版)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大法院电子家庭关系登记系统</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3个月以内</td>
+      <td>婚姻关系证明书(详细版)</td>
+      <td>大法院电子家庭关系登记系统</td>
+      <td>3个月以内</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">居民登记誊本</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">政府24、居民中心</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3个月以内</td>
+      <td>居民登记誊本</td>
+      <td>政府24、居民中心</td>
+      <td>3个月以内</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">无犯罪记录证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">警察署、政府24</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3个月以内，保持密封</td>
+      <td>无犯罪记录证明</td>
+      <td>警察署、政府24</td>
+      <td>3个月以内，保持密封</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">身份担保书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出入国指定表格，亲自填写</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">必须本人亲笔签名</td>
+      <td>身份担保书</td>
+      <td>出入国指定表格，亲自填写</td>
+      <td>必须本人亲笔签名</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">收入金额证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Hometax、税务署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">以上一年度归属为准</td>
+      <td>收入金额证明</td>
+      <td>Hometax、税务署</td>
+      <td>以上一年度归属为准</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">纳税证明书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Hometax、税务署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3个月以内</td>
+      <td>纳税证明书</td>
+      <td>Hometax、税务署</td>
+      <td>3个月以内</td>
     </tr>
   </tbody>
 </table>
@@ -189,8 +174,8 @@ F-6 材料大致分为**六大块**。如果不按块来看，只是照着材料
 
 基础韩语能力可以通过TOPIK 1级以上、指定教育机构结业证或学历证书中任一方式证明。免除事由仅限于**韩语圈国家国民、在韩国连续居留满1年以上、夫妇有可证明的共通沟通语言（需官方资料佐证）**等少数情形。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务贴士：</strong>本国材料的韩语翻译公证，建议在<strong>韩国的翻译公证处或公证事务所</strong>办理，最为稳妥。很多人只在本国附了英文翻译件就带过来，实际审查时往往会被要求重新提交韩语公证翻译件。出国前一起把翻译件也准备好，可以省掉往返奔波。
+<div>
+  <strong>💡 实务贴士：</strong>本国材料的韩语翻译公证，建议在<strong>韩国的翻译公证处或公证事务所</strong>办理，最为稳妥。很多人只在本国附了英文翻译件就带过来，实际审查时往往会被要求重新提交韩语公证翻译件。出国前一起把翻译件也准备好，可以省掉往返奔波。
 </div>
 
 ## <a id="section-4"></a>4. 交往真实性证明资料——最容易卡住的一块
@@ -217,8 +202,8 @@ F-6 审查中，从统计上看**最容易被卡的一块**就是交往真实性
 
 **聊天记录只拿最近一两周的**是常见做法，但实际审查更看重的是**整个交往期间是否有自然的连续流**。只把一个月的记录集中打包提交，反而会引起怀疑。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>婚前没有实际见面、仅通过视频·聊天交往就结婚的情况，会成为追加面谈·实地调查的对象。至少要能通过护照出入境章和照片证明结婚前双方确实共同相处过。
+<div>
+  <strong>⚠️ 注意：</strong>婚前没有实际见面、仅通过视频·聊天交往就结婚的情况，会成为追加面谈·实地调查的对象。至少要能通过护照出入境章和照片证明结婚前双方确实共同相处过。
 </div>
 
 ### 面谈中夫妻答案常对不上的问题
@@ -253,39 +238,39 @@ F-6 审查中，从统计上看**最容易被卡的一块**就是交往真实性
 
 替代证明由管辖机关**个案判断**，所以收入未达标准时，提交前应先向管辖出入国咨询确认。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">分类</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">第一顺位材料</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">辅助材料</th>
+      <th>分类</th>
+      <th>第一顺位材料</th>
+      <th>辅助材料</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">上班族</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">工资收入源泉征收票据</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">在职证明、工资存折复印件</td>
+      <td>上班族</td>
+      <td>工资收入源泉征收票据</td>
+      <td>在职证明、工资存折复印件</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">个体经营者</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">收入金额证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业执照、增值税课税标准证明</td>
+      <td>个体经营者</td>
+      <td>收入金额证明</td>
+      <td>营业执照、增值税课税标准证明</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">自由职业者</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">收入金额证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">合同、入账存折明细</td>
+      <td>自由职业者</td>
+      <td>收入金额证明</td>
+      <td>合同、入账存折明细</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">收入不足·需补足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">家属收入合算证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不动产登记簿、定期存款余额</td>
+      <td>收入不足·需补足</td>
+      <td>家属收入合算证明</td>
+      <td>不动产登记簿、定期存款余额</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">退休·失业</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">上一年度收入金额证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">财产证明、再就业证明</td>
+      <td>退休·失业</td>
+      <td>上一年度收入金额证明</td>
+      <td>财产证明、再就业证明</td>
     </tr>
   </tbody>
 </table>
@@ -295,11 +280,7 @@ F-6 审查中，从统计上看**最容易被卡的一块**就是交往真实性
 常有人问"只要存折里钱多不就行了吗"，但实际审查中会先看**收入流水**。如果余额突然增加，会被要求说明资金来源，说明不充分就会出问题。财产合算说到底只是**补充收入的辅助材料**。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <a id="section-6"></a>6. 住房条件证明材料
@@ -317,16 +298,16 @@ F-6 审查中，从统计上看**最容易被卡的一块**就是交往真实性
 
 住房条件的实际判断标准在于**家庭人口数与面积的比例**是否合理。未达基准面积，或已有多人居住的房屋再增加外国配偶迁入的情况，可能因**住房条件不达标**被卡。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 住房材料检查清单</strong>
-  <ul style="margin-top:12px">
-    <li>是否为本人或配偶名下住房（取得不动产登记簿）</li>
-    <li>若为租赁，租赁合同是否仍在有效期内（确认剩余合约时长）</li>
-    <li>居住在家属住房的，是否有亲笔签名的同住同意书</li>
-    <li>是否有3个月以上的月租·管理费实际转账记录</li>
-    <li>居民登记誊本上的现居地是否与提交地址一致</li>
-    <li>该空间是否允许夫妻二人同时迁入</li>
-  </ul>
+<div>
+  <strong>✅ 住房材料检查清单</strong>
+
+    是否为本人或配偶名下住房（取得不动产登记簿）
+    若为租赁，租赁合同是否仍在有效期内（确认剩余合约时长）
+    居住在家属住房的，是否有亲笔签名的同住同意书
+    是否有3个月以上的月租·管理费实际转账记录
+    居民登记誊本上的现居地是否与提交地址一致
+    该空间是否允许夫妻二人同时迁入
+
 </div>
 
 ## <a id="section-7"></a>7. 不同国籍·不同情况的附加材料差异
@@ -342,44 +323,44 @@ F-6 材料会**因国籍不同而增加特定材料**。遗漏这些的话，在
 - **日本**：户籍誊本（含旧户籍）、结婚受理证明
 - **美国·加拿大·澳大利亚**：州/省级结婚证明、无犯罪记录证明、海牙认证
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">国籍</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">特殊追加材料</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">认证方式</th>
+      <th>国籍</th>
+      <th>特殊追加材料</th>
+      <th>认证方式</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">中国</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">结婚公证书、未婚公证书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">领事认证 + 韩语翻译公证</td>
+      <td>中国</td>
+      <td>结婚公证书、未婚公证书</td>
+      <td>领事认证 + 韩语翻译公证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">越南</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">婚姻状况确认书、无犯罪记录</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">领事认证 + 翻译公证</td>
+      <td>越南</td>
+      <td>婚姻状况确认书、无犯罪记录</td>
+      <td>领事认证 + 翻译公证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">菲律宾</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">PSA结婚/未婚证明、NBI</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海牙认证 + 翻译公证</td>
+      <td>菲律宾</td>
+      <td>PSA结婚/未婚证明、NBI</td>
+      <td>海牙认证 + 翻译公证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">泰国</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">单身证明、警察证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">领事认证 + 翻译公证</td>
+      <td>泰国</td>
+      <td>单身证明、警察证明</td>
+      <td>领事认证 + 翻译公证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">日本</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">户籍誊本、结婚受理证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海牙认证 + 翻译公证</td>
+      <td>日本</td>
+      <td>户籍誊本、结婚受理证明</td>
+      <td>海牙认证 + 翻译公证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">美国</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">州级结婚/出生证明、无犯罪记录</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">海牙认证 + 翻译公证</td>
+      <td>美国</td>
+      <td>州级结婚/出生证明、无犯罪记录</td>
+      <td>海牙认证 + 翻译公证</td>
     </tr>
   </tbody>
 </table>
@@ -392,27 +373,27 @@ F-6 材料会**因国籍不同而增加特定材料**。遗漏这些的话，在
 
 有子女同行入境时，需追加**子女出生证明、子女护照、监护权·抚养权证明、韩国配偶对子女的收养或同行入境同意书**。如果子女是前配偶所生，可能还会要求前配偶的同行入境同意书。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>各国的材料名称会随本国法制修订而频繁变化。尤其是中国的公证书格式，最近几年已变更了多次，所以提交前必须再次确认驻在国韩国大使馆的指引。如果用旧格式办理了公证，只能回本国重新开具。
+<div>
+  <strong>⚠️ 注意：</strong>各国的材料名称会随本国法制修订而频繁变化。尤其是中国的公证书格式，最近几年已变更了多次，所以提交前必须再次确认驻在国韩国大使馆的指引。如果用旧格式办理了公证，只能回本国重新开具。
 </div>
 
 ## <a id="section-8"></a>8. 常见失误与实际拒签案例
 
 ### 实务中反复出现的五种失误
 
-**1. 材料过了有效期才提交**  
+**1. 材料过了有效期才提交**
 婚姻关系证明·无犯罪记录证明超过3个月即失效。在本国收集材料的过程中耽搁时间，韩国这边的材料却先过期，是很常见的情况。
 
-**2. 只办了韩国结婚登记，漏了本国结婚登记**  
+**2. 只办了韩国结婚登记，漏了本国结婚登记**
 在中国·越南·日本等**需要在本国也办理结婚登记的国家**，如果没做本国登记，本国未婚证明和韩国婚姻关系证明就会冲突，审查会被搅乱。
 
-**3. 交往证明只用"婚礼照片"凑数**  
+**3. 交往证明只用"婚礼照片"凑数**
 婚礼照片不是交往的证据，而是结婚事实的证据。实际审查要求有覆盖**整个交往过程**的照片·聊天记录，才会被认可为真实性证明。
 
-**4. 用今年的收入标准来计算**  
+**4. 用今年的收入标准来计算**
 F-6 收入标准看的是**上一年度的收入**。就算今年跳槽年薪涨了，只要上一年度收入不足，仍然会被拒签。
 
-**5. 本国材料翻译只在本国翻译社处理**  
+**5. 本国材料翻译只在本国翻译社处理**
 很多人只附本国的英文翻译件就带过来，但大部分情况都要在韩国**重新做韩语翻译公证**。
 
 ### 实际导致拒签的典型模式
@@ -423,45 +404,45 @@ F-6 收入标准看的是**上一年度的收入**。就算今年跳槽年薪涨
 - 韩国配偶有**家庭暴力·性犯罪前科**
 - 外国配偶有**在韩非法滞留记录**
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>如果不仅被判定为普通拒签，而是被认定为<strong>疑似虚假结婚</strong>，今后再次申请时同样的事由仍会被保留，重新获批会非常困难。一次受理会影响到下一次的机会，所以首次申请时把材料抓紧做足，反而更有利。
+<div>
+  <strong>⚠️ 注意：</strong>如果不仅被判定为普通拒签，而是被认定为<strong>疑似虚假结婚</strong>，今后再次申请时同样的事由仍会被保留，重新获批会非常困难。一次受理会影响到下一次的机会，所以首次申请时把材料抓紧做足，反而更有利。
 </div>
 
 ### 提交前的最终检查
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 提交前最终检查清单</strong>
-  <ul style="margin-top:12px">
-    <li>韩国材料的开具日期是否都在3个月以内</li>
-    <li>本国材料的认证链条（海牙/领事认证）是否已完结</li>
-    <li>本国材料是否附有韩语翻译公证</li>
-    <li>婚姻关系证明书（详细版）上是否显示了现任配偶的婚姻记录</li>
-    <li>韩国配偶的收入金额证明是否以上一年度归属为准</li>
-    <li>住房材料与居民登记誊本上的地址是否一致</li>
-    <li>交往照片是否按时间点分散（不是只集中在婚礼照片）</li>
-    <li>聊天·通话记录是否覆盖整个交往期间</li>
-    <li>外国配偶的基础韩语能力证明或免除事由是否清晰</li>
-    <li>韩国配偶的无犯罪记录证明是否保持密封状态</li>
-    <li>身份担保书是否有亲笔签名</li>
-    <li>护照剩余有效期是否在6个月以上</li>
-  </ul>
+<div>
+  <strong>✅ 提交前最终检查清单</strong>
+
+    韩国材料的开具日期是否都在3个月以内
+    本国材料的认证链条（海牙/领事认证）是否已完结
+    本国材料是否附有韩语翻译公证
+    婚姻关系证明书（详细版）上是否显示了现任配偶的婚姻记录
+    韩国配偶的收入金额证明是否以上一年度归属为准
+    住房材料与居民登记誊本上的地址是否一致
+    交往照片是否按时间点分散（不是只集中在婚礼照片）
+    聊天·通话记录是否覆盖整个交往期间
+    外国配偶的基础韩语能力证明或免除事由是否清晰
+    韩国配偶的无犯罪记录证明是否保持密封状态
+    身份担保书是否有亲笔签名
+    护照剩余有效期是否在6个月以上
+
 </div>
 
 ## <a id="section-9"></a>9. 常见问题（FAQ）
 
-**Q1. 是先在韩国办结婚登记再准备材料对，还是先在本国办对？**  
+**Q1. 是先在韩国办结婚登记再准备材料对，还是先在本国办对？**
 A. 原则上**先在韩国办结婚登记**，F-6 材料构成会更简洁。韩国婚姻关系证明书（详细版）上必须有配偶记录，家庭关系类材料的组合才能干净利落。不过中国·越南等国家必须在本国也办结婚登记，所以韩国登记后再到本国追加登记的顺序，在现场推进时问题最少。
 
-**Q2. 一定要考韩语考试（TOPIK）吗？**  
+**Q2. 一定要考韩语考试（TOPIK）吗？**
 A. 基础韩语能力可通过**TOPIK 1级以上、指定韩语教育机构结业、在韩国取得学位**中任一方式证明。韩语圈国家国民，或夫妻共通语言被认可等情况可以免除，但适用范围较窄。最快最稳的路径是在指定机构完成一定课时并取得结业证。
 
-**Q3. 收入没达到标准，是不是一定会被拒？**  
+**Q3. 收入没达到标准，是不是一定会被拒？**
 A. 不一定。可以通过**合算父母或成年子女的收入·财产**来达标，也有用韩国配偶本人的财产（存款·不动产）补足的路径。但财产合算属于管辖机关的个案判断，所以在提交前先到管辖出入国民愿室咨询并获得判断，会更稳妥。
 
-**Q4. 我目前持短期签证（C-3）在韩停留，能在韩国境内直接变更为F-6吗？**  
+**Q4. 我目前持短期签证（C-3）在韩停留，能在韩国境内直接变更为F-6吗？**
 A. 原则上，F-6 的流程是**在海外的韩国大使馆取得签证后再入境**。虽然有极少数例外允许在境内进行资格变更，但要件非常严格。一般来说，更稳妥的做法还是先出境，在本国使领馆取得F-6签证后再入境。自己的情况是否符合例外，需要到管辖出入国确认。
 
-**Q5. 材料都收齐后，从受理到出结果要多久？**  
+**Q5. 材料都收齐后，从受理到出结果要多久？**
 A. 以国外使领馆受理为准**通常需要2~3个月**。各国家·各使领馆的差异较大，如果被安排真实性实地调查或面谈，时间会更长。只要补充材料的要求出现一次，就会相应延后，所以首次受理时把材料的完整度做到最高，反而最快出结果。
 
 ## <a id="section-10"></a>10. 咨询指南
@@ -472,7 +453,6 @@ VISION行政士事务所负责从F-6 结婚移民签证申请，到拒签事由�
 
 **VISION行政士事务所（VISION Administrative Office）**
 
-- 电话：02-363-2251
 - 邮箱：5000meter@gmail.com
 - 地址：（04614）首尔特别市中区退溪路324号，3楼（成宇大厦）
 
@@ -485,4 +465,3 @@ VISION行政士事务所负责从F-6 结婚移民签证申请，到拒签事由�
 复杂的手续不必独自烦恼。专业行政士将为您提供亲切指导。
 
 **[申请免费咨询](https://visaskorea.co.kr/zh/contact)**
-

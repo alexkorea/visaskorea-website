@@ -10,22 +10,8 @@ slug: "d8-4-tech-startup-visa-eligibility-procedure"
 
 D-8-4 是面向具备学历与知识产权（或 OASIS 认证）的外国人在韩国以技术为基础进行创业时所申请的签证。学士以上学位 + 本人名义的专利、实用新型、外观设计权，或政府认可的 OASIS 项目结业者为主要申请对象。本文从申请资格、分阶段流程、所需材料、实务审查中常见的关键分歧点，到常见问答，全部按照可直接套用到您自身情况的方式进行整理。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8-4 技术创业签证是什么</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. D-8-4 申请资格条件</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. D-8-4 签证申请流程</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. D-8-4 申请材料清单</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 实务审查中的关键分歧点</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. D-8-4 后续管理：延期与居留阶段</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 常见问答</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 需要专家咨询吗？</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 需要专家咨询？</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">D-8-4 技术创业签证是什么</h2>
+## D-8-4 技术创业签证是什么
 
 ### 在 D-8 体系中的位置
 
@@ -35,7 +21,7 @@ D-8 是企业投资签证的总称，下设 D-8-1（外国人投资企业）、D
 
 首先要看的是注册资本。D-8-1 原则上要求 1 亿韩元以上的外国人投资，而 D-8-4 实际上没有注册资本下限。取而代之的是必须满足**学历 + 知识产权**或 **OASIS 认证**这一非资本类的条件。核心一句话：这不是靠资金进入的签证，而是靠技术进入的签证。
 
-<h2 id="section-2">D-8-4 申请资格条件</h2>
+## D-8-4 申请资格条件
 
 ### 学历 + 知识产权路径
 
@@ -49,7 +35,7 @@ OASIS 是政府认可的外国人创业项目体系，例如 K-Startup Grand Cha
 
 即使资格条件齐备，若未完成法人设立则根本无法提交申请。法人登记簿上必须登记您本人为代表理事或登记董事，且办公场所的租赁合同必须真实存在。部分虚拟办公室不予认可。
 
-<h2 id="section-3">D-8-4 签证申请流程</h2>
+## D-8-4 签证申请流程
 
 ### 分阶段推进流程
 
@@ -74,12 +60,11 @@ OASIS 是政府认可的外国人创业项目体系，例如 K-Startup Grand Cha
 
 ---
 
-**立即申请免费咨询 → 02-363-2251 / KakaoTalk: alexkorea**
 准确的费用与流程请通过专家咨询了解。
 
 ---
 
-<h2 id="section-4">D-8-4 申请材料清单</h2>
+## D-8-4 申请材料清单
 
 ### 通用提交材料
 
@@ -101,14 +86,10 @@ OASIS 是政府认可的外国人创业项目体系，例如 K-Startup Grand Cha
 注册资本无下限并不意味着账户可以是空的。需要呈现出能够支撑业务运营的资金流动，资金来源说明若不充分，立刻会出问题。比起账户余额，更重要的是钱从哪里来、用到哪里去的清晰图景。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Two blue Ukrainian passports placed on a white surface, close-up view." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Two blue Ukrainian passports placed on a white surface, close-up view.](https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">实务审查中的关键分歧点</h2>
+## 实务审查中的关键分歧点
 
 ### 专利署名与注册时点
 
@@ -124,7 +105,7 @@ OASIS 是政府认可的外国人创业项目体系，例如 K-Startup Grand Cha
 
 > **实务提示：** 与其把创业计划书写得很长，不如在 30 页之内呈现"技术 → 市场 → 营收"的衔接，通过率反而更高。200 页计划书被驳回、30 页通过的情况并不少见。
 
-<h2 id="section-6">D-8-4 后续管理：延期与居留阶段</h2>
+## D-8-4 后续管理：延期与居留阶段
 
 ### 延期审查的关注点
 
@@ -134,7 +115,7 @@ OASIS 是政府认可的外国人创业项目体系，例如 K-Startup Grand Cha
 
 D-8-4 在 F-2-7（积分制居留）中获得的加分较高。运营一定期限并满足营业额、雇佣条件后，可进一步衔接到 F-5（永居）路径。积分项目与加分结构可在[出入境与外国人政策本部](https://www.immigration.go.kr)的指引及[国家法令信息中心](https://www.law.go.kr)的《出入境管理法施行规则》中查询。
 
-<h2 id="section-7">常见问答</h2>
+## 常见问答
 
 **Q1. 仅完成专利申请、尚未注册的状态可以申请 D-8-4 吗？**
 原则上审查的是已完成注册的知识产权。仅处于申请阶段大多不被认可，注册证下来之前提交，被搁置的可能性很高。
@@ -154,12 +135,11 @@ D-8-4 与 D-8-1 不同，实际上没有注册资本下限。但需要展示足�
 **Q6. 被拒签后可以重新申请吗？**
 可以。但若不分析拒签事由就用同样的材料再次提交，会以同样的事由再次被拒。必须先准确解读拒签通知书上的事由代码。
 
-<h2 id="section-8">需要专家咨询吗？</h2>
+## 需要专家咨询吗？
 
 D-8-4 看似资格条件清晰，但实际审查中，结果往往取决于创业计划与技术的契合度、资金流的说明、办公场所的真实性。我们将通过一次咨询，为您梳理本人案件的资格满足情况、最快的管辖出入境部门选择、拒签风险的事先排查。
 
 **愿景行政士事务所（VISION Administrative Office）**
-- 电话：02-363-2251
 - 邮箱：5000meter@gmail.com
 - KakaoTalk：alexkorea
 - 地址：（04614）首尔特别市中区退溪路 324 号 3 层（成宇大厦）
@@ -168,9 +148,8 @@ D-8-4 看似资格条件清晰，但实际审查中，结果往往取决于创�
 
 ---
 
-<h2 id="section-9">需要专家咨询？</h2>
+## 需要专家咨询？
 
 复杂的手续不必独自烦恼。专业行政士将为您提供亲切指导。
 
 **[申请免费咨询](https://visaskorea.co.kr/zh/contact)**
-

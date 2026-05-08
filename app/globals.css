@@ -123,3 +123,80 @@
     @apply bg-background text-foreground;
   }
 }
+
+/* === Supanova Blog Design === */
+
+/* H2 headings - blue background bar */
+.prose h2 {
+  background: #235099;
+  color: #ffffff;
+  padding: 14px 24px;
+  border-radius: 6px;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 2.5rem 0 1.25rem 0;
+  border: none;
+  line-height: 1.5;
+}
+
+/* H3 headings - left blue bar */
+.prose h3 {
+  color: #1a1a1a;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border-left: 4px solid #235099;
+  padding: 6px 0 6px 14px;
+  margin: 2rem 0 0.875rem 0;
+}
+
+/* Tables - professional */
+.prose table { border: 1px solid #e5e7eb; border-radius: 8px; overflow: hidden; }
+.prose thead { background: #235099; }
+.prose th { color: #ffffff; padding: 12px 16px; font-weight: 600; font-size: 13px; border-bottom: none; }
+.prose td { padding: 11px 16px; border-bottom: 1px solid #f1f5f9; color: #374151; }
+.prose tbody tr:nth-child(even) { background: #fafbfc; }
+.prose tbody tr:hover { background: #f0f4ff; transition: background 0.2s; }
+
+/* CTA button */
+.prose a[href*="/contact"], .prose a[href*="/quote"] {
+  display: inline-block;
+  background: #dc2626;
+  color: #fff !important;
+  padding: 14px 32px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  box-shadow: 0 4px 14px rgba(220,38,38,0.25);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.prose a[href*="/contact"]:hover, .prose a[href*="/quote"]:hover {
+  background: #b91c1c;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 20px rgba(220,38,38,0.35);
+}
+
+/* Blockquote */
+.prose blockquote {
+  border-left: 4px solid #f59e0b;
+  background: #fffbeb;
+  padding: 16px 22px;
+  border-radius: 0 8px 8px 0;
+  color: #92400e;
+  font-style: normal;
+}
+
+/* HR */
+.prose hr {
+  border: none;
+  height: 1px;
+  background: linear-gradient(to right, transparent, #d1d5db, transparent);
+  margin: 2.5rem 0;
+}
+
+/* 다국어 줄바꿈 방지 */
+h1, h2, h3, h4, .btn-primary, .btn-ghost {
+  word-break: keep-all;
+  overflow-wrap: normal;
+}

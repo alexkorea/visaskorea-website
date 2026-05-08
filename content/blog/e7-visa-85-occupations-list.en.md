@@ -20,7 +20,6 @@ This guide covers the occupational classification system, qualification standard
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. The Classification System for the 85 E-7 Occupations</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. E-7-1 Professional Personnel: 67 Occupations</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-7-2 Semi-professional Personnel: 9 Occupations</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Apply for a Free Consultation Now → 02-363-2251 / KakaoTalk: alexkorea</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. E-7-3 General Skilled Personnel: 9 Occupations</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Key Points Where Qualification Requirements Diverge by Occupation</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Common Sticking Points During Application</a></li>
@@ -115,7 +114,6 @@ In practice, it's common for applications to be rejected because the employer's 
 
 > **Practical Tip:** First check whether your hiring company is registered as a duty-free shop or tourist hotel and whether the business type listed on the articles of incorporation matches that on the business registration certificate.
 
-<h2 id="section-4">Apply for a Free Consultation Now → 02-363-2251 / KakaoTalk: alexkorea</h2>
 
 Determining which of the 85 occupations your job falls under, and whether your education and experience meet the qualifications, requires a case-by-case review first.
 
@@ -248,7 +246,6 @@ Mapping your job to KSCO, demonstrating your education and experience, and verif
 
 **VISION Administrative Office (비전 행정사사무소)**
 
-- Phone: 02-363-2251
 - Email: 5000meter@gmail.com
 - Address: 3F, 324 Toegye-ro, Jung-gu, Seoul (04614), Seongwoo Building
 - KakaoTalk Consultation: alexkorea

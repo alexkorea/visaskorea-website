@@ -265,7 +265,7 @@ export function VisaDetailTemplate({
             {/* Sidebar */}
             <aside className="space-y-6">
               {/* CTA Card */}
-              <Card className="sticky top-6 border-primary/20 bg-primary/5">
+              <Card className="border-primary/20 bg-primary/5">
                 <CardHeader>
                   <CardTitle className="text-lg">
                     {dict.common.consultation}

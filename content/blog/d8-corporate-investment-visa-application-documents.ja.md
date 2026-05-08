@@ -12,21 +12,6 @@ D-8企業投資ビザは、**外国人が韓国法人に1億ウォン以上を�
 
 実際の審査では、資金の海外送金経路、国内法人口座への入金、外国人投資企業としての登録、事業所の賃貸借、事業計画書の具体性が一本の線で繋がっている必要があります。書類が多くてもこの流れが弱ければすぐに引っかかり、逆に書類が簡素でも資金の出所と事業の実体が明確であれば早く発給されます。要点はこれに尽きます。**D-8は「お金の物語」を証憑で形にするビザ**なのです。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8ビザの基本構造と3つの類型</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 発給要件:投資金1億と外国人投資登録</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 必要書類の全リストと実務チェック</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 資金の出所の立証:最初にぶつかる関門</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 法人設立からビザ発給までのステップ別手続き</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 事業計画書の作成:長さより説得力</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 在留期間・延長・家族帯同の実務</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくあるミスと不許可事由</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. よくある質問(FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. ご相談のご案内</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1">1. D-8ビザの基本構造と3つの類型</span>
 
@@ -48,39 +33,39 @@ D-8は一見すると単一のビザのようですが、実務では3つに分�
 
 知的財産権や源泉技術を保有する外国人が韓国で創業する類型です。OASISプログラム等と連携するケースが多く、投資金の要件が緩和される代わりに技術性評価を受けます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-1 法人投資</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-2 ベンチャー投資</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-4 技術創業</th>
+      <th>区分</th>
+      <th>D-8-1 法人投資</th>
+      <th>D-8-2 ベンチャー投資</th>
+      <th>D-8-4 技術創業</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資金額</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1億ウォン以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ベンチャー企業要件を充足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資本金緩和(技術性評価)</td>
+      <td>投資金額</td>
+      <td>1億ウォン以上</td>
+      <td>ベンチャー企業要件を充足</td>
+      <td>資本金緩和(技術性評価)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">主な証憑</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外投企業登録証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ベンチャー企業確認書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">知的財産権・技術評価</td>
+      <td>主な証憑</td>
+      <td>外投企業登録証</td>
+      <td>ベンチャー企業確認書</td>
+      <td>知的財産権・技術評価</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業形態</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人</td>
+      <td>事業形態</td>
+      <td>法人</td>
+      <td>法人</td>
+      <td>法人</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">審査の核心</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資金の出所・実体</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">革新性・成長性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">技術水準・事業性</td>
+      <td>審査の核心</td>
+      <td>資金の出所・実体</td>
+      <td>革新性・成長性</td>
+      <td>技術水準・事業性</td>
     </tr>
   </tbody>
 </table>
@@ -101,8 +86,8 @@ D-8-1を基準にして最もよく尋ねられるのは「なぜ1億なのか�
 
 事業所は居住地と分離された独立空間でなければなりません。シェアオフィスも認められますが、**実際に事業活動が可能な形態**であることが求められ、賃貸借契約書の借主欄に法人名が記載されている必要があります。代表者個人名義の契約はしばしば問題になります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 1億を入金した後、ビザ発給直後に引き出すケースは、実際の審査や事後管理で頻繁に摘発されています。投資金は事業運営に使われる資金であるべきで、単なる預け金と見なされて在留延長の段階で不許可になる事例が多発しています。
+<div>
+  <strong>⚠️ 注意:</strong> 1億を入金した後、ビザ発給直後に引き出すケースは、実際の審査や事後管理で頻繁に摘発されています。投資金は事業運営に使われる資金であるべきで、単なる預け金と見なされて在留延長の段階で不許可になる事例が多発しています。
 </div>
 
 ## <span id="section-3">3. 必要書類の全リストと実務チェック</span>
@@ -140,51 +125,51 @@ D-8-1を基準にして最もよく尋ねられるのは「なぜ1億なのか�
 - 直近の財務諸表(新設法人の場合は開始貸借対照表)
 - 取引先との契約書・税金計算書(あれば)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">書類分類</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">主要書類</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">実務でよく抜け落ちるもの</th>
+      <th>書類分類</th>
+      <th>主要書類</th>
+      <th>実務でよく抜け落ちるもの</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">個人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">パスポート、犯罪経歴証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">アポスティーユ漏れ、6ヶ月超過</td>
+      <td>個人</td>
+      <td>パスポート、犯罪経歴証明書</td>
+      <td>アポスティーユ漏れ、6ヶ月超過</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登記簿謄本、定款</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">最新株主名簿への未反映</td>
+      <td>法人</td>
+      <td>登記簿謄本、定款</td>
+      <td>最新株主名簿への未反映</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資証憑</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外投登録証、送金証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">送金人名義と株主の不一致</td>
+      <td>投資証憑</td>
+      <td>外投登録証、送金証</td>
+      <td>送金人名義と株主の不一致</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業実体</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">賃貸借、現場写真</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">住所だけあって実体がない</td>
+      <td>事業実体</td>
+      <td>賃貸借、現場写真</td>
+      <td>住所だけあって実体がない</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 書類提出前のチェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>犯罪経歴証明書のアポスティーユまたは駐韓公館での領事確認が完了している</li>
-    <li>パスポートの有効期間が6ヶ月以上残っている</li>
-    <li>外国人投資申告済証・登録証明書の原本を保有している</li>
-    <li>送金証憑の送金人名が申請者と完全に一致している</li>
-    <li>法人口座の入金履歴と資本金払込証明が一致している</li>
-    <li>事業所の外観看板・内部ワークスペースの写真を確保している</li>
-    <li>賃貸借契約書の借主が法人名になっている</li>
-    <li>事業計画書に資金使用計画が含まれている</li>
-    <li>株主名簿が外投登録内容と一致している</li>
-  </ul>
+<div>
+  <strong>✅ 書類提出前のチェックリスト</strong>
+
+    犯罪経歴証明書のアポスティーユまたは駐韓公館での領事確認が完了している
+    パスポートの有効期間が6ヶ月以上残っている
+    外国人投資申告済証・登録証明書の原本を保有している
+    送金証憑の送金人名が申請者と完全に一致している
+    法人口座の入金履歴と資本金払込証明が一致している
+    事業所の外観看板・内部ワークスペースの写真を確保している
+    賃貸借契約書の借主が法人名になっている
+    事業計画書に資金使用計画が含まれている
+    株主名簿が外投登録内容と一致している
+
 </div>
 
 ## <span id="section-4">4. 資金の出所の立証:最初にぶつかる関門</span>
@@ -209,8 +194,8 @@ D-8審査では、合否の判定よりも先に見られるのが**お金の出
 
 資金の出所は**時間軸に沿って記述する**のが最も早道です。3年前の給与明細 → 本国口座への貯蓄残高 → 送金時点の引き出し → 韓国法人口座への入金という順序で、一枚ずつ繋がっていく必要があります。この説明が弱いと、書類が多くても追加の疎明を求められます。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 親戚から借りて送金し、ビザ発給後に返却する方式は偽装投資とみなされます。摘発された場合、ビザ取消のみならず再入国禁止にまで発展する可能性があり、絶対にお勧めできません。
+<div>
+  <strong>⚠️ 注意:</strong> 親戚から借りて送金し、ビザ発給後に返却する方式は偽装投資とみなされます。摘発された場合、ビザ取消のみならず再入国禁止にまで発展する可能性があり、絶対にお勧めできません。
 </div>
 
 ## <span id="section-5">5. 法人設立からビザ発給までのステップ別手続き</span>
@@ -219,49 +204,49 @@ D-8審査では、合否の判定よりも先に見られるのが**お金の出
 
 ### 5-1. 標準的な手続きの流れ
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">ステップ</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">所要目安</th>
+      <th>ステップ</th>
+      <th>内容</th>
+      <th>所要目安</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. 外国人投資申告</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国為替銀行またはKOTRAに申告</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1〜3日</td>
+      <td>1. 外国人投資申告</td>
+      <td>外国為替銀行またはKOTRAに申告</td>
+      <td>1〜3日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. 投資金の送金</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本国→韓国の外国為替銀行口座</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1〜5日</td>
+      <td>2. 投資金の送金</td>
+      <td>本国→韓国の外国為替銀行口座</td>
+      <td>1〜5日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. 法人設立登記</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">定款作成、資本金払込、登記</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2〜3週間</td>
+      <td>3. 法人設立登記</td>
+      <td>定款作成、資本金払込、登記</td>
+      <td>2〜3週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. 事業者登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄税務署への届出</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1週間</td>
+      <td>4. 事業者登録</td>
+      <td>管轄税務署への届出</td>
+      <td>1週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. 外投企業登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人投資企業登録証明書の発給</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1〜2週間</td>
+      <td>5. 外投企業登録</td>
+      <td>外国人投資企業登録証明書の発給</td>
+      <td>1〜2週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6. 査証発給認定書の申請</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">管轄出入国への書類受付</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2〜4週間</td>
+      <td>6. 査証発給認定書の申請</td>
+      <td>管轄出入国への書類受付</td>
+      <td>2〜4週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7. 公館での査証発給</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">在留国の韓国公館で査証受領</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1〜2週間</td>
+      <td>7. 公館での査証発給</td>
+      <td>在留国の韓国公館で査証受領</td>
+      <td>1〜2週間</td>
     </tr>
   </tbody>
 </table>
@@ -275,11 +260,7 @@ D-8審査では、合否の判定よりも先に見られるのが**お金の出
 最初の着手からビザ受領まで**通常2〜3ヶ月**を要します。書類不備で補正指示が出た場合、1ヶ月以上延びるのはよくあることです。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up view of an open passport displaying various travel stamps in an airport setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Close-up view of an open passport displaying various travel stamps in an airport setting.](https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6">6. 事業計画書の作成:長さより説得力</span>
@@ -308,8 +289,8 @@ D-8審査では、合否の判定よりも先に見られるのが**お金の出
 
 資金使用計画では、「事務所賃料3,000万ウォン、人件費4,000万ウォン、設備2,000万ウォン、運営資金1,000万ウォン」のように、**1億がどこへ散らばっていくか**を具体的な数字で分解する必要があります。ここが弱いと、事業計画書全体が抽象的に読まれてしまいます。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務ヒント:</strong> 事業計画書の最初のページに「代表者プロフィール - 事業との関連性」の一行要約を入れると審査がスムーズです。例えば「中国・上海で10年間、化粧品流通に従事 → 韓国K-ビューティー逆輸出法人の設立」のように、経歴と事業を一文で繋ぐ構造が最も説得力があります。
+<div>
+  <strong>💡 実務ヒント:</strong> 事業計画書の最初のページに「代表者プロフィール - 事業との関連性」の一行要約を入れると審査がスムーズです。例えば「中国・上海で10年間、化粧品流通に従事 → 韓国K-ビューティー逆輸出法人の設立」のように、経歴と事業を一文で繋ぐ構造が最も説得力があります。
 </div>
 
 ## <span id="section-7">7. 在留期間・延長・家族帯同の実務</span>
@@ -336,33 +317,33 @@ D-8所持者の配偶者と未成年の子どもは、**F-3同伴ビザ**で一�
 
 D-8で一定期間在留すると、**F-2(長期在留) → F-5(永住) → 国籍取得**へと繋げることができます。外国人投資企業の代表にはF-5直行ルートがあり、投資規模と韓国人雇用水準が一定の要件を満たしていれば、永住権をすぐに取得できます。基準は時期によって変わるため、管轄機関への確認が必要です。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">初回D-8</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8延長</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">F-5永住直行</th>
+      <th>区分</th>
+      <th>初回D-8</th>
+      <th>D-8延長</th>
+      <th>F-5永住直行</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">主要要件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資金1億・外投登録</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業実体・雇用</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資50万ドル・韓国人5名以上の雇用など</td>
+      <td>主要要件</td>
+      <td>投資金1億・外投登録</td>
+      <td>事業実体・雇用</td>
+      <td>投資50万ドル・韓国人5名以上の雇用など</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">在留期間</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1〜2年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1〜3年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">無期限</td>
+      <td>在留期間</td>
+      <td>1〜2年</td>
+      <td>1〜3年</td>
+      <td>無期限</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">主な審査</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資金の出所</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">売上・税務</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投資維持・雇用</td>
+      <td>主な審査</td>
+      <td>資金の出所</td>
+      <td>売上・税務</td>
+      <td>投資維持・雇用</td>
     </tr>
   </tbody>
 </table>
@@ -391,8 +372,8 @@ D-8で一定期間在留すると、**F-2(長期在留) → F-5(永住) → 国�
 
 本国の犯罪経歴証明書にアポスティーユまたは領事確認がない場合、原本があっても受付が差し戻されます。発行日から6ヶ月以内という要件も、見落とされがちなポイントです。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> ブローカーが「法人名義だけを貸してくれる投資家」を紹介するといった話がありますが、偽装投資と分類されればビザ取消だけでなく、出入国管理法上の刑事処罰の対象となります。投資は必ず本人名義・本人資金で進めなければなりません。
+<div>
+  <strong>⚠️ 注意:</strong> ブローカーが「法人名義だけを貸してくれる投資家」を紹介するといった話がありますが、偽装投資と分類されればビザ取消だけでなく、出入国管理法上の刑事処罰の対象となります。投資は必ず本人名義・本人資金で進めなければなりません。
 </div>
 
 ## <span id="section-9">9. よくある質問(FAQ)</span>
@@ -418,11 +399,10 @@ D-8は、書類の数よりも資金の説明と事業の実体が先に見ら�
 
 ビジョン行政士事務所は、D-8企業投資ビザの申請と法人設立、外国人投資企業登録を一つの流れとしてご案内します。資金構造と事業計画が噛み合うよう、初期段階から点検いたします。
 
-<div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">ビジョン行政士事務所 (VISION Administrative Office)
-  <ul style="list-style:none;padding-left:0;line-height:1.9">
-    <li>📞 電話: <strong>02-363-2251</strong></li>
-    <li>✉️ メール: <strong>5000meter@gmail.com</strong></li>
-    <li>📍 住所: (04614) ソウル特別市中区退渓路324、3階(ソンウビル)</li>
-  </ul>
+<div>
+### ビジョン行政士事務所 (VISION Administrative Office)
+
+    ✉️ メール: <strong>5000meter@gmail.com</strong>
+    📍 住所: (04614) ソウル特別市中区退渓路324、3階(ソンウビル)
+
 </div>

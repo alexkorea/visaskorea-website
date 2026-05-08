@@ -12,21 +12,8 @@ When an F-6 marriage visa application is denied, many couples feel frustrated an
 
 The most common reasons for F-6 visa denial include insufficient proof of marriage genuineness (approximately 40%), failure to meet income requirements (approximately 25%), document forgery or provision of false information (approximately 15%), criminal history or immigration law violations (approximately 10%), and other reasons (approximately 10%). Within 90 days from the date of receiving the denial notice, you can file an appeal or proceed with a new application after addressing the reasons for denial. Since all previous application records are reviewed during reapplication, you must prepare specific supplementary evidence rather than simply resubmitting the same documents.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Immediate Steps to Take After Receiving F-6 Visa Denial Notice</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Detailed Analysis of Main Denial Reasons</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Differences Between Appeals and Reapplication and Selection Criteria</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Preparing Supplementary Documents to Prove Marriage Genuineness</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Solutions When Income Requirements Are Not Met</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Timing and Strategic Preparation Methods for Reapplication</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Common Mistakes and Prevention Methods</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Frequently Asked Questions (FAQ)</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">Immediate Steps to Take After Receiving F-6 Visa Denial Notice
+## Immediate Steps to Take After Receiving F-6 Visa Denial Notice
 
 When you receive an F-6 visa denial notice, the first thing you must do is **verify the exact reasons for denial**. The denial notice issued by the Immigration Office includes specific reasons for denial along with legal grounds. Without accurately understanding this information, effective response is impossible.
 
@@ -40,7 +27,7 @@ The denial notice typically includes the following information:
 
 If the reasons for denial in the notice are abstract or difficult to understand, you can **visit or call the Immigration Office that issued the decision to request a detailed explanation**. It's important to specifically inquire from the responsible official about which documents were missing or which aspects failed to meet the screening criteria.
 
-<div style="background:#fff3cd;border-left:4px solid #ffc107;padding:15px;margin:20px 0">
+<div>
 <strong>⚠️ Important:</strong> You can file an appeal within 90 days from the date you received the denial notice. If this period passes, your right to appeal expires, so you must check and record the date.
 </div>
 
@@ -54,7 +41,7 @@ Checklist to verify after receiving denial notice:
 4. Review the list of previously submitted documents and copies
 5. Obtain contact information for the Immigration Office and the case officer
 
-<h2 id="section-2">Detailed Analysis of Main Denial Reasons
+## Detailed Analysis of Main Denial Reasons
 
 F-6 visa denial reasons can be broadly classified into five types, each requiring different response strategies.
 
@@ -87,7 +74,7 @@ When submitted documents contain forgery, alteration, or false information, this
 - False statements during interviews
 - Providing false information about past immigration records
 
-<div style="background:#ffebee;border-left:4px solid #f44336;padding:15px;margin:20px 0">
+<div>
 <strong>⚠️ Warning:</strong> If document forgery or provision of false information is detected, it will be very disadvantageous during reapplication and can have permanent effects on future visa applications. In such cases, you must seek professional assistance.
 </div>
 
@@ -108,7 +95,7 @@ Visa issuance may be denied in the following cases:
 - Ineligibility for application itself (e.g., marriage registration not completed)
 - History of repeated denials in previous visa applications
 
-<h2 id="section-3">Differences Between Appeals and Reapplication and Selection Criteria
+## Differences Between Appeals and Reapplication and Selection Criteria
 
 There are two main ways to respond to F-6 visa denial: **appeal (administrative adjudication)** and **reapplication**. You must understand the characteristics of each and the appropriate situations for selection.
 
@@ -157,44 +144,44 @@ This involves making a new F-6 visa application after addressing the reasons for
 - Must specifically address reasons for denial
 - Recommended to attach an explanatory statement (letter of explanation) for supplementary documents
 
-<table style="width:100%;border-collapse:collapse;margin:20px 0">
+<table>
   <thead>
-    <tr style="background:#1e40af;color:white">
-      <th style="border:1px solid #ddd;padding:12px">Category</th>
-      <th style="border:1px solid #ddd;padding:12px">Appeal</th>
-      <th style="border:1px solid #ddd;padding:12px">Reapplication</th>
+    <tr>
+      <th>Category</th>
+      <th>Appeal</th>
+      <th>Reapplication</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>Application Timing</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">Within 90 days after denial notice</td>
-      <td style="border:1px solid #ddd;padding:10px">No restrictions (immediately possible)</td>
-    </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>Fee</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">None</td>
-      <td style="border:1px solid #ddd;padding:10px">Re-payment of application fee</td>
+      <td><strong>Application Timing</strong></td>
+      <td>Within 90 days after denial notice</td>
+      <td>No restrictions (immediately possible)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>Review Period</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">30-60 days</td>
-      <td style="border:1px solid #ddd;padding:10px">Same as regular application (2 weeks-2 months)</td>
-    </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>Success Rate</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">Low (10-15%)</td>
-      <td style="border:1px solid #ddd;padding:10px">Varies depending on degree of supplementation</td>
+      <td><strong>Fee</strong></td>
+      <td>None</td>
+      <td>Re-payment of application fee</td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>Appropriate Cases</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">When decision appears unjust</td>
-      <td style="border:1px solid #ddd;padding:10px">When there are clear items to supplement</td>
+      <td><strong>Review Period</strong></td>
+      <td>30-60 days</td>
+      <td>Same as regular application (2 weeks-2 months)</td>
     </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>Can Be Combined</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">Can prepare for reapplication concurrently</td>
-      <td style="border:1px solid #ddd;padding:10px">Possible even while appeal is in progress</td>
+    <tr>
+      <td><strong>Success Rate</strong></td>
+      <td>Low (10-15%)</td>
+      <td>Varies depending on degree of supplementation</td>
+    </tr>
+    <tr>
+      <td><strong>Appropriate Cases</strong></td>
+      <td>When decision appears unjust</td>
+      <td>When there are clear items to supplement</td>
+    </tr>
+    <tr>
+      <td><strong>Can Be Combined</strong></td>
+      <td>Can prepare for reapplication concurrently</td>
+      <td>Possible even while appeal is in progress</td>
     </tr>
   </tbody>
 </table>
@@ -206,7 +193,7 @@ This involves making a new F-6 visa application after addressing the reasons for
 3. **When there is no time to spare**: Prioritize reapplication
 4. **When there are complex legal issues**: Appeal + professional consultation
 
-<h2 id="section-4">Preparing Supplementary Documents to Prove Marriage Genuineness
+## Preparing Supplementary Documents to Prove Marriage Genuineness
 
 When denied due to insufficient proof of marriage genuineness, the most important aspect of reapplication is objectively proving that the marital relationship is genuine. Rather than simply claiming "we are in love," you must systematically prepare specific and verifiable supporting materials.
 
@@ -280,7 +267,7 @@ Prepare a statement containing a genuine story rather than formal content:
 - Prioritize factual description over emotional expression
 - Write to connect with photos or evidence
 
-<div style="background:#e8f5e9;border-left:4px solid #4caf50;padding:15px;margin:20px 0">
+<div>
 <strong>💡 Tip:</strong> While more supporting materials are better, rather than submitting all materials indiscriminately, it's more effective to classify them by period and organize them systematically with a table of contents. It's important to make it easy for examiners to verify.
 </div>
 
@@ -295,7 +282,7 @@ Statements from third parties who can objectively verify the marital relationshi
 
 Statements should include the writer's identity (name, contact information), relationship with the couple, circumstances of becoming acquainted with the couple, specific examples to judge the genuineness of the relationship, and require signature and seal.
 
-<h2 id="section-5">Solutions When Income Requirements Are Not Met
+## Solutions When Income Requirements Are Not Met
 
 When F-6 visa is denied due to failure to meet income requirements, you can satisfy the requirements through the following methods.
 
@@ -357,60 +344,60 @@ When income or assets alone are insufficient, comprehensively prove living stabi
 
 ### Income Verification Document Checklist
 
-<table style="width:100%;border-collapse:collapse;margin:20px 0">
+<table>
   <thead>
-    <tr style="background:#1e40af;color:white">
-      <th style="border:1px solid #ddd;padding:12px">Income Type</th>
-      <th style="border:1px solid #ddd;padding:12px">Required Documents</th>
-      <th style="border:1px solid #ddd;padding:12px">Additional Documents</th>
+    <tr>
+      <th>Income Type</th>
+      <th>Required Documents</th>
+      <th>Additional Documents</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>Employment Income</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td><strong>Employment Income</strong></td>
+      <td>
         - Employment certificate<br>
         - Income certificate<br>
         - Withholding tax receipt
       </td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td>
         - Salary statements (recent 6 months)<br>
         - Bank deposit records<br>
         - Social insurance subscription confirmation
       </td>
     </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>Business Income</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">
+    <tr>
+      <td><strong>Business Income</strong></td>
+      <td>
         - Business registration certificate<br>
         - Income certificate<br>
         - VAT standard tax certificate
       </td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td>
         - Sales ledger<br>
         - Business premises photos<br>
         - Client contracts
       </td>
     </tr>
     <tr>
-      <td style="border:1px solid #ddd;padding:10px"><strong>Property Income</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td><strong>Property Income</strong></td>
+      <td>
         - Lease contract<br>
         - Income certificate<br>
         - Bank deposit records
       </td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td>
         - Real estate registry<br>
         - Property tax payment confirmation
       </td>
     </tr>
-    <tr style="background:#f9fafb">
-      <td style="border:1px solid #ddd;padding:10px"><strong>Financial Assets</strong></td>
-      <td style="border:1px solid #ddd;padding:10px">
+    <tr>
+      <td><strong>Financial Assets</strong></td>
+      <td>
         - Balance certificate<br>
         - Deposit transaction statement
       </td>
-      <td style="border:1px solid #ddd;padding:10px">
+      <td>
         - Deposit source explanation<br>
         - Financial transaction confirmation
       </td>
@@ -418,7 +405,7 @@ When income or assets alone are insufficient, comprehensively prove living stabi
   </tbody>
 </table>
 
-<div style="background:#fff3cd;border-left:4px solid #ffc107;padding:15px;margin:20px 0">
+<div>
 <strong>⚠️ Caution:</strong> Suddenly depositing large amounts into a bank account can actually raise suspicion. When proving assets, you must be able to clearly explain the source of those funds.
 </div>
 
@@ -433,7 +420,7 @@ Income requirements may be waived or relaxed in the following cases (specific ap
 
 When claiming these exceptions, you must submit detailed explanations along with relevant evidence (medical certificates, pregnancy confirmation, employment certificates, etc.).
 
-<h2 id="section-6">Timing and Strategic Preparation Methods for Reapplication
+## Timing and Strategic Preparation Methods for Reapplication
 
 While F-6 visa reapplication is possible at any time, **hastily reapplying without sufficient preparation is not advisable**. As denial history accumulates, subsequent applications receive stricter scrutiny, so it's important to apply after thorough supplementation.
 
@@ -553,7 +540,7 @@ Related documents: Attachments 11-15
 Our couple genuinely loves each other and wishes to build a family in Korea...
 ```
 
-<h2 id="section-7">Common Mistakes and Prevention Methods
+## Common Mistakes and Prevention Methods
 
 There are mistakes that many applicants repeat during the F-6 visa reapplication process. Recognizing and preventing these in advance is the shortcut to success.
 
@@ -635,23 +622,23 @@ Thinking you can get a visa even when the couple cannot communicate at all.
 - Show usage history of interpretation apps or translation tools
 - Prepare to have at least simple conversations directly during interview
 
-<div style="background:#e3f2fd;border-left:4px solid #2196f3;padding:15px;margin:20px 0">
+<div>
 <strong>📌 Checklist: Final Confirmation Before Reapplication</strong>
-<ul style="margin:10px 0">
-<li>☐ Accurately identified denial reasons and prepared countermeasures for each</li>
-<li>☐ Verified all documents are truthful and accurate</li>
-<li>☐ Confirmed translation accuracy and notarization status</li>
-<li>☐ Prepared explanation and clearly explained supplementation items</li>
-<li>☐ Completed interview practice with spouse</li>
-<li>☐ Confirmed current stay period and taken action if extension needed</li>
-<li>☐ Verified consistency and dates between documents</li>
-<li>☐ Created overall document table of contents and organized</li>
-<li>☐ Prepared copies and originals separately</li>
-<li>☐ Confirmed contact information available after submission</li>
-</ul>
+
+☐ Accurately identified denial reasons and prepared countermeasures for each
+☐ Verified all documents are truthful and accurate
+☐ Confirmed translation accuracy and notarization status
+☐ Prepared explanation and clearly explained supplementation items
+☐ Completed interview practice with spouse
+☐ Confirmed current stay period and taken action if extension needed
+☐ Verified consistency and dates between documents
+☐ Created overall document table of contents and organized
+☐ Prepared copies and originals separately
+☐ Confirmed contact information available after submission
+
 </div>
 
-<h2 id="section-8">Frequently Asked Questions (FAQ)
+## Frequently Asked Questions (FAQ)
 
 ### Q1: If F-6 visa is denied, is there a restriction period for reapplication?
 
@@ -692,8 +679,7 @@ Reapplying after F-6 visa denial is not simply resubmitting documents, but a pro
 
 VISION Immigration Office will be with you to turn the frustration of denial into the joy of approval.
 
-**📞 Consultation Inquiry: +82-2-363-2251**  
-**📧 Email: 5000meter@gmail.com**  
+**📧 Email: 5000meter@gmail.com**
 **🏢 Office Visit: (04614) 324 Toegyero, 3F (Seongwoo Bldg), Jung-gu, Seoul  Dongdaemun History & Culture Park Stn. Exit 4, 10m | Dongdaemun History & Culture Park Stn. Exit 4, 10m**
 
 *Initial consultations are provided free of charge, and we will present the optimal solution tailored to your situation.*

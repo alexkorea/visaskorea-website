@@ -7,25 +7,8 @@ image: "/slides/business.jpg"
 slug: "d8-investment-visa-guide"
 ---
 
-<nav>
 
-#### 📋 目次
-- [D-8企業投資ビザとは？](#d-8企業投資ビザとは)
-- [D-8ビザが必要な方](#d-8ビザが必要な方)
-- [D-8ビザの細分類型](#d-8ビザの細分類型)
-- [資格要件と投資要件](#資格要件と投資要件)
-- [必要書類の詳細案内](#必要書類の詳細案内)
-- [申請手続き6ステップ](#申請手続き6ステップ)
-- [審査期間と費用](#審査期間と費用)
-- [家族帯同ビザ（F-3）](#家族帯同ビザf-3)
-- [永住権（F-5）への変更](#永住権f-5への変更)
-- [D-8とD-9の比較](#d-8とd-9の比較)
-- [よくある質問（FAQ）](#よくある質問faq)
-- [関連サービス](#関連サービス)
-
-</nav>
-
-<img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="多国籍ビジネスミーティング" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="多国籍ビジネスミーティング" />
 
 ## D-8企業投資ビザとは？
 
@@ -45,7 +28,7 @@ D-8企業投資ビザは、韓国で事業を開始するか、既存の韓国�
 
 また、現在E-7（特定活動）、D-9（貿易経営）等のビザで韓国に滞在中の外国人が、自ら投資して法人を設立する場合にもD-8ビザへの在留資格変更が可能です。韓国でのビジネス経験を基に独立創業を決意した外国人の多くがこのルートを活用しており、ビザ変更手続きも比較的体系的に整備されています。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>参考：</strong> D-8ビザは投資するだけでなく、実際に韓国に滞在して経営活動に参加することが求められます。投資のみで経営に参加しない場合はD-8ビザの対象外となります。</div>
+<div>💡 <strong>参考：</strong> D-8ビザは投資するだけでなく、実際に韓国に滞在して経営活動に参加することが求められます。投資のみで経営に参加しない場合はD-8ビザの対象外となります。</div>
 
 &nbsp;
 
@@ -64,7 +47,7 @@ D-8企業投資ビザは、投資方式と活動内容によっていくつか�
 
 **D-8-4（技術創業）**は、革新的な技術を持つ外国人が韓国でスタートアップを立ち上げる際に活用するタイプです。中央行政機関長の推薦を受けた場合、知的財産権を保有している場合、またはそれに準ずる技術力が認められた場合に該当します。一般的なD-8-1と比較して投資金要件が緩和される可能性があり、テックスタートアップに有利です。政府が運営するスタートアップビザプログラム（OASIS等）を通じて参入することも可能です。
 
-<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="ビジネス書類の確認" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="ビジネス書類の確認" />
 
 &nbsp;
 
@@ -87,7 +70,7 @@ D-8企業投資ビザを申請するためには、以下の全ての核心要�
 
 事業場の要件で注意すべき点は、**実際の事業活動を行える空間**でなければならないということです。シェアオフィスの住所登録だけでは不十分な場合があり、事業の性格に合った適切な規模の事業場を確保することが推奨されます。ただし、IT、ソフトウェア等、事業の特性上大きな物理的空間を必要としない業種の場合は、小規模なオフィスでも認められる可能性があります。
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 投資金1億ウォンは法人設立後に資本金として納入される必要があり、法人設立前に個人名義で保有していた資金は投資金として認められません。必ず外国為替銀行を通じた正式な投資手続きを経る必要があります。</div>
+<div>⚠️ <strong>注意：</strong> 投資金1億ウォンは法人設立後に資本金として納入される必要があり、法人設立前に個人名義で保有していた資金は投資金として認められません。必ず外国為替銀行を通じた正式な投資手続きを経る必要があります。</div>
 
 &nbsp;
 
@@ -116,7 +99,7 @@ D-8ビザ申請時に準備すべき書類は相当な数に上ります。書�
 
 事業計画書は定められた書式はありませんが、**事業の目的、主要事業内容、予想売上、雇用計画、投資活用計画**等を具体的に記述することが望ましいです。特に審査官が当該事業が実体のある正常な事業であるかを判断する際に事業計画書が核心的な資料として活用されるため、十分な時間をかけて丁寧に作成する必要があります。可能であれば市場分析資料、競合分析、財務計画等を添付すると審査に有利です。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>参考：</strong> 犯罪経歴証明書は本国で取得する必要があります。アポスティーユ条約加盟国はアポスティーユ認証を、非加盟国は該当国の在韓大使館での領事認証を受ける必要があります。発行に数週間かかる場合があるため、早めに準備されることをお勧めします。</div>
+<div>💡 <strong>参考：</strong> 犯罪経歴証明書は本国で取得する必要があります。アポスティーユ条約加盟国はアポスティーユ認証を、非加盟国は該当国の在韓大使館での領事認証を受ける必要があります。発行に数週間かかる場合があるため、早めに準備されることをお勧めします。</div>
 
 &nbsp;
 
@@ -124,7 +107,7 @@ D-8ビザ申請時に準備すべき書類は相当な数に上ります。書�
 
 D-8企業投資ビザの申請は、投資計画の策定からビザ発給まで大きく6つのステップで進行します。各ステップの注意事項とともに詳しくご案内いたします。
 
-<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="ビジネス契約の締結" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="ビジネス契約の締結" />
 
 ### ステップ1：投資計画の策定
 
@@ -181,7 +164,7 @@ D-8ビザの審査期間は、申請経路と審査状況によって異なり�
 
 費用面では、ビザ手数料のほか、法人設立費用（登録免許税、司法書士手数料等）、事業場の賃貸費用、会計・税務費用等も合わせて考慮する必要があります。投資金を除いた全体の初期費用は約500万～1,000万ウォン程度が一般的です。
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 手数料は変動する可能性があり、国籍によってビザ発給手数料が異なる場合があります。最新の手数料は出入国管理事務所または在外公館でご確認ください。</div>
+<div>⚠️ <strong>注意：</strong> 手数料は変動する可能性があり、国籍によってビザ発給手数料が異なる場合があります。最新の手数料は出入国管理事務所または在外公館でご確認ください。</div>
 
 &nbsp;
 
@@ -193,7 +176,7 @@ F-3ビザの申請に必要な書類は、家族関係証明書類（婚姻証�
 
 F-3ビザ保有者は原則として就労が不可ですが、別途**在留資格外活動許可**を取得すれば、パートタイム就労等が可能になります。また、お子様は韓国のインターナショナルスクールや一般の学校に入学して教育を受けることができるため、子どもの教育面でも有利です。
 
-<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="家族と共にするビジネスパーソン" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="家族と共にするビジネスパーソン" />
 
 &nbsp;
 
@@ -216,7 +199,7 @@ F-5永住権はD-8ビザ保有者にとって最も理想的な長期在留の�
 
 ただし、永住権取得後も**再入国許可**の面で注意が必要です。2年以上韓国を離れると永住権が取り消される可能性があるため、長期の海外滞在時には再入国許可を取得しておくことが安全です。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>参考：</strong> F-5永住権への変更要件は、投資規模によって在留期間の要件が短縮される場合があります。例えば、大規模投資家は3年以上の滞在のみで永住権申請が可能な場合があります。詳細については専門の行政書士にご相談ください。</div>
+<div>💡 <strong>参考：</strong> F-5永住権への変更要件は、投資規模によって在留期間の要件が短縮される場合があります。例えば、大規模投資家は3年以上の滞在のみで永住権申請が可能な場合があります。詳細については専門の行政書士にご相談ください。</div>
 
 &nbsp;
 
@@ -286,4 +269,3 @@ VISION行政書士事務所では、D-8企業投資ビザに関連する幅広�
 
 &nbsp;
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">無料相談のお申し込み</h3><p style="color:#bfdbfe; margin:0 0 16px;">専門の行政書士がご相談を承ります。Tel. 02-363-2251</p><a href="/ja/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">相談を申し込む</a></div>

@@ -10,22 +10,8 @@ slug: "d8-4-tech-startup-visa-eligibility-procedure"
 
 D-8-4は、学歴と知的財産権(またはOASIS認証)を備えた外国人が、韓国で技術ベースの創業を行う際に取得するビザです。学士以上の学位＋本人名義の特許・実用新案・意匠権の保有、または政府認定のOASISプログラム修了者が一次対象となります。資格要件、段階別の手続き、書類、実際の審査でよく分かれるポイント、よくある質問まで、ご自身のケースにそのまま当てはめられるように構成しました。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8-4 技術創業ビザとは何か</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. D-8-4 申請資格の要件</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. D-8-4 ビザの申請手続き</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. D-8-4 申請書類のチェックリスト</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 実際の審査で分かれるポイント</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. D-8-4のフォローアップ管理: 延長と居住段階</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. よくある質問</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 専門家への相談が必要ですか？</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 専門家への相談が必要ですか？</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">D-8-4 技術創業ビザとは何か</h2>
+## D-8-4 技術創業ビザとは何か
 
 ### D-8の中での位置づけ
 
@@ -35,7 +21,7 @@ D-8は企業投資ビザという大きな傘であり、その下にD-8-1(外�
 
 まず確認すべきは資本金です。D-8-1は1億ウォン以上の外国人投資が原則ですが、D-8-4には資本金の下限が事実上ありません。その代わり、**学歴＋知的財産権**または**OASIS認証**という非資本要件を満たす必要があります。ポイントはここです。お金で入るビザではなく、技術で入るビザだということです。
 
-<h2 id="section-2">D-8-4 申請資格の要件</h2>
+## D-8-4 申請資格の要件
 
 ### 学歴＋知的財産権トラック
 
@@ -49,7 +35,7 @@ OASISはK-Startup Grand ChallengeやOASIS本プログラムなど、政府が認
 
 資格を満たしていても、法人設立が済んでいなければ申請自体ができません。法人登記簿謄本に本人が代表取締役または登記取締役として記載されている必要があり、オフィスの賃貸借契約書も実在していなければなりません。一部のバーチャルオフィスは認められません。
 
-<h2 id="section-3">D-8-4 ビザの申請手続き</h2>
+## D-8-4 ビザの申請手続き
 
 ### 段階別の進行フロー
 
@@ -74,12 +60,11 @@ OASISはK-Startup Grand ChallengeやOASIS本プログラムなど、政府が認
 
 ---
 
-**今すぐ無料相談のお申し込み → 02-363-2251 / カカオトーク: alexkorea**
 正確な費用と手続きは、専門家による相談でご確認ください。
 
 ---
 
-<h2 id="section-4">D-8-4 申請書類のチェックリスト</h2>
+## D-8-4 申請書類のチェックリスト
 
 ### 共通提出書類
 
@@ -101,14 +86,10 @@ OASISはK-Startup Grand ChallengeやOASIS本プログラムなど、政府が認
 資本金の下限がないからといって、口座が空でも構わないという意味ではありません。事業運営能力を裏付ける程度の資金フローが見える必要があり、出所の説明が弱いとそこでつまずきます。通帳の残高そのものより、資金がどこから入ってどこへ使われているかという全体像が先です。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Two blue Ukrainian passports placed on a white surface, close-up view." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Two blue Ukrainian passports placed on a white surface, close-up view.](https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">実際の審査で分かれるポイント</h2>
+## 実際の審査で分かれるポイント
 
 ### 特許の名義と登録時期
 
@@ -124,7 +105,7 @@ OASISはK-Startup Grand ChallengeやOASIS本プログラムなど、政府が認
 
 > **実務のヒント:** 事業計画書は長く書くより、「技術 → 市場 → 売上」のつながりを30ページ以内で示す方が通過率が高いです。200ページの事業計画書が落ちて30ページが通る、というケースはよくあります。
 
-<h2 id="section-6">D-8-4のフォローアップ管理: 延長と居住段階</h2>
+## D-8-4のフォローアップ管理: 延長と居住段階
 
 ### 延長時に見られるもの
 
@@ -134,7 +115,7 @@ OASISはK-Startup Grand ChallengeやOASIS本プログラムなど、政府が認
 
 D-8-4は、F-2-7(ポイント制居住)で加算点が高く設定されているビザです。一定期間運営して売上・雇用要件を満たせば、F-5(永住)トラックへもつながります。ポイント制の項目と加算点の構造は、[出入国・外国人政策本部](https://www.immigration.go.kr)の案内および[国家法令情報センター](https://www.law.go.kr)の出入国管理法施行規則で確認できます。
 
-<h2 id="section-7">よくある質問</h2>
+## よくある質問
 
 **Q1. 特許を出願しただけの状態で、D-8-4を申請できますか？**
 原則として、登録が完了した知的財産権が見られます。出願段階は認められないことがほとんどで、登録証が出る前の申請は保留される可能性が高いです。
@@ -154,12 +135,11 @@ D-8-4はD-8-1とは異なり、資本金の下限が事実上ありません。�
 **Q6. 不許可になった場合、再申請はできますか？**
 可能です。ただし、不許可理由の分析なしに同じ書類で再度提出すると、同じ理由でまた不許可になります。不許可通知書の理由コードをまず正確に解釈する必要があります。
 
-<h2 id="section-8">専門家への相談が必要ですか？</h2>
+## 専門家への相談が必要ですか？
 
 D-8-4は、資格要件は一見すっきりしているようでも、実際の審査では事業計画と技術の整合性、資金フローの説明、オフィスの実在性で結果が分かれるビザです。ご自身のケースの資格充足の可否、最も早い管轄の出入国の選定、不許可リスクの事前点検まで、一度の相談で整理いたします。
 
 **ビジョン行政士事務所 (VISION Administrative Office)**
-- 電話: 02-363-2251
 - メール: 5000meter@gmail.com
 - カカオトーク: alexkorea
 - 住所: (04614) ソウル特別市中区退渓路324、3階 (ソンウビル)
@@ -168,9 +148,8 @@ D-8-4は、資格要件は一見すっきりしているようでも、実際の
 
 ---
 
-<h2 id="section-9">専門家への相談が必要ですか？</h2>
+## 専門家への相談が必要ですか？
 
 複雑な手続き、一人で悩まないでください。専門行政士が丁寧にご案内いたします。
 
 **[無料相談を申し込む](https://visaskorea.co.kr/ja/contact)**
-

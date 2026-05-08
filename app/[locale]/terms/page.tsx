@@ -22,7 +22,8 @@ export async function generateMetadata({
     pathname: "/terms",
     seo: {
       title: "이용약관",
-      description: "비전행정사사무소의 이용약관입니다.",
+      description:
+        "비전행정사사무소의 이용약관. 서비스 이용 조건, 이용자의 권리와 의무, 면책 조항 등을 안내합니다. 서비스 이용 전 반드시 확인해 주세요.",
     },
   });
 }

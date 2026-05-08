@@ -12,21 +12,6 @@ F-6結婚移民ビザは、書類の数が多くて難しいというより、**
 
 多くの人が見落としがちなのが、**交際の真実性の疎明**と**所得要件の立証**です。書類の形は揃えても、この2ブロックが弱いと審査で即座に引っかかります。特に韓国人配偶者の年間所得要件(2人世帯基準で前年度の韓国人世帯中位所得の70%以上)と、外国人配偶者の基礎的な韓国語能力の確認は、実務で真っ先に見られるポイントなので、書類を集め始める前にこの2つの要件をクリアできるかどうかを見極めておく必要があります。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-6結婚移民ビザ書類構成の全体マップ</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 韓国人配偶者(招聘者)が準備する書類</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 外国人配偶者(申請者)が準備する書類</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 交際の真実性を示す資料 - 最もつまずきやすいブロック</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 所得・財政要件の疎明書類</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 住居要件の疎明書類</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 国籍別・状況別の追加書類の違い</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくあるミスと実際の不許可事例</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. よくある質問(FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. ご相談のご案内</a></li>
-  </ul>
-</nav>
 
 ## <a id="section-1"></a>1. F-6結婚移民ビザ書類構成の全体マップ
 
@@ -41,44 +26,44 @@ F-6の書類は大きく**6つのブロック**に分かれます。このブロ
 5. **住居要件書類**(不動産登記簿謄本、賃貸借契約書、家族同居の疎明資料)
 6. **外国人配偶者の本国書類**(独身証明/婚姻要件具備証明、犯罪経歴、国籍別の追加書類)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">ブロック</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">主な書類</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">実務でつまずきやすい点</th>
+      <th>ブロック</th>
+      <th>主な書類</th>
+      <th>実務でつまずきやすい点</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">身分・婚姻</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">旅券、婚姻関係証明書、家族関係証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">韓国側と本国側の両方で婚姻届が完了しているか</td>
+      <td>身分・婚姻</td>
+      <td>旅券、婚姻関係証明書、家族関係証明書</td>
+      <td>韓国側と本国側の両方で婚姻届が完了しているか</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">韓国人配偶者の身元</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">身元保証書、犯罪経歴回報書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">過去の招聘歴、家庭内暴力関連の前歴</td>
+      <td>韓国人配偶者の身元</td>
+      <td>身元保証書、犯罪経歴回報書</td>
+      <td>過去の招聘歴、家庭内暴力関連の前歴</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">交際の立証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">交際経緯書、写真、メッセンジャー</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出会いから婚姻までの時系列がつながっているか</td>
+      <td>交際の立証</td>
+      <td>交際経緯書、写真、メッセンジャー</td>
+      <td>出会いから婚姻までの時系列がつながっているか</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">財政・所得</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">所得金額証明、在職証明、通帳</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">前年度基準で所得要件を満たしているか</td>
+      <td>財政・所得</td>
+      <td>所得金額証明、在職証明、通帳</td>
+      <td>前年度基準で所得要件を満たしているか</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">住居</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不動産登記簿謄本または賃貸借契約書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">面積基準、同居人の有無</td>
+      <td>住居</td>
+      <td>不動産登記簿謄本または賃貸借契約書</td>
+      <td>面積基準、同居人の有無</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">外国人本国</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">独身証明、本国の婚姻要件具備証明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">アポスティーユ・領事確認・翻訳公証のチェーン</td>
+      <td>外国人本国</td>
+      <td>独身証明、本国の婚姻要件具備証明</td>
+      <td>アポスティーユ・領事確認・翻訳公証のチェーン</td>
     </tr>
   </tbody>
 </table>
@@ -87,8 +72,8 @@ F-6の書類は大きく**6つのブロック**に分かれます。このブロ
 
 書類の準備より先に押さえるべきなのは、**要件そのものを満たせるか**です。1か月かけて書類を揃えても、所得が不足していたり、韓国人配偶者に直近5年以内の外国人配偶者の招聘歴があれば、その時点で制限がかかります。この部分が弱ければ、書類をどれだけきれいに束ねても結果は変わりません。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 韓国人配偶者が過去5年以内に他の外国人を配偶者として招聘した経歴がある場合、原則として再招聘は制限されます。離婚後の再婚であっても同様なので、書類を集め始める前に、まず出入国民願室で招聘可否を確認してください。
+<div>
+  <strong>⚠️ 注意:</strong> 韓国人配偶者が過去5年以内に他の外国人を配偶者として招聘した経歴がある場合、原則として再招聘は制限されます。離婚後の再婚であっても同様なので、書類を集め始める前に、まず出入国民願室で招聘可否を確認してください。
 </div>
 
 ## <a id="section-2"></a>2. 韓国人配偶者(招聘者)が準備する書類
@@ -116,49 +101,49 @@ F-6の書類は大きく**6つのブロック**に分かれます。このブロ
 
 財政書類は別セクションで扱います。住居書類は本人名義の住宅であれば不動産登記簿謄本、賃貸中であれば賃貸借契約書と賃貸人同意書まで併せて提出します。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">書類名</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">発行元</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">有効期間</th>
+      <th>書類名</th>
+      <th>発行元</th>
+      <th>有効期間</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">基本証明書(詳細)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大法院電子家族関係登録システム</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3か月以内</td>
+      <td>基本証明書(詳細)</td>
+      <td>大法院電子家族関係登録システム</td>
+      <td>3か月以内</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">婚姻関係証明書(詳細)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">大法院電子家族関係登録システム</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3か月以内</td>
+      <td>婚姻関係証明書(詳細)</td>
+      <td>大法院電子家族関係登録システム</td>
+      <td>3か月以内</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">住民登録謄本</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">政府24、住民センター</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3か月以内</td>
+      <td>住民登録謄本</td>
+      <td>政府24、住民センター</td>
+      <td>3か月以内</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">犯罪経歴回報書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">警察署、政府24</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3か月以内、封印維持</td>
+      <td>犯罪経歴回報書</td>
+      <td>警察署、政府24</td>
+      <td>3か月以内、封印維持</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">身元保証書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">出入国様式を自身で作成</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">自筆署名必須</td>
+      <td>身元保証書</td>
+      <td>出入国様式を自身で作成</td>
+      <td>自筆署名必須</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">所得金額証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ホームタックス、税務署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">前年度帰属</td>
+      <td>所得金額証明書</td>
+      <td>ホームタックス、税務署</td>
+      <td>前年度帰属</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">納税証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ホームタックス、税務署</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3か月以内</td>
+      <td>納税証明書</td>
+      <td>ホームタックス、税務署</td>
+      <td>3か月以内</td>
     </tr>
   </tbody>
 </table>
@@ -189,8 +174,8 @@ F-6の書類は大きく**6つのブロック**に分かれます。このブロ
 
 基礎的な韓国語能力は、TOPIK1級以上、指定教育機関の修了、学位の保有のいずれかで証明します。免除事由は、**韓国語圏国家の国民であること、韓国での1年以上の連続滞在歴、夫婦間の共通言語での意思疎通が可能であること(公的資料で立証できる場合)**など、限定的にしか認められません。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務のヒント:</strong> 本国書類の韓国語翻訳公証は、<strong>韓国国内の翻訳事務所や公証役場</strong>で受けるのが最も安全です。本国で英語翻訳だけ付けてくるケースが多いのですが、実際の審査では韓国語の公証翻訳を改めて求められます。出国前に翻訳文まで一緒に準備しておけば、往復の手間を減らせます。
+<div>
+  <strong>💡 実務のヒント:</strong> 本国書類の韓国語翻訳公証は、<strong>韓国国内の翻訳事務所や公証役場</strong>で受けるのが最も安全です。本国で英語翻訳だけ付けてくるケースが多いのですが、実際の審査では韓国語の公証翻訳を改めて求められます。出国前に翻訳文まで一緒に準備しておけば、往復の手間を減らせます。
 </div>
 
 ## <a id="section-4"></a>4. 交際の真実性を示す資料 - 最もつまずきやすいブロック
@@ -217,8 +202,8 @@ F-6の審査で統計的に**最もつまずきやすい**のが、この交際�
 
 メッセンジャーは**直近1〜2週間分だけ**持ってくる人が多いのですが、実際の審査では**交際全期間にわたって自然な流れ**があるかを見ます。1か月分を一気に固めて出すと、かえって疑いを招きます。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 結婚前に実際の対面なく、ビデオ通話やメッセンジャーのみで交際して婚姻に至った場合、追加の面接や実態調査の対象となります。最低限、婚姻前に実際に一緒に過ごした事実を、旅券の出入国スタンプと写真で示せるようにしておく必要があります。
+<div>
+  <strong>⚠️ 注意:</strong> 結婚前に実際の対面なく、ビデオ通話やメッセンジャーのみで交際して婚姻に至った場合、追加の面接や実態調査の対象となります。最低限、婚姻前に実際に一緒に過ごした事実を、旅券の出入国スタンプと写真で示せるようにしておく必要があります。
 </div>
 
 ### 面接でよく食い違う質問
@@ -253,39 +238,39 @@ F-6の審査で統計的に**最もつまずきやすい**のが、この交際�
 
 代替立証は管轄機関で**個別判断**となるので、所得基準に満たない場合は受付前に管轄出入国への事前照会が必要です。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">最優先書類</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">補助書類</th>
+      <th>区分</th>
+      <th>最優先書類</th>
+      <th>補助書類</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">会社員</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">勤労所得源泉徴収領収証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">在職証明書、給与通帳写し</td>
+      <td>会社員</td>
+      <td>勤労所得源泉徴収領収証</td>
+      <td>在職証明書、給与通帳写し</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業者</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">所得金額証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事業者登録証、付加価値税課税標準証明</td>
+      <td>事業者</td>
+      <td>所得金額証明書</td>
+      <td>事業者登録証、付加価値税課税標準証明</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">フリーランス</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">所得金額証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">契約書、入金通帳の明細</td>
+      <td>フリーランス</td>
+      <td>所得金額証明書</td>
+      <td>契約書、入金通帳の明細</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">所得不足・補完</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">家族所得の合算証憑</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不動産登記簿、定期預金残高</td>
+      <td>所得不足・補完</td>
+      <td>家族所得の合算証憑</td>
+      <td>不動産登記簿、定期預金残高</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">退職・失職</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">直前年度の所得金額証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">財産の証憑、再就職の証憑</td>
+      <td>退職・失職</td>
+      <td>直前年度の所得金額証明書</td>
+      <td>財産の証憑、再就職の証憑</td>
     </tr>
   </tbody>
 </table>
@@ -295,11 +280,7 @@ F-6の審査で統計的に**最もつまずきやすい**のが、この交際�
 「通帳にお金さえあれば大丈夫じゃないの」とよく聞かれますが、実際の審査ではまず**所得の流れ**が見られます。残高が急に増えている場合は出所の説明を求められ、説明が弱ければそこで絡まります。財産合算はあくまで**所得を補うための資料**として使われるに過ぎません。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <a id="section-6"></a>6. 住居要件の疎明書類
@@ -317,16 +298,16 @@ F-6の審査で統計的に**最もつまずきやすい**のが、この交際�
 
 住居要件は実際には、**世帯当たりの人数に対して面積が妥当か**で判断されます。基準面積に届かなかったり、すでに複数人が暮らしている家に追加で外国人配偶者が転入する場合、**住居要件不充足**で引っかかることがあります。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 住居書類のチェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>本人または配偶者名義の住宅であることを確認(登記簿謄本を発行)</li>
-    <li>賃貸中なら賃貸借契約書が現時点で有効か(契約残期間を確認)</li>
-    <li>家族の家に居住する場合は同居同意書に自筆署名</li>
-    <li>実際の月家賃・管理費の振込履歴が3か月以上</li>
-    <li>住民登録謄本上の現住所と提出住所が一致しているか</li>
-    <li>夫婦2人とも転入可能な広さ・環境か</li>
-  </ul>
+<div>
+  <strong>✅ 住居書類のチェックリスト</strong>
+
+    本人または配偶者名義の住宅であることを確認(登記簿謄本を発行)
+    賃貸中なら賃貸借契約書が現時点で有効か(契約残期間を確認)
+    家族の家に居住する場合は同居同意書に自筆署名
+    実際の月家賃・管理費の振込履歴が3か月以上
+    住民登録謄本上の現住所と提出住所が一致しているか
+    夫婦2人とも転入可能な広さ・環境か
+
 </div>
 
 ## <a id="section-7"></a>7. 国籍別・状況別の追加書類の違い
@@ -342,44 +323,44 @@ F-6の書類には、**国籍に応じて追加される書類**があります�
 - **日本**: 戸籍謄本(改製原戸籍を含む)、婚姻受理証明書
 - **米国・カナダ・オーストラリア**: 州(プロビンス)別の婚姻証明書、犯罪経歴証明書、アポスティーユ
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">国籍</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">特有の追加書類</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">認証方式</th>
+      <th>国籍</th>
+      <th>特有の追加書類</th>
+      <th>認証方式</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">中国</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">結婚公証書、独身公証書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">領事確認+韓国語翻訳公証</td>
+      <td>中国</td>
+      <td>結婚公証書、独身公証書</td>
+      <td>領事確認+韓国語翻訳公証</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">ベトナム</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">婚姻状態確認書、無犯罪経歴</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">領事確認+翻訳公証</td>
+      <td>ベトナム</td>
+      <td>婚姻状態確認書、無犯罪経歴</td>
+      <td>領事確認+翻訳公証</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">フィリピン</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">PSA発行の婚姻/独身証明書、NBI</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">アポスティーユ+翻訳公証</td>
+      <td>フィリピン</td>
+      <td>PSA発行の婚姻/独身証明書、NBI</td>
+      <td>アポスティーユ+翻訳公証</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">タイ</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">独身証明書、警察証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">領事確認+翻訳公証</td>
+      <td>タイ</td>
+      <td>独身証明書、警察証明書</td>
+      <td>領事確認+翻訳公証</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">日本</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">戸籍謄本、婚姻受理証明書</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">アポスティーユ+翻訳公証</td>
+      <td>日本</td>
+      <td>戸籍謄本、婚姻受理証明書</td>
+      <td>アポスティーユ+翻訳公証</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">米国</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">州別の婚姻/出生証明書、犯罪経歴</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">アポスティーユ+翻訳公証</td>
+      <td>米国</td>
+      <td>州別の婚姻/出生証明書、犯罪経歴</td>
+      <td>アポスティーユ+翻訳公証</td>
     </tr>
   </tbody>
 </table>
@@ -392,27 +373,27 @@ F-6の書類には、**国籍に応じて追加される書類**があります�
 
 子どもが一緒に同伴入国する場合は、**子の出生証明書、子の旅券、親権・養育権の証明、韓国人配偶者による子の養子縁組または同伴入国同意書**が追加で必要になります。子が前婚の配偶者との間の子であれば、前婚配偶者の同伴入国同意書が求められることもあります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 国ごとの書類名は本国法制の改正によって頻繁に変わります。特に中国の公証書様式はここ数年で何度か変わっているので、受付直前に在外公館(韓国大使館)の案内を改めて確認してください。古い様式で公証を受けてくると、本国で取り直しになります。
+<div>
+  <strong>⚠️ 注意:</strong> 国ごとの書類名は本国法制の改正によって頻繁に変わります。特に中国の公証書様式はここ数年で何度か変わっているので、受付直前に在外公館(韓国大使館)の案内を改めて確認してください。古い様式で公証を受けてくると、本国で取り直しになります。
 </div>
 
 ## <a id="section-8"></a>8. よくあるミスと実際の不許可事例
 
 ### 実務で繰り返される5つのミス
 
-**1. 書類の有効期間を過ぎたまま提出**  
+**1. 書類の有効期間を過ぎたまま提出**
 婚姻関係証明書・犯罪経歴回報書は3か月を過ぎると無効です。本国で書類を集めるのに時間がかかっているうちに、韓国側の書類が先に期限切れになる、というのが典型的なパターンです。
 
-**2. 韓国での婚姻届だけ済ませ、本国での婚姻届が漏れる**  
+**2. 韓国での婚姻届だけ済ませ、本国での婚姻届が漏れる**
 中国・ベトナム・日本など、**本国でも婚姻届が必要な国**で本国側の届出をしていないと、本国の独身証明書と韓国の婚姻関係証明書が食い違い、審査が絡まります。
 
-**3. 交際の立証を「結婚式の写真」だけで埋める**  
+**3. 交際の立証を「結婚式の写真」だけで埋める**
 結婚式の写真は交際の証拠ではなく、婚姻の事実を示す証拠です。実際の審査では、**交際の全過程**にわたる写真やメッセンジャーが揃って初めて真実性として認められます。
 
-**4. 所得基準を今年分で計算してしまう**  
+**4. 所得基準を今年分で計算してしまう**
 F-6の所得基準は**前年度の所得**で判断されます。今年転職して年収が上がっても、前年度の所得が足りなければ不許可になります。
 
-**5. 本国書類の翻訳を本国の翻訳事務所だけで処理してしまう**  
+**5. 本国書類の翻訳を本国の翻訳事務所だけで処理してしまう**
 本国で英訳だけ付けてくるケースが多いのですが、韓国で**韓国語の翻訳公証**を取り直す必要があることがほとんどです。
 
 ### 実際に不許可につながるパターン
@@ -423,45 +404,45 @@ F-6の所得基準は**前年度の所得**で判断されます。今年転職�
 - 韓国人配偶者の**家庭内暴力・性犯罪の前歴**
 - 外国人配偶者の**過去の韓国不法滞在歴**
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 単なる不許可にとどまらず、<strong>偽装結婚の疑い</strong>と判断されると、今後の再申請でも同じ理由が残り、再度の許可が難しくなります。1回の受付が次の機会にまで影響するので、最初の申請時点で書類をしっかり固めて出すほうがはるかに有利です。
+<div>
+  <strong>⚠️ 注意:</strong> 単なる不許可にとどまらず、<strong>偽装結婚の疑い</strong>と判断されると、今後の再申請でも同じ理由が残り、再度の許可が難しくなります。1回の受付が次の機会にまで影響するので、最初の申請時点で書類をしっかり固めて出すほうがはるかに有利です。
 </div>
 
 ### 最終提出前のチェック
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 提出直前の最終チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>韓国の書類の発行日がすべて3か月以内か</li>
-    <li>本国書類の認証チェーン(アポスティーユ/領事確認)が完結しているか</li>
-    <li>本国書類の韓国語翻訳公証が添付されているか</li>
-    <li>婚姻関係証明書(詳細)に現配偶者との婚姻記録が表示されているか</li>
-    <li>韓国人配偶者の所得金額証明書が前年度帰属のものか</li>
-    <li>住居書類と住民登録謄本の住所が一致しているか</li>
-    <li>交際の写真が時点ごとに分散しているか(結婚式の写真だけに偏っていないか)</li>
-    <li>メッセンジャー・通話記録が交際全期間にわたっているか</li>
-    <li>外国人配偶者の基礎的な韓国語能力の証明、または免除事由が明確か</li>
-    <li>韓国人配偶者の犯罪経歴回報書が封印状態のままか</li>
-    <li>身元保証書に自筆署名が入っているか</li>
-    <li>旅券の残存有効期間が6か月以上あるか</li>
-  </ul>
+<div>
+  <strong>✅ 提出直前の最終チェックリスト</strong>
+
+    韓国の書類の発行日がすべて3か月以内か
+    本国書類の認証チェーン(アポスティーユ/領事確認)が完結しているか
+    本国書類の韓国語翻訳公証が添付されているか
+    婚姻関係証明書(詳細)に現配偶者との婚姻記録が表示されているか
+    韓国人配偶者の所得金額証明書が前年度帰属のものか
+    住居書類と住民登録謄本の住所が一致しているか
+    交際の写真が時点ごとに分散しているか(結婚式の写真だけに偏っていないか)
+    メッセンジャー・通話記録が交際全期間にわたっているか
+    外国人配偶者の基礎的な韓国語能力の証明、または免除事由が明確か
+    韓国人配偶者の犯罪経歴回報書が封印状態のままか
+    身元保証書に自筆署名が入っているか
+    旅券の残存有効期間が6か月以上あるか
+
 </div>
 
 ## <a id="section-9"></a>9. よくある質問(FAQ)
 
-**Q1. 婚姻届は韓国側を先に出して書類準備に進むべきですか、それとも本国側を先に出すべきですか?**  
+**Q1. 婚姻届は韓国側を先に出して書類準備に進むべきですか、それとも本国側を先に出すべきですか?**
 A. 原則として**韓国側の婚姻届を先に**済ませるほうが、F-6の書類構成がシンプルになります。韓国の婚姻関係証明書(詳細)に配偶者の記録が残って初めて、家族関係書類の組み合わせがきれいにまとまります。ただし中国・ベトナムなどは本国側にも必ず婚姻届が必要なので、韓国側の婚姻届を済ませた後に本国側でも追加で届出を行う順序が、現場で最もトラブルなく進みます。
 
-**Q2. 韓国語能力試験(TOPIK)は必ず受けなければなりませんか?**  
+**Q2. 韓国語能力試験(TOPIK)は必ず受けなければなりませんか?**
 A. 基礎的な韓国語能力は、**TOPIK1級以上、指定の韓国語教育機関の修了、韓国での学位取得**のいずれかで証明できます。韓国語圏国家の国民であったり、夫婦の共通言語が認められる場合など免除事由もありますが、適用範囲は狭いです。最も早く確実な経路は、指定機関で所定時間以上の課程を修了して修了証を受けることです。
 
-**Q3. 所得が基準に届かない場合は、必ず不許可になりますか?**  
+**Q3. 所得が基準に届かない場合は、必ず不許可になりますか?**
 A. そんなことはありません。**両親や成人した子の所得・財産を合算**して基準を満たすこともできますし、韓国人配偶者本人の財産(預金・不動産)で補う経路もあります。ただし財産合算は管轄機関の個別判断が入るので、受付前に管轄出入国民願室へ事前照会して判断を取っておくほうが安全です。
 
-**Q4. 韓国に短期ビザ(C-3)で滞在中ですが、国内でそのままF-6に変更できますか?**  
+**Q4. 韓国に短期ビザ(C-3)で滞在中ですが、国内でそのままF-6に変更できますか?**
 A. 原則としてF-6は**在外の韓国大使館で査証を受けて入国する**手続きです。一部例外として国内滞在中に資格変更が認められる場合もありますが、要件が非常に限定的なので、一般的には一度出国して本国の公館でF-6査証を受け、再入国する経路が実務では安定しています。ご自身が例外に該当するかは管轄出入国での確認が必要です。
 
-**Q5. 書類を揃えて申請してから結果が出るまで、どのくらいかかりますか?**  
+**Q5. 書類を揃えて申請してから結果が出るまで、どのくらいかかりますか?**
 A. 在外公館での受付基準で**通常2〜3か月**を見込みます。国や公館ごとの差が大きく、交際の真実性を確認するための実態調査や面接が入るとさらに長引きます。書類の補完要請が一度でも来ると、その分遅れるので、最初の受付時点で書類の完結性を高めておくほうが、結果的に最も早く進みます。
 
 ## <a id="section-10"></a>10. ご相談のご案内
@@ -472,7 +453,6 @@ F-6結婚移民ビザは、書類リストを上から順になぞるのでは�
 
 **ビジョン行政士事務所 (VISION Administrative Office)**
 
-- 電話: 02-363-2251
 - メール: 5000meter@gmail.com
 - 住所: (04614) ソウル特別市中区退渓路324、3階(ソンウビル)
 
@@ -485,4 +465,3 @@ F-6結婚移民ビザは、書類リストを上から順になぞるのでは�
 複雑な手続き、一人で悩まないでください。専門行政士が丁寧にご案内いたします。
 
 **[無料相談を申し込む](https://visaskorea.co.kr/ja/contact)**
-

@@ -653,7 +653,7 @@ export const investmentCategoryJa: CategoryData = {
     badge: '外国人投資',
     title: '韓国法人設立及び外国人投資',
     subtitle: '外国人投資促進法に基づく法人設立、支社/支店/営業所設置、連絡事務所設立の専門サービス',
-    description: '外国人投資法人設立から支社・支店設置、連絡事務所設立まで、韓国進出に必要なすべての手続きを専門行政士が迅速に代行します。',
+    description: '外国人投資法人設立から支社・支店設置、連絡事務所設立まで、韓国進出に必要なすべての手続きを専門行政書士が迅速に代行します。',
   },
 
   summary: {
@@ -814,7 +814,7 @@ export const investmentCategoryJa: CategoryData = {
 
   cta: {
     title: '韓国進出 無料相談',
-    description: '貴社の事業目的に合った最適な韓国進出方案をご提案します。外国人投資専門の行政士が直接相談いたします。',
+    description: '貴社の事業目的に合った最適な韓国進出方案をご提案します。外国人投資専門の行政書士が直接相談いたします。',
     primaryButton: { text: '相談予約', href: '/ja/contact?service=investment' },
     secondaryButton: { text: 'サービス案内を見る', href: '/ja/services' },
   },
@@ -836,7 +836,7 @@ export const investmentCategoryJa: CategoryData = {
   ],
 
   seo: {
-    title: '外国人投資 | 法人設立・支社設置・連絡事務所 | VISION行政士事務所',
+    title: '外国人投資 | 法人設立・支社設置・連絡事務所 | VISION行政書士事務所',
     description: '外国人投資法人設立、支社・支店設置、連絡事務所設立の専門サービス。投資届出、法人登記、事業者登録、D-8ビザまでワンストップ代行。',
     keywords: ['外国人投資法人', '法人設立', '支社設置', '連絡事務所', 'D-8ビザ', '外国人投資促進法', 'FIPA', 'KOTRA'],
   },

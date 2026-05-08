@@ -235,7 +235,7 @@ export function generateQnaMetadata(
 ): Metadata {
   return generatePageMetadata({
     locale,
-    pathname: `/qna/${qna.slug}`,
+    pathname: `/qa/${qna.slug}`,
     seo: {
       title: qna.question,
       description:

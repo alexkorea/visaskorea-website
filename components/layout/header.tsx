@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { Button } from "@/components/ui/button";
 import {
@@ -184,9 +185,7 @@ export function Header({ locale, dict }: HeaderProps) {
       <div className="mx-auto flex h-16 max-w-7xl items-center justify-between px-4">
         {/* Logo */}
         <Link href={`/${locale}`} className="flex items-center gap-2">
-          <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-            <span className="text-white font-serif font-bold text-lg">V</span>
-          </div>
+          <Image src="/logo-vk.png" alt="VISION" width={44} height={44} className="rounded-lg" />
           <div className="hidden sm:flex flex-col leading-tight">
             <span className="font-serif text-lg font-semibold text-foreground">VISION</span>
             <span className="text-[10px] text-muted-foreground -mt-1">{{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政書士事務所" }[locale]}</span>

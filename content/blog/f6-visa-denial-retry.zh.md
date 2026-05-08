@@ -12,19 +12,6 @@ F-6签证被拒往往不是单一原因导致的。**收入不达标、交往真
 
 复议(异议申请)与再申请是完全不同的两套程序。**异议申请是在90天内对拒签决定本身提出争议的行政程序**,而**再申请则是作为新案件重新递交**。从实务经验看,相比异议申请,补强了薄弱环节后的再申请通过率往往更高。当拒签理由是"交往真实性不足"这类抽象表述时,用同样的材料再次提交几乎注定再次被拒。首先要看的是拒签通知书所引用的法条依据,其次才是可补强证据的数量与质量。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. F-6签证实际被拒的原因</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 拒签通知书的解读方法</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 异议申请与再申请,该选哪一个</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 收入·财力要件的补强策略</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 重新组织交往真实性的举证材料</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 面谈准备与陈述一致性</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 常见错误与应避免的行为</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见问题(FAQ)</a></li>
-  </ul>
-</nav>
 
 ## F-6签证实际被拒的原因
 
@@ -32,44 +19,44 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 ### 拒签理由的高频类型
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">拒签理由类型</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">实际含义</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">补强难度</th>
+      <th>拒签理由类型</th>
+      <th>实际含义</th>
+      <th>补强难度</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">收入不达标</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">邀请方年收入低于基准线</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中等</td>
+      <td>收入不达标</td>
+      <td>邀请方年收入低于基准线</td>
+      <td>中等</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">交往真实性不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">认识经过、交往时长举证薄弱</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高</td>
+      <td>交往真实性不足</td>
+      <td>认识经过、交往时长举证薄弱</td>
+      <td>高</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">语言沟通不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">基本沟通能力未获证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中等</td>
+      <td>语言沟通不足</td>
+      <td>基本沟通能力未获证明</td>
+      <td>中等</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">居住条件不达标</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">实际居住地难以确认</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">低</td>
+      <td>居住条件不达标</td>
+      <td>实际居住地难以确认</td>
+      <td>低</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">邀请方资格瑕疵</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">5年内邀请受限、身份特殊</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高</td>
+      <td>邀请方资格瑕疵</td>
+      <td>5年内邀请受限、身份特殊</td>
+      <td>高</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">陈述不一致</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">夫妻面谈回答相互矛盾</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高</td>
+      <td>陈述不一致</td>
+      <td>夫妻面谈回答相互矛盾</td>
+      <td>高</td>
     </tr>
   </tbody>
 </table>
@@ -86,8 +73,8 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 哪怕收入完全充足,只要上述项目中重叠了两三项,也会以"真实性不足"被拒。这部分若薄弱,材料堆得再厚也难以通过。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>看似以"未告知具体理由"形式被拒的通知书,实际上内部都存在审查理由。可以通过出入境信息公开请求,部分查阅到拒签依据;若没有这份资料就盲目再申请,极有可能因相同原因再次被拒。
+<div>
+  <strong>⚠️ 注意:</strong>看似以"未告知具体理由"形式被拒的通知书,实际上内部都存在审查理由。可以通过出入境信息公开请求,部分查阅到拒签依据;若没有这份资料就盲目再申请,极有可能因相同原因再次被拒。
 </div>
 
 ## 拒签通知书的解读方法
@@ -103,39 +90,39 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 ### 拒签表述对照解读
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">通知书表述</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">实际薄弱点</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">优先补强项</th>
+      <th>通知书表述</th>
+      <th>实际薄弱点</th>
+      <th>优先补强项</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"难以认定婚姻真实性"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">交往举证材料不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按时间顺序整理的交往记录</td>
+      <td>"难以认定婚姻真实性"</td>
+      <td>交往举证材料不足</td>
+      <td>按时间顺序整理的交往记录</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"邀请方家庭抚养能力不足"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">收入·财产证明薄弱</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">补充就业·纳税证明</td>
+      <td>"邀请方家庭抚养能力不足"</td>
+      <td>收入·财产证明薄弱</td>
+      <td>补充就业·纳税证明</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"沟通存在困难"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">语言能力缺乏佐证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">TOPIK成绩、培训结业证</td>
+      <td>"沟通存在困难"</td>
+      <td>语言能力缺乏佐证</td>
+      <td>TOPIK成绩、培训结业证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"涉及国家利益或公共安宁"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">身份核查结果存在问题</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">说明书、法律协助</td>
+      <td>"涉及国家利益或公共安宁"</td>
+      <td>身份核查结果存在问题</td>
+      <td>说明书、法律协助</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">"提交材料的真实性存疑"</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">翻译·公证或事实关系冲突</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">材料重新出具·重新公证</td>
+      <td>"提交材料的真实性存疑"</td>
+      <td>翻译·公证或事实关系冲突</td>
+      <td>材料重新出具·重新公证</td>
     </tr>
   </tbody>
 </table>
@@ -150,39 +137,39 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 ### 异议申请与再申请对比
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">异议申请(含行政复议)</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">再申请</th>
+      <th>项目</th>
+      <th>异议申请(含行政复议)</th>
+      <th>再申请</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">期限</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">收到通知日起90日内(行政复议)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无限制(可能有单独说明)</td>
+      <td>期限</td>
+      <td>收到通知日起90日内(行政复议)</td>
+      <td>无限制(可能有单独说明)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">性质</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">就既有拒签处分的违法或不当提出争议</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">作为新案件重新提交</td>
+      <td>性质</td>
+      <td>就既有拒签处分的违法或不当提出争议</td>
+      <td>作为新案件重新提交</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">适用情境</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">事实误认、法令适用错误较为明确</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">薄弱环节具备补强可能性</td>
+      <td>适用情境</td>
+      <td>事实误认、法令适用错误较为明确</td>
+      <td>薄弱环节具备补强可能性</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">耗时</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">数月至6个月以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">重新受理后按常规审查时长进行</td>
+      <td>耗时</td>
+      <td>数月至6个月以上</td>
+      <td>重新受理后按常规审查时长进行</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">实务通过率</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通常较低</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">补强充分时更高</td>
+      <td>实务通过率</td>
+      <td>通常较低</td>
+      <td>补强充分时更高</td>
     </tr>
   </tbody>
 </table>
@@ -193,8 +180,8 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 - 若拒签理由属于**抽象的真实性判断**,再申请更有利。同一份材料让同一位审查人员重新判断,结论很难发生改变。
 - 若时间紧迫,**再申请**是更现实的选择。行政复议常需6个月以上。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong>"先提异议、同时准备再申请"的双线作战其实很危险。同一案件在两个程序中同时争议,容易出现陈述前后不一,也会给审查官留下不好的印象。集中精力走一条路,通过率反而更高。
+<div>
+  <strong>💡 实务提示:</strong>"先提异议、同时准备再申请"的双线作战其实很危险。同一案件在两个程序中同时争议,容易出现陈述前后不一,也会给审查官留下不好的印象。集中精力走一条路,通过率反而更高。
 </div>
 
 ## 收入·财力要件的补强策略
@@ -207,44 +194,44 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 ### 收入补强材料的优先级
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">材料</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">证明力</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">实务说明</th>
+      <th>材料</th>
+      <th>证明力</th>
+      <th>实务说明</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">工资所得源泉征收凭证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">非常强</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">以最近一年为基本单位</td>
+      <td>工资所得源泉征收凭证</td>
+      <td>非常强</td>
+      <td>以最近一年为基本单位</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">所得金额证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">强</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">由国税厅签发</td>
+      <td>所得金额证明</td>
+      <td>强</td>
+      <td>由国税厅签发</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">个体户增值税计税基础</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">强</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">个体经营者必备</td>
+      <td>个体户增值税计税基础</td>
+      <td>强</td>
+      <td>个体经营者必备</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">在职证明、劳动合同</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">单独提交效力较弱</td>
+      <td>在职证明、劳动合同</td>
+      <td>中等</td>
+      <td>单独提交效力较弱</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">存款余额证明、资产持有证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辅助</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">用作收入替代时效力较弱</td>
+      <td>存款余额证明、资产持有证明</td>
+      <td>辅助</td>
+      <td>用作收入替代时效力较弱</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">不动产登记簿、租金收入</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">辅助</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">若是稳定现金流,认可幅度大</td>
+      <td>不动产登记簿、租金收入</td>
+      <td>辅助</td>
+      <td>若是稳定现金流,认可幅度大</td>
     </tr>
   </tbody>
 </table>
@@ -264,11 +251,7 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 是否适用免除因案而异,需向辖区主管机关确认。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/20325768/pexels-photo-20325768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Explore Bukchon Hanok Village in Seoul, showcasing traditional Korean architecture and bustling streets." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Explore Bukchon Hanok Village in Seoul, showcasing traditional Korean architecture and bustling streets.](https://images.pexels.com/photos/20325768/pexels-photo-20325768.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 重新组织交往真实性的举证材料
@@ -279,18 +262,18 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 审查官想看到的是"两个人是怎么相识、经历了哪些时间、为什么最终走到结婚"。比起散乱堆放的100张照片,**按时间顺序整理的30张照片**通过率反而更高。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 交往举证清单</strong>
-  <ul style="margin-top:12px">
-    <li>记录初次相识经过(介绍·社交媒体·旅行等)与时间的陈述书</li>
-    <li>从交往初期 → 中期 → 婚礼 → 婚姻登记的时间顺序照片</li>
-    <li>聊天记录、通话记录截图(包含日期显示)</li>
-    <li>能够通过机票、出入境记录证明的相互探访经历</li>
-    <li>转账、礼物等金钱往来记录</li>
-    <li>家人、亲友共同出现的照片或视频</li>
-    <li>婚礼照片与宾客名单</li>
-    <li>结婚登记申请书、家庭关系证明等公文书</li>
-  </ul>
+<div>
+  <strong>✅ 交往举证清单</strong>
+
+    记录初次相识经过(介绍·社交媒体·旅行等)与时间的陈述书
+    从交往初期 → 中期 → 婚礼 → 婚姻登记的时间顺序照片
+    聊天记录、通话记录截图(包含日期显示)
+    能够通过机票、出入境记录证明的相互探访经历
+    转账、礼物等金钱往来记录
+    家人、亲友共同出现的照片或视频
+    婚礼照片与宾客名单
+    结婚登记申请书、家庭关系证明等公文书
+
 </div>
 
 ### 陈述书撰写要领
@@ -301,8 +284,8 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 夫妻双方各自单独撰写陈述书,但**事实关系必须一致**。如果一方写4月相识、另一方写6月相识,这一点当场就会成为拒签理由。撰写陈述书之前,两人**先共同梳理时间表**才是首要工作。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>截取社交媒体消息时,如果只截取片段,会引起怀疑。尽可能提交起止日期都能看到的连续截图,外语对话要附上翻译版本。
+<div>
+  <strong>⚠️ 注意:</strong>截取社交媒体消息时,如果只截取片段,会引起怀疑。尽可能提交起止日期都能看到的连续截图,外语对话要附上翻译版本。
 </div>
 
 ## 面谈准备与陈述一致性
@@ -311,39 +294,39 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 ### 高频出现的提问类型
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">提问领域</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">示例提问</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">应对要点</th>
+      <th>提问领域</th>
+      <th>示例提问</th>
+      <th>应对要点</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">相识经过</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">初次相识的地点·时间·介绍人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">日期与地点须统一</td>
+      <td>相识经过</td>
+      <td>初次相识的地点·时间·介绍人</td>
+      <td>日期与地点须统一</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">决定结婚的时点</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">何时由谁先开口求婚</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">用照片、消息加以佐证</td>
+      <td>决定结婚的时点</td>
+      <td>何时由谁先开口求婚</td>
+      <td>用照片、消息加以佐证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">生活信息</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">配偶的职业·家庭·爱好</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">熟记基本身世信息</td>
+      <td>生活信息</td>
+      <td>配偶的职业·家庭·爱好</td>
+      <td>熟记基本身世信息</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">语言使用</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">平时用什么语言交流</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">与实际使用语言保持一致</td>
+      <td>语言使用</td>
+      <td>平时用什么语言交流</td>
+      <td>与实际使用语言保持一致</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">未来计划</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">入韩后居住·就业计划</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">与邀请方答复保持一致</td>
+      <td>未来计划</td>
+      <td>入韩后居住·就业计划</td>
+      <td>与邀请方答复保持一致</td>
     </tr>
   </tbody>
 </table>
@@ -375,8 +358,8 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 6. **拒签后立即(2周内)再申请** —— 补强时间不足,只会得到同样结果
 7. **为隐瞒拒签经历而绕道走其他签证** —— 出入境系统中所有记录都会保留
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>拒签后以短期访问(C-3)入韩、继续婚姻生活并在韩国境内申请F-6的方式,可行案例非常有限,且居留资格变更本身就有可能被拒。强行绕道会削弱下次申请时的信任度。
+<div>
+  <strong>⚠️ 注意:</strong>拒签后以短期访问(C-3)入韩、继续婚姻生活并在韩国境内申请F-6的方式,可行案例非常有限,且居留资格变更本身就有可能被拒。强行绕道会削弱下次申请时的信任度。
 </div>
 
 ### 补强方向跑偏的案例
@@ -389,39 +372,39 @@ F-6签证是用行政手段去审查"婚姻"这一私人领域的签证,因此�
 
 ### 复议·再申请的分阶段流程
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">阶段</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">具体工作</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">参考时长</th>
+      <th>阶段</th>
+      <th>具体工作</th>
+      <th>参考时长</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第1阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">分析拒签通知书,锁定拒签理由</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2周</td>
+      <td>第1阶段</td>
+      <td>分析拒签通知书,锁定拒签理由</td>
+      <td>1~2周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第2阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通过信息公开请求确认内部审查理由</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~3周</td>
+      <td>第2阶段</td>
+      <td>通过信息公开请求确认内部审查理由</td>
+      <td>2~3周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第3阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">在异议申请与再申请之间确定路线</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1周</td>
+      <td>第3阶段</td>
+      <td>在异议申请与再申请之间确定路线</td>
+      <td>1周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第4阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">按拒签理由补强材料并重写陈述书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">4~8周</td>
+      <td>第4阶段</td>
+      <td>按拒签理由补强材料并重写陈述书</td>
+      <td>4~8周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">第5阶段</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">重新受理与面谈准备</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通常审查1~3个月</td>
+      <td>第5阶段</td>
+      <td>重新受理与面谈准备</td>
+      <td>通常审查1~3个月</td>
     </tr>
   </tbody>
 </table>
@@ -454,7 +437,6 @@ F-6签证的拒签理由相当抽象,因此**仅凭一张拒签通知书就确�
 
 **Vision行政士事务所(VISION Administrative Office)**
 
-- 电话:02-363-2251
 - 邮箱:5000meter@gmail.com
 - 地址:(04614)首尔特别市中区退溪路324号3层(成宇大厦)
 
@@ -467,4 +449,3 @@ F-6签证的拒签理由相当抽象,因此**仅凭一张拒签通知书就确�
 复杂的手续不必独自烦恼。专业行政士将为您提供亲切指导。
 
 **[申请免费咨询](https://visaskorea.co.kr/zh/contact)**
-

@@ -20,7 +20,6 @@ E-7签证是只针对法务部公示的85个职业发放的专业人才就业签
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7签证85个职业的分类体系</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. E-7-1 专业人才67个职业</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-7-2 准专业人才9个职业</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 立即免费咨询 → 02-363-2251 / KakaoTalk: alexkorea</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. E-7-3 一般技能人才9个职业</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 各职业资格要求分化的关键要点</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 申请时常见卡点</a></li>
@@ -115,7 +114,6 @@ E-7-2比起学历，更先看外语能力与实务匹配度。
 
 > **实务提示：** 请先确认招聘公司是否注册为免税店·观光酒店，章程与营业执照上的行业是否一致。
 
-<h2 id="section-4">立即免费咨询 → 02-363-2251 / KakaoTalk: alexkorea</h2>
 
 需先按案例核查本人工作属于85个职业中的哪一类、学历·经历是否满足资格。
 
@@ -250,7 +248,6 @@ E-7签证因85个职业的覆盖广度，案例间变量繁多。
 
 **VISION行政士事务所（VISION Administrative Office）**
 
-- 电话：02-363-2251
 - 邮箱：5000meter@gmail.com
 - 地址：(04614) 首尔特别市中区退溪路324号3层（盛宇大厦）
 - KakaoTalk咨询：alexkorea

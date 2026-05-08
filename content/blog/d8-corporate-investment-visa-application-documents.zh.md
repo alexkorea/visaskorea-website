@@ -12,21 +12,6 @@ D-8 企业投资签证是**外国人向韩国法人投资 1 亿韩元以上**,�
 
 在实际审查中,资金的海外汇款路径、汇入国内法人账户的记录、外国人投资企业登记情况、经营场所租赁状况以及事业计划书的具体程度必须环环相扣。材料再多,若这条脉络薄弱,仍会立刻出问题;反之,即使材料精简,只要资金来源与经营实体清晰,签证就能迅速下发。核心在于:**D-8 是一种需要用凭证讲清"资金故事"的签证**。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8 签证的基本结构与三种类型</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 签发条件:1 亿投资金与外国人投资登记</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 所需材料完整清单与实务核查</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 资金来源证明:最先遇到的关卡</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 从法人设立到签证发放的分阶段流程</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 事业计划书撰写:说服力比篇幅更重要</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 停留期限、延期与家属陪同实务</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见失误与拒签原因</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 常见问题(FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 咨询指引</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1">1. D-8 签证的基本结构与三种类型</span>
 
@@ -48,39 +33,39 @@ D-8 看似是一种统一的签证,实务上却分为多个细分类型。选择
 
 适用于持有知识产权或核心技术的外国人在韩国创业的情形。通常与 OASIS 等项目相衔接,投资金额要求相对宽松,但需要通过技术性评估。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-1 法人投资</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-2 风险投资</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8-4 技术创业</th>
+      <th>项目</th>
+      <th>D-8-1 法人投资</th>
+      <th>D-8-2 风险投资</th>
+      <th>D-8-4 技术创业</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资金额</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 亿韩元以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">符合风险企业要件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资本金要求放宽(技术评估)</td>
+      <td>投资金额</td>
+      <td>1 亿韩元以上</td>
+      <td>符合风险企业要件</td>
+      <td>资本金要求放宽(技术评估)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">主要凭证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外投企业登记证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">风险企业确认书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">知识产权、技术评估</td>
+      <td>主要凭证</td>
+      <td>外投企业登记证</td>
+      <td>风险企业确认书</td>
+      <td>知识产权、技术评估</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">经营形式</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人</td>
+      <td>经营形式</td>
+      <td>法人</td>
+      <td>法人</td>
+      <td>法人</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">审查核心</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资金来源与实体</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">创新性与成长性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">技术水平与可行性</td>
+      <td>审查核心</td>
+      <td>资金来源与实体</td>
+      <td>创新性与成长性</td>
+      <td>技术水平与可行性</td>
     </tr>
   </tbody>
 </table>
@@ -101,8 +86,8 @@ D-8 看似是一种统一的签证,实务上却分为多个细分类型。选择
 
 经营场所必须是与住所分离的独立空间。共享办公室也可被认可,但必须是**实际能够开展经营活动的形态**,并且租赁合同上的承租人必须为法人名称。以代表个人名义签订的合同经常会引发问题。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>汇入 1 亿后一拿到签证就立刻将资金取出的情况,在实际审查与后续管理中经常被查出。投资金必须是真正用于经营的资金,若被认定为单纯的存款挂账,常会在停留延期阶段遭到拒签。
+<div>
+  <strong>⚠️ 注意:</strong>汇入 1 亿后一拿到签证就立刻将资金取出的情况,在实际审查与后续管理中经常被查出。投资金必须是真正用于经营的资金,若被认定为单纯的存款挂账,常会在停留延期阶段遭到拒签。
 </div>
 
 ## <span id="section-3">3. 所需材料完整清单与实务核查</span>
@@ -140,51 +125,51 @@ D-8 看似是一种统一的签证,实务上却分为多个细分类型。选择
 - 最近财务报表(新设法人则为设立时资产负债表)
 - 客户合同、税务发票(如有)
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">材料分类</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">核心材料</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">实务中常遗漏项</th>
+      <th>材料分类</th>
+      <th>核心材料</th>
+      <th>实务中常遗漏项</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">个人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">护照、无犯罪记录证明</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">漏做阿波斯蒂耶、超过 6 个月</td>
+      <td>个人</td>
+      <td>护照、无犯罪记录证明</td>
+      <td>漏做阿波斯蒂耶、超过 6 个月</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">法人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">登记簿誊本、章程</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">股东名册未及时更新</td>
+      <td>法人</td>
+      <td>登记簿誊本、章程</td>
+      <td>股东名册未及时更新</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资凭证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">外投登记证、汇款单</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">汇款人与股东名义不一致</td>
+      <td>投资凭证</td>
+      <td>外投登记证、汇款单</td>
+      <td>汇款人与股东名义不一致</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">经营实体</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">租赁合同、现场照片</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">仅有地址但无实际场所</td>
+      <td>经营实体</td>
+      <td>租赁合同、现场照片</td>
+      <td>仅有地址但无实际场所</td>
     </tr>
   </tbody>
 </table>
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 材料提交前自查清单</strong>
-  <ul style="margin-top:12px">
-    <li>无犯罪记录证明已完成阿波斯蒂耶或驻韩使领馆认证</li>
-    <li>护照有效期剩余 6 个月以上</li>
-    <li>持有外国人投资申报证、登记证明书原件</li>
-    <li>汇款凭证上的汇款人姓名与申请人完全一致</li>
-    <li>法人账户入金记录与资本金缴纳证明一致</li>
-    <li>已保存经营场所外部招牌与内部办公空间照片</li>
-    <li>确认租赁合同承租人为法人名称</li>
-    <li>事业计划书中包含资金使用计划</li>
-    <li>股东名册与外投登记内容一致</li>
-  </ul>
+<div>
+  <strong>✅ 材料提交前自查清单</strong>
+
+    无犯罪记录证明已完成阿波斯蒂耶或驻韩使领馆认证
+    护照有效期剩余 6 个月以上
+    持有外国人投资申报证、登记证明书原件
+    汇款凭证上的汇款人姓名与申请人完全一致
+    法人账户入金记录与资本金缴纳证明一致
+    已保存经营场所外部招牌与内部办公空间照片
+    确认租赁合同承租人为法人名称
+    事业计划书中包含资金使用计划
+    股东名册与外投登记内容一致
+
 </div>
 
 ## <span id="section-4">4. 资金来源证明:最先遇到的关卡</span>
@@ -209,8 +194,8 @@ D-8 看似是一种统一的签证,实务上却分为多个细分类型。选择
 
 资金来源最好**沿时间轴进行叙述**。按照 3 年前的工资明细 → 本国账户的储蓄余额 → 汇款时的取款记录 → 韩国法人账户的入金这一顺序,一页页环环相扣。如果这段说明薄弱,即使材料齐全,也会被要求补充说明。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>向亲属借款汇入后,拿到签证再归还的做法会被认定为虚假投资。一旦查实,可能导致签证撤销并被禁止再次入境,绝不建议采取此种方式。
+<div>
+  <strong>⚠️ 注意:</strong>向亲属借款汇入后,拿到签证再归还的做法会被认定为虚假投资。一旦查实,可能导致签证撤销并被禁止再次入境,绝不建议采取此种方式。
 </div>
 
 ## <span id="section-5">5. 从法人设立到签证发放的分阶段流程</span>
@@ -219,49 +204,49 @@ D-8 看似是一种统一的签证,实务上却分为多个细分类型。选择
 
 ### 5-1. 标准流程
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">阶段</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">主要内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">预计耗时</th>
+      <th>阶段</th>
+      <th>主要内容</th>
+      <th>预计耗时</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. 外国人投资申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">向外汇银行或 KOTRA 申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3 天</td>
+      <td>1. 外国人投资申报</td>
+      <td>向外汇银行或 KOTRA 申报</td>
+      <td>1~3 天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. 汇入投资款</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">从本国汇至韩国外汇银行账户</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~5 天</td>
+      <td>2. 汇入投资款</td>
+      <td>从本国汇至韩国外汇银行账户</td>
+      <td>1~5 天</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. 法人设立登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">制定章程、缴纳资本金、办理登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~3 周</td>
+      <td>3. 法人设立登记</td>
+      <td>制定章程、缴纳资本金、办理登记</td>
+      <td>2~3 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. 税务登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">向辖区税务署申报</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 周</td>
+      <td>4. 税务登记</td>
+      <td>向辖区税务署申报</td>
+      <td>1 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. 外投企业登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">取得外国人投资企业登记证明书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 周</td>
+      <td>5. 外投企业登记</td>
+      <td>取得外国人投资企业登记证明书</td>
+      <td>1~2 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6. 申请签证发给认证书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">向辖区出入境递交材料</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~4 周</td>
+      <td>6. 申请签证发给认证书</td>
+      <td>向辖区出入境递交材料</td>
+      <td>2~4 周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">7. 使领馆签发签证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">在驻在国韩国使领馆领取签证</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 周</td>
+      <td>7. 使领馆签发签证</td>
+      <td>在驻在国韩国使领馆领取签证</td>
+      <td>1~2 周</td>
     </tr>
   </tbody>
 </table>
@@ -275,11 +260,7 @@ D-8 看似是一种统一的签证,实务上却分为多个细分类型。选择
 从开始准备到拿到签证,通常需要**2~3 个月**左右。若因材料瑕疵而收到补正指示,延长一个月以上的情况并不少见。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up view of an open passport displaying various travel stamps in an airport setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Close-up view of an open passport displaying various travel stamps in an airport setting.](https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6">6. 事业计划书撰写:说服力比篇幅更重要</span>
@@ -308,8 +289,8 @@ D-8 看似是一种统一的签证,实务上却分为多个细分类型。选择
 
 在资金使用计划中,应该将**1 亿资金的去向**按照"办公室租金 3000 万韩元、人力成本 4000 万韩元、设备 2000 万韩元、运营资金 1000 万韩元"这样的方式用具体数字拆分。如果此处薄弱,整个事业计划书读起来都会显得抽象。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示:</strong>在事业计划书的首页加入"法定代表人履历——事业关联性"的一行式摘要,可加快审查节奏。例如"在中国上海从事化妆品流通 10 年 → 在韩国设立 K-美妆反向出口法人",这种用一句话把履历与事业串联起来的结构,说服力最强。
+<div>
+  <strong>💡 实务提示:</strong>在事业计划书的首页加入"法定代表人履历——事业关联性"的一行式摘要,可加快审查节奏。例如"在中国上海从事化妆品流通 10 年 → 在韩国设立 K-美妆反向出口法人",这种用一句话把履历与事业串联起来的结构,说服力最强。
 </div>
 
 ## <span id="section-7">7. 停留期限、延期与家属陪同实务</span>
@@ -336,33 +317,33 @@ D-8 持有人的配偶及未成年子女可通过**F-3 陪同签证**一同入�
 
 持 D-8 停留一定期限后,可沿**F-2(长期停留)→ F-5(永住)→ 入籍**路径衔接。作为外国人投资企业的代表,还有直接取得 F-5 的路径,只要投资规模与韩国人雇佣水平达到一定标准,即可直接取得永住权。具体标准随时期变化,需向主管部门确认。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">项目</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">首次 D-8</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">D-8 延期</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">F-5 永住直通</th>
+      <th>项目</th>
+      <th>首次 D-8</th>
+      <th>D-8 延期</th>
+      <th>F-5 永住直通</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">核心条件</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 亿投资金、外投登记</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">经营实体、雇佣</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资 50 万美元、雇佣 5 名以上韩国人等</td>
+      <td>核心条件</td>
+      <td>1 亿投资金、外投登记</td>
+      <td>经营实体、雇佣</td>
+      <td>投资 50 万美元、雇佣 5 名以上韩国人等</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">停留期限</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2 年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3 年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无限期</td>
+      <td>停留期限</td>
+      <td>1~2 年</td>
+      <td>1~3 年</td>
+      <td>无限期</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">主要审查</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资金来源</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">营收、税务</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资维持、雇佣</td>
+      <td>主要审查</td>
+      <td>资金来源</td>
+      <td>营收、税务</td>
+      <td>投资维持、雇佣</td>
     </tr>
   </tbody>
 </table>
@@ -391,8 +372,8 @@ D-8 持有人的配偶及未成年子女可通过**F-3 陪同签证**一同入�
 
 本国无犯罪记录证明若未完成阿波斯蒂耶或领事认证,仅凭原件递交将被退件。签发日起 6 个月内有效这一要求也是常被忽略之处。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong>有些中介会介绍"只挂名出借法人名义的投资者",若被定性为虚假投资,不仅签证会被撤销,还将依据《出入境管理法》被追究刑事责任。投资必须以本人名义、使用本人资金完成。
+<div>
+  <strong>⚠️ 注意:</strong>有些中介会介绍"只挂名出借法人名义的投资者",若被定性为虚假投资,不仅签证会被撤销,还将依据《出入境管理法》被追究刑事责任。投资必须以本人名义、使用本人资金完成。
 </div>
 
 ## <span id="section-9">9. 常见问题(FAQ)</span>
@@ -418,11 +399,10 @@ D-8 是一种比起材料数量,更先看重资金说明与经营实体的签证
 
 Vision 行政士事务所将 D-8 企业投资签证申请、法人设立以及外国人投资企业登记一并整合办理,从最初阶段开始为您检查资金结构与事业规划之间的匹配度。
 
-<div style="background:#f0f7ff;padding:24px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Vision 行政士事务所 (VISION Administrative Office)
-  <ul style="list-style:none;padding-left:0;line-height:1.9">
-    <li>📞 电话:<strong>02-363-2251</strong></li>
-    <li>✉️ 邮箱:<strong>5000meter@gmail.com</strong></li>
-    <li>📍 地址:(04614) 首尔特别市中区退溪路 324,3 层(圣宇大厦)</li>
-  </ul>
+<div>
+### Vision 行政士事务所 (VISION Administrative Office)
+
+    ✉️ 邮箱:<strong>5000meter@gmail.com</strong>
+    📍 地址:(04614) 首尔特别市中区退溪路 324,3 层(圣宇大厦)
+
 </div>

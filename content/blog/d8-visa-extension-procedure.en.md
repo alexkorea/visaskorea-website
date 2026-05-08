@@ -12,20 +12,6 @@ Getting a D-8 extension approved isn't about piling up paperwork. What immigrati
 
 The issue that trips people up most often in practice is **"the business is running, but we can't prove it with numbers."** Sales exist but there are no tax invoices; there's an office but no employees; the corporate account has money but the source is weakly documented. Extension applications can be filed starting four months before expiry, and preparation should begin at least two months ahead so you have time to respond if supplementary requests come in. This article walks through the entire extension process, focused on the points that actually make a difference in real reviews.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Officers Check First in a D-8 Extension Review</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. When to File and How Stay Duration Is Decided</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. Complete List of Required Documents</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Application Process — From HiKorea Booking to Approval</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. How to Handle Weak Business Performance</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Where Cash Flow, Taxes, and Insurance Trip You Up</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Common Mistakes and Rejection Cases</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Consultation Information</a></li>
-  </ul>
-</nav>
 
 ## What Officers Check First in a D-8 Extension Review
 
@@ -41,39 +27,39 @@ More important than the documents themselves is **consistency across the numbers
 
 ### Initial Issuance vs. Extension: How the Review Differs
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Initial Issuance</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Extension (Year 2 Onward)</th>
+      <th>Category</th>
+      <th>Initial Issuance</th>
+      <th>Extension (Year 2 Onward)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Core judgment criteria</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Legality of investment funds, viability of business plan</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Actual operating results, revenue and headcount retention</td>
+      <td>Core judgment criteria</td>
+      <td>Legality of investment funds, viability of business plan</td>
+      <td>Actual operating results, revenue and headcount retention</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Nature of required documents</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Plan-focused (business plan, investment proof)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Performance-focused (financial statements, tax clearance, insurance)</td>
+      <td>Nature of required documents</td>
+      <td>Plan-focused (business plan, investment proof)</td>
+      <td>Performance-focused (financial statements, tax clearance, insurance)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Stay duration granted</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Typically 1 year</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 years, graded by performance</td>
+      <td>Stay duration granted</td>
+      <td>Typically 1 year</td>
+      <td>1–2 years, graded by performance</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Review difficulty</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Moderate</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">High — proof by numbers required</td>
+      <td>Review difficulty</td>
+      <td>Moderate</td>
+      <td>High — proof by numbers required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Most common sticking point</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Inadequate explanation of funding source</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">No sales, no staff, unpaid taxes</td>
+      <td>Most common sticking point</td>
+      <td>Inadequate explanation of funding source</td>
+      <td>No sales, no staff, unpaid taxes</td>
     </tr>
   </tbody>
 </table>
@@ -86,42 +72,42 @@ Extensions may be filed **from four months before the expiry date up through the
 
 If you fail to file by the day of expiry, you fall into overstay status. At that point you have to depart and re-enter, and any automatic departure order on record will count against you during reissuance. For investor visas in particular, **a record of overstay itself is a demerit factor** when the case is reexamined.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> Verify the expiry date using the passport stamp and the HiKorea stay period, not the alien registration card. It's surprisingly common to miss that the period has been shortened by a departure-and-return cycle.
+<div>
+  <strong>⚠️ Note:</strong> Verify the expiry date using the passport stamp and the HiKorea stay period, not the alien registration card. It's surprisingly common to miss that the period has been shortened by a departure-and-return cycle.
 </div>
 
 ### How the Granted Stay Duration Is Determined
 
 The stay duration granted at extension depends on business performance and corporate stability.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Performance Level</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Typical Duration Granted</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Rationale</th>
+      <th>Performance Level</th>
+      <th>Typical Duration Granted</th>
+      <th>Rationale</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Sales ≥ KRW 100M, 2+ Korean employees</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2 years</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business stability demonstrated</td>
+      <td>Sales ≥ KRW 100M, 2+ Korean employees</td>
+      <td>2 years</td>
+      <td>Business stability demonstrated</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Sales present, staff present, taxes current</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 year</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Basic extension conditions met</td>
+      <td>Sales present, staff present, taxes current</td>
+      <td>1 year</td>
+      <td>Basic extension conditions met</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Low sales, no employees</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6 months–1 year</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Short-term extension pending re-review</td>
+      <td>Low sales, no employees</td>
+      <td>6 months–1 year</td>
+      <td>Short-term extension pending re-review</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Tax arrears, no insurance enrollment</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Possible denial</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business substance in doubt</td>
+      <td>Tax arrears, no insurance enrollment</td>
+      <td>Possible denial</td>
+      <td>Business substance in doubt</td>
     </tr>
   </tbody>
 </table>
@@ -149,26 +135,26 @@ D-8 extension paperwork falls into three broad groups: **identity documents**, *
 
 ### Performance Documentation
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Performance Evidence Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Corporate tax return or financial statements for the past year</li>
-    <li>VAT taxable base certificates for the past four quarters</li>
-    <li>Tax clearance certificates (national and local)</li>
-    <li>Corporate bank account transaction history (past 6–12 months)</li>
-    <li>4 major insurance enrollee list (health insurance EDI printout)</li>
-    <li>Payroll register and withholding tax filing statements</li>
-    <li>Copies of key client tax invoices or contracts</li>
-    <li>Interior office photos (recently taken)</li>
-  </ul>
+<div>
+  <strong>✅ Performance Evidence Checklist</strong>
+
+    Corporate tax return or financial statements for the past year
+    VAT taxable base certificates for the past four quarters
+    Tax clearance certificates (national and local)
+    Corporate bank account transaction history (past 6–12 months)
+    4 major insurance enrollee list (health insurance EDI printout)
+    Payroll register and withholding tax filing statements
+    Copies of key client tax invoices or contracts
+    Interior office photos (recently taken)
+
 </div>
 
 ### What the Documents Really Mean
 
 The part most people overlook is that **it's not the individual documents but the connections between them** that matter. VAT-reported sales, corporate account deposit records, and tax invoices all have to line up. Payroll, insurance payment history, and withholding tax filings have to match. When the numbers disagree, a supplementary request lands immediately.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical tip:</strong> Two to three weeks before filing, ask your tax accountant for the VAT taxable base certificate, corporate tax financial statements, and withholding filing statements as a single package. These three together prove, in numbers, that "the business is actually running."
+<div>
+  <strong>💡 Practical tip:</strong> Two to three weeks before filing, ask your tax accountant for the VAT taxable base certificate, corporate tax financial statements, and withholding filing statements as a single package. These three together prove, in numbers, that "the business is actually running."
 </div>
 
 ## Application Process — From HiKorea Booking to Approval
@@ -177,44 +163,44 @@ Since 2024, most immigration offices **require an advance reservation through Hi
 
 ### Step-by-Step Flow
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Action</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Time Required</th>
+      <th>Step</th>
+      <th>Action</th>
+      <th>Time Required</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. Preliminary review</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Verify investment maintenance, review financials, check for tax arrears</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3–4 months before expiry</td>
+      <td>1. Preliminary review</td>
+      <td>Verify investment maintenance, review financials, check for tax arrears</td>
+      <td>3–4 months before expiry</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. Document preparation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Obtain tax, corporate, and performance documents; draft business performance statement</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–3 weeks</td>
+      <td>2. Document preparation</td>
+      <td>Obtain tax, corporate, and performance documents; draft business performance statement</td>
+      <td>2–3 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. HiKorea booking</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Reserve a visit at the relevant office (Seoul South, Suwon, etc. often have 1–2 month waits)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 day–2 months</td>
+      <td>3. HiKorea booking</td>
+      <td>Reserve a visit at the relevant office (Seoul South, Suwon, etc. often have 1–2 month waits)</td>
+      <td>1 day–2 months</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. In-person filing</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Visit the office, submit documents, pay the fee</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Same day</td>
+      <td>4. In-person filing</td>
+      <td>Visit the office, submit documents, pay the fee</td>
+      <td>Same day</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. Review</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Assigned officer reviews file, may request supplementary documents</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–6 weeks</td>
+      <td>5. Review</td>
+      <td>Assigned officer reviews file, may request supplementary documents</td>
+      <td>2–6 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6. Approval and notice</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">SMS notification; alien registration card updated with new stay period</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Immediate upon notice</td>
+      <td>6. Approval and notice</td>
+      <td>SMS notification; alien registration card updated with new stay period</td>
+      <td>Immediate upon notice</td>
     </tr>
   </tbody>
 </table>
@@ -227,16 +213,12 @@ Some immigration offices accept **HiKorea electronic extension applications**. T
 
 Supplementary requests usually come in the form of an **officer's memo**. Common items include "detailed breakdown of recent sales," "evidence confirming client existence," and "proof of rent payments." The typical response window is 7–14 days, and failing to submit within the deadline can result in denial.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> When a supplementary request arrives, submitting falsified materials to "make the numbers fit somehow" can trigger an immigration investigation. If performance is weak, it's far better to say so and submit a concrete forward plan instead.
+<div>
+  <strong>⚠️ Note:</strong> When a supplementary request arrives, submitting falsified materials to "make the numbers fit somehow" can trigger an immigration investigation. If performance is weak, it's far better to say so and submit a concrete forward plan instead.
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## How to Handle Weak Business Performance
@@ -269,34 +251,34 @@ The weaker the results, the more critical it is to submit a separate **business 
 
 ### Expected Stay Duration When Performance Is Weak
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Situation</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Expected Outcome</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Recommended Strategy</th>
+      <th>Situation</th>
+      <th>Expected Outcome</th>
+      <th>Recommended Strategy</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">No sales + investment and headcount maintained</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Short extension of 6 months–1 year</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Write a detailed business performance statement</td>
+      <td>No sales + investment and headcount maintained</td>
+      <td>Short extension of 6 months–1 year</td>
+      <td>Write a detailed business performance statement</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Low sales + tax filings current</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1-year extension feasible</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Attach upcoming contracts and purchase orders as evidence</td>
+      <td>Low sales + tax filings current</td>
+      <td>1-year extension feasible</td>
+      <td>Attach upcoming contracts and purchase orders as evidence</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Zero sales + zero employees</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">High likelihood of denial</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Secure performance first, then file</td>
+      <td>Zero sales + zero employees</td>
+      <td>High likelihood of denial</td>
+      <td>Secure performance first, then file</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Investment reduced (below KRW 100M)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Almost certain denial</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Inject additional capital before filing</td>
+      <td>Investment reduced (below KRW 100M)</td>
+      <td>Almost certain denial</td>
+      <td>Inject additional capital before filing</td>
     </tr>
   </tbody>
 </table>
@@ -317,8 +299,8 @@ If the corporate account is effectively being used like the CEO's personal accou
 
 ### Tax Arrears and Unfiled Returns
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Note:</strong> If any of corporate tax, VAT, or withholding tax is in arrears, the extension is almost certain to be denied. Pull the national and local tax clearance certificates before filing to confirm there are no arrears. If anything is outstanding, pay in full before applying.
+<div>
+  <strong>⚠️ Note:</strong> If any of corporate tax, VAT, or withholding tax is in arrears, the extension is almost certain to be denied. Pull the national and local tax clearance certificates before filing to confirm there are no arrears. If anything is outstanding, pay in full before applying.
 </div>
 
 ### Status of the 4 Major Insurance Enrollments
@@ -388,7 +370,6 @@ For D-8 extensions, outcomes are decided less by the volume of paperwork and mor
 
 **Vision Administrative Office**
 
-- Phone: **02-363-2251**
 - Email: **5000meter@gmail.com**
 - Address: Seongwoo Building, 3F, 324 Toegye-ro, Jung-gu, Seoul 04614
 

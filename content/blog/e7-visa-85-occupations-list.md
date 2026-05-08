@@ -20,7 +20,6 @@ E-7 비자는 법무부가 고시한 85개 직종에서만 발급되는 전문�
     <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7 비자 85개 직종의 분류 체계</a></li>
     <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. E-7-1 전문인력 67개 직종</a></li>
     <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-7-2 준전문인력 9개 직종</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</a></li>
     <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. E-7-3 일반기능인력 9개 직종</a></li>
     <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 직종별 자격요건이 갈리는 핵심 포인트</a></li>
     <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 신청 시 흔히 막히는 부분</a></li>
@@ -115,7 +114,6 @@ E-7-2는 학력보다 외국어 능력과 실무 매칭이 먼저 보입니다.
 
 > **실무 팁:** 채용 회사가 면세점·관광호텔로 등록되어 있는지, 정관과 사업자등록증의 업종이 일치하는지 먼저 확인하세요.
 
-<h2 id="section-4">지금 무료 상담 신청하기 → 02-363-2251 / 카카오톡: alexkorea</h2>
 
 본인 직무가 85개 직종 중 어디에 해당하는지, 학력·경력이 자격을 충족하는지 사례별 검토가 먼저입니다.
 
@@ -250,7 +248,6 @@ E-7 비자는 85개라는 폭만큼 사례별 변수가 많습니다.
 
 **비전 행정사사무소 (VISION Administrative Office)**
 
-- 전화: 02-363-2251
 - 이메일: 5000meter@gmail.com
 - 주소: (04614) 서울특별시 중구 퇴계로 324, 3층 (성우빌딩)
 - 카카오톡 상담: alexkorea

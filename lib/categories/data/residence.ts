@@ -622,7 +622,7 @@ export const residenceCategoryJa: CategoryData = {
     badge: '在留/永住ビザサービス',
     title: '韓国在留・永住ビザ専門',
     subtitle: 'デジタルノマド、ポイント制、在外同胞、永住権、結婚ビザ専門',
-    description: 'VISION行政士事務所は8年以上の経験でF-1、F-2、F-4、F-5、F-6等の韓国在留・永住ビザ申請を専門的に支援します。',
+    description: 'VISION行政書士事務所は8年以上の経験でF-1、F-2、F-4、F-5、F-6等の韓国在留・永住ビザ申請を専門的に支援します。',
   },
 
   summary: {
@@ -774,7 +774,7 @@ export const residenceCategoryJa: CategoryData = {
 
   cta: {
     title: '在留/永住ビザ相談',
-    description: 'VISION行政士事務所の専門行政士が最適な在留・永住ビザ経路をご案内します。',
+    description: 'VISION行政書士事務所の専門行政士が最適な在留・永住ビザ経路をご案内します。',
     primaryButton: { text: '無料相談を申請', href: '/ja/contact?service=residence' },
     secondaryButton: { text: 'ビザの種類を見る', href: '/ja/services' },
   },
@@ -796,8 +796,8 @@ export const residenceCategoryJa: CategoryData = {
   ],
 
   seo: {
-    title: '在留/永住ビザ | F-2ポイント制、F-4在外同胞、F-5永住権 | VISION行政士事務所',
-    description: 'F-1訪問同居、F-2ポイント制、F-4在外同胞、F-5永住権、F-6結婚ビザ専門。8年以上経験のVISION行政士事務所。',
+    title: '在留/永住ビザ | F-2ポイント制、F-4在外同胞、F-5永住権 | VISION行政書士事務所',
+    description: 'F-1訪問同居、F-2ポイント制、F-4在外同胞、F-5永住権、F-6結婚ビザ専門。8年以上経験のVISION行政書士事務所。',
     keywords: ['在留ビザ', '永住権', 'F-2ポイント制', 'F-4在外同胞', 'F-5永住権', 'F-6結婚ビザ'],
   },
 }

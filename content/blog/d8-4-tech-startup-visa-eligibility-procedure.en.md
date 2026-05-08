@@ -10,22 +10,8 @@ slug: "d8-4-tech-startup-visa-eligibility-procedure"
 
 The D-8-4 is the visa issued to foreign nationals who hold a degree and intellectual property rights (or OASIS certification) and want to launch a technology-based startup in Korea. The primary candidates are those with a bachelor's degree or higher plus a patent, utility model, or design right registered in their own name, or graduates of a government-recognized OASIS program. This guide walks through eligibility, step-by-step procedure, documents, the points where real cases tend to split at review, and frequently asked questions, so you can map it directly onto your own situation.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What Is the D-8-4 Tech Startup Visa</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. D-8-4 Eligibility Requirements</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. D-8-4 Visa Application Procedure</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. D-8-4 Document Checklist</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. The Points Where Real Reviews Split</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. After Approval: Extensions and the Residency Track</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Frequently Asked Questions</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Need a Professional Consultation?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Need Expert Consultation?</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">What Is the D-8-4 Tech Startup Visa</h2>
+## What Is the D-8-4 Tech Startup Visa
 
 ### Where It Sits Within the D-8 Category
 
@@ -35,7 +21,7 @@ D-8 is the umbrella for corporate investment visas, with D-8-1 (foreign-invested
 
 The first thing to look at is capital. D-8-1 generally requires foreign investment of at least KRW 100 million, but the D-8-4 effectively has no minimum capital threshold. Instead, you need to satisfy non-capital requirements: **a degree plus intellectual property rights**, or **OASIS certification**. The point is this — it is not a visa you enter with money, it is a visa you enter with technology.
 
-<h2 id="section-2">D-8-4 Eligibility Requirements</h2>
+## D-8-4 Eligibility Requirements
 
 ### Degree + IP Rights Track
 
@@ -49,7 +35,7 @@ OASIS covers government-recognized foreign-founder programs such as the K-Startu
 
 Even with the qualifications in place, you cannot apply if the company has not been incorporated. You must appear on the corporate registry as the representative director or a registered director, and you must have an actual office lease in place. Some virtual offices are not accepted.
 
-<h2 id="section-3">D-8-4 Visa Application Procedure</h2>
+## D-8-4 Visa Application Procedure
 
 ### Step-by-Step Flow
 
@@ -74,12 +60,11 @@ Processing time varies significantly by local immigration office. Faster offices
 
 ---
 
-**Request a free consultation now → 02-363-2251 / KakaoTalk: alexkorea**
 For exact costs and procedure, please confirm through a consultation with a professional.
 
 ---
 
-<h2 id="section-4">D-8-4 Document Checklist</h2>
+## D-8-4 Document Checklist
 
 ### Common Documents
 
@@ -101,14 +86,10 @@ Far more cases get stuck on the business plan than on missing documents. It is n
 No minimum capital does not mean an empty bank account is fine. There must be enough cash flow visible to demonstrate the ability to operate the business, and a weak explanation of the source can derail things immediately. The picture of where the money came in from and where it goes matters more than the balance sitting in the account.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Two blue Ukrainian passports placed on a white surface, close-up view." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Two blue Ukrainian passports placed on a white surface, close-up view.](https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">The Points Where Real Reviews Split</h2>
+## The Points Where Real Reviews Split
 
 ### Patent Ownership and Registration Timing
 
@@ -124,7 +105,7 @@ A surprising number of cases have a patent in medical devices but a business pla
 
 > **Practical tip:** A business plan is more likely to pass when it shows the connection from "technology → market → revenue" within 30 pages than when it stretches long. It is common to see a 200-page plan rejected while a 30-page plan passes.
 
-<h2 id="section-6">After Approval: Extensions and the Residency Track</h2>
+## After Approval: Extensions and the Residency Track
 
 ### What Reviewers Look At for Extension
 
@@ -134,7 +115,7 @@ After the initial 1–2 year grant, extensions are reviewed against revenue, hir
 
 The D-8-4 is one of the visas with high point allocations under the F-2-7 (points-based residency) system. After running the business for a certain period and meeting revenue and hiring requirements, the F-5 (permanent residency) track also opens up. The points-based scoring items and bonus structure can be reviewed via the [Korea Immigration Service](https://www.immigration.go.kr) and the Enforcement Rules of the Immigration Act available at the [Korean Law Information Center](https://www.law.go.kr).
 
-<h2 id="section-7">Frequently Asked Questions</h2>
+## Frequently Asked Questions
 
 **Q1. Can I apply for the D-8-4 with only a patent application filed (not yet registered)?**
 The rule is that registered IP rights are what counts. The application stage is not accepted in most cases, and filing before the registration certificate is issued is highly likely to be put on hold.
@@ -154,12 +135,11 @@ A spouse and minor children can accompany you under F-3 (dependent) status. Docu
 **Q6. If I am refused, can I reapply?**
 Yes. But filing the same documents again without analyzing the refusal grounds will result in the same refusal for the same reason. Start by accurately interpreting the refusal-reason code on the rejection notice.
 
-<h2 id="section-8">Need a Professional Consultation?</h2>
+## Need a Professional Consultation?
 
 The D-8-4 looks clean on its eligibility criteria, but in real review the result tends to split on business-plan-and-technology alignment, the cash-flow narrative, and the reality of the office. In a single consultation, we can clarify whether your case meets the requirements, identify the fastest local immigration office for filing, and pre-screen the refusal risks.
 
 **VISION Administrative Office**
-- Phone: 02-363-2251
 - Email: 5000meter@gmail.com
 - KakaoTalk: alexkorea
 - Address: 3F, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul 04614
@@ -168,9 +148,8 @@ Costs vary by case, so exact figures will be provided during the free consultati
 
 ---
 
-<h2 id="section-9">Need Expert Consultation?</h2>
+## Need Expert Consultation?
 
 Don't navigate complex procedures alone. Our professional consultants will guide you.
 
 **[Request Free Consultation](https://visaskorea.co.kr/en/contact)**
-

@@ -490,7 +490,7 @@ export const employmentCategoryJa: CategoryData = {
     badge: '就労ビザサービス',
     title: '韓国就労ビザ専門サービス',
     subtitle: '外国人専門人材、芸術家、駐在員のための就労ビザ専門',
-    description: 'VISION行政士事務所は8年以上の経験でE-7、E-6、D-7、D-8、D-9等の韓国就労ビザ全過程を支援します。出入国管理法に基づく正確な相談と高い承認率を誇ります。',
+    description: 'VISION行政書士事務所は8年以上の経験でE-7、E-6、D-7、D-8、D-9等の韓国就労ビザ全過程を支援します。出入国管理法に基づく正確な相談と高い承認率を誇ります。',
   },
 
   summary: {
@@ -598,7 +598,7 @@ export const employmentCategoryJa: CategoryData = {
 
   cta: {
     title: '就労ビザ相談申請',
-    description: 'VISION行政士事務所の8年以上経験の専門行政士が最適な就労ビザ経路をご案内します。',
+    description: 'VISION行政書士事務所の8年以上経験の専門行政士が最適な就労ビザ経路をご案内します。',
     primaryButton: { text: '無料相談を申請', href: '/ja/contact?service=employment' },
     secondaryButton: { text: 'ビザの種類を見る', href: '/ja/services' },
   },
@@ -620,8 +620,8 @@ export const employmentCategoryJa: CategoryData = {
   ],
 
   seo: {
-    title: '就労ビザサービス | E-7、D-7、D-8専門 | VISION行政士事務所',
-    description: 'E-7特定活動ビザ、D-7駐在員ビザ、D-8企業投資ビザ等、韓国就労ビザ専門。8年以上経験のVISION行政士事務所。',
+    title: '就労ビザサービス | E-7、D-7、D-8専門 | VISION行政書士事務所',
+    description: 'E-7特定活動ビザ、D-7駐在員ビザ、D-8企業投資ビザ等、韓国就労ビザ専門。8年以上経験のVISION行政書士事務所。',
     keywords: ['就労ビザ', 'E-7ビザ', 'D-7ビザ', 'D-8ビザ', '外国人就労', '韓国ビザ'],
   },
 }

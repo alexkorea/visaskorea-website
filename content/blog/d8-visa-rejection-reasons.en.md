@@ -12,21 +12,6 @@ The D-8 visa is not one that gets issued just because your paperwork checks out.
 
 Actual reviews look at **the overseas remittance route for the investment funds, the investor's career and financial capacity, the physical reality of the business premises, and the revenue structure in the business plan** together. Even with a thick stack of documents, if this flow does not come through, you will end up with a supplementation request or a refusal. Below, refusal reasons and review points are laid out in the order they actually arise.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. What D-8 Reviews Actually Look At</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. Seven Core Reasons That Lead to Refusal</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. The KRW 100 Million Capital Requirement — Source Explanation Beats Amount</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. Where the Business Plan Decides the Outcome</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Mistakes at the Incorporation and FDI Filing Stage</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Verifying Office and Business Premises Substance</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Reapplication Strategy After a Refusal</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Common Mistakes</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. Consultation Information</a></li>
-  </ul>
-</nav>
 
 ## What D-8 Reviews Actually Look At
 
@@ -46,49 +31,49 @@ These three must interlock. If capital is high but business substance is thin �
 
 In the field, officers do not read documents top-to-bottom in the order submitted. They cross-check **the flow of money and the substance of the business** in this sequence: FDI report → remittance evidence → corporate registry → lease agreement → business plan → applicant's career. If that sequence does not connect naturally, the review concludes the explanation is insufficient.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> Do not simply arrange documents in submission order. Structure them so the story boils down to one sentence: "this money came in this way, was spent here, and funds this business." Once that single sentence is visible, the officer can accept the whole file.
+<div>
+  <strong>💡 Practical Tip:</strong> Do not simply arrange documents in submission order. Structure them so the story boils down to one sentence: "this money came in this way, was spent here, and funds this business." Once that single sentence is visible, the officer can accept the whole file.
 </div>
 
 ## Seven Core Reasons That Lead to Refusal
 
 Refusal notices usually use phrases like "lack of genuine investment" or "insufficient business substance." When you unpack what actually happened behind those phrases, it looks like this.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Refusal Reason</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">What the Actual Problem Was</th>
+      <th>Refusal Reason</th>
+      <th>What the Actual Problem Was</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Unclear source of investment funds</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Overseas remittance appears abruptly with no prior history of those funds</td>
+      <td>Unclear source of investment funds</td>
+      <td>Overseas remittance appears abruptly with no prior history of those funds</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Actual capital injection not confirmed</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">FDI is filed but the capital account has no balance or has been drawn down</td>
+      <td>Actual capital injection not confirmed</td>
+      <td>FDI is filed but the capital account has no balance or has been drawn down</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Weak physical substance of the premises</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Only a co-working address, with no furnishings or staff</td>
+      <td>Weak physical substance of the premises</td>
+      <td>Only a co-working address, with no furnishings or staff</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Unrealistic business plan</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Revenue projections inconsistent with the capital, or zero industry experience</td>
+      <td>Unrealistic business plan</td>
+      <td>Revenue projections inconsistent with the capital, or zero industry experience</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Applicant lacks proper standing</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">A mere employee, not the investor, applies for D-8, or has no real management authority</td>
+      <td>Applicant lacks proper standing</td>
+      <td>A mere employee, not the investor, applies for D-8, or has no real management authority</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Suspected use of a nominee</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">A Korean actually runs the business while a foreigner's name is only on the registry</td>
+      <td>Suspected use of a nominee</td>
+      <td>A Korean actually runs the business while a foreigner's name is only on the registry</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Problematic prior residence record</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">History of overstays, bogus invitations, or other residence violations</td>
+      <td>Problematic prior residence record</td>
+      <td>History of overstays, bogus invitations, or other residence violations</td>
     </tr>
   </tbody>
 </table>
@@ -97,8 +82,8 @@ Refusal notices usually use phrases like "lack of genuine investment" or "insuff
 
 In practice, the refusal reasons that come up most often are **unclear source of investment funds** and **insufficient business premises substance**. Neither is usually about incorrect paperwork — they arise when the explanation is too thin for the officer to feel confident. Once these are properly prepared, the rest rarely becomes a major variable.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Even if the refusal notice says "insufficient business substance," the real internal reason can be suspicion of a nominee arrangement. This can be a signal that the structure itself — not just the documents — needs to be rethought.
+<div>
+  <strong>⚠️ Caution:</strong> Even if the refusal notice says "insufficient business substance," the real internal reason can be suspicion of a nominee arrangement. This can be a signal that the structure itself — not just the documents — needs to be rethought.
 </div>
 
 ## The KRW 100 Million Capital Requirement — Source Explanation Beats Amount
@@ -115,29 +100,29 @@ The first thing a reviewer checks with capital is not the amount but **where the
 
 ### Funding Flow Scenarios Compared
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Situation</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Review Outcome</th>
+      <th>Situation</th>
+      <th>Review Outcome</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Direct remittance from applicant's overseas account with 1+ year of prior balance history</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Typically passes smoothly without extra explanation</td>
+      <td>Direct remittance from applicant's overseas account with 1+ year of prior balance history</td>
+      <td>Typically passes smoothly without extra explanation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Remittance routed through a relative's account</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Gift agreements, family relationship certificates, and other supplements required</td>
+      <td>Remittance routed through a relative's account</td>
+      <td>Gift agreements, family relationship certificates, and other supplements required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">A large sum suddenly deposited just before remittance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Source-of-funds explanation requested — refusal likely if not provided</td>
+      <td>A large sum suddenly deposited just before remittance</td>
+      <td>Source-of-funds explanation requested — refusal likely if not provided</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Cash carried into the country and then deposited</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Customs declaration is mandatory; without it, source is treated as unknown</td>
+      <td>Cash carried into the country and then deposited</td>
+      <td>Customs declaration is mandatory; without it, source is treated as unknown</td>
     </tr>
   </tbody>
 </table>
@@ -160,25 +145,25 @@ A business plan is judged on persuasiveness before length. Fifty pages mean noth
 
 ### Points Frequently Missed
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Business Plan Checklist</strong>
-  <ul style="margin-top:12px">
-    <li>Narrative linking the choice of industry to the applicant's own background</li>
-    <li>Concrete line-item use of the KRW 100 million capital (rent, equipment, inventory, labor, etc.)</li>
-    <li>Year 1 and Year 2 revenue projections with supporting evidence</li>
-    <li>Actual traces of contact with key clients, suppliers, and sales channels</li>
-    <li>Competitor analysis and points of differentiation</li>
-    <li>Reasoning behind the chosen location of the Korean business premises</li>
-    <li>Hiring plan and the basis for labor cost estimates</li>
-  </ul>
+<div>
+  <strong>✅ Business Plan Checklist</strong>
+
+    Narrative linking the choice of industry to the applicant's own background
+    Concrete line-item use of the KRW 100 million capital (rent, equipment, inventory, labor, etc.)
+    Year 1 and Year 2 revenue projections with supporting evidence
+    Actual traces of contact with key clients, suppliers, and sales channels
+    Competitor analysis and points of differentiation
+    Reasoning behind the chosen location of the Korean business premises
+    Hiring plan and the basis for labor cost estimates
+
 </div>
 
 ### It Has to Be Written Differently by Industry
 
 Trading and wholesale/retail, food and beverage, IT services, and manufacturing each have different review focal points. For trading, weak client contracts or letters of intent immediately signal a thin explanation. For food and beverage, location, menu, and kitchen equipment quotes are central. For IT services, the plan to secure developers and a technical explanation must come through. **A generic business plan that ignores industry-specific characteristics almost always ends up flagged for supplementation.**
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Filling in a template that is floating around online will produce wording that overlaps with other applicants. Officers see the same templates often. Even the suspicion of copy-paste is itself a minus.
+<div>
+  <strong>⚠️ Caution:</strong> Filling in a template that is floating around online will produce wording that overlaps with other applicants. Officers see the same templates often. Even the suspicion of copy-paste is itself a minus.
 </div>
 
 ## Mistakes at the Incorporation and FDI Filing Stage
@@ -187,39 +172,39 @@ D-8 proceeds in the following order: incorporation → FDI report → capital re
 
 ### Common Mistakes by Stage
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Stage</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Common Mistake</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Consequence</th>
+      <th>Stage</th>
+      <th>Common Mistake</th>
+      <th>Consequence</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">FDI report</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Remitting first and filing the FDI report afterward</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Risk that the funds are not recognized as foreign investment</td>
+      <td>FDI report</td>
+      <td>Remitting first and filing the FDI report afterward</td>
+      <td>Risk that the funds are not recognized as foreign investment</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Capital remittance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Mismatch between reported amount and amount actually remitted</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Delay in registering as a foreign-invested enterprise</td>
+      <td>Capital remittance</td>
+      <td>Mismatch between reported amount and amount actually remitted</td>
+      <td>Delay in registering as a foreign-invested enterprise</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Corporate registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Registering a Korean as the representative director</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Hard to establish the foreigner's actual management role</td>
+      <td>Corporate registration</td>
+      <td>Registering a Korean as the representative director</td>
+      <td>Hard to establish the foreigner's actual management role</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Business registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Industry code does not match the business plan</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Industry-specific requirements reopened for review</td>
+      <td>Business registration</td>
+      <td>Industry code does not match the business plan</td>
+      <td>Industry-specific requirements reopened for review</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Foreign-invested enterprise registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Registration certificate missing at the time of visa application</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Application rejected at intake</td>
+      <td>Foreign-invested enterprise registration</td>
+      <td>Registration certificate missing at the time of visa application</td>
+      <td>Application rejected at intake</td>
     </tr>
   </tbody>
 </table>
@@ -239,11 +224,7 @@ What matters once the money has landed in the corporate capital account is which
 On the other hand, if funds are routed back from the capital account to a personal account or large sums leave for unexplained purposes, the case attracts suspicion of a sham injection.
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## Verifying Office and Business Premises Substance
@@ -254,34 +235,34 @@ On-site inspections are not standard in D-8 reviews, but if suspicion arises, im
 
 Recently, many applicants rely solely on a co-working office address to prove business premises. Immigration officers now distinguish between **a co-working arrangement that merely provides a mailing address and one that actually offers working space**. Depending on the industry, a co-working space simply cannot establish business substance at all.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Industry</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Co-Working Acceptance</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Supplements Needed</th>
+      <th>Industry</th>
+      <th>Co-Working Acceptance</th>
+      <th>Supplements Needed</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">IT, consulting, small-scale trading</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Generally acceptable</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Dedicated suite and evidence of regular presence</td>
+      <td>IT, consulting, small-scale trading</td>
+      <td>Generally acceptable</td>
+      <td>Dedicated suite and evidence of regular presence</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Wholesale/retail and inventory-based businesses</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Low</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Separate warehouse or store lease required</td>
+      <td>Wholesale/retail and inventory-based businesses</td>
+      <td>Low</td>
+      <td>Separate warehouse or store lease required</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Food and beverage, services</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not accepted</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Actual operating premises lease and licensing</td>
+      <td>Food and beverage, services</td>
+      <td>Not accepted</td>
+      <td>Actual operating premises lease and licensing</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Manufacturing</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Not accepted</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Factory and production equipment verification</td>
+      <td>Manufacturing</td>
+      <td>Not accepted</td>
+      <td>Factory and production equipment verification</td>
     </tr>
   </tbody>
 </table>
@@ -305,33 +286,33 @@ Once D-8 is refused, the prior record carries into any future application. Resub
 
 ### Responses by Refusal Reason
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Refusal Reason</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Steps Before Reapplying</th>
+      <th>Refusal Reason</th>
+      <th>Steps Before Reapplying</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Unclear source of investment</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Secure origin documents, reconstruct the funding history, and notarize a gift agreement if needed</td>
+      <td>Unclear source of investment</td>
+      <td>Secure origin documents, reconstruct the funding history, and notarize a gift agreement if needed</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Insufficient business substance</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Switch offices, furnish the space, and build some initial transaction record before reapplying</td>
+      <td>Insufficient business substance</td>
+      <td>Switch offices, furnish the space, and build some initial transaction record before reapplying</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Weak business plan</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Rewrite fully around the industry's characteristics and strengthen evidence of client outreach</td>
+      <td>Weak business plan</td>
+      <td>Rewrite fully around the industry's characteristics and strengthen evidence of client outreach</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Suspected nominee arrangement</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Redesign the structure itself (convert to genuine foreign management)</td>
+      <td>Suspected nominee arrangement</td>
+      <td>Redesign the structure itself (convert to genuine foreign management)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Prior residence violations</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Let sufficient time pass after departure, and strengthen the written explanation</td>
+      <td>Prior residence violations</td>
+      <td>Let sufficient time pass after departure, and strengthen the written explanation</td>
     </tr>
   </tbody>
 </table>
@@ -340,8 +321,8 @@ Once D-8 is refused, the prior record carries into any future application. Resub
 
 Immediate reapplication right after refusal is only appropriate for simple document deficiencies. When refusal is based on substance issues, it is better to **wait at least 3–6 months and build up operational track record** before reapplying. The more that tax invoices for sales, transaction records, and employee social insurance enrollments accumulate, the stronger the narrative becomes.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> When reapplying, the written explanation must spell out specifically "what has changed." Simply resubmitting the same documents carries the prior refusal reason forward automatically. Document the changes clearly — a new office, new transaction records, additional evidence for the source of funds.
+<div>
+  <strong>💡 Practical Tip:</strong> When reapplying, the written explanation must spell out specifically "what has changed." Simply resubmitting the same documents carries the prior refusal reason forward automatically. Document the changes clearly — a new office, new transaction records, additional evidence for the source of funds.
 </div>
 
 ## Common Mistakes
@@ -402,13 +383,12 @@ A. For refusals based on simple missing documents, you can reapply as soon as yo
 
 For a D-8 visa, **designing the flow of funds and constructing real business substance** comes before document preparation. Submitting with that structure weak produces a cycle of supplementation and refusal, with time and cost growing each round. VISION Administrative Office supports new D-8 applications, reapplications after refusal, business plan review, and everything from FDI filing through incorporation and residence status changes — all aligned to how reviews actually unfold.
 
-<div style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0;border:1px solid #dbeafe">
-  <h3 style="color:#1e40af;margin-top:0">VISION Administrative Office
-  <ul style="list-style:none;padding-left:0;margin:0">
-    <li><strong>Phone:</strong> 02-363-2251</li>
-    <li><strong>Email:</strong> 5000meter@gmail.com</li>
-    <li><strong>Address:</strong> (04614) 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul</li>
-  </ul>
+<div>
+### VISION Administrative Office
+
+    <strong>Email:</strong> 5000meter@gmail.com
+    <strong>Address:</strong> (04614) 3F Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul
+
 </div>
 
 If you have received a D-8 refusal notice, or want to pressure-test the structure before filing, please organize the documents you have along with your situation and reach out. Legal and administrative details are subject to change, so confirmation with the competent Immigration and Foreign Affairs Office is recommended.

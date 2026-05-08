@@ -22,7 +22,8 @@ export async function generateMetadata({
     pathname: "/privacy",
     seo: {
       title: "개인정보처리방침",
-      description: "비전행정사사무소의 개인정보처리방침입니다.",
+      description:
+        "비전행정사사무소의 개인정보처리방침. 수집하는 개인정보 항목, 이용 목적, 보유 기간, 제3자 제공, 파기 절차 등을 안내합니다. 고객의 개인정보를 안전하게 보호합니다.",
     },
   });
 }

@@ -12,21 +12,6 @@ E-7ビザの学歴・経歴要件は、一見シンプルに見えても、実�
 
 多くの方がつまずくのが、まさにこの「専攻関連性」です。学士の学位があっても、専攻が職務とかけ離れていると、審査官は経歴で関連性を補う書類を求めてきます。むしろ学位がなくても経歴がしっかりしている申請者のほうが、すっきり通過するケースもよくあります。ポイントは、学位・経歴・職務記述書の3本の柱が1つのストーリーとしてつながっているかどうかです。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. E-7 学歴・経歴要件を一目で把握</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 学歴要件はどこまで認められるか</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 経歴要件と年数の計算方法</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 学歴・経歴の組み合わせ別シナリオ</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 職種別(85職種)要件の違い</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 証憑書類の準備と翻訳・公証</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 実務審査で引っかかるポイント</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. よくある失敗</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. よくある質問 (FAQ)</a></li>
-    <li><a href="#section-10" style="color:#2563eb;text-decoration:none">10. 相談のご案内</a></li>
-  </ul>
-</nav>
 
 ## <span id="section-1"></span>1. E-7 学歴・経歴要件を一目で把握
 
@@ -36,39 +21,39 @@ E-7(特定活動)は、法務部が指定した専門・準専門・熟練技能
 
 実務で最初に確認するのは、次の3つの組み合わせです。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">類型</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">学歴</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">経歴</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">備考</th>
+      <th>類型</th>
+      <th>学歴</th>
+      <th>経歴</th>
+      <th>備考</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">A</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">修士以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">不要</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">専攻関連職務に限定</td>
+      <td>A</td>
+      <td>修士以上</td>
+      <td>不要</td>
+      <td>専攻関連職務に限定</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">B</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">学士</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当該職務1年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">専攻不一致の場合は経歴加重</td>
+      <td>B</td>
+      <td>学士</td>
+      <td>当該職務1年以上</td>
+      <td>専攻不一致の場合は経歴加重</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">C</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">短期大学士</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当該職務3年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2・3年制基準</td>
+      <td>C</td>
+      <td>短期大学士</td>
+      <td>当該職務3年以上</td>
+      <td>2・3年制基準</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">D</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">高卒以下</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当該職務5年以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">主に熟練技能系列で認定</td>
+      <td>D</td>
+      <td>高卒以下</td>
+      <td>当該職務5年以上</td>
+      <td>主に熟練技能系列で認定</td>
     </tr>
   </tbody>
 </table>
@@ -91,8 +76,8 @@ E-7(特定活動)は、法務部が指定した専門・準専門・熟練技能
 
 学位そのものより先に見られるのは、**専攻と職務のつながり**です。たとえば経営学の学士を持つ申請者がITエンジニアの職務で申請すると、審査官は「なぜあなたがこの仕事をできるのか」を問いかけてきます。この説明が不足していれば、書類がいくら多くても即座に保留となります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 学位証のコピーだけ提出しても不十分です。成績証明書(Transcript)で履修科目が職務とどうつながっているかが示される必要があります。成績証明書が英文・韓国語でない場合は、翻訳本+公証が別途求められます。
+<div>
+  <strong>⚠️ 注意:</strong> 学位証のコピーだけ提出しても不十分です。成績証明書(Transcript)で履修科目が職務とどうつながっているかが示される必要があります。成績証明書が英文・韓国語でない場合は、翻訳本+公証が別途求められます。
 </div>
 
 ### 修士・博士の学位の優遇
@@ -109,50 +94,50 @@ E-7(特定活動)は、法務部が指定した専門・準専門・熟練技能
 
 書類が多くても、経歴証明書にこれらの項目が欠けていれば経歴は認定されません。
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 経歴証明書チェックリスト</strong>
-  <ul style="margin-top:12px">
-    <li>雇用主(会社)の正式名称と事業者登録番号(または海外の同等番号)</li>
-    <li>正確な入社日・退社日 (YYYY-MM-DD)</li>
-    <li>役職および担当業務の具体的記述</li>
-    <li>週あたりの勤務時間(パートタイムか否かの判定)</li>
-    <li>発行者の署名、会社印、発行日</li>
-    <li>発行担当者の連絡先(審査官確認用)</li>
-  </ul>
+<div>
+  <strong>✅ 経歴証明書チェックリスト</strong>
+
+    雇用主(会社)の正式名称と事業者登録番号(または海外の同等番号)
+    正確な入社日・退社日 (YYYY-MM-DD)
+    役職および担当業務の具体的記述
+    週あたりの勤務時間(パートタイムか否かの判定)
+    発行者の署名、会社印、発行日
+    発行担当者の連絡先(審査官確認用)
+
 </div>
 
 ### 同一・類似職務の判定
 
 経歴年数でもっとも頻繁に引っかかるのは、「その経歴が申請職務と同じ系統か」という点です。たとえばサーバーエンジニアとして3年働いていても、応募職務がフロントエンド開発であれば、審査官は関連する技術スタックやプロジェクト実績の追加提出を求めてきます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">状況</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">経歴認定の可否</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">補完方法</th>
+      <th>状況</th>
+      <th>経歴認定の可否</th>
+      <th>補完方法</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">同一職務の正社員</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">全面認定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">経歴証明書+在職証明書</td>
+      <td>同一職務の正社員</td>
+      <td>全面認定</td>
+      <td>経歴証明書+在職証明書</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">類似職務</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">部分認定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">プロジェクトリスト・担当業務詳細</td>
+      <td>類似職務</td>
+      <td>部分認定</td>
+      <td>プロジェクトリスト・担当業務詳細</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">フリーランス・契約社員</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">条件付き認定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">納税記録、契約書、送金履歴</td>
+      <td>フリーランス・契約社員</td>
+      <td>条件付き認定</td>
+      <td>納税記録、契約書、送金履歴</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">インターンシップ</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">原則不認定</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">正社員転換の証明が必要</td>
+      <td>インターンシップ</td>
+      <td>原則不認定</td>
+      <td>正社員転換の証明が必要</td>
     </tr>
   </tbody>
 </table>
@@ -179,8 +164,8 @@ E-7(特定活動)は、法務部が指定した専門・準専門・熟練技能
 
 高校卒業のみの場合、最低5年以上の同一職務経歴が要求されます。この場合、本国の税務当局が発行した納税証明、国民年金(または同等の制度)の納付履歴のような**公式機関の第三者証憑**が決定打となります。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 実務ティップス:</strong> 学歴が弱い場合は、経歴年数を延ばすよりも経歴の「深さ」を示すほうが効果的です。1~2件のプロジェクトを具体的に説明したポートフォリオ文書のほうが、10年分の経歴証明書より審査官を納得させます。
+<div>
+  <strong>💡 実務ティップス:</strong> 学歴が弱い場合は、経歴年数を延ばすよりも経歴の「深さ」を示すほうが効果的です。1~2件のプロジェクトを具体的に説明したポートフォリオ文書のほうが、10年分の経歴証明書より審査官を納得させます。
 </div>
 
 ## <span id="section-5"></span>5. 職種別(85職種)要件の違い
@@ -203,39 +188,39 @@ E-7は単一の要件ではなく、85の職種ごとに細部の要件が異な
 
 ポイント制で評価され、学歴・経歴・所得・韓国語能力のすべてがポイント化されます。このカテゴリは「要件の充足」よりも「ポイント合計」が先に見られる基準となります。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">中心となる要件</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">最低年収の目安</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">代表的な職種</th>
+      <th>区分</th>
+      <th>中心となる要件</th>
+      <th>最低年収の目安</th>
+      <th>代表的な職種</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">学位・専攻</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">前年度GNIの80%以上基準を適用</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">経営コンサルタント、システムエンジニア</td>
+      <td>E-7-1</td>
+      <td>学位・専攻</td>
+      <td>前年度GNIの80%以上基準を適用</td>
+      <td>経営コンサルタント、システムエンジニア</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">経歴・言語</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">職種ごとに別途告示</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">免税店販売、ホテルサービス</td>
+      <td>E-7-2</td>
+      <td>経歴・言語</td>
+      <td>職種ごとに別途告示</td>
+      <td>免税店販売、ホテルサービス</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">資格・技能</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">職種ごとに別途告示</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">造船用溶接工、動物飼育員</td>
+      <td>E-7-3</td>
+      <td>資格・技能</td>
+      <td>職種ごとに別途告示</td>
+      <td>造船用溶接工、動物飼育員</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">E-7-4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ポイント制</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">ポイント算定表上の基準以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">製造・建設の熟練技能</td>
+      <td>E-7-4</td>
+      <td>ポイント制</td>
+      <td>ポイント算定表上の基準以上</td>
+      <td>製造・建設の熟練技能</td>
     </tr>
   </tbody>
 </table>
@@ -243,11 +228,7 @@ E-7は単一の要件ではなく、85の職種ごとに細部の要件が異な
 各職種の年収基準や個別要件は随時変動します。最新基準は所管の出入国・外国人庁への確認が必要です。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## <span id="section-6"></span>6. 証憑書類の準備と翻訳・公証
@@ -256,34 +237,34 @@ E-7は単一の要件ではなく、85の職種ごとに細部の要件が異な
 
 学位証・卒業証明書・成績証明書が基本セットです。海外の書類であれば、次の手順を踏みます。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">段階</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">内容</th>
-      <th style="border:1px solid #e5e7eb;padding:10px;text-align:left">所要期間</th>
+      <th>段階</th>
+      <th>内容</th>
+      <th>所要期間</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">本国の大学で原本を発行</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~2週間</td>
+      <td>1</td>
+      <td>本国の大学で原本を発行</td>
+      <td>1~2週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">アポスティーユまたは領事確認</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3週間</td>
+      <td>2</td>
+      <td>アポスティーユまたは領事確認</td>
+      <td>1~3週間</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">韓国語への翻訳</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~5日</td>
+      <td>3</td>
+      <td>韓国語への翻訳</td>
+      <td>2~5日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">翻訳本の公証</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1~3日</td>
+      <td>4</td>
+      <td>翻訳本の公証</td>
+      <td>1~3日</td>
     </tr>
   </tbody>
 </table>
@@ -296,8 +277,8 @@ E-7は単一の要件ではなく、85の職種ごとに細部の要件が異な
 
 翻訳は専門の翻訳サービスや公証翻訳士に依頼するのが安全です。本人が翻訳したものはほぼ再作業となります。翻訳の品質より、書式・用語の統一性が先に見られる基準となります。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 氏名の表記がパスポート・学位証・経歴証明書で少しでも異なれば、すべて補完要求として戻ってきます。パスポートのローマ字表記を基準にすべての書類を統一してください。ミドルネームの抜け落ちもよくある失敗要因です。
+<div>
+  <strong>⚠️ 注意:</strong> 氏名の表記がパスポート・学位証・経歴証明書で少しでも異なれば、すべて補完要求として戻ってきます。パスポートのローマ字表記を基準にすべての書類を統一してください。ミドルネームの抜け落ちもよくある失敗要因です。
 </div>
 
 ## <span id="section-7"></span>7. 実務審査で引っかかるポイント
@@ -340,8 +321,8 @@ E-7-1の場合、職種別または前年度の国民総所得(GNI)連動基準�
 
 パスポートの英文名と学歴・経歴証憑の氏名が異なったり、日付形式が互いに違って矛盾が生じるケースです。この部分が弱いと、事実関係全体に疑念が生じます。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意:</strong> 虚偽の経歴証明書は偽造・変造の嫌疑で刑事問題にまで発展します。過去に提出した書類が他の滞在資格審査でデータとして残っていて、現在の申請内容と衝突すればすぐに発覚します。
+<div>
+  <strong>⚠️ 注意:</strong> 虚偽の経歴証明書は偽造・変造の嫌疑で刑事問題にまで発展します。過去に提出した書類が他の滞在資格審査でデータとして残っていて、現在の申請内容と衝突すればすぐに発覚します。
 </div>
 
 ## <span id="section-9"></span>9. よくある質問 (FAQ)
@@ -372,7 +353,6 @@ E-7ビザの学歴・経歴要件は、職種・国籍・会社の状況に応�
 
 **ビジョン行政士事務所 (VISION Administrative Office)**
 
-- 電話: **02-363-2251**
 - Eメール: **5000meter@gmail.com**
 - 住所: (04614) ソウル特別市中区退渓路324, 3階(ソンウビル)
 

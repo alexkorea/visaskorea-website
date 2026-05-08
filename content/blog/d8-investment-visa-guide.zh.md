@@ -7,25 +7,8 @@ image: "/slides/business.jpg"
 slug: "d8-investment-visa-guide"
 ---
 
-<nav>
 
-#### 📋 目录
-- [什么是D-8企业投资签证？](#什么是d-8企业投资签证)
-- [哪些人需要D-8签证？](#哪些人需要d-8签证)
-- [D-8签证细分类型](#d-8签证细分类型)
-- [资格要件及投资要求](#资格要件及投资要求)
-- [所需文件详细说明](#所需文件详细说明)
-- [申请流程六步骤](#申请流程六步骤)
-- [审查时间及费用](#审查时间及费用)
-- [家属同行签证（F-3）](#家属同行签证f-3)
-- [永住权（F-5）转换](#永住权f-5转换)
-- [D-8与D-9对比](#d-8与d-9对比)
-- [常见问题（FAQ）](#常见问题faq)
-- [相关服务](#相关服务)
-
-</nav>
-
-<img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="跨国商务会议" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="跨国商务会议" />
 
 ## 什么是D-8企业投资签证？
 
@@ -45,7 +28,7 @@ D-8企业投资签证面向希望在韩国创业或投资现有韩国企业并�
 
 此外，目前以E-7（特定活动）、D-9（贸易经营）等签证在韩居留的外国人，如进行直接投资并设立法人，也可以将居留资格变更为D-8签证。许多在韩国积累了经商经验并决定独立创业的外国人正在利用这一途径，签证转换程序也已相当完善。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> D-8签证不仅需要投资，还要求实际在韩国居留并积极参与企业经营管理。仅投资而不参与经营活动的情况不符合D-8签证的申请条件。</div>
+<div>💡 <strong>提示：</strong> D-8签证不仅需要投资，还要求实际在韩国居留并积极参与企业经营管理。仅投资而不参与经营活动的情况不符合D-8签证的申请条件。</div>
 
 &nbsp;
 
@@ -64,7 +47,7 @@ D-8企业投资签证根据投资方式和活动内容分为多个细分类型�
 
 **D-8-4（技术创业）**是为拥有创新技术、希望在韩国创业的外国人设计的类型。适用于获得中央行政机关长推荐、持有知识产权或被认定具有同等技术能力的人员。与D-8-1相比，投资金额要求可能降低，对技术型初创企业更为有利。还可以通过政府运营的创业签证项目（如OASIS）进入。
 
-<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="审核商务文件" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/5668838/pexels-photo-5668838.jpeg?auto=compress&cs=tinysrgb&w=800" alt="审核商务文件" />
 
 &nbsp;
 
@@ -87,7 +70,7 @@ D-8企业投资签证根据投资方式和活动内容分为多个细分类型�
 
 关于营业场所要求，需要特别注意的是，该空间必须**能够支持实际经营活动**。仅注册共享办公室地址可能不够充分，建议确保与业务性质和规模相匹配的办公空间。不过，对于IT、软件开发等本身不需要大型物理空间的行业，较小的办公室也可能被接受。
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 1亿韩元投资金必须在法人成立后作为注册资本缴纳。在法人成立前以个人名义持有的资金不被认可为投资金。所有资金必须通过外汇银行的正式外国人投资程序进行。</div>
+<div>⚠️ <strong>注意：</strong> 1亿韩元投资金必须在法人成立后作为注册资本缴纳。在法人成立前以个人名义持有的资金不被认可为投资金。所有资金必须通过外汇银行的正式外国人投资程序进行。</div>
 
 &nbsp;
 
@@ -116,7 +99,7 @@ D-8签证申请需要准备大量文件。即使缺少一份文件也可能导�
 
 事业计划书虽然没有固定格式，但应详细说明**事业目的、主要业务内容、预计营收、雇用计划、投资资金使用计划**等。由于审查官将事业计划书作为判断该企业是否为合法实体的关键文件，需要投入充足的时间认真编写。如能附上市场分析资料、竞争对手分析、财务规划等，将有助于审查通过。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> 无犯罪记录证明必须从本国获取。属于《海牙认证公约》成员国的需进行海牙认证，非成员国需经相关大使馆领事认证。办理可能需要数周时间，请提前准备。</div>
+<div>💡 <strong>提示：</strong> 无犯罪记录证明必须从本国获取。属于《海牙认证公约》成员国的需进行海牙认证，非成员国需经相关大使馆领事认证。办理可能需要数周时间，请提前准备。</div>
 
 &nbsp;
 
@@ -124,7 +107,7 @@ D-8签证申请需要准备大量文件。即使缺少一份文件也可能导�
 
 D-8企业投资签证的申请从投资计划制定到签证发放，主要分为六个步骤。以下将详细介绍每个步骤的流程及注意事项。
 
-<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="商务合同签署" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/4427620/pexels-photo-4427620.jpeg?auto=compress&cs=tinysrgb&w=800" alt="商务合同签署" />
 
 ### 第一步：制定投资计划
 
@@ -181,7 +164,7 @@ D-8签证的审查时间因申请途径和审查情况而异。以下是预计�
 
 费用方面，除签证手续费外，还需考虑法人设立费用（登记许可税、律师费等）、营业场所租赁费用、会计税务费用等。不含投资金在内，初期总费用通常在500万至1,000万韩元左右。
 
-<div style="background:#FEF3C7; border-left:4px solid #F59E0B; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">⚠️ <strong>注意：</strong> 手续费可能会变动，签证发放手续费也可能因国籍不同而有差异。请向出入境管理事务所或驻外使领馆确认最新费用标准。</div>
+<div>⚠️ <strong>注意：</strong> 手续费可能会变动，签证发放手续费也可能因国籍不同而有差异。请向出入境管理事务所或驻外使领馆确认最新费用标准。</div>
 
 &nbsp;
 
@@ -193,7 +176,7 @@ F-3签证申请所需文件包括家属关系证明文件（结婚证、出生�
 
 F-3签证持有人原则上不能就业，但如另行获得**居留资格外活动许可**，则可从事兼职工作等。此外，子女可以就读韩国的国际学校或普通学校，在子女教育方面也很有优势。
 
-<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="家庭与商务" style="width:100%; max-height:250px; object-fit:cover; border-radius:12px; margin:20px 0;" />
+<img src="https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=800" alt="家庭与商务" />
 
 &nbsp;
 
@@ -216,7 +199,7 @@ F-5永住权是D-8签证持有人最理想的长期居留目标。投资金5亿�
 
 不过，获得永住权后在**再入境许可**方面需要注意。如果离开韩国超过2年，永住权可能被取消，因此在长期出国前建议办理再入境许可。
 
-<div style="background:#EFF6FF; border-left:4px solid #3B82F6; padding:12px 16px; border-radius:0 8px 8px 0; margin:16px 0; font-size:14px;">💡 <strong>提示：</strong> 根据投资规模的不同，F-5永住权转换的居留期间要件可能缩短。例如，大规模投资者可能仅需居留3年以上即可申请永住权。详细情况请咨询专业行政士。</div>
+<div>💡 <strong>提示：</strong> 根据投资规模的不同，F-5永住权转换的居留期间要件可能缩短。例如，大规模投资者可能仅需居留3年以上即可申请永住权。详细情况请咨询专业行政士。</div>
 
 &nbsp;
 
@@ -286,4 +269,3 @@ VISION行政士事务所提供与D-8企业投资签证相关的全方位服务�
 
 &nbsp;
 
-<div style="background:linear-gradient(135deg,#1e3a5f,#2563eb); border-radius:16px; padding:32px; margin:32px 0; text-align:center;"><h3 style="color:#fff; margin:0 0 8px;">申请免费咨询</h3><p style="color:#bfdbfe; margin:0 0 16px;">专业行政士为您提供咨询服务。Tel. 02-363-2251</p><a href="/zh/contact" style="display:inline-block; background:#fff; color:#1e3a5f; padding:12px 32px; border-radius:8px; font-weight:700; text-decoration:none;">申请咨询</a></div>

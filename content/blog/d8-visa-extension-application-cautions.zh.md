@@ -14,22 +14,8 @@ D-8延期的成败,与其说取决于材料是否齐全,不如说取决于如何
 
 本文将涵盖延期申请时点、必备材料、审查官实际关注的要点、常见的导致拒签的失误,以及近期频繁变动的运营标准。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录</h3>
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8签证延期是什么 — 先要了解的基本框架</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. D-8延期申请流程 — 分步骤梳理</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 实务中最容易卡住的环节</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 招致拒签的关键失误</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 近期变更的运营标准 — 实务中能直接感受到的要点</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. D-8延期检查清单 — 申请前的最后核对</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. FAQ — 实际中常见的提问</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 需要专业咨询吗?</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 需要专家咨询？</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">D-8签证延期是什么 — 先要了解的基本框架</h2>
+## D-8签证延期是什么 — 先要了解的基本框架
 
 D-8并不是单纯的停留期延长,而是**重新核验业务是否仍在正常运营的程序**。
 
@@ -54,7 +40,7 @@ D-8按子代码不同,评估标准也有所差异。
 
 > **注意:** 如在到期日之后才申请延期,会被处以罚款,且可能对今后的签证审查产生不利影响。具体处罚标准请查询[Hi Korea出入境·外国人政策本部](https://www.hikorea.go.kr)的公告。
 
-<h2 id="section-2">D-8延期申请流程 — 分步骤梳理</h2>
+## D-8延期申请流程 — 分步骤梳理
 
 表面看起来简单,实际上80%的结果在事前自查阶段就已决定。
 
@@ -91,7 +77,7 @@ D-8按子代码不同,评估标准也有所差异。
 
 获批后会在登录证背面贴上新的停留期限;若被驳回,则需根据所列事由,重新规划再申请或更换签证类型的方案。
 
-<h2 id="section-3">实务中最容易卡住的环节</h2>
+## 实务中最容易卡住的环节
 
 即便材料再多,如果这些方面薄弱,审查就会立刻陷入困境。
 
@@ -133,13 +119,12 @@ D-8是审查外国资本是否对韩国经济作出贡献的签证。
 
 **准确的费用与流程请通过专业咨询确认。**
 
-立即免费咨询 → 02-363-2251 / KakaoTalk:alexkorea
 
 费用因案件而异,免费咨询时将为您准确说明。
 
 ---
 
-<h2 id="section-4">招致拒签的关键失误</h2>
+## 招致拒签的关键失误
 
 在判断能否通过之前,首先要审视的是自己案件的**薄弱点**。
 
@@ -170,14 +155,10 @@ D-8是审查外国资本是否对韩国经济作出贡献的签证。
 应先到[产业通商资源部](https://www.motie.go.kr)和[KOTRA](https://www.investkorea.org)办理外资登记变更申报,再启动延期程序,才不会出现纠葛。
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A hand holding a Russian passport over a map, suggesting travel preparation." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A hand holding a Russian passport over a map, suggesting travel preparation.](https://images.pexels.com/photos/7010170/pexels-photo-7010170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">近期变更的运营标准 — 实务中能直接感受到的要点</h2>
+## 近期变更的运营标准 — 实务中能直接感受到的要点
 
 D-8运营指引经常调整。
 
@@ -197,7 +178,7 @@ D-8运营指引经常调整。
 
 近期类似案例中,仅通过更换办公室就减轻了补正负担的情况也有,这就是为什么需要逐案制定不同策略。
 
-<h2 id="section-6">D-8延期检查清单 — 申请前的最后核对</h2>
+## D-8延期检查清单 — 申请前的最后核对
 
 - 确认停留期届满日(4个月前可申请)
 - 打印法人账户余额、收支明细
@@ -210,7 +191,7 @@ D-8运营指引经常调整。
 - 代表本人在韩停留天数
 - 欠税、滞纳金的处理情况
 
-<h2 id="section-7">FAQ — 实际中常见的提问</h2>
+## FAQ — 实际中常见的提问
 
 **Q1. 到期日之后还能申请延期吗?**
 
@@ -254,7 +235,7 @@ D-8是以外国人本人的经营、投资活动为前提的。
 
 代表变更可能直接影响签证资格,因此变更之前的阶段就需要进行评估。
 
-<h2 id="section-8">需要专业咨询吗?</h2>
+## 需要专业咨询吗?
 
 D-8延期的成败不取决于材料数量,而取决于**对业务实体的说明力**。
 
@@ -265,7 +246,6 @@ VISION行政士事务所凭借处理D-8-1、D-8-2、D-8-3、D-8-4各类延期案
 ### VISION行政士事务所服务介绍
 
 - 事务所名称:VISION行政士事务所(VISION Administrative Office)
-- 电话:02-363-2251
 - 邮箱:5000meter@gmail.com
 - KakaoTalk咨询:alexkorea
 - 地址:(04614)首尔特别市中区退溪路324号3层(成佑大厦)
@@ -276,9 +256,8 @@ VISION行政士事务所凭借处理D-8-1、D-8-2、D-8-3、D-8-4各类延期案
 
 ---
 
-<h2 id="section-9">需要专家咨询？</h2>
+## 需要专家咨询？
 
 复杂的手续不必独自烦恼。专业行政士将为您提供亲切指导。
 
 **[申请免费咨询](https://visaskorea.co.kr/zh/contact)**
-

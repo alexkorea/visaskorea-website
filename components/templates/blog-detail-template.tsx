@@ -208,7 +208,7 @@ export function BlogDetailTemplate({
             <aside className="space-y-6">
               {/* Related Posts */}
               {post.relatedPosts.length > 0 && (
-                <Card className="sticky top-6">
+                <Card>
                   <CardHeader>
                     <CardTitle className="text-base">
                       {dict.common.relatedPosts}

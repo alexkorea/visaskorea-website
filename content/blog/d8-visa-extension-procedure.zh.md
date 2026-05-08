@@ -12,20 +12,6 @@ D-8签证的延期不是把材料数量凑齐就能通过的。出入境审查�
 
 实务中最常卡住的是**"在做生意，但无法用数字证明"**的情况。有营业额却没有税务发票，有办公室却没有员工，法人账户里有钱却来源说明薄弱。延期申请可以从到期前4个月开始办理，至少应在到期前2个月开始准备材料，这样即使收到补件要求也有时间应对。本文围绕实际审查中真正拉开差距的环节，系统梳理整个延期流程。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目录
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8延期审查中最先看的内容</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 延期申请时机与居留期限赋予标准</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 所需材料全面整理</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. 申请流程 — 从Hi Korea预约到获批</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 经营业绩不足时的应对方法</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 资金流、税务、四大保险中的卡点</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. 常见失误与拒签案例</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. 常见问题(FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 咨询指引</a></li>
-  </ul>
-</nav>
 
 ## D-8延期审查中最先看的内容
 
@@ -41,39 +27,39 @@ D-8是一种延期比初次签发更严格的签证。初次签发凭"投资意�
 
 ### 初次签发与延期审查的差异对比
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">区分</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">初次签发</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">延期(第2年及以后)</th>
+      <th>区分</th>
+      <th>初次签发</th>
+      <th>延期(第2年及以后)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">核心判断标准</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资资金合法性、事业计划合理性</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">实际经营业绩、营业额与雇佣维持情况</td>
+      <td>核心判断标准</td>
+      <td>投资资金合法性、事业计划合理性</td>
+      <td>实际经营业绩、营业额与雇佣维持情况</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">所需材料性质</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">以预期、计划为主(事业计划书、投资凭证)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">以业绩为主(财务报表、纳税证明、四大保险)</td>
+      <td>所需材料性质</td>
+      <td>以预期、计划为主(事业计划书、投资凭证)</td>
+      <td>以业绩为主(财务报表、纳税证明、四大保险)</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">居留期限赋予</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通常1年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">根据业绩1年~2年差别赋予</td>
+      <td>居留期限赋予</td>
+      <td>通常1年</td>
+      <td>根据业绩1年~2年差别赋予</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">审查难度</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">中等</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">较高 — 要求用数字证明</td>
+      <td>审查难度</td>
+      <td>中等</td>
+      <td>较高 — 要求用数字证明</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">常见卡点</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">资金来源说明不足</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">无营业额、无员工、欠税</td>
+      <td>常见卡点</td>
+      <td>资金来源说明不足</td>
+      <td>无营业额、无员工、欠税</td>
     </tr>
   </tbody>
 </table>
@@ -86,42 +72,42 @@ D-8是一种延期比初次签发更严格的签证。初次签发凭"投资意�
 
 如果在到期当日仍未提交申请，就会处于非法居留状态。此时必须出境后重新入境，若留下自动出境令记录，将在再次签发审查中处于不利地位。特别是企业投资类签证，**居留期限超期记录本身就是再审查中的扣分项**。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>居留期限到期日应以护照盖章和Hi Korea系统中的居留期限为准确认，而非外国人登录证。因出入境导致期限被缩短的情况经常被忽视。
+<div>
+  <strong>⚠️ 注意：</strong>居留期限到期日应以护照盖章和Hi Korea系统中的居留期限为准确认，而非外国人登录证。因出入境导致期限被缩短的情况经常被忽视。
 </div>
 
 ### 居留期限赋予标准
 
 延期时赋予的居留期限会根据经营业绩与法人稳定性产生差别。
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">经营业绩水平</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">通常赋予期限</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">判断依据</th>
+      <th>经营业绩水平</th>
+      <th>通常赋予期限</th>
+      <th>判断依据</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业额1亿以上，韩国籍雇员2人以上</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">经营稳定性得到证明</td>
+      <td>营业额1亿以上，韩国籍雇员2人以上</td>
+      <td>2年</td>
+      <td>经营稳定性得到证明</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">有营业额、有雇佣、税务缴纳正常</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">满足基本延期条件</td>
+      <td>有营业额、有雇佣、税务缴纳正常</td>
+      <td>1年</td>
+      <td>满足基本延期条件</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业额偏低、无雇佣</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6个月~1年</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">短期延期后再审</td>
+      <td>营业额偏低、无雇佣</td>
+      <td>6个月~1年</td>
+      <td>短期延期后再审</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">欠税、未参加四大保险</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可能不予许可</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">经营实体存疑</td>
+      <td>欠税、未参加四大保险</td>
+      <td>可能不予许可</td>
+      <td>经营实体存疑</td>
     </tr>
   </tbody>
 </table>
@@ -149,26 +135,26 @@ D-8延期材料大致分为**身份类材料**、**法人类材料**、**业绩�
 
 ### 业绩证明材料
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ 业绩证明检查清单</strong>
-  <ul style="margin-top:12px">
-    <li>最近1年的法人税申报表或财务报表</li>
-    <li>最近4个季度的增值税应税标准证明</li>
-    <li>纳税证明书(国税、地方税)</li>
-    <li>法人账户交易明细(最近6个月~1年)</li>
-    <li>四大保险参保人员名册(健康保险EDI打印)</li>
-    <li>工资台账及源泉征收履行状况申报表</li>
-    <li>主要客户的税务发票复印件或合同</li>
-    <li>办公室内部照片(近期拍摄)</li>
-  </ul>
+<div>
+  <strong>✅ 业绩证明检查清单</strong>
+
+    最近1年的法人税申报表或财务报表
+    最近4个季度的增值税应税标准证明
+    纳税证明书(国税、地方税)
+    法人账户交易明细(最近6个月~1年)
+    四大保险参保人员名册(健康保险EDI打印)
+    工资台账及源泉征收履行状况申报表
+    主要客户的税务发票复印件或合同
+    办公室内部照片(近期拍摄)
+
 </div>
 
 ### 材料的真正含义
 
 最容易被忽视的是**单份材料之外，材料之间的相互衔接**。增值税申报的营业额与法人账户入账记录、税务发票三者必须对得上。工资台账与四大保险缴纳记录、源泉征收申报也必须一致。数字一旦对不上，补件要求立刻就来。
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 实务提示：</strong>在延期申请前2~3周，向税务师统一领取增值税应税标准证明、法人税财务报表、源泉征收履行状况申报表这一整套材料。这三份材料用数字证明了"经营确实在正常运转"。
+<div>
+  <strong>💡 实务提示：</strong>在延期申请前2~3周，向税务师统一领取增值税应税标准证明、法人税财务报表、源泉征收履行状况申报表这一整套材料。这三份材料用数字证明了"经营确实在正常运转"。
 </div>
 
 ## 申请流程 — 从Hi Korea预约到获批
@@ -177,44 +163,44 @@ D-8延期材料大致分为**身份类材料**、**法人类材料**、**业绩�
 
 ### 分步流程
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">步骤</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">要做的事</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">所需时间</th>
+      <th>步骤</th>
+      <th>要做的事</th>
+      <th>所需时间</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. 事前检查</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">确认投资款维持、财务状态盘点、欠税核查</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">到期前3~4个月</td>
+      <td>1. 事前检查</td>
+      <td>确认投资款维持、财务状态盘点、欠税核查</td>
+      <td>到期前3~4个月</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. 材料准备</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">办理税务、法人、业绩材料，撰写经营业绩说明书</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~3周</td>
+      <td>2. 材料准备</td>
+      <td>办理税务、法人、业绩材料，撰写经营业绩说明书</td>
+      <td>2~3周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. Hi Korea预约</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">预约管辖出入境事务所访问(首尔南部、水原等需等待1~2个月)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1天~2个月</td>
+      <td>3. Hi Korea预约</td>
+      <td>预约管辖出入境事务所访问(首尔南部、水原等需等待1~2个月)</td>
+      <td>1天~2个月</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. 现场受理</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">前往出入境、提交材料、缴纳手续费</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">当日</td>
+      <td>4. 现场受理</td>
+      <td>前往出入境、提交材料、缴纳手续费</td>
+      <td>当日</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. 审查</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">分配审查官、材料审核、必要时提出补件要求</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2~6周</td>
+      <td>5. 审查</td>
+      <td>分配审查官、材料审核、必要时提出补件要求</td>
+      <td>2~6周</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">6. 获批与通知</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">短信通知，外国人登录证上居留期限更新</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">通知后立即</td>
+      <td>6. 获批与通知</td>
+      <td>短信通知，外国人登录证上居留期限更新</td>
+      <td>通知后立即</td>
     </tr>
   </tbody>
 </table>
@@ -227,16 +213,12 @@ D-8延期材料大致分为**身份类材料**、**法人类材料**、**业绩�
 
 补件要求通常以**审查官意见书的形式**发出。常见的具体要求包括"近期营业额明细"、"客户实际存在确认材料"、"租金缴纳凭证"等。补件期限一般为7~14天，逾期未提交将可能被判定为不予许可。
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>收到补件要求后，如果抱着"无论如何凑齐"的心态提交虚假材料，会被纳入出入境调查对象。业绩不足就如实写明不足，转而提交具体的未来计划，效果远比造假要好得多。
+<div>
+  <strong>⚠️ 注意：</strong>收到补件要求后，如果抱着"无论如何凑齐"的心态提交虚假材料，会被纳入出入境调查对象。业绩不足就如实写明不足，转而提交具体的未来计划，效果远比造假要好得多。
 </div>
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="A close-up shot of Filipino passports at the airport, indicating travel and identity." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![A close-up shot of Filipino passports at the airport, indicating travel and identity.](https://images.pexels.com/photos/32176062/pexels-photo-32176062.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## 经营业绩不足时的应对方法
@@ -269,34 +251,34 @@ D-8延期材料大致分为**身份类材料**、**法人类材料**、**业绩�
 
 ### 业绩不足时的居留期限预测
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">情况</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">预期结果</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">应对策略</th>
+      <th>情况</th>
+      <th>预期结果</th>
+      <th>应对策略</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">无营业额 + 投资款和雇佣维持</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6个月~1年短期延期</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">详细撰写经营业绩说明书</td>
+      <td>无营业额 + 投资款和雇佣维持</td>
+      <td>6个月~1年短期延期</td>
+      <td>详细撰写经营业绩说明书</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业额偏低 + 税务申报正常</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">可获批1年延期</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">附上未来合同、订货单等凭证</td>
+      <td>营业额偏低 + 税务申报正常</td>
+      <td>可获批1年延期</td>
+      <td>附上未来合同、订货单等凭证</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">营业额0元 + 员工0人</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">被拒可能性较高</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">先做出业绩再申请延期</td>
+      <td>营业额0元 + 员工0人</td>
+      <td>被拒可能性较高</td>
+      <td>先做出业绩再申请延期</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">投资款减少(不足1亿)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">几乎必被拒</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">追加增资后再申请</td>
+      <td>投资款减少(不足1亿)</td>
+      <td>几乎必被拒</td>
+      <td>追加增资后再申请</td>
     </tr>
   </tbody>
 </table>
@@ -317,8 +299,8 @@ D-8延期中**最容易卡住的地方**正是这三项。事业计划写得再�
 
 ### 欠税、未申报
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ 注意：</strong>法人税、增值税、源泉税中只要有一项处于欠税状态，延期几乎都会被拒。申请前务必办理国税、地方税纳税证明书，确认是否存在欠税。如有欠税，必须结清后再申请。
+<div>
+  <strong>⚠️ 注意：</strong>法人税、增值税、源泉税中只要有一项处于欠税状态，延期几乎都会被拒。申请前务必办理国税、地方税纳税证明书，确认是否存在欠税。如有欠税，必须结清后再申请。
 </div>
 
 ### 四大保险参保情况
@@ -388,7 +370,6 @@ D-8延期的结果，取决的不是材料数量，而是数字之间的一致�
 
 **Vision行政书士事务所 (VISION Administrative Office)**
 
-- 电话：**02-363-2251**
 - 邮箱：**5000meter@gmail.com**
 - 地址：(04614) 首尔特别市中区退溪路324号，3层(盛宇大厦)
 

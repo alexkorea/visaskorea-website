@@ -10,22 +10,8 @@ slug: "d8-visa-screening-and-denial-grounds"
 
 D-8ビザは資本金の金額よりも**資金源の説明と事業実体**で合否が分かれます。外国人投資促進法上の投資要件を満たした外国人投資企業の必須専門人材が申請対象であり、法人設立と外国人投資申告がすべて完了して初めて受付が可能になります。以下では、実際に審査官が真っ先に確認する項目、頻繁に詰まる却下理由、補正段階で再び救えるポイントを順を追って整理します。
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">目次
-  <ul style="list-style:none;padding-left:0">
-    <li style="margin:8px 0"><a href="#section-1" style="color:#2563eb;text-decoration:none">1. D-8ビザ審査が見る核心 — 書類の数より説明力</a></li>
-    <li style="margin:8px 0"><a href="#section-2" style="color:#2563eb;text-decoration:none">2. 資本金要件 — 金額より適格性で分かれます</a></li>
-    <li style="margin:8px 0"><a href="#section-3" style="color:#2563eb;text-decoration:none">3. 事業計画書 — 長さより説得力</a></li>
-    <li style="margin:8px 0"><a href="#section-4" style="color:#2563eb;text-decoration:none">4. D-8却下理由Top 5 — 実際の通知文に頻出</a></li>
-    <li style="margin:8px 0"><a href="#section-5" style="color:#2563eb;text-decoration:none">5. 却下後の再申請 — 補正なのか再申請なのかが先</a></li>
-    <li style="margin:8px 0"><a href="#section-6" style="color:#2563eb;text-decoration:none">6. 申請前の自己点検チェックリスト</a></li>
-    <li style="margin:8px 0"><a href="#section-7" style="color:#2563eb;text-decoration:none">7. よくある質問 (FAQ)</a></li>
-    <li style="margin:8px 0"><a href="#section-8" style="color:#2563eb;text-decoration:none">8. ご相談のご案内</a></li>
-    <li style="margin:8px 0"><a href="#section-9" style="color:#2563eb;text-decoration:none">9. 専門家への相談が必要ですか？</a></li>
-  </ul>
-</nav>
 
-<h2 id="section-1">D-8ビザ審査が見る核心 — 書類の数より説明力
+## D-8ビザ審査が見る核心 — 書類の数より説明力
 
 ### 資本金が入金されたという事実より「流れ」
 
@@ -37,7 +23,7 @@ D-8ビザは資本金の金額よりも**資金源の説明と事業実体**で�
 
 > **実務のヒント:** 法人設立直後の1〜2ヶ月間に売上ゼロの状態で申請するケースが多いのですが、この時点で事業進行段階を示せる契約書・発注書・MOUがあれば、実体の立証が一段と軽くなります。
 
-<h2 id="section-2">資本金要件 — 金額より適格性で分かれます
+## 資本金要件 — 金額より適格性で分かれます
 
 ### 外国人投資促進法上の適格資本金
 
@@ -59,7 +45,7 @@ D-8(D-8-1)企業投資ビザは、外国人投資促進法施行令に基づく�
 | 資本金の使用 | 事業運営費として使用された痕跡 | 即時引出、個人口座への振替 |
 | 外投企業登録 | 登録証発給完了 | 登録前のビザ申請 |
 
-<h2 id="section-3">事業計画書 — 長さより説得力
+## 事業計画書 — 長さより説得力
 
 ### 審査官が5分以内で判断する構造
 
@@ -76,7 +62,7 @@ D-8(D-8-1)企業投資ビザは、外国人投資促進法施行令に基づく�
 
 > **注意:** 事業計画書に書かれた売上推定が法人通帳の取引の流れと食い違えば、審査官はこれを信頼性の問題と捉えます。計画書と会計資料は同じトーンで揃える必要があります。
 
-<h2 id="section-4">D-8却下理由Top 5 — 実際の通知文に頻出
+## D-8却下理由Top 5 — 実際の通知文に頻出
 
 ### 1) 資金源が不明確
 
@@ -99,17 +85,12 @@ D-8(D-8-1)企業投資ビザは、外国人投資促進法施行令に基づく�
 過去の短期ビザのオーバーステイ、不法就労、虚偽書類の提出履歴がある場合です。この場合、同じ資料でも審査の厳格さが変わります。どのような場合により厳しくなるかは個別履歴によって異なるため、事前検討が先決です。
 
 > 正確な費用と手続きは専門家相談を通じてご確認ください。
-> **今すぐ無料相談のお申し込み → 02-363-2251 / カカオトーク: alexkorea**
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Close-up view of an open passport displaying various travel stamps in an airport setting." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Close-up view of an open passport displaying various travel stamps in an airport setting.](https://images.pexels.com/photos/4922356/pexels-photo-4922356.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
-<h2 id="section-5">却下後の再申請 — 補正なのか再申請なのかが先
+## 却下後の再申請 — 補正なのか再申請なのかが先
 
 ### 補正命令と却下通知の違い
 
@@ -131,7 +112,7 @@ D-8(D-8-1)企業投資ビザは、外国人投資促進法施行令に基づく�
 | 対応 | 指定資料の追加提出 | 却下理由分析後に補強 |
 | 記録 | 比較的軽い | 以降の審査に影響の可能性 |
 
-<h2 id="section-6">申請前の自己点検チェックリスト
+## 申請前の自己点検チェックリスト
 
 - 送金の流れが本人の海外口座 → 資本金口座へ一本で繋がっていますか
 - 外国人投資申告必証と外国人投資企業登録証の両方を揃えていますか
@@ -144,7 +125,7 @@ D-8(D-8-1)企業投資ビザは、外国人投資促進法施行令に基づく�
 
 詳しいD-8運営指針は出入国・外国人政策本部の[ハイコリアビザ案内](https://www.hikorea.go.kr)および[出入国・外国人政策本部のお知らせ](https://www.immigration.go.kr)でご確認いただけます。ただし、細部の運営基準は変更される場合があるため、管轄機関への確認が必要です。
 
-<h2 id="section-7">よくある質問 (FAQ)
+## よくある質問 (FAQ)
 
 **Q1. D-8ビザの資本金は通帳に入っていればよいのですか?**
 いいえ。通帳残高よりも、外国人投資申告と外国人投資企業登録まで完了した適格な投資形態かが先に問われます。本人名義の海外送金の流れが途切れずに繋がっている必要があります。
@@ -164,13 +145,12 @@ D-8(D-8-1)企業投資ビザは、外国人投資促進法施行令に基づく�
 **Q6. 資本金を事業運営費に使ってもよいですか?**
 事業目的に沿って使用された痕跡はむしろ実体立証に役立ちます。ただし払込直後に個人口座へ引き出すパターンは却下理由に繋がる可能性があります。
 
-<h2 id="section-8">ご相談のご案内
+## ご相談のご案内
 
 費用はケースごとに異なるため、無料相談時に正確にご案内いたします。政府の官納手数料は政府告示手数料 + 行政処理費で構成され、事案ごとに追加資料費用が変わる場合があります。
 
 **ビジョン行政士事務所 (VISION Administrative Office)**
 
-- 電話: 02-363-2251
 - カカオトーク: alexkorea
 - メール: 5000meter@gmail.com
 - 住所: (04614) ソウル特別市中区退渓路324、3階 (ソンウビル)
@@ -179,9 +159,8 @@ D-8ビザ申請を控え、資金源の説明、事業計画書の補強、却�
 
 ---
 
-<h2 id="section-9">専門家への相談が必要ですか？
+## 専門家への相談が必要ですか？
 
 複雑な手続き、一人で悩まないでください。専門行政士が丁寧にご案内いたします。
 
 **[無料相談を申し込む](https://visaskorea.co.kr/ja/contact)**
-

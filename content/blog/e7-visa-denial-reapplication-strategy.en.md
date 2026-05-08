@@ -148,7 +148,6 @@ The strongest approach is to match each standard duty item to your actual work, 
 
 **A precise denial analysis and reapplication strategy depends on the specific case.**
 
-Request a free consultation now → **02-363-2251** / KakaoTalk: **alexkorea**
 
 ---
 
@@ -261,7 +260,6 @@ Reviewing the denial notice, job description, and employer records together is w
 
 **Vision Administrative Services Office**
 
-- Phone: **02-363-2251**
 - Email: **5000meter@gmail.com**
 - Address: (04614) 3F, 324 Toegye-ro, Jung-gu, Seoul (Sungwoo Building)
 - KakaoTalk: **alexkorea**

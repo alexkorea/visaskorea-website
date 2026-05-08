@@ -12,20 +12,6 @@ The **85 occupations** under the E-7 Specific Activities Visa break down into th
 
 Where most applications get stuck is the occupation selection itself. The company may call the role a "developer," but immigration officers evaluate it against the KSCO occupational classification table. The key point is this: you have to work backwards from **job content → KSCO occupation code → E-7 sub-code** to find the right match, and your education and experience have to exceed that occupation's thresholds to get past intake. Below, we unpack all 85 occupations by category and flag the points that most often trip up real-world applications.
 
-<nav style="background:#f0f7ff;padding:20px;border-radius:8px;margin:24px 0">
-  <h3 style="color:#1e40af;margin-top:0">Table of Contents
-  <ul style="list-style:none;padding-left:0">
-    <li><a href="#section-1" style="color:#2563eb;text-decoration:none">1. Structure of the 85 E-7 Occupations at a Glance</a></li>
-    <li><a href="#section-2" style="color:#2563eb;text-decoration:none">2. E-7-1: 67 Professional Occupations by Category</a></li>
-    <li><a href="#section-3" style="color:#2563eb;text-decoration:none">3. E-7-2: 9 Semi-Professional Occupations</a></li>
-    <li><a href="#section-4" style="color:#2563eb;text-decoration:none">4. E-7-3: 9 General Skilled Occupations</a></li>
-    <li><a href="#section-5" style="color:#2563eb;text-decoration:none">5. Comparing Education, Experience, and Salary Requirements by Occupation</a></li>
-    <li><a href="#section-6" style="color:#2563eb;text-decoration:none">6. Application Procedure and Required Documents</a></li>
-    <li><a href="#section-7" style="color:#2563eb;text-decoration:none">7. Common Mistakes and Grounds for Rejection</a></li>
-    <li><a href="#section-8" style="color:#2563eb;text-decoration:none">8. Frequently Asked Questions (FAQ)</a></li>
-    <li><a href="#section-9" style="color:#2563eb;text-decoration:none">9. Consultation Information</a></li>
-  </ul>
-</nav>
 
 ## Structure of the 85 E-7 Occupations at a Glance
 
@@ -41,8 +27,8 @@ E-7 is the residence status granted to "activities specifically designated by th
 
 The figure 85 is simply the sum of the three tracks combined: 67 + 9 + 9 = 85. That said, there are also separate tracks such as **E-7-4 Skilled Technical Personnel (point-based system)** and **E-7-S Outstanding Talent via Negative List (advanced fields)**, which operate independently of the occupation list. This article covers the traditional "85 occupations" grouping.
 
-<div style="background:#dbeafe;border-left:4px solid #2563eb;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#1e40af">💡 Practical Tip:</strong> When describing your role, don't use vague phrasing like "IT development." First confirm the <strong>KSCO occupation code</strong>, then pin down the matching E-7 sub-code (for example, S140 Computer System Designer·Analyst). That's the fastest path through real intake.
+<div>
+  <strong>💡 Practical Tip:</strong> When describing your role, don't use vague phrasing like "IT development." First confirm the <strong>KSCO occupation code</strong>, then pin down the matching E-7 sub-code (for example, S140 Computer System Designer·Analyst). That's the fastest path through real intake.
 </div>
 
 ## E-7-1: 67 Professional Occupations by Category
@@ -51,54 +37,54 @@ E-7-1 is the largest cluster within the 85 occupations. The 67 occupations are g
 
 ### Breakdown by Major Category
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Major Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Representative Occupations</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Count</th>
+      <th>Major Category</th>
+      <th>Representative Occupations</th>
+      <th>Count</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Managers</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Executives, planning managers, HR·labor managers, production managers, overseas sales managers, etc.</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">12</td>
+      <td>Managers</td>
+      <td>Executives, planning managers, HR·labor managers, production managers, overseas sales managers, etc.</td>
+      <td>12</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Science·Engineering Professionals</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Life science researchers, natural science researchers, social science researchers, mechanical engineers, electrical engineers, etc.</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">14</td>
+      <td>Science·Engineering Professionals</td>
+      <td>Life science researchers, natural science researchers, social science researchers, mechanical engineers, electrical engineers, etc.</td>
+      <td>14</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Information·Communication Professionals</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Computer system designers·analysts, system software developers, application software developers, web specialists, database administrators, etc.</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">8</td>
+      <td>Information·Communication Professionals</td>
+      <td>Computer system designers·analysts, system software developers, application software developers, web specialists, database administrators, etc.</td>
+      <td>8</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Health·Medical Professionals</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Specialist physicians, dentists, oriental medicine doctors, veterinarians, pharmacists, etc.</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">5</td>
+      <td>Health·Medical Professionals</td>
+      <td>Specialist physicians, dentists, oriental medicine doctors, veterinarians, pharmacists, etc.</td>
+      <td>5</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Education Professionals</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">University lecturers, overseas technical school instructors, special education teachers, etc.</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3</td>
+      <td>Education Professionals</td>
+      <td>University lecturers, overseas technical school instructors, special education teachers, etc.</td>
+      <td>3</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Legal·Business·Finance Professionals</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Attorneys, accountants, tax agents, management consultants, finance·insurance specialists, investment specialists, etc.</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">12</td>
+      <td>Legal·Business·Finance Professionals</td>
+      <td>Attorneys, accountants, tax agents, management consultants, finance·insurance specialists, investment specialists, etc.</td>
+      <td>12</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Culture·Arts·Broadcasting Professionals</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Writers, translators, designers, video·recording editors, announcers, entertainment agency staff, etc.</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">7</td>
+      <td>Culture·Arts·Broadcasting Professionals</td>
+      <td>Writers, translators, designers, video·recording editors, announcers, entertainment agency staff, etc.</td>
+      <td>7</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Other Specialist Roles</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Overseas naval vessel repair technicians, specialized machinery installation·maintenance technicians, etc.</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">6</td>
+      <td>Other Specialist Roles</td>
+      <td>Overseas naval vessel repair technicians, specialized machinery installation·maintenance technicians, etc.</td>
+      <td>6</td>
     </tr>
   </tbody>
 </table>
@@ -119,24 +105,24 @@ E-7-2 groups occupations where the level of specialization is relatively lower b
 
 ### Full List of 9 Occupations
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Code</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Occupation</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Primary Duties</th>
+      <th>Code</th>
+      <th>Occupation</th>
+      <th>Primary Duties</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S510</td><td style="border:1px solid #e5e7eb;padding:10px">Duty-Free Shop Salesperson</td><td style="border:1px solid #e5e7eb;padding:10px">Selling and guiding foreign customers through duty-free merchandise</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S520</td><td style="border:1px solid #e5e7eb;padding:10px">Air Transport Clerk</td><td style="border:1px solid #e5e7eb;padding:10px">Airport boarding procedures, ticketing, and related tasks</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S530</td><td style="border:1px solid #e5e7eb;padding:10px">Hotel Reception Clerk</td><td style="border:1px solid #e5e7eb;padding:10px">Handling reservations and check-in for foreign guests</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S540</td><td style="border:1px solid #e5e7eb;padding:10px">Medical Coordinator</td><td style="border:1px solid #e5e7eb;padding:10px">Attracting foreign patients, interpretation, and treatment guidance</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S550</td><td style="border:1px solid #e5e7eb;padding:10px">Customer Service Clerk</td><td style="border:1px solid #e5e7eb;padding:10px">Foreign-language call center support</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S560</td><td style="border:1px solid #e5e7eb;padding:10px">Technical Management Specialist</td><td style="border:1px solid #e5e7eb;padding:10px">Specialized sales and administration at technology-driven companies</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S570</td><td style="border:1px solid #e5e7eb;padding:10px">Tourism Interpretation Guide</td><td style="border:1px solid #e5e7eb;padding:10px">Tour guiding (requires national certification)</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S580</td><td style="border:1px solid #e5e7eb;padding:10px">Casino Dealer</td><td style="border:1px solid #e5e7eb;padding:10px">On-floor operations at foreigner-only casinos</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S590</td><td style="border:1px solid #e5e7eb;padding:10px">Head Chef·Cook</td><td style="border:1px solid #e5e7eb;padding:10px">Preparing traditional cuisine of the relevant country (5+ years of experience required)</td></tr>
+    <tr><td>S510</td><td>Duty-Free Shop Salesperson</td><td>Selling and guiding foreign customers through duty-free merchandise</td></tr>
+    <tr><td>S520</td><td>Air Transport Clerk</td><td>Airport boarding procedures, ticketing, and related tasks</td></tr>
+    <tr><td>S530</td><td>Hotel Reception Clerk</td><td>Handling reservations and check-in for foreign guests</td></tr>
+    <tr><td>S540</td><td>Medical Coordinator</td><td>Attracting foreign patients, interpretation, and treatment guidance</td></tr>
+    <tr><td>S550</td><td>Customer Service Clerk</td><td>Foreign-language call center support</td></tr>
+    <tr><td>S560</td><td>Technical Management Specialist</td><td>Specialized sales and administration at technology-driven companies</td></tr>
+    <tr><td>S570</td><td>Tourism Interpretation Guide</td><td>Tour guiding (requires national certification)</td></tr>
+    <tr><td>S580</td><td>Casino Dealer</td><td>On-floor operations at foreigner-only casinos</td></tr>
+    <tr><td>S590</td><td>Head Chef·Cook</td><td>Preparing traditional cuisine of the relevant country (5+ years of experience required)</td></tr>
   </tbody>
 </table>
 
@@ -144,8 +130,8 @@ E-7-2 groups occupations where the level of specialization is relatively lower b
 
 In practice, **S590 Head Chef·Cook** is the trickiest. You have to document 5+ years of cooking experience in the relevant country's cuisine, and employment certificates from small home-country restaurants frequently require notarization and apostille before being accepted. Simply having enough years on paper isn't enough — explanations about **restaurant size, menu composition, and your specific role in the kitchen** also have to accompany the file.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> S570 Tourism Interpretation Guide absolutely requires the <strong>Tourism Interpretation Guide Certification</strong> issued by the Korea Tourism Organization. Applying for E-7-2 based on guide work alone without the certificate will get rejected at the document stage outright.
+<div>
+  <strong>⚠️ Caution:</strong> S570 Tourism Interpretation Guide absolutely requires the <strong>Tourism Interpretation Guide Certification</strong> issued by the Korea Tourism Organization. Applying for E-7-2 based on guide work alone without the certificate will get rejected at the document stage outright.
 </div>
 
 ## E-7-3: 9 General Skilled Occupations
@@ -154,24 +140,24 @@ E-7-3 covers hands-on skilled trades. Here, **actual technical experience** and 
 
 ### Full List of 9 Occupations
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Code</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Occupation</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Core Requirements</th>
+      <th>Code</th>
+      <th>Occupation</th>
+      <th>Core Requirements</th>
     </tr>
   </thead>
   <tbody>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S610</td><td style="border:1px solid #e5e7eb;padding:10px">Animal Caretaker</td><td style="border:1px solid #e5e7eb;padding:10px">Livestock·fisheries-related education or 5 years of experience</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S620</td><td style="border:1px solid #e5e7eb;padding:10px">Aquaculture Technician</td><td style="border:1px solid #e5e7eb;padding:10px">Fisheries-aquaculture-related experience·certification</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S630</td><td style="border:1px solid #e5e7eb;padding:10px">Halal Slaughterer</td><td style="border:1px solid #e5e7eb;padding:10px">Nationality from an Islamic country + slaughtering experience</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S640</td><td style="border:1px solid #e5e7eb;padding:10px">Musical Instrument Maker·Repairer</td><td style="border:1px solid #e5e7eb;padding:10px">Experience in making traditional or Western instruments</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S650</td><td style="border:1px solid #e5e7eb;padding:10px">Shipbuilding Welder</td><td style="border:1px solid #e5e7eb;padding:10px">Welding skill certification + confirmed shipyard employment</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S660</td><td style="border:1px solid #e5e7eb;padding:10px">Painter</td><td style="border:1px solid #e5e7eb;padding:10px">Painting trade experience</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S670</td><td style="border:1px solid #e5e7eb;padding:10px">Aircraft Mechanic</td><td style="border:1px solid #e5e7eb;padding:10px">Aircraft maintenance license + Ministry of Land·Infrastructure notice requirements</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S680</td><td style="border:1px solid #e5e7eb;padding:10px">Aluminum Alloy·Casting Worker</td><td style="border:1px solid #e5e7eb;padding:10px">Casting experience</td></tr>
-    <tr><td style="border:1px solid #e5e7eb;padding:10px">S690</td><td style="border:1px solid #e5e7eb;padding:10px">Root Industry Skilled Worker</td><td style="border:1px solid #e5e7eb;padding:10px">Experience in casting, molding, plastic working, welding, surface treatment, or heat treatment</td></tr>
+    <tr><td>S610</td><td>Animal Caretaker</td><td>Livestock·fisheries-related education or 5 years of experience</td></tr>
+    <tr><td>S620</td><td>Aquaculture Technician</td><td>Fisheries-aquaculture-related experience·certification</td></tr>
+    <tr><td>S630</td><td>Halal Slaughterer</td><td>Nationality from an Islamic country + slaughtering experience</td></tr>
+    <tr><td>S640</td><td>Musical Instrument Maker·Repairer</td><td>Experience in making traditional or Western instruments</td></tr>
+    <tr><td>S650</td><td>Shipbuilding Welder</td><td>Welding skill certification + confirmed shipyard employment</td></tr>
+    <tr><td>S660</td><td>Painter</td><td>Painting trade experience</td></tr>
+    <tr><td>S670</td><td>Aircraft Mechanic</td><td>Aircraft maintenance license + Ministry of Land·Infrastructure notice requirements</td></tr>
+    <tr><td>S680</td><td>Aluminum Alloy·Casting Worker</td><td>Casting experience</td></tr>
+    <tr><td>S690</td><td>Root Industry Skilled Worker</td><td>Experience in casting, molding, plastic working, welding, surface treatment, or heat treatment</td></tr>
   </tbody>
 </table>
 
@@ -186,56 +172,52 @@ Issuance volume for S650 Shipbuilding Welders has risen sharply in recent years.
 - Employers may only invite workers within the foreign-hiring quota allowed to them
 
 
-
-<figure style="margin:32px auto;text-align:center">
-  <img src="https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Two blue Ukrainian passports placed on a white surface, close-up view." style="width:50%;height:auto;border-radius:8px;display:inline-block" />
-  
-</figure>
+![Two blue Ukrainian passports placed on a white surface, close-up view.](https://images.pexels.com/photos/8061949/pexels-photo-8061949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940)
 
 
 ## Comparing Education, Experience, and Salary Requirements by Occupation
 
 The differences between the three tracks become clear in a single table.
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Category</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">E-7-1 Professional</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">E-7-2 Semi-Professional</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">E-7-3 General Skilled</th>
+      <th>Category</th>
+      <th>E-7-1 Professional</th>
+      <th>E-7-2 Semi-Professional</th>
+      <th>E-7-3 General Skilled</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Baseline Education</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Bachelor's or above + 1 year of experience, or master's and above</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Associate's degree or above, or relevant experience</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Skill certification or long-term experience</td>
+      <td>Baseline Education</td>
+      <td>Bachelor's or above + 1 year of experience, or master's and above</td>
+      <td>Associate's degree or above, or relevant experience</td>
+      <td>Skill certification or long-term experience</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Experience Substitution Period</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">5+ years if degree doesn't match</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–5 years by occupation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3–5 years by occupation</td>
+      <td>Experience Substitution Period</td>
+      <td>5+ years if degree doesn't match</td>
+      <td>2–5 years by occupation</td>
+      <td>3–5 years by occupation</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Minimum Salary Standard</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">80%+ of prior-year GNI</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">80%+ of prior-year GNI (with exceptions for some occupations)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">80%+ of the average Korean worker's pay in the same role</td>
+      <td>Minimum Salary Standard</td>
+      <td>80%+ of prior-year GNI</td>
+      <td>80%+ of prior-year GNI (with exceptions for some occupations)</td>
+      <td>80%+ of the average Korean worker's pay in the same role</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Employer Requirements</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Based on revenue and number of Korean national hires</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Occupation-specific criteria (hotel grade, share of foreign customers, etc.)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Sector and quota restrictions</td>
+      <td>Employer Requirements</td>
+      <td>Based on revenue and number of Korean national hires</td>
+      <td>Occupation-specific criteria (hotel grade, share of foreign customers, etc.)</td>
+      <td>Sector and quota restrictions</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">Employment Ratio Limits</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1 foreign worker per 5 Korean nationals (in principle)</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Varies by occupation</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Quotas applied by occupation</td>
+      <td>Employment Ratio Limits</td>
+      <td>1 foreign worker per 5 Korean nationals (in principle)</td>
+      <td>Varies by occupation</td>
+      <td>Quotas applied by occupation</td>
     </tr>
   </tbody>
 </table>
@@ -257,66 +239,66 @@ No matter which of the 85 occupations you fall under, the overall process flow i
 
 ### Application Procedure Step Table
 
-<table style="width:100%;border-collapse:collapse;border:1px solid #e5e7eb">
-  <thead style="background:#f0f7ff">
+<table>
+  <thead>
     <tr>
-      <th style="border:1px solid #e5e7eb;padding:10px">Step</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Content</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Handling Agency</th>
-      <th style="border:1px solid #e5e7eb;padding:10px">Processing Time</th>
+      <th>Step</th>
+      <th>Content</th>
+      <th>Handling Agency</th>
+      <th>Processing Time</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">1. Occupation Matching</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Mapping job content to KSCO and E-7 codes</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Pre-review</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">1–2 weeks</td>
+      <td>1. Occupation Matching</td>
+      <td>Mapping job content to KSCO and E-7 codes</td>
+      <td>Pre-review</td>
+      <td>1–2 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">2. Certificate of Visa Issuance Application</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Employer files with the competent Immigration Office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Competent Immigration Office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">2–4 weeks</td>
+      <td>2. Certificate of Visa Issuance Application</td>
+      <td>Employer files with the competent Immigration Office</td>
+      <td>Competent Immigration Office</td>
+      <td>2–4 weeks</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">3. Visa Application</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Collecting the visa at the Korean embassy in the home country</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Overseas mission</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">3–10 days</td>
+      <td>3. Visa Application</td>
+      <td>Collecting the visa at the Korean embassy in the home country</td>
+      <td>Overseas mission</td>
+      <td>3–10 days</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">4. Entry</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Entering Korea and confirming residence status</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Airport immigration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Same day</td>
+      <td>4. Entry</td>
+      <td>Entering Korea and confirming residence status</td>
+      <td>Airport immigration</td>
+      <td>Same day</td>
     </tr>
     <tr>
-      <td style="border:1px solid #e5e7eb;padding:10px">5. Foreign Registration</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Visit the competent Immigration Office within 90 days of entry</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Competent Immigration Office</td>
-      <td style="border:1px solid #e5e7eb;padding:10px">Processed on visit day</td>
+      <td>5. Foreign Registration</td>
+      <td>Visit the competent Immigration Office within 90 days of entry</td>
+      <td>Competent Immigration Office</td>
+      <td>Processed on visit day</td>
     </tr>
   </tbody>
 </table>
 
 ### Common Submission Documents
 
-<div style="background:#f0fdf4;border:1px solid #86efac;padding:20px;border-radius:8px;margin:20px 0">
-  <strong style="color:#166534">✅ Common Checklist for the E-7 Certificate of Visa Issuance</strong>
-  <ul style="margin-top:12px">
-    <li>Visa issuance certificate application (separate form)</li>
-    <li>Copy of passport and passport-style photo</li>
-    <li>Employment contract or letter of confirmed appointment</li>
-    <li>Degree certificate and transcript (apostilled or consular-verified)</li>
-    <li>Employment certificate (specifying employment period, position, and duties)</li>
-    <li>Copies of certifications (where required by occupation)</li>
-    <li>Employer's business registration certificate (copy)</li>
-    <li>Corporate registry extract and tax payment certificate</li>
-    <li>Evidence of domestic hiring (employment insurance enrollee roster, etc.)</li>
-    <li>Financial statements or revenue documentation</li>
-    <li>Job Description — <strong>showing how duties align with the occupation code is the decisive piece</strong></li>
-  </ul>
+<div>
+  <strong>✅ Common Checklist for the E-7 Certificate of Visa Issuance</strong>
+
+    Visa issuance certificate application (separate form)
+    Copy of passport and passport-style photo
+    Employment contract or letter of confirmed appointment
+    Degree certificate and transcript (apostilled or consular-verified)
+    Employment certificate (specifying employment period, position, and duties)
+    Copies of certifications (where required by occupation)
+    Employer's business registration certificate (copy)
+    Corporate registry extract and tax payment certificate
+    Evidence of domestic hiring (employment insurance enrollee roster, etc.)
+    Financial statements or revenue documentation
+    Job Description — <strong>showing how duties align with the occupation code is the decisive piece</strong>
+
 </div>
 
 ### Examples of Additional Documents by Occupation
@@ -327,8 +309,8 @@ No matter which of the 85 occupations you fall under, the overall process flow i
 - **Shipbuilding Welder (S650)**: Welding certification + shipyard placement confirmation + housing plan
 - **Tourism Interpretation Guide (S570)**: Tourism Interpretation Guide Certification
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> Documents issued abroad almost always require <strong>apostille or consular verification at an overseas mission</strong>. Attaching only a translation while skipping authentication of the original will stop the intake altogether. Documents from China and Vietnam, in particular, are safer when handled through notarization from the very beginning.
+<div>
+  <strong>⚠️ Caution:</strong> Documents issued abroad almost always require <strong>apostille or consular verification at an overseas mission</strong>. Attaching only a translation while skipping authentication of the original will stop the intake altogether. Documents from China and Vietnam, in particular, are safer when handled through notarization from the very beginning.
 </div>
 
 ## Common Mistakes and Grounds for Rejection
@@ -355,8 +337,8 @@ E-7 doesn't only look at the "person" — it also looks at the "company." Employ
 
 When the major doesn't match the role, **5+ years of experience** becomes mandatory, and applicants with only 3–4 years get stopped cold. Supplementing with additional certifications or completion certificates is one approach, but the baseline is securing enough years of experience.
 
-<div style="background:#fef3c7;border-left:4px solid #f59e0b;padding:16px;margin:20px 0;border-radius:4px">
-  <strong style="color:#92400e">⚠️ Caution:</strong> If you entered on an E-9 (Non-Professional Employment) status and now want to switch to E-7, there is a separate track — the <strong>Skilled Technical Personnel Point System (E-7-4)</strong>. Applying directly under the standard E-7-1 to E-7-3 codes won't pass intake. Check first whether your situation falls under the point system.
+<div>
+  <strong>⚠️ Caution:</strong> If you entered on an E-9 (Non-Professional Employment) status and now want to switch to E-7, there is a separate track — the <strong>Skilled Technical Personnel Point System (E-7-4)</strong>. Applying directly under the standard E-7-1 to E-7-3 codes won't pass intake. Check first whether your situation falls under the point system.
 </div>
 
 ### What About Reapplying After Rejection?
@@ -391,7 +373,6 @@ With E-7, the requirements and document composition shift completely depending o
 
 **VISION Administrative Office**
 
-- Phone: **02-363-2251**
 - Email: **5000meter@gmail.com**
 - Address: **3rd Floor, Seongwoo Building, 324 Toegye-ro, Jung-gu, Seoul (04614)**
 
