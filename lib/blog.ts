@@ -20,17 +20,23 @@ export interface BlogPost {
 
 export function getPostSlugs(): string[] {
   if (!fs.existsSync(postsDirectory)) return []
-  return fs
-    .readdirSync(postsDirectory)
-    .filter(f => f.endsWith('.md') && !f.match(/\.(en|zh|ja)\.md$/))
-    .map(f => f.replace('.md', ''))
+  const files = fs.readdirSync(postsDirectory).filter(f => f.endsWith('.md'))
+  const slugSet = new Set<string>()
+  for (const f of files) {
+    const slug = f.replace(/\.(en|zh|ja|ko)?\.md$/, '').replace(/\.md$/, '')
+    slugSet.add(slug)
+  }
+  return Array.from(slugSet)
 }
 
-export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost {
-  // Try locale-specific file first, then fall back to default
-  const localePath = path.join(postsDirectory, `${slug}.${locale}.md`)
-  const defaultPath = path.join(postsDirectory, `${slug}.md`)
-  const fullPath = locale !== 'ko' && fs.existsSync(localePath) ? localePath : defaultPath
+export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost | null {
+  const candidates = [
+    path.join(postsDirectory, `${slug}.${locale}.md`),
+    path.join(postsDirectory, `${slug}.md`),
+    ...['en', 'ko', 'ja', 'zh'].filter(l => l !== locale).map(l => path.join(postsDirectory, `${slug}.${l}.md`)),
+  ]
+  const fullPath = candidates.find(p => fs.existsSync(p))
+  if (!fullPath) return null
 
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
