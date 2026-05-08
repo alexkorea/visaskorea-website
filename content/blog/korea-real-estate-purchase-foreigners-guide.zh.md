@@ -28,7 +28,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 1. 外国人可以购买韩国房产吗？ {#section-1}
+## 1. 外国人可以购买韩国房产吗？
 
 根据《外国人土地法》及《房地产交易申报等相关法律》，外国人原则上可以在韩国取得土地及建筑物。
 
@@ -42,7 +42,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 2. 各类房产的限制规定 {#section-2}
+## 2. 各类房产的限制规定
 
 ### 住宅类房产（公寓·独立住宅）
 
@@ -62,7 +62,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 3. 购房流程详解 {#section-3}
+## 3. 购房流程详解
 
 | 步骤 | 内容 |
 |---|---|
@@ -76,7 +76,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 4. 申报义务 {#section-4}
+## 4. 申报义务
 
 ### 房地产交易申报
 
@@ -97,7 +97,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 5. 房产取得税费 {#section-5}
+## 5. 房产取得税费
 
 外国人与韩国国民同样需缴纳房产取得相关税费。
 
@@ -121,7 +121,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 6. 境外资金汇入及资金来源 {#section-6}
+## 6. 境外资金汇入及资金来源
 
 从境外汇入韩国房产购买资金须遵守《外国汇兑交易法》相关规定。
 
@@ -134,7 +134,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 7. 外国人能申请房贷吗？ {#section-7}
+## 7. 外国人能申请房贷吗？
 
 持有稳定在留资格的外国人可向韩国银行申请住房抵押贷款（以LTV为基准），但收入证明要求比韩国国民更为严格。
 
@@ -149,7 +149,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 8. 租赁收入税务处理 {#section-8}
+## 8. 租赁收入税务处理
 
 将取得的房产出租时，需就租赁收入缴纳税款。
 
@@ -162,7 +162,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 9. 出售时的税费（转让所得税） {#section-9}
+## 9. 出售时的税费（转让所得税）
 
 出售房产时需缴纳转让所得税，外国人与韩国国民适用相同规定。
 
@@ -177,7 +177,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 持旅游签证（C-3）入境的外国人可以在韩国买房吗？**
 A. 法律上可行，但短期签证持有人无法申请贷款，且申报手续较为繁琐。实际上，大多数购房外国人持有长期居留签证（F-2、F-5等）。
@@ -196,7 +196,7 @@ A. 可以。外国法人可在韩国取得房产，但可能需满足《外国�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 外国人在韩购房涉及申报义务、税务及外汇法规等多重事项，专业人士的协助可帮助您合规、顺利地完成交易。
 

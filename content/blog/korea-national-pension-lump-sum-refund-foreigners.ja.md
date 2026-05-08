@@ -28,7 +28,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 1. 返還一時金とは？ {#section-1}
+## 1. 返還一時金とは？
 
 国民年金返還一時金とは、年金受給要件（10年以上の加入期間＋満60歳）を満たさないまま韓国を永続的に離れる外国人に対して、これまでに納付した保険料の元本と利息を一度に返還する制度です。
 
@@ -42,7 +42,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 2. 申請対象と条件 {#section-2}
+## 2. 申請対象と条件
 
 ### 申請資格
 
@@ -63,7 +63,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 3. 返還金額の計算方法 {#section-3}
+## 3. 返還金額の計算方法
 
 返還一時金は、総納付保険料に法定利率を適用した利息を加算した金額です。
 
@@ -91,7 +91,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 4. 必要書類 {#section-4}
+## 4. 必要書類
 
 | 書類 | 備考 |
 |---|---|
@@ -105,7 +105,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 5. 申請方法と手続き {#section-5}
+## 5. 申請方法と手続き
 
 ### 3つの申請方法
 
@@ -129,7 +129,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 6. 申請タイミング（出国前 vs. 出国後） {#section-6}
+## 6. 申請タイミング（出国前 vs. 出国後）
 
 | タイミング | 申請可否 | 備考 |
 |---|---|---|
@@ -143,7 +143,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 7. 社会保障協定締結国の注意事項 {#section-7}
+## 7. 社会保障協定締結国の注意事項
 
 韓国が社会保障協定を締結している国の国民については、返還一時金の申請に特別な規定が適用される場合があります。
 
@@ -167,7 +167,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 8. 返還一時金 vs. 年金受給 {#section-8}
+## 8. 返還一時金 vs. 年金受給
 
 加入期間が10年以上の場合、返還一時金か月額老齢年金かを選択できる場合があります。
 
@@ -181,7 +181,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 9. 税金の控除について {#section-9}
+## 9. 税金の控除について
 
 返還一時金のうち、利息分については源泉徴収税が適用されます。
 
@@ -195,7 +195,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 10. よくある質問（FAQ） {#section-10}
+## 10. よくある質問（FAQ）
 
 **Q. 既に出国していますが、今から申請できますか？**
 A. はい。www.nps.or.krからオンライン申請するか、郵送でも申請できます。海外の銀行口座への国際送金も可能です。
@@ -214,7 +214,7 @@ A. はい。加入者が死亡した場合、遺族が遺族一時金を請求�
 
 ---
 
-## 11. 相談案内 {#section-11}
+## 11. 相談案内
 
 国民年金返還一時金は、韓国を離れる外国人労働者にとって重要な権利です。社会保障協定の適用有無、海外送金の手続き、税金の扱いなど複雑な事項は、専門家のサポートを受けることでスムーズに進めることができます。
 

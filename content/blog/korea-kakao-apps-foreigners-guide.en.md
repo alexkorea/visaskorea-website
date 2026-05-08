@@ -27,7 +27,7 @@ Kakao apps are central to daily life in Korea. KakaoTalk (messaging), KakaoPay (
 
 ---
 
-## 1. KakaoTalk Setup {#section-1}
+## 1. KakaoTalk Setup
 
 KakaoTalk is Korea's dominant messaging platform — nearly everyone in Korea uses it. It supports registration with a foreign phone number.
 
@@ -51,7 +51,7 @@ KakaoTalk is Korea's dominant messaging platform — nearly everyone in Korea us
 
 ---
 
-## 2. KakaoPay Setup {#section-2}
+## 2. KakaoPay Setup
 
 KakaoPay is a QR/barcode mobile payment service. Foreigners with a Korean bank account can use it.
 
@@ -75,7 +75,7 @@ KakaoPay is a QR/barcode mobile payment service. Foreigners with a Korean bank a
 
 ---
 
-## 3. Using KakaoMap {#section-3}
+## 3. Using KakaoMap
 
 KakaoMap is Korea's most accurate navigation app for local transit and business search.
 
@@ -93,7 +93,7 @@ KakaoMap is Korea's most accurate navigation app for local transit and business 
 
 ---
 
-## 4. KakaoT Taxi {#section-4}
+## 4. KakaoT Taxi
 
 KakaoT is Korea's most widely used taxi-hailing app.
 
@@ -116,7 +116,7 @@ KakaoT is Korea's most widely used taxi-hailing app.
 
 ---
 
-## 5. KakaoBank Account {#section-5}
+## 5. KakaoBank Account
 
 KakaoBank is a mobile-only internet bank. Some foreigners can open an account.
 
@@ -133,7 +133,7 @@ KakaoBank is a mobile-only internet bank. Some foreigners can open an account.
 
 ---
 
-## 6. Kakao Shopping and Gift Services {#section-6}
+## 6. Kakao Shopping and Gift Services
 
 | Service | Details |
 |---|---|
@@ -145,7 +145,7 @@ KakaoBank is a mobile-only internet bank. Some foreigners can open an account.
 
 ---
 
-## 7. Kakao-Based Identity Verification {#section-7}
+## 7. Kakao-Based Identity Verification
 
 | Method | Requirements | Used for |
 |---|---|---|
@@ -156,7 +156,7 @@ KakaoBank is a mobile-only internet bank. Some foreigners can open an account.
 
 ---
 
-## 8. Language Settings for Kakao Apps {#section-8}
+## 8. Language Settings for Kakao Apps
 
 | App | How to change language |
 |---|---|
@@ -169,7 +169,7 @@ KakaoBank is a mobile-only internet bank. Some foreigners can open an account.
 
 ---
 
-## 9. Frequently Asked Questions {#section-9}
+## 9. Frequently Asked Questions
 
 **Q. Can I sign up for KakaoTalk with a foreign phone number?**
 A. Yes — KakaoTalk accepts foreign phone numbers for registration. However, some financial features like the Kakao Certificate and KakaoPay require a Korean phone number.
@@ -188,7 +188,7 @@ A. Yes — once you set up a Kakao Certificate (카카오인증서) using your A
 
 ---
 
-## 10. Consultation {#section-10}
+## 10. Consultation
 
 For visa status, residency, or general life settlement questions in Korea, Vision Administrative Office provides expert support.
 

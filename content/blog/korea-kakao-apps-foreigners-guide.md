@@ -27,7 +27,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 1. 카카오톡 (KakaoTalk) 설정 {#section-1}
+## 1. 카카오톡 (KakaoTalk) 설정
 
 카카오톡은 한국에서 가장 널리 사용되는 메신저로, 외국 전화번호로도 가입이 가능합니다.
 
@@ -51,7 +51,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 2. 카카오페이 (KakaoPay) 설정 {#section-2}
+## 2. 카카오페이 (KakaoPay) 설정
 
 카카오페이는 QR코드·바코드 결제가 가능한 간편결제 서비스입니다. 외국인도 한국 은행 계좌와 연결하면 사용 가능합니다.
 
@@ -75,7 +75,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 3. 카카오맵 (KakaoMap) 활용 {#section-3}
+## 3. 카카오맵 (KakaoMap) 활용
 
 카카오맵은 한국 내 위치 검색·길 찾기에 특화된 지도 서비스입니다.
 
@@ -93,7 +93,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 4. 카카오T (KakaoT) 택시 호출 {#section-4}
+## 4. 카카오T (KakaoT) 택시 호출
 
 카카오T는 한국에서 가장 많이 사용되는 택시 호출 앱입니다.
 
@@ -116,7 +116,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 5. 카카오뱅크 (KakaoBank) 계좌 개설 {#section-5}
+## 5. 카카오뱅크 (KakaoBank) 계좌 개설
 
 카카오뱅크는 모바일 전용 인터넷은행입니다. 일부 외국인도 이용 가능합니다.
 
@@ -133,7 +133,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 6. 카카오 쇼핑 {#section-6}
+## 6. 카카오 쇼핑
 
 | 서비스 | 내용 |
 |---|---|
@@ -145,7 +145,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 7. 카카오 기반 본인인증 {#section-7}
+## 7. 카카오 기반 본인인증
 
 | 인증 방법 | 조건 | 활용처 |
 |---|---|---|
@@ -156,7 +156,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 8. 카카오 앱 언어 설정 {#section-8}
+## 8. 카카오 앱 언어 설정
 
 | 앱 | 언어 전환 방법 |
 |---|---|
@@ -169,7 +169,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 9. 자주 묻는 질문 (FAQ) {#section-9}
+## 9. 자주 묻는 질문 (FAQ)
 
 **Q. 외국 전화번호로 카카오톡에 가입할 수 있나요?**
 A. 네. 외국 전화번호로도 카카오톡 가입이 가능합니다. 다만 카카오인증서·카카오페이 등 일부 금융 서비스는 한국 전화번호가 필요합니다.
@@ -188,7 +188,7 @@ A. 카카오인증서를 발급받으면 정부24 등 일부 공공 서비스에
 
 ---
 
-## 10. 상담 안내 {#section-10}
+## 10. 상담 안내
 
 한국 체류자격(비자) 및 생활 정착에 대한 전문 상담이 필요하시면 비전행정사사무소에 문의하세요.
 

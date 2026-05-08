@@ -28,7 +28,7 @@ If you do not obtain a stay period extension before your permitted stay expires 
 
 ---
 
-## 1. What Is a Stay Period Extension? {#section-1}
+## 1. What Is a Stay Period Extension?
 
 A stay period extension is the process of extending your authorized period of stay in Korea while maintaining your current visa status (visa type).
 
@@ -38,7 +38,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 2. When to Apply {#section-2}
+## 2. When to Apply
 
 | Situation | Recommended Timing |
 |---|---|
@@ -50,7 +50,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 3. Where and How to Apply {#section-3}
+## 3. Where and How to Apply
 
 ### In-Person Application
 
@@ -69,7 +69,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 4. Extension Requirements by Visa Type {#section-4}
+## 4. Extension Requirements by Visa Type
 
 | Status | Key Extension Requirements |
 |---|---|
@@ -85,7 +85,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 5. Common Required Documents {#section-5}
+## 5. Common Required Documents
 
 | Document | Notes |
 |---|---|
@@ -107,7 +107,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 6. Extension Application Process {#section-6}
+## 6. Extension Application Process
 
 1. **Prepare documents** — Gather all status-specific documents in advance
 2. **Visit immigration office (appointment recommended)** — Book via HiKorea in advance
@@ -118,7 +118,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 7. Processing Time and Fees {#section-7}
+## 7. Processing Time and Fees
 
 | Item | Details |
 |---|---|
@@ -130,7 +130,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 8. Extension Denial and Overstay Warnings {#section-8}
+## 8. Extension Denial and Overstay Warnings
 
 | Situation | Details |
 |---|---|
@@ -142,7 +142,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 9. Status Change vs. Stay Extension {#section-9}
+## 9. Status Change vs. Stay Extension
 
 | | Stay Extension | Status Change |
 |--|--|--|
@@ -153,7 +153,7 @@ A stay period extension is the process of extending your authorized period of st
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I apply on the exact day my stay expires?**
 A. It is not recommended. Apply at least 2 weeks to 1 month before expiry. Same-day processing may be difficult, and if your stay expires while under review due to a same-day application, complications can arise.
@@ -172,7 +172,7 @@ A. Fees vary by status and extension period — typically KRW 60,000–100,000. 
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 A stay period extension denied due to missing documents or unmet requirements can have serious consequences. For statuses with strict screening — such as E-7, F-2, or F-6 — getting professional support is the safe approach.
 

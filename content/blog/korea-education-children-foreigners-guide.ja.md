@@ -27,7 +27,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 1. 外国人子女の教育を受ける権利 {#section-1}
+## 1. 外国人子女の教育を受ける権利
 
 | 項目 | 内容 |
 |---|---|
@@ -41,7 +41,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 2. 公立学校への入学手続き {#section-2}
+## 2. 公立学校への入学手続き
 
 | ステップ | 内容 |
 |---|---|
@@ -60,7 +60,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 3. 韓国語特別学級・支援プログラム {#section-3}
+## 3. 韓国語特別学級・支援プログラム
 
 | プログラム | 内容 |
 |---|---|
@@ -74,7 +74,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 4. 外国人学校 vs 国際学校の比較 {#section-4}
+## 4. 外国人学校 vs 国際学校の比較
 
 | 項目 | 外国人学校 | 国際学校 |
 |---|---|---|
@@ -87,7 +87,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 5. 主要外国人・国際学校一覧 {#section-5}
+## 5. 主要外国人・国際学校一覧
 
 | 学校 | 種別 | 所在地 | 特徴 |
 |---|---|---|---|
@@ -105,7 +105,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 6. 学費比較 {#section-6}
+## 6. 学費比較
 
 | 学校種別 | 年間費用 | 特記事項 |
 |---|---|---|
@@ -118,7 +118,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 7. 大学進学情報 {#section-7}
+## 7. 大学進学情報
 
 | 項目 | 内容 |
 |---|---|
@@ -130,7 +130,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 8. 放課後活動・塾 {#section-8}
+## 8. 放課後活動・塾
 
 | 項目 | 内容 |
 |---|---|
@@ -142,7 +142,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 9. よくある質問（FAQ） {#section-9}
+## 9. よくある質問（FAQ）
 
 **Q. 外国人の子どもも韓国の公立学校に入学できますか？**
 A. はい。外国人登録証を保有している子どもは、公立小学校・中学校・高校に入学する法的権利があります。小・中学校は義務教育として無償です。
@@ -161,7 +161,7 @@ A. 海外の高校卒業証明・成績証明とTOPIKまたは英語テストの
 
 ---
 
-## 10. 相談案内 {#section-10}
+## 10. 相談案内
 
 韓国での在留資格（ビザ）・家族の居住資格・生活定着に関するご相談は、ビジョン行政書士事務所にお気軽にどうぞ。
 

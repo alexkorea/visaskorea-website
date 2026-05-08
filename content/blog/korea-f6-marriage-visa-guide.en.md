@@ -28,7 +28,7 @@ The F-6 visa is issued to foreign spouses legally married to a Korean national. 
 
 ---
 
-## 1. What Is the F-6 Visa? {#section-1}
+## 1. What Is the F-6 Visa?
 
 The F-6 (Marriage Immigration) visa is issued to foreign nationals who are legally married to a Korean citizen. It permits free residence and employment in Korea.
 
@@ -41,7 +41,7 @@ The F-6 (Marriage Immigration) visa is issued to foreign nationals who are legal
 
 ---
 
-## 2. F-6 Visa Sub-Types {#section-2}
+## 2. F-6 Visa Sub-Types
 
 | Sub-type | Description |
 |---|---|
@@ -51,7 +51,7 @@ The F-6 (Marriage Immigration) visa is issued to foreign nationals who are legal
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -63,7 +63,7 @@ The F-6 (Marriage Immigration) visa is issued to foreign nationals who are legal
 
 ---
 
-## 4. Income Requirements (Sponsor) {#section-4}
+## 4. Income Requirements (Sponsor)
 
 The Korean national sponsor must have income of at least **100% of the standard median income**.
 
@@ -77,7 +77,7 @@ The Korean national sponsor must have income of at least **100% of the standard 
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Applying from Abroad (Overseas Embassy/Consulate)
 
@@ -100,7 +100,7 @@ Use the same documents above (excluding embassy-specific items), plus current vi
 
 ---
 
-## 6. Application Procedure {#section-6}
+## 6. Application Procedure
 
 | Step | Action |
 |---|---|
@@ -113,7 +113,7 @@ Use the same documents above (excluding embassy-specific items), plus current vi
 
 ---
 
-## 7. F-6 Visa Renewal {#section-7}
+## 7. F-6 Visa Renewal
 
 | Item | Details |
 |---|---|
@@ -126,7 +126,7 @@ Use the same documents above (excluding embassy-specific items), plus current vi
 
 ---
 
-## 8. Transition to F-5 Permanent Residency {#section-8}
+## 8. Transition to F-5 Permanent Residency
 
 After meeting certain requirements on an F-6 visa, you can apply for F-5 permanent residency.
 
@@ -141,7 +141,7 @@ After meeting certain requirements on an F-6 visa, you can apply for F-5 permane
 
 ---
 
-## 9. Residency Status After Divorce {#section-9}
+## 9. Residency Status After Divorce
 
 You may be able to maintain residency status even after divorce under certain conditions.
 
@@ -155,7 +155,7 @@ You may be able to maintain residency status even after divorce under certain co
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I work in Korea immediately on an F-6 visa?**
 A. Yes. The F-6 visa allows free employment in all industries without a separate work permit.
@@ -174,7 +174,7 @@ A. Once the divorce is finalized, F-6 status is lost. However, if the divorce wa
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The F-6 marriage visa involves many complex matters — income requirements, genuine marriage review, post-divorce residency, and more. Expert assistance is often needed for insufficient sponsor income, interview preparation, and permanent residence transitions.
 

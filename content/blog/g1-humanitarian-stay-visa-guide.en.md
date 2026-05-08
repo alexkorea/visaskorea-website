@@ -28,7 +28,7 @@ The G-1 (Miscellaneous) visa is issued to foreigners who do not fit any other vi
 
 ---
 
-## 1. What Is the G-1 Visa? {#section-1}
+## 1. What Is the G-1 Visa?
 
 G-1 is the "Miscellaneous" status under Korea's Immigration Act. It is issued to foreigners who do not qualify for any other status but have a specific, recognized need to remain in Korea.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. G-1 Eligible Categories and Subtypes {#section-2}
+## 2. G-1 Eligible Categories and Subtypes
 
 G-1 is issued across a range of situations:
 
@@ -58,7 +58,7 @@ All G-1 issuances require individual review by the Ministry of Justice (Immigrat
 
 ---
 
-## 3. Refugee Applicants and G-1 {#section-3}
+## 3. Refugee Applicants and G-1
 
 Filing a refugee application in Korea results in the issuance of G-1-1 status while the application is under review.
 
@@ -76,7 +76,7 @@ Refugee applications can be filed at the airport or at a local immigration offic
 
 ---
 
-## 4. Industrial Accident Workers and G-1 {#section-4}
+## 4. Industrial Accident Workers and G-1
 
 Foreign workers on E-9, H-2, or other work visas who suffer an industrial accident may transition to G-1-2 status to continue receiving treatment even after their original visa expires.
 
@@ -94,7 +94,7 @@ Korea's Labor Standards Act applies workers' compensation insurance to undocumen
 
 ---
 
-## 5. Required Documents and Application {#section-5}
+## 5. Required Documents and Application
 
 G-1 applications are made in person at the local immigration office.
 
@@ -121,7 +121,7 @@ G-1 applications are made in person at the local immigration office.
 
 ---
 
-## 6. Stay Period and Renewal {#section-6}
+## 6. Stay Period and Renewal
 
 | Item | Details |
 |---|---|
@@ -134,7 +134,7 @@ G-1 renewals are approved as long as the Ministry of Justice recognizes the cont
 
 ---
 
-## 7. Work Authorization Under G-1 {#section-7}
+## 7. Work Authorization Under G-1
 
 Employment is generally prohibited under G-1. Separate work authorization may be obtained in the following situations:
 
@@ -148,7 +148,7 @@ Unauthorized employment while on G-1 constitutes illegal employment and may resu
 
 ---
 
-## 8. G-1 vs Humanitarian Stay Permit {#section-8}
+## 8. G-1 vs Humanitarian Stay Permit
 
 Korea has a separate concept called the "Humanitarian Stay Permit" that is related to but distinct from G-1.
 
@@ -162,7 +162,7 @@ Korea has a separate concept called the "Humanitarian Stay Permit" that is relat
 
 ---
 
-## 9. Transitioning from G-1 to Other Statuses {#section-9}
+## 9. Transitioning from G-1 to Other Statuses
 
 When circumstances change during G-1 stay, transition to the appropriate status is possible.
 
@@ -178,7 +178,7 @@ Each status transition requires a separate application and review process.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Where do I apply for G-1?**
 A. Apply in person at the local immigration office or branch office with jurisdiction over your place of residence. Some applications can also be submitted online through HiKorea (www.hikorea.go.kr).
@@ -197,7 +197,7 @@ A. Yes. Foreigners who are parties to Korean court proceedings may apply for G-1
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 G-1 visa outcomes vary significantly depending on individual circumstances. When complex legal situations — such as industrial accident claims, refugee proceedings, or active litigation — intersect with immigration status, professional guidance is critical.
 

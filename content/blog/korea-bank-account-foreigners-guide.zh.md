@@ -28,7 +28,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 1. 外国人可以开立银行账户吗？ {#section-1}
+## 1. 外国人可以开立银行账户吗？
 
 大多数持合法在留资格的外国人都可以在韩国开立银行账户。
 
@@ -41,7 +41,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 2. 主要银行介绍 {#section-2}
+## 2. 主要银行介绍
 
 韩国主要商业银行均可为外国人办理开户。
 
@@ -58,7 +58,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 3. 无外国人登记证开户 {#section-3}
+## 3. 无外国人登记证开户
 
 部分银行允许在无外国人登记证的情况下开立账户。
 
@@ -72,7 +72,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 4. 持外国人登记证开户 {#section-4}
+## 4. 持外国人登记证开户
 
 持有外国人登记证（ARC）的外国人可在几乎所有主要商业银行开立与韩国内国人相同等级的账户。
 
@@ -84,7 +84,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 5. 所需材料（共同） {#section-5}
+## 5. 所需材料（共同）
 
 | 材料 | 备注 |
 |---|---|
@@ -96,7 +96,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 6. 各银行特征比较 {#section-6}
+## 6. 各银行特征比较
 
 | 银行 | 英语支持 | 中文支持 | 日语支持 | 手机银行 |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 7. 网络/手机银行设置 {#section-7}
+## 7. 网络/手机银行设置
 
 外国人也可使用韩国网络银行，但可能需要申办金融证书。
 
@@ -125,7 +125,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 8. 借记卡·信用卡申办 {#section-8}
+## 8. 借记卡·信用卡申办
 
 | 卡片种类 | 条件 | 备注 |
 |---|---|---|
@@ -135,7 +135,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 9. 海外汇款方式 {#section-9}
+## 9. 海外汇款方式
 
 从韩国向海外汇款有多种方式。
 
@@ -148,7 +148,7 @@ slug: "korea-bank-account-foreigners-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 刚到韩国还没有ARC，可以开户吗？**
 A. 可以。韩亚银行、新韩银行等部分银行仅凭护照和签证即可开户。但可能存在转账限额等功能限制，取得ARC后建议及时更新账户信息。
@@ -167,7 +167,7 @@ A. 先从借记卡开始积累韩国金融交易记录，在韩国有稳定收�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 在韩国开立银行账户与取得外国人登记证（ARC）是在韩定居的关键步骤。各签证类型所需材料和银行要求不同，专业人士的建议可帮助您更顺利地完成开户流程。
 

@@ -28,7 +28,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 1. 了解韩国租房类型 {#section-1}
+## 1. 了解韩国租房类型
 
 韩国的住宅租赁方式主要分为三种。
 
@@ -40,7 +40,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 2. 全租与月租对比 {#section-2}
+## 2. 全租与月租对比
 
 | 项目 | 全租 | 月租 |
 |---|---|---|
@@ -54,7 +54,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 3. 租房合同流程 {#section-3}
+## 3. 租房合同流程
 
 | 步骤 | 内容 |
 |---|---|
@@ -67,7 +67,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 4. 搬入登记与确定日期（保证金保障） {#section-4}
+## 4. 搬入登记与确定日期（保证金保障）
 
 这两项手续是保护保证金的法律依据，务必完成。
 
@@ -82,7 +82,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 5. 住宅租赁保护法主要内容 {#section-5}
+## 5. 住宅租赁保护法主要内容
 
 **住宅租赁保护法（주택임대차보호법）**对租户权益提供了有力保障。
 
@@ -96,7 +96,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 6. 外国人租房注意事项 {#section-6}
+## 6. 外国人租房注意事项
 
 | 注意事项 | 内容 |
 |---|---|
@@ -108,7 +108,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 7. 全租诈骗预防 {#section-7}
+## 7. 全租诈骗预防
 
 近年来全租诈骗案件激增，务必核查以下事项。
 
@@ -122,7 +122,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 8. 房产APP与中介的使用 {#section-8}
+## 8. 房产APP与中介的使用
 
 | 方式 | 特点 |
 |---|---|
@@ -135,7 +135,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 9. 搬出与保证金退还 {#section-9}
+## 9. 搬出与保证金退还
 
 | 项目 | 内容 |
 |---|---|
@@ -146,7 +146,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 外国人可以在韩国签署全租合同吗？**
 A. 可以。只要持有有效外国人登记证（ARC），外国人即可与韩国居民同等签署全租合同、办理搬入登记并取得确定日期。
@@ -165,7 +165,7 @@ A. 务必在签约前充分了解合同内容——可通过双语中介或专�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 韩国的租赁制度对外国人来说涉及诸多陌生的法律和惯例，容易产生困惑。飞展行政士事务所为在韩外国人提供居留法律问题及日常定居支持的专业咨询服务。
 

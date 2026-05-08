@@ -29,7 +29,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 1. 月別生活費サマリー（1人暮らし） {#section-1}
+## 1. 月別生活費サマリー（1人暮らし）
 
 | 項目 | 節約型 | 標準型 | ゆとり型 |
 |---|---|---|---|
@@ -46,7 +46,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 2. 住居費 {#section-2}
+## 2. 住居費
 
 住居費は生活費の中で最も大きな割合を占めます。韓国の主な賃貸方式は、チョンセ（전세）、ウォルセ（월세）、保証付き月賃（보증부월세）の3種類です。
 
@@ -61,7 +61,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 3. 食費 {#section-3}
+## 3. 食費
 
 | 項目 | 平均費用 |
 |---|---|
@@ -77,7 +77,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 4. 交通費 {#section-4}
+## 4. 交通費
 
 | 移動手段 | 料金 |
 |---|---|
@@ -93,7 +93,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 5. 通信費 {#section-5}
+## 5. 通信費
 
 | プラン | 月額 | データ量 |
 |---|---|---|
@@ -107,7 +107,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 6. 公共料金・管理費 {#section-6}
+## 6. 公共料金・管理費
 
 | 項目 | 1人暮らし月平均 |
 |---|---|
@@ -122,7 +122,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 7. 医療費 {#section-7}
+## 7. 医療費
 
 | 項目 | 健康保険加入者 | 未加入者 |
 |---|---|---|
@@ -137,7 +137,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 8. 娯楽・文化生活費 {#section-8}
+## 8. 娯楽・文化生活費
 
 | 項目 | 費用 |
 |---|---|
@@ -152,7 +152,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 9. 都市別生活費比較 {#section-9}
+## 9. 都市別生活費比較
 
 | 都市 | 生活費レベル | 特徴 |
 |---|---|---|
@@ -165,7 +165,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 10. 節約のコツ {#section-10}
+## 10. 節約のコツ
 
 | コツ | 内容 |
 |---|---|
@@ -179,7 +179,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 11. よくある質問（FAQ） {#section-11}
+## 11. よくある質問（FAQ）
 
 **Q. ソウルでひとり暮らしをすると月にいくらかかりますか？**
 A. 節約すれば100万〜130万ウォン、標準的に生活すれば150万〜200万ウォン、ゆとりある生活なら250万ウォン以上が目安です。住居費が最大の変動要因です。
@@ -198,7 +198,7 @@ A. はい。ハナ銀行グローバル送金、新韓銀行海外送金、Wise�
 
 ---
 
-## 12. 相談案内 {#section-12}
+## 12. 相談案内
 
 韓国の在留資格（ビザ）や生活定着に関するご相談は、ビジョン行政書士事務所にお気軽にどうぞ。
 

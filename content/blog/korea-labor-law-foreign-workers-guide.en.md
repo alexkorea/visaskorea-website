@@ -28,7 +28,7 @@ Foreign workers legally employed in Korea are entitled to the same protections u
 
 ---
 
-## 1. Labor Law Coverage for Foreign Workers {#section-1}
+## 1. Labor Law Coverage for Foreign Workers
 
 Article 5 of the Korean Labor Standards Act states that "no employer shall discriminate against a worker in terms of working conditions on the grounds of nationality, creed, or social status."
 
@@ -44,7 +44,7 @@ Article 5 of the Korean Labor Standards Act states that "no employer shall discr
 
 ---
 
-## 2. Employment Contract Requirements {#section-2}
+## 2. Employment Contract Requirements
 
 Under Article 17 of the Labor Standards Act, employers are **required to prepare a written employment contract** and deliver a copy to the worker.
 
@@ -62,7 +62,7 @@ Under Article 17 of the Labor Standards Act, employers are **required to prepare
 
 ---
 
-## 3. Minimum Wage (2026) {#section-3}
+## 3. Minimum Wage (2026)
 
 | Item | Amount |
 |---|---|
@@ -74,7 +74,7 @@ Under Article 17 of the Labor Standards Act, employers are **required to prepare
 
 ---
 
-## 4. Working Hours, Leave & Holidays {#section-4}
+## 4. Working Hours, Leave & Holidays
 
 ### Basic Working Hour Rules
 
@@ -94,7 +94,7 @@ Under Article 17 of the Labor Standards Act, employers are **required to prepare
 
 ---
 
-## 5. Dismissal Protections and Unfair Dismissal Remedies {#section-5}
+## 5. Dismissal Protections and Unfair Dismissal Remedies
 
 Under Article 23 of the Labor Standards Act, **dismissal without just cause is prohibited**.
 
@@ -116,7 +116,7 @@ Under Article 23 of the Labor Standards Act, **dismissal without just cause is p
 
 ---
 
-## 6. What to Do When Wages Are Withheld {#section-6}
+## 6. What to Do When Wages Are Withheld
 
 If an employer fails to pay wages, you have the following options.
 
@@ -131,7 +131,7 @@ If an employer fails to pay wages, you have the following options.
 
 ---
 
-## 7. Industrial Accident Compensation {#section-7}
+## 7. Industrial Accident Compensation
 
 Under the Industrial Accident Compensation Insurance Act, foreign workers injured in work-related accidents are entitled to **industrial accident insurance** compensation regardless of visa type.
 
@@ -153,7 +153,7 @@ Under the Industrial Accident Compensation Insurance Act, foreign workers injure
 
 ---
 
-## 8. Workplace Harassment and Discrimination Prohibitions {#section-8}
+## 8. Workplace Harassment and Discrimination Prohibitions
 
 ### Workplace Harassment Prohibition (Labor Standards Act Articles 76-2, 76-3)
 
@@ -173,7 +173,7 @@ Under the Industrial Accident Compensation Insurance Act, foreign workers injure
 
 ---
 
-## 9. Where to Report Violations and Get Help {#section-9}
+## 9. Where to Report Violations and Get Help
 
 | Agency | Contact | Services |
 |---|---|---|
@@ -187,7 +187,7 @@ Under the Industrial Accident Compensation Insurance Act, foreign workers injure
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. My employer refuses to give me a written employment contract. What can I do?**
 A. Failure to provide a written employment contract is subject to a fine of up to KRW 5 million. File a complaint with the Ministry of Employment and Labor's Labor Counseling Center (1350); they will order the employer to comply.
@@ -206,7 +206,7 @@ A. Discrimination in working conditions on the basis of nationality violates the
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Language barriers often make foreign workers more vulnerable to labor rights violations. Professional support for wage recovery, unfair dismissal cases, and industrial accident claims can make a significant difference.
 

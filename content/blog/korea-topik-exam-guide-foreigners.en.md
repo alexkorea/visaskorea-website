@@ -28,7 +28,7 @@ TOPIK (Test of Proficiency in Korean) is the nationally recognized Korean langua
 
 ---
 
-## 1. What Is TOPIK? {#section-1}
+## 1. What Is TOPIK?
 
 TOPIK is administered by the National Institute for International Education (NIIED) under the Ministry of Education.
 
@@ -42,7 +42,7 @@ TOPIK is administered by the National Institute for International Education (NII
 
 ---
 
-## 2. TOPIK I vs. TOPIK II {#section-2}
+## 2. TOPIK I vs. TOPIK II
 
 | Category | TOPIK I | TOPIK II |
 |---|---|---|
@@ -54,7 +54,7 @@ TOPIK is administered by the National Institute for International Education (NII
 
 ---
 
-## 3. Exam Schedule and Registration {#section-3}
+## 3. Exam Schedule and Registration
 
 ### 2026 Domestic Exam Schedule (Major Sessions)
 
@@ -85,7 +85,7 @@ TOPIK is administered by the National Institute for International Education (NII
 
 ---
 
-## 4. Test Structure and Scoring {#section-4}
+## 4. Test Structure and Scoring
 
 ### TOPIK I (Levels 1–2)
 
@@ -118,7 +118,7 @@ TOPIK is administered by the National Institute for International Education (NII
 
 ---
 
-## 5. What Each Level Unlocks {#section-5}
+## 5. What Each Level Unlocks
 
 | TOPIK Level | Korean Proficiency | Key Uses |
 |---|---|---|
@@ -131,7 +131,7 @@ TOPIK is administered by the National Institute for International Education (NII
 
 ---
 
-## 6. TOPIK for Visas, PR, and Naturalization {#section-6}
+## 6. TOPIK for Visas, PR, and Naturalization
 
 ### F-2-7 Points-Based Residency
 
@@ -162,7 +162,7 @@ TOPIK is administered by the National Institute for International Education (NII
 
 ---
 
-## 7. TOPIK and KIIP: How They Work Together {#section-7}
+## 7. TOPIK and KIIP: How They Work Together
 
 TOPIK and KIIP complement each other in the immigration pathway.
 
@@ -175,7 +175,7 @@ TOPIK and KIIP complement each other in the immigration pathway.
 
 ---
 
-## 8. Study Strategy by Target Level {#section-8}
+## 8. Study Strategy by Target Level
 
 | Target Level | Recommended Study Period | Focus Areas |
 |---|---|---|
@@ -192,7 +192,7 @@ TOPIK and KIIP complement each other in the immigration pathway.
 
 ---
 
-## 9. Eligibility and Rules {#section-9}
+## 9. Eligibility and Rules
 
 | Item | Details |
 |---|---|
@@ -205,7 +205,7 @@ TOPIK and KIIP complement each other in the immigration pathway.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Which is better for permanent residency: TOPIK or KIIP?**
 A. Both are accepted. TOPIK provides a quick score-based proof, while KIIP includes Korean society education. A combined approach — using TOPIK to skip KIIP stages — is the most time-efficient strategy.
@@ -224,7 +224,7 @@ A. Absolutely. TOPIK I is designed for beginners. Most students aim for it after
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 A TOPIK certificate can directly affect your visa status, permanent residency application, and naturalization eligibility. Planning when and at what level to take the exam — in relation to your immigration goals — is a key part of a successful Korea residency strategy.
 

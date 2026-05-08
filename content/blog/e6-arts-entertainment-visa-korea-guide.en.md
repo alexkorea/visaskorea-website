@@ -28,7 +28,7 @@ The E-6 (Arts & Entertainment) visa is issued to foreign nationals entering Kore
 
 ---
 
-## 1. What Is the E-6 Visa? {#section-1}
+## 1. What Is the E-6 Visa?
 
 E-6 is the "Arts & Entertainment" status under Korea's Immigration Act. It is issued to foreign nationals who enter Korea to engage in profit-generating performances, broadcasts, or sports activities.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. E-6 Subtypes: E-6-1, E-6-2, E-6-3 {#section-2}
+## 2. E-6 Subtypes: E-6-1, E-6-2, E-6-3
 
 | Subtype | Name | Primary Targets |
 |---|---|---|
@@ -52,7 +52,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 ### E-6-1 (Arts & Culture)
 
@@ -83,7 +83,7 @@ Key features:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -115,7 +115,7 @@ Key features:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Finalize sponsor and execute contract** — Sign performance/activity contract with Korean organization
 2. **Certificate of Visa Issuance (CVI)** — Sponsor applies for CVI at MOJ (required in some cases)
@@ -127,7 +127,7 @@ Key features:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -139,7 +139,7 @@ If the performance contract ends or the sponsor changes, you must apply for a st
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Subtype | Permitted Activities | Restrictions |
 |---|---|---|
@@ -151,7 +151,7 @@ If the performance contract ends or the sponsor changes, you must apply for a st
 
 ---
 
-## 8. Transitioning from E-6 to Other Statuses {#section-8}
+## 8. Transitioning from E-6 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -162,7 +162,7 @@ If the performance contract ends or the sponsor changes, you must apply for a st
 
 ---
 
-## 9. E-6 vs E-7 Comparison {#section-9}
+## 9. E-6 vs E-7 Comparison
 
 | | E-6 Arts & Entertainment | E-7 Designated Activities |
 |--|--|--|
@@ -174,7 +174,7 @@ If the performance contract ends or the sponsor changes, you must apply for a st
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can an E-6-2 visa holder perform at venues other than nightclubs?**
 A. No — performing at venues not specified in the permit is prohibited under E-6-2. Unauthorized performances are grounds for visa cancellation and deportation.
@@ -193,7 +193,7 @@ A. Yes — E-6 stay periods are included in F-2-7 point calculations. With 80+ p
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Korea's E-6 visa requirements vary significantly by subtype (E-6-1/E-6-2/E-6-3), and E-6-2 in particular faces strict scrutiny. Preparing your contract and documentation with professional support from the contracting stage significantly improves approval chances.
 

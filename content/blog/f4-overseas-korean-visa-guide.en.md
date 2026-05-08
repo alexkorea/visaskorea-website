@@ -32,7 +32,7 @@ The eligibility rules can feel complex because you must first understand the leg
 
 ---
 
-## 1. What Is the F-4 Visa? — Legal Definition and Scope {#section-1}
+## 1. What Is the F-4 Visa? — Legal Definition and Scope
 
 The F-4 (Overseas Korean) status is based on the Act on the Immigration and Legal Status of Overseas Koreans.
 
@@ -49,7 +49,7 @@ Most common cases: Korean-Americans (U.S. citizens of Korean descent), Joseonjok
 
 ---
 
-## 2. F-4 Eligibility — Former Korean Nationals {#section-2}
+## 2. F-4 Eligibility — Former Korean Nationals
 
 If you personally held Korean nationality at any point and later acquired foreign citizenship, you are eligible to apply for F-4.
 
@@ -62,7 +62,7 @@ Common cases: U.S. citizens who renounced Korean citizenship upon naturalization
 
 ---
 
-## 3. F-4 Eligibility — Parent or Grandparent Was Korean {#section-3}
+## 3. F-4 Eligibility — Parent or Grandparent Was Korean
 
 Even if you have never personally held Korean nationality, you qualify for F-4 if a **parent or grandparent** previously held Korean nationality.
 
@@ -82,7 +82,7 @@ For Joseonjok (Chinese citizens of Korean descent): The key is proving that your
 
 ---
 
-## 4. Who Cannot Get F-4 {#section-4}
+## 4. Who Cannot Get F-4
 
 Even if you meet the ancestry requirements, F-4 may be denied in the following circumstances:
 
@@ -97,7 +97,7 @@ Even if you meet the ancestry requirements, F-4 may be denied in the following c
 
 ---
 
-## 5. Permitted and Restricted Activities {#section-5}
+## 5. Permitted and Restricted Activities
 
 F-4 holders enjoy an exceptionally broad scope of permitted activities.
 
@@ -117,7 +117,7 @@ F-4 holders enjoy an exceptionally broad scope of permitted activities.
 
 ---
 
-## 6. Required Documents {#section-6}
+## 6. Required Documents
 
 ### Common Documents
 
@@ -144,7 +144,7 @@ F-4 holders enjoy an exceptionally broad scope of permitted activities.
 
 ---
 
-## 7. Application Procedure {#section-7}
+## 7. Application Procedure
 
 ### From Overseas — Visa Application at Korean Embassy/Consulate
 
@@ -159,7 +159,7 @@ If already in Korea on another visa, you can change to F-4 status via HiKorea (w
 
 ---
 
-## 8. Overseas Korean ARC (거소증) — Application and Renewal {#section-8}
+## 8. Overseas Korean ARC (거소증) — Application and Renewal
 
 F-4 holders receive an **Overseas Korean Domestic Residence Report Certificate (거소증)** instead of a regular alien registration card.
 
@@ -173,7 +173,7 @@ Benefits of the 거소증:
 
 ---
 
-## 9. From F-4 to F-5 Permanent Residency {#section-9}
+## 9. From F-4 to F-5 Permanent Residency
 
 The main pathways from F-4 to F-5 (permanent residency):
 
@@ -187,7 +187,7 @@ F-5-7 is a permanent residency category exclusively for F-4 holders and has rela
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can Joseonjok (Chinese Korean) applicants get F-4?**
 A. Yes. Joseonjok whose grandparents held Joseon-era Korean nationality qualify for F-4. Family registry extracts or household registration records linking the family to Korean ancestry are required.
@@ -206,7 +206,7 @@ A. Korean-descent males aged 18–38 with unfulfilled Korean military service fa
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 F-4 applications often fail at the document stage — the apostille, translation, and family linkage requirements for grandparent-based claims are complex, and incomplete submissions lead to rejection.
 

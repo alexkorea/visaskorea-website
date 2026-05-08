@@ -28,7 +28,7 @@ The E-4 (Technology Guidance) visa is issued to foreign technical experts dispat
 
 ---
 
-## 1. What Is the E-4 Visa? {#section-1}
+## 1. What Is the E-4 Visa?
 
 E-4 is the "Technology Guidance" status under Korea's Immigration Act. It is issued to foreign technical experts who enter Korea for the purpose of transferring, instructing, or training Korean employees in specialized industrial skills.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Eligibility Requirements {#section-2}
+## 2. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -53,7 +53,7 @@ The technical field covers manufacturing, construction, IT, and many other indus
 
 ---
 
-## 3. Technology Guidance Contract Requirements {#section-3}
+## 3. Technology Guidance Contract Requirements
 
 An E-4 application requires a technology guidance contract with the following elements:
 
@@ -67,7 +67,7 @@ An E-4 application requires a technology guidance contract with the following el
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -90,7 +90,7 @@ An E-4 application requires a technology guidance contract with the following el
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Execute technology guidance contract with Korean company**
 2. **Korean company applies for Certificate of Visa Issuance (CVI)** — At immigration office or MOJ
@@ -101,7 +101,7 @@ An E-4 application requires a technology guidance contract with the following el
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -113,7 +113,7 @@ When the technology guidance contract expires, an extension or status change is 
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Permitted Activities | Restrictions |
 |---|---|
@@ -123,7 +123,7 @@ When the technology guidance contract expires, an extension or status change is 
 
 ---
 
-## 8. Transitioning from E-4 to Other Statuses {#section-8}
+## 8. Transitioning from E-4 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -134,7 +134,7 @@ When the technology guidance contract expires, an extension or status change is 
 
 ---
 
-## 9. E-4 vs E-7 Comparison {#section-9}
+## 9. E-4 vs E-7 Comparison
 
 | | E-4 Technology Guidance | E-7 Designated Activities |
 |--|--|--|
@@ -146,7 +146,7 @@ When the technology guidance contract expires, an extension or status change is 
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Is a university degree required for an E-4 visa?**
 A. Not necessarily. E-4 values demonstrated practical expertise in the relevant technology field more than academic credentials. Sufficient industry experience and technical qualifications can substitute for formal education.
@@ -165,7 +165,7 @@ A. Yes — the spouse and minor children of an E-4 holder can live in Korea on a
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The E-4 Technology Guidance visa process can be complex, particularly when preparing the technology guidance contract and applying for the Certificate of Visa Issuance. Getting professional support from the contract drafting stage helps ensure a smoother process.
 

@@ -28,7 +28,7 @@ The D-10 visa allows foreign nationals to legally engage in job-seeking activiti
 
 ---
 
-## 1. What Is the D-10 Job Seeker Visa? {#section-1}
+## 1. What Is the D-10 Job Seeker Visa?
 
 The D-10 (Job Seeker) visa grants foreign nationals the right to legally conduct job-seeking activities in Korea. It provides time to search for employment in Korea before securing a specific job offer.
 
@@ -41,7 +41,7 @@ The D-10 (Job Seeker) visa grants foreign nationals the right to legally conduct
 
 ---
 
-## 2. D-10 Visa Sub-Types {#section-2}
+## 2. D-10 Visa Sub-Types
 
 | Sub-type | Target |
 |---|---|
@@ -50,7 +50,7 @@ The D-10 (Job Seeker) visa grants foreign nationals the right to legally conduct
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 ### D-10-1 (Korean University Graduates)
 
@@ -70,7 +70,7 @@ The D-10 (Job Seeker) visa grants foreign nationals the right to legally conduct
 
 ---
 
-## 4. Permitted Activities {#section-4}
+## 4. Permitted Activities
 
 | Activity | Permitted |
 |---|---|
@@ -84,7 +84,7 @@ The D-10 (Job Seeker) visa grants foreign nationals the right to legally conduct
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### D-10-1 (Korean University Graduate)
 
@@ -110,7 +110,7 @@ The D-10 (Job Seeker) visa grants foreign nationals the right to legally conduct
 
 ---
 
-## 6. Application Procedure {#section-6}
+## 6. Application Procedure
 
 | Step | Action |
 |---|---|
@@ -122,7 +122,7 @@ The D-10 (Job Seeker) visa grants foreign nationals the right to legally conduct
 
 ---
 
-## 7. Job Search Period and Extension {#section-7}
+## 7. Job Search Period and Extension
 
 | Item | Details |
 |---|---|
@@ -135,7 +135,7 @@ The D-10 (Job Seeker) visa grants foreign nationals the right to legally conduct
 
 ---
 
-## 8. Transitioning to a Work Visa (E-Series) {#section-8}
+## 8. Transitioning to a Work Visa (E-Series)
 
 Once employment is confirmed, apply to change to the appropriate work visa below.
 
@@ -153,7 +153,7 @@ Once employment is confirmed, apply to change to the appropriate work visa below
 
 ---
 
-## 9. F-2-7 Points-Based Residence Visa Transition {#section-9}
+## 9. F-2-7 Points-Based Residence Visa Transition
 
 D-10 visa holders who have accumulated sufficient points can apply for the F-2-7 points-based residence visa even without a confirmed job offer.
 
@@ -169,7 +169,7 @@ D-10 visa holders who have accumulated sufficient points can apply for the F-2-7
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I work part-time on a D-10 visa?**
 A. In principle, paid employment is not permitted on a D-10 visa. However, employment-oriented internships may be conditionally allowed in some cases — check with your local immigration office in advance.
@@ -188,7 +188,7 @@ A. D-10 counts as lawful stay, so it is included in total stay periods. However,
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The D-10 job seeker visa involves many complex areas — work visa transitions, extension requirements, and permitted activity restrictions. Vision Administrative Office provides expert support from D-10 visa applications through E-7 and F-2-7 transitions.
 

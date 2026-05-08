@@ -30,7 +30,7 @@ If you have been appointed as a faculty member at a Korean university or plan to
 
 ---
 
-## 1. What Is the E-1 Visa? {#section-1}
+## 1. What Is the E-1 Visa?
 
 E-1 is the "Professor" status under Korea's Immigration Act. It is issued to foreign nationals performing professional educational or research activities at higher education institutions (universities, graduate schools, junior colleges, etc.) in Korea.
 
@@ -42,7 +42,7 @@ Key features:
 
 ---
 
-## 2. Eligibility {#section-2}
+## 2. Eligibility
 
 To obtain an E-1 visa, the following requirements must be met.
 
@@ -65,7 +65,7 @@ To obtain an E-1 visa, the following requirements must be met.
 
 ---
 
-## 3. Eligible Sponsoring Institutions {#section-3}
+## 3. Eligible Sponsoring Institutions
 
 The following types of institutions can sponsor E-1 visa applications:
 
@@ -81,7 +81,7 @@ The following types of institutions can sponsor E-1 visa applications:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Applicant Documents
 
@@ -106,7 +106,7 @@ The following types of institutions can sponsor E-1 visa applications:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Complete employment contract with the institution** — Finalize appointment with a university or research institution
 2. **Obtain sponsorship documents** — Institution issues invitation letter and supporting documents
@@ -117,7 +117,7 @@ The following types of institutions can sponsor E-1 visa applications:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -129,7 +129,7 @@ If the employment contract ends, a transfer to another institution requires new 
 
 ---
 
-## 7. Spouse and Family Accompanying {#section-7}
+## 7. Spouse and Family Accompanying
 
 The spouse and minor children of E-1 holders may accompany them to Korea on F-3 (accompanying person) status.
 
@@ -141,7 +141,7 @@ The spouse and minor children of E-1 holders may accompany them to Korea on F-3 
 
 ---
 
-## 8. Transitioning from E-1 to Long-Term Stay or Permanent Residency {#section-8}
+## 8. Transitioning from E-1 to Long-Term Stay or Permanent Residency
 
 E-1 stay periods are counted toward the F-2-7 points-based residency threshold, providing a clear path toward permanent residency.
 
@@ -155,7 +155,7 @@ The F-2-7 points system combines Korean language ability, annual income, profess
 
 ---
 
-## 9. E-1 vs E-7 vs D-2 Comparison {#section-9}
+## 9. E-1 vs E-7 vs D-2 Comparison
 
 | | E-1 Professor | E-7 Designated Activities | D-2 Student |
 |--|--|--|--|
@@ -167,7 +167,7 @@ The F-2-7 points system combines Korean language ability, annual income, profess
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I get E-1 without a doctoral degree?**
 A. A master's degree combined with 5 or more years of relevant professional experience may be accepted. However, requirements vary by institution, and the reviewing officer has discretion. Applying with a doctoral degree is generally more likely to succeed.
@@ -186,7 +186,7 @@ A. Yes — after 5 or more years on E-1, if you accumulate 80 or more points und
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 E-1 visa outcomes depend heavily on how academic qualifications are documented, whether the sponsoring institution qualifies, and how the employment contract is structured. If you are planning a long-term stay in Korea through F-2-7 or F-5 permanent residency, expert guidance at the outset is strongly recommended.
 

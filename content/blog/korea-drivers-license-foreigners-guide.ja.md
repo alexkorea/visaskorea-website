@@ -28,7 +28,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 1. 韓国運転免許の種類 {#section-1}
+## 1. 韓国運転免許の種類
 
 韓国運転免許は1種と2種に分かれています。
 
@@ -45,7 +45,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 2. 外国免許の韓国免許への切替（交換発給） {#section-2}
+## 2. 外国免許の韓国免許への切替（交換発給）
 
 有効な外国運転免許証を持っている場合、試験の一部または全部が免除される条件で韓国免許に切り替えることができます。
 
@@ -81,7 +81,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 3. 新規取得：試験の流れ {#section-3}
+## 3. 新規取得：試験の流れ
 
 外国免許を持っていない場合は、全課程の試験を受ける必要があります。
 
@@ -95,7 +95,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 4. 筆記試験ガイド {#section-4}
+## 4. 筆記試験ガイド
 
 ### 試験概要
 
@@ -118,7 +118,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 5. 技能試験ガイド {#section-5}
+## 5. 技能試験ガイド
 
 技能試験は試験場の閉鎖コースで行われます。
 
@@ -131,7 +131,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 6. 路上試験ガイド {#section-6}
+## 6. 路上試験ガイド
 
 路上試験は試験場周辺の公道で行われます。
 
@@ -144,7 +144,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 7. 試験費用 {#section-7}
+## 7. 試験費用
 
 | 項目 | 目安費用 |
 |---|---|
@@ -157,7 +157,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 8. 国際運転免許証 {#section-8}
+## 8. 国際運転免許証
 
 有効な韓国運転免許証があれば、海外で運転するための国際運転免許証（국제운전면허증）を取得できます。
 
@@ -173,7 +173,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 9. 免許の更新 {#section-9}
+## 9. 免許の更新
 
 | 項目 | 内容 |
 |---|---|
@@ -185,7 +185,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 10. よくある質問（FAQ） {#section-10}
+## 10. よくある質問（FAQ）
 
 **Q. 外国運転免許証で韓国で運転できますか？**
 A. 入国日から1年以内は外国免許証で運転可能です。1年を超えた場合は韓国免許が必要です。ウィーン条約に基づいて発行された国際運転免許証も1年間有効です。
@@ -204,7 +204,7 @@ A. 強制ではありませんが、路上試験前に10時間の路上運転練
 
 ---
 
-## 11. 相談案内 {#section-11}
+## 11. 相談案内
 
 外国人の運転免許取得手続きは、国籍・ビザの種類・外国免許の有無によって異なります。免許切替や資格認定などの複雑なケースでは、専門家のサポートを受けることをお勧めします。
 

@@ -28,7 +28,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 1. 한국 임대 유형 이해 {#section-1}
+## 1. 한국 임대 유형 이해
 
 한국의 주거 임대 방식은 크게 세 가지로 나뉩니다.
 
@@ -40,7 +40,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 2. 전세와 월세 비교 {#section-2}
+## 2. 전세와 월세 비교
 
 | 항목 | 전세 | 월세 |
 |---|---|---|
@@ -54,7 +54,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 3. 임대차 계약 절차 {#section-3}
+## 3. 임대차 계약 절차
 
 | 단계 | 내용 |
 |---|---|
@@ -67,7 +67,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 4. 확정일자와 전입신고 (보증금 보호) {#section-4}
+## 4. 확정일자와 전입신고 (보증금 보호)
 
 보증금을 법적으로 보호받기 위해서는 아래 두 가지를 반드시 해야 합니다.
 
@@ -82,7 +82,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 5. 주택임대차보호법 주요 내용 {#section-5}
+## 5. 주택임대차보호법 주요 내용
 
 **주택임대차보호법**은 임차인의 권리를 강하게 보호하는 법률입니다.
 
@@ -96,7 +96,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 6. 외국인의 임대차 주의사항 {#section-6}
+## 6. 외국인의 임대차 주의사항
 
 | 주의사항 | 내용 |
 |---|---|
@@ -108,7 +108,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 7. 깡통전세·사기 예방 {#section-7}
+## 7. 깡통전세·사기 예방
 
 최근 전세 사기가 급증하고 있습니다. 아래 사항을 반드시 확인하세요.
 
@@ -122,7 +122,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 8. 부동산 앱과 공인중개사 활용 {#section-8}
+## 8. 부동산 앱과 공인중개사 활용
 
 | 방법 | 특징 |
 |---|---|
@@ -135,7 +135,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 9. 퇴거 및 보증금 반환 {#section-9}
+## 9. 퇴거 및 보증금 반환
 
 | 항목 | 내용 |
 |---|---|
@@ -146,7 +146,7 @@ slug: "korea-rental-housing-foreigners-guide"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 외국인도 한국에서 전세 계약을 할 수 있나요?**
 A. 네, 외국인등록증(ARC)이 있다면 내국인과 동일하게 전세 계약을 체결하고 전입신고 및 확정일자를 받을 수 있습니다.
@@ -165,7 +165,7 @@ A. 계약서는 한국어로 작성되므로, 공인중개사 또는 전문가�
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 한국의 임대차 계약은 외국인에게 낯선 법률과 관행이 많아 어려움을 겪는 경우가 많습니다. 비전행정사사무소에서는 외국인 체류 관련 법률 문제와 생활 정착 지원을 전문적으로 상담하고 있습니다.
 

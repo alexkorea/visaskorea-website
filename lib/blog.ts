@@ -35,6 +35,9 @@ export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
   const processedContent = remark().use(remarkGfm).use(html, { sanitize: false }).processSync(content)
+  const contentHtml = processedContent.toString()
+    .replace(/<table/g, '<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.5rem 0"><table')
+    .replace(/<\/table>/g, '</table></div>')
 
   return {
     slug: data.slug || slug,
@@ -43,7 +46,7 @@ export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost {
     category: data.category,
     excerpt: data.excerpt,
     image: data.image || '/slides/documents.jpg',
-    content: processedContent.toString(),
+    content: contentHtml,
     locale,
   }
 }

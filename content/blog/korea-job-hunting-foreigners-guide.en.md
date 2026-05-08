@@ -28,7 +28,7 @@ Korea actively recruits foreign talent across IT, manufacturing, finance, educat
 
 ---
 
-## 1. Industries Open to Foreign Workers {#section-1}
+## 1. Industries Open to Foreign Workers
 
 Key sectors where foreign professionals are hired in Korea:
 
@@ -44,7 +44,7 @@ Key sectors where foreign professionals are hired in Korea:
 
 ---
 
-## 2. Check Your Visa Before Job Hunting {#section-2}
+## 2. Check Your Visa Before Job Hunting
 
 You must have a visa that permits employment before you can legally work in Korea.
 
@@ -61,7 +61,7 @@ You must have a visa that permits employment before you can legally work in Kore
 
 ---
 
-## 3. Major Job Search Platforms {#section-3}
+## 3. Major Job Search Platforms
 
 | Platform | Features |
 |---|---|
@@ -75,7 +75,7 @@ You must have a visa that permits employment before you can legally work in Kore
 
 ---
 
-## 4. Writing a Korean-Style Resume and Cover Letter {#section-4}
+## 4. Writing a Korean-Style Resume and Cover Letter
 
 Korean applications often follow specific conventions that differ from Western styles.
 
@@ -91,7 +91,7 @@ Korean applications often follow specific conventions that differ from Western s
 
 ---
 
-## 5. The Importance of Korean Language Skills {#section-5}
+## 5. The Importance of Korean Language Skills
 
 | Work environment | Recommended Korean level |
 |---|---|
@@ -104,7 +104,7 @@ Korean applications often follow specific conventions that differ from Western s
 
 ---
 
-## 6. Work Visa Types and Requirements (E-Series) {#section-6}
+## 6. Work Visa Types and Requirements (E-Series)
 
 | Visa | Target occupation | Key requirements |
 |---|---|---|
@@ -120,7 +120,7 @@ Korean applications often follow specific conventions that differ from Western s
 
 ---
 
-## 7. Using the D-10 Job Seeker Visa {#section-7}
+## 7. Using the D-10 Job Seeker Visa
 
 The D-10 visa lets you legally conduct job searches in Korea before securing an offer.
 
@@ -133,7 +133,7 @@ The D-10 visa lets you legally conduct job searches in Korea before securing an 
 
 ---
 
-## 8. Work Visa Transition After Getting Hired {#section-8}
+## 8. Work Visa Transition After Getting Hired
 
 | Step | Action |
 |---|---|
@@ -146,7 +146,7 @@ The D-10 visa lets you legally conduct job searches in Korea before securing an 
 
 ---
 
-## 9. Industries and Companies Welcoming Foreign Workers {#section-9}
+## 9. Industries and Companies Welcoming Foreign Workers
 
 | Industry / company type | Reason |
 |---|---|
@@ -159,7 +159,7 @@ The D-10 visa lets you legally conduct job searches in Korea before securing an 
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I work in Korea without knowing any Korean?**
 A. Yes, in some cases. Foreign-owned companies, English instructor roles (E-2), and some IT positions are accessible with English only. However, learning Korean significantly expands your opportunities.
@@ -178,7 +178,7 @@ A. You need a visa that permits free employment — F-2 (residence), F-4 (overse
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Foreign nationals preparing for employment in Korea may need help with visa strategy, finding employers, and reviewing contracts. Vision Administrative Office provides expert support for E-7 work visa applications, D-10 extensions, and F-2-7 points-based residence transitions.
 

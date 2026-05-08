@@ -27,7 +27,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 1. 海外送金の基本条件 {#section-1}
+## 1. 海外送金の基本条件
 
 | 項目 | 内容 |
 |---|---|
@@ -41,7 +41,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 2. 銀行送金 {#section-2}
+## 2. 銀行送金
 
 | 銀行 | サービス名 | 特徴 |
 |---|---|---|
@@ -63,7 +63,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 3. フィンテック送金サービス（Wiseなど） {#section-3}
+## 3. フィンテック送金サービス（Wiseなど）
 
 | サービス | 特徴 | 手数料 |
 |---|---|---|
@@ -77,7 +77,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 4. コンビニ送金 {#section-4}
+## 4. コンビニ送金
 
 | サービス | 場所 | 対象国 |
 |---|---|---|
@@ -89,7 +89,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 5. 主要送金サービスの手数料比較 {#section-5}
+## 5. 主要送金サービスの手数料比較
 
 *例：100万ウォン（約700ドル）をアメリカへ送金する場合*
 
@@ -105,7 +105,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 6. 送金限度額と申告義務 {#section-6}
+## 6. 送金限度額と申告義務
 
 | 区分 | 内容 |
 |---|---|
@@ -119,7 +119,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 7. 為替節約のコツ {#section-7}
+## 7. 為替節約のコツ
 
 | コツ | 内容 |
 |---|---|
@@ -131,7 +131,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 8. 国別の送金特記事項 {#section-8}
+## 8. 国別の送金特記事項
 
 | 送金先 | 特記事項 |
 |---|---|
@@ -146,7 +146,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 9. よくある質問（FAQ） {#section-9}
+## 9. よくある質問（FAQ）
 
 **Q. 韓国の銀行口座なしで海外送金できますか？**
 A. できます。ウェスタンユニオンやコンビニのマネーグラムを使えば現金でも送金できます。ただし手数料が割高で限度額も低い場合があります。
@@ -165,7 +165,7 @@ A. 中国は個人の外貨受取が年5万ドルの上限があります。受�
 
 ---
 
-## 10. 相談案内 {#section-10}
+## 10. 相談案内
 
 韓国での在留資格（ビザ）や生活定着に関するご相談は、ビジョン行政書士事務所にお気軽にどうぞ。
 

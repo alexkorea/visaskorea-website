@@ -26,7 +26,7 @@ A bank account is essential for daily life in Korea. This guide explains how for
 
 ---
 
-## 1. Major Korean Banks Compared {#section-1}
+## 1. Major Korean Banks Compared
 
 | Bank | Highlights | Foreign Services | Languages |
 |---|---|---|---|
@@ -39,7 +39,7 @@ A bank account is essential for daily life in Korea. This guide explains how for
 
 ---
 
-## 2. Requirements and Documents for Foreign Applicants {#section-2}
+## 2. Requirements and Documents for Foreign Applicants
 
 ### Basic Requirements
 
@@ -61,7 +61,7 @@ A bank account is essential for daily life in Korea. This guide explains how for
 
 ---
 
-## 3. Bank-by-Bank Account Opening Guide {#section-3}
+## 3. Bank-by-Bank Account Opening Guide
 
 ### KB Kookmin Bank
 - Open an account at any branch nationwide
@@ -86,7 +86,7 @@ A bank account is essential for daily life in Korea. This guide explains how for
 
 ---
 
-## 4. Setting Up Internet and Mobile Banking {#section-4}
+## 4. Setting Up Internet and Mobile Banking
 
 | Item | Details |
 |---|---|
@@ -101,7 +101,7 @@ A bank account is essential for daily life in Korea. This guide explains how for
 
 ---
 
-## 5. International Wire Transfers {#section-5}
+## 5. International Wire Transfers
 
 | Method | Fee | Notes |
 |---|---|---|
@@ -119,7 +119,7 @@ A bank account is essential for daily life in Korea. This guide explains how for
 
 ---
 
-## 6. Using ATMs {#section-6}
+## 6. Using ATMs
 
 | Item | Details |
 |---|---|
@@ -133,7 +133,7 @@ A bank account is essential for daily life in Korea. This guide explains how for
 
 ---
 
-## 7. KakaoBank and Toss — Online-Only Banks {#section-7}
+## 7. KakaoBank and Toss — Online-Only Banks
 
 ### KakaoBank
 
@@ -157,7 +157,7 @@ A bank account is essential for daily life in Korea. This guide explains how for
 
 ---
 
-## 8. Frequently Asked Questions {#section-8}
+## 8. Frequently Asked Questions
 
 **Q. Can I open a Korean bank account without an ARC?**
 A. Some banks allow account opening with just a passport and visa, but the account may have limited functionality. For full banking access, it is recommended to apply after receiving your ARC.
@@ -176,7 +176,7 @@ A. Most banking apps require SMS verification with a Korean number. Some banks s
 
 ---
 
-## 9. Consultation {#section-9}
+## 9. Consultation
 
 For visa status, residency, or general life settlement questions in Korea, Vision Administrative Office provides expert support.
 

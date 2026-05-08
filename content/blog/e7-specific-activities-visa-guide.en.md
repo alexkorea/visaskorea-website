@@ -30,7 +30,7 @@ The key constraint: **the job must appear on the Ministry of Justice's approved 
 
 ---
 
-## 1. What Is E-7? — Defining "Specific Activities" {#section-1}
+## 1. What Is E-7? — Defining "Specific Activities"
 
 E-7 is the "Specific Activities" visa category under Korea's Immigration Act. "Specific activities" refers to occupations designated by the Minister of Justice in a regularly updated **approved occupation list with numerical codes**.
 
@@ -43,7 +43,7 @@ E-7 covers professionals (IT, finance, engineering, design, teaching, medical, l
 
 ---
 
-## 2. Eligible Occupations — Key Categories {#section-2}
+## 2. Eligible Occupations — Key Categories
 
 The Ministry of Justice maintains the official E-7 occupation list. Key categories include:
 
@@ -68,7 +68,7 @@ Since 2019, E-7-4 enables non-professional foreign workers (E-9 or H-2 holders) 
 
 ---
 
-## 3. Education and Experience Requirements {#section-3}
+## 3. Education and Experience Requirements
 
 Requirements vary by occupation. General principles:
 
@@ -90,7 +90,7 @@ Applicants substituting experience for education may face a stricter salary thre
 
 ---
 
-## 4. Salary Requirements {#section-4}
+## 4. Salary Requirements
 
 E-7 has a statutory minimum salary requirement.
 
@@ -110,7 +110,7 @@ E-7 has a statutory minimum salary requirement.
 
 ---
 
-## 5. Employer Requirements {#section-5}
+## 5. Employer Requirements
 
 The sponsoring employer must also meet qualifying criteria:
 
@@ -126,7 +126,7 @@ Newly established companies (under 1 year) must supply additional evidence of bu
 
 ---
 
-## 6. Required Documents {#section-6}
+## 6. Required Documents
 
 ### From the Applicant
 
@@ -152,7 +152,7 @@ Newly established companies (under 1 year) must supply additional evidence of bu
 
 ---
 
-## 7. Application Procedure {#section-7}
+## 7. Application Procedure
 
 ### From Overseas (Visa Application)
 
@@ -169,7 +169,7 @@ Newly established companies (under 1 year) must supply additional evidence of bu
 
 ---
 
-## 8. Duration and Extension {#section-8}
+## 8. Duration and Extension
 
 | Item | Details |
 |---|---|
@@ -180,7 +180,7 @@ Newly established companies (under 1 year) must supply additional evidence of bu
 
 ---
 
-## 9. E-7 to F-2 and F-5 — Pathways to Long-Term Residency {#section-9}
+## 9. E-7 to F-2 and F-5 — Pathways to Long-Term Residency
 
 Long-term E-7 holders have clear pathways to more stable residency:
 
@@ -194,7 +194,7 @@ Long-term E-7 holders have clear pathways to more stable residency:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I do freelance or part-time work for another company while on E-7?**
 A. No. E-7 ties you to a single employer and occupation. Working for any other entity — even unpaid consulting — violates your visa conditions and risks cancellation.
@@ -213,7 +213,7 @@ A. Korean immigration law does not require detailed rejection notices to be furn
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 E-7 visa success depends on correctly identifying the occupation code, meeting the salary threshold, and ensuring the employer's documentation is complete. Mismatches at any step result in rejection.
 

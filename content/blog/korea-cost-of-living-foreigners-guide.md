@@ -29,7 +29,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 1. 월별 생활비 요약 (1인 기준) {#section-1}
+## 1. 월별 생활비 요약 (1인 기준)
 
 | 항목 | 저예산 | 중간 | 여유 |
 |---|---|---|---|
@@ -46,7 +46,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 2. 주거비 {#section-2}
+## 2. 주거비
 
 주거비는 생활비 중 가장 큰 비중을 차지합니다. 한국의 임대 방식은 크게 전세·월세·보증부월세로 구분됩니다.
 
@@ -61,7 +61,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 3. 식비 {#section-3}
+## 3. 식비
 
 | 항목 | 평균 비용 |
 |---|---|
@@ -77,7 +77,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 4. 교통비 {#section-4}
+## 4. 교통비
 
 | 이동 수단 | 요금 |
 |---|---|
@@ -93,7 +93,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 5. 통신비 {#section-5}
+## 5. 통신비
 
 | 플랜 | 월 요금 | 데이터 |
 |---|---|---|
@@ -107,7 +107,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 6. 공과금·관리비 {#section-6}
+## 6. 공과금·관리비
 
 | 항목 | 1인 가구 월 평균 |
 |---|---|
@@ -122,7 +122,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 7. 의료비 {#section-7}
+## 7. 의료비
 
 | 항목 | 건강보험 가입자 | 미가입자 |
 |---|---|---|
@@ -137,7 +137,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 8. 여가·문화생활비 {#section-8}
+## 8. 여가·문화생활비
 
 | 항목 | 비용 |
 |---|---|
@@ -152,7 +152,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 9. 도시별 생활비 비교 {#section-9}
+## 9. 도시별 생활비 비교
 
 | 도시 | 생활비 지수 | 특징 |
 |---|---|---|
@@ -165,7 +165,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 10. 절약 팁 {#section-10}
+## 10. 절약 팁
 
 | 팁 | 내용 |
 |---|---|
@@ -179,7 +179,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 11. 자주 묻는 질문 (FAQ) {#section-11}
+## 11. 자주 묻는 질문 (FAQ)
 
 **Q. 서울에서 혼자 살려면 한 달에 얼마나 필요한가요?**
 A. 알뜰하게 생활하면 월 100만〜130만원, 평균적으로 150만〜200만원, 여유 있게 생활하면 250만원 이상 필요합니다. 주거비가 가장 큰 변수입니다.
@@ -198,7 +198,7 @@ A. 네. 하나은행 글로벌 송금, 신한은행 해외송금, 웨스턴유�
 
 ---
 
-## 12. 상담 안내 {#section-12}
+## 12. 상담 안내
 
 한국 체류자격(비자) 및 생활 정착에 관한 전문 상담이 필요하시면 비전행정사사무소에 문의하세요.
 

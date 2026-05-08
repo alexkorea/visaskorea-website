@@ -28,7 +28,7 @@ Korea has one of the world's best 5G networks, and foreigners with the right doc
 
 ---
 
-## 1. Eligibility Requirements for Foreigners {#section-1}
+## 1. Eligibility Requirements for Foreigners
 
 To activate a phone plan in Korea as a foreigner, you'll generally need the following.
 
@@ -44,7 +44,7 @@ To activate a phone plan in Korea as a foreigner, you'll generally need the foll
 
 ---
 
-## 2. Prepaid vs. Postpaid Plans {#section-2}
+## 2. Prepaid vs. Postpaid Plans
 
 | Item | Prepaid | Postpaid |
 |---|---|---|
@@ -57,7 +57,7 @@ To activate a phone plan in Korea as a foreigner, you'll generally need the foll
 
 ---
 
-## 3. The Three Major Carriers Compared {#section-3}
+## 3. The Three Major Carriers Compared
 
 | Carrier | Highlights |
 |---|---|
@@ -69,7 +69,7 @@ To activate a phone plan in Korea as a foreigner, you'll generally need the foll
 
 ---
 
-## 4. Budget Carriers (MVNO) {#section-4}
+## 4. Budget Carriers (MVNO)
 
 MVNOs (Mobile Virtual Network Operators) lease network capacity from the big three and offer service at lower prices.
 
@@ -85,7 +85,7 @@ MVNOs (Mobile Virtual Network Operators) lease network capacity from the big thr
 
 ---
 
-## 5. Airport SIM Cards {#section-5}
+## 5. Airport SIM Cards
 
 You can purchase a SIM card immediately upon arrival at Incheon and Gimpo airports.
 
@@ -101,7 +101,7 @@ You can purchase a SIM card immediately upon arrival at Incheon and Gimpo airpor
 
 ---
 
-## 6. Activation Procedure (Store Visit) {#section-6}
+## 6. Activation Procedure (Store Visit)
 
 | Step | Action |
 |---|---|
@@ -116,7 +116,7 @@ You can purchase a SIM card immediately upon arrival at Incheon and Gimpo airpor
 
 ---
 
-## 7. Identity Verification for Foreigners {#section-7}
+## 7. Identity Verification for Foreigners
 
 Many Korean online services require identity verification. Here's how foreigners can do it.
 
@@ -132,7 +132,7 @@ Many Korean online services require identity verification. Here's how foreigners
 
 ---
 
-## 8. Key Plan Pricing Overview {#section-8}
+## 8. Key Plan Pricing Overview
 
 | Tier | Monthly cost | Data |
 |---|---|---|
@@ -146,7 +146,7 @@ Many Korean online services require identity verification. Here's how foreigners
 
 ---
 
-## 9. eSIM Availability {#section-9}
+## 9. eSIM Availability
 
 | Item | Details |
 |---|---|
@@ -158,7 +158,7 @@ Many Korean online services require identity verification. Here's how foreigners
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I buy a SIM card in Korea without an Alien Registration Card?**
 A. Yes. Prepaid SIM cards can be purchased with a passport at convenience stores, airports, and some carrier stores. A postpaid contract generally requires an ARC.
@@ -177,7 +177,7 @@ A. Yes. Once linked to a Korean bank account, your Korean number can be used for
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Activating phone service in Korea is closely tied to residency status and alien registration. Vision Administrative Office provides expert support for all alien registration and visa-related procedures.
 

@@ -28,7 +28,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 1. 什么是出境禁止？ {#section-1}
+## 1. 什么是出境禁止？
 
 出境禁止是大韩民国政府对特定人员实施的暂时限制其出境的行政处分，依据《出入境管理法》及相关法规执行。
 
@@ -41,7 +41,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 2. 外国人出境禁止的主要原因 {#section-2}
+## 2. 外国人出境禁止的主要原因
 
 | 类别 | 具体原因 |
 |---|---|
@@ -55,7 +55,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 3. 如何查询出境禁止状态 {#section-3}
+## 3. 如何查询出境禁止状态
 
 | 查询方式 | 内容 |
 |---|---|
@@ -68,7 +68,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 4. 禁止期限与延期 {#section-4}
+## 4. 禁止期限与延期
 
 | 原因 | 基本期限 | 是否可延期 |
 |---|---|---|
@@ -78,7 +78,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 5. 申请解除出境禁止的程序 {#section-5}
+## 5. 申请解除出境禁止的程序
 
 ### 因税款拖欠导致的出境禁止
 
@@ -106,7 +106,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 6. 异议申请与行政审判程序 {#section-6}
+## 6. 异议申请与行政审判程序
 
 若认为出境禁止处分违法或不当，可依法提出异议。
 
@@ -119,7 +119,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 7. 出境禁止期间的在留资格管理 {#section-7}
+## 7. 出境禁止期间的在留资格管理
 
 出境禁止期间，维持合法在留资格至关重要。
 
@@ -133,7 +133,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 8. 如何预防出境禁止 {#section-8}
+## 8. 如何预防出境禁止
 
 | 预防方法 | 内容 |
 |---|---|
@@ -145,7 +145,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 9. 紧急出境情形处理 {#section-9}
+## 9. 紧急出境情形处理
 
 因疾病治疗、家庭紧急情况等原因急需出境时，可申请临时出境许可。
 
@@ -158,7 +158,7 @@ slug: "korea-departure-ban-foreigners-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 去机场前如何提前得知是否被出境禁止？**
 A. 可登录Hi Korea（hikorea.go.kr）查询，或亲自前往出入境·外国人厅核实。建议在重要出行前至少提前两周确认。
@@ -177,7 +177,7 @@ A. 解除后出境一般不受影响。但犯罪记录、税款拖欠历史等�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 出境禁止对外国人的生活和事业可能造成严重影响。通过专业人士的协助，可以更高效地完成解除申请、维持在留资格，并降低法律风险。
 

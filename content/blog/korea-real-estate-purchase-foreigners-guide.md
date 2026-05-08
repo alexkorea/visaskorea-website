@@ -28,7 +28,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 1. 외국인 부동산 취득 가능 여부 {#section-1}
+## 1. 외국인 부동산 취득 가능 여부
 
 한국의 「외국인토지법」 및 「부동산 거래신고 등에 관한 법률」에 따라 외국인의 토지 및 건물 취득은 원칙적으로 허용됩니다.
 
@@ -42,7 +42,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 2. 부동산 유형별 취득 규제 {#section-2}
+## 2. 부동산 유형별 취득 규제
 
 ### 주거용 부동산 (아파트·단독주택)
 
@@ -62,7 +62,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 3. 취득 절차 단계별 안내 {#section-3}
+## 3. 취득 절차 단계별 안내
 
 외국인의 한국 부동산 취득은 크게 다음 단계로 이루어집니다.
 
@@ -78,7 +78,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 4. 외국인 부동산 취득 신고 의무 {#section-4}
+## 4. 외국인 부동산 취득 신고 의무
 
 외국인이 한국에서 부동산을 취득하면 반드시 신고해야 합니다.
 
@@ -101,7 +101,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 5. 부동산 취득 세금 {#section-5}
+## 5. 부동산 취득 세금
 
 외국인도 내국인과 동일하게 부동산 취득 관련 세금을 납부해야 합니다.
 
@@ -125,7 +125,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 6. 외국환 반입 및 자금 조달 {#section-6}
+## 6. 외국환 반입 및 자금 조달
 
 한국 부동산 취득 대금을 해외에서 반입하는 경우 외국환 거래법 규정을 준수해야 합니다.
 
@@ -138,7 +138,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 7. 대출(주택담보대출) 가능 여부 {#section-7}
+## 7. 대출(주택담보대출) 가능 여부
 
 외국인도 한국 은행에서 주택담보대출(LTV 기준)을 받을 수 있습니다. 다만 체류자격 및 소득 증빙 요건이 내국인보다 까다롭습니다.
 
@@ -153,7 +153,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 8. 임대 수입 세금 처리 {#section-8}
+## 8. 임대 수입 세금 처리
 
 취득한 부동산을 임대할 경우 임대 소득에 대해 세금을 납부해야 합니다.
 
@@ -166,7 +166,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 9. 매각 시 세금 (양도소득세) {#section-9}
+## 9. 매각 시 세금 (양도소득세)
 
 부동산 매각 시 양도소득세가 부과됩니다. 외국인도 내국인과 동일하게 적용됩니다.
 
@@ -181,7 +181,7 @@ slug: "korea-real-estate-purchase-foreigners-guide"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 관광 비자(C-3)로 한국에 입국한 외국인도 부동산을 살 수 있나요?**
 A. 법적으로는 가능하지만, 단기 체류자는 대출이 불가하고 신고 의무가 복잡할 수 있습니다. 현실적으로는 장기 체류 자격(F-2, F-5 등)을 보유한 외국인이 취득하는 경우가 대부분입니다.
@@ -200,7 +200,7 @@ A. 네. 외국 법인도 한국 부동산 취득이 가능합니다. 외국인�
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 외국인의 한국 부동산 취득은 신고 의무, 세금, 외국환 규정이 복합적으로 적용되므로 전문가의 도움을 받으시면 실수 없이 절차를 진행할 수 있습니다.
 

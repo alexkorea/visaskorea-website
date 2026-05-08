@@ -28,7 +28,7 @@ Korea's e-Visa system allows foreign nationals to apply for a Korean visa entire
 
 ---
 
-## 1. What Is the Korea e-Visa? {#section-1}
+## 1. What Is the Korea e-Visa?
 
 Korea's e-Visa is an online visa application and issuance system operated by the Ministry of Justice. It lets applicants apply for and receive a Korean visa without physically visiting an embassy or consulate.
 
@@ -42,7 +42,7 @@ Korea's e-Visa is an online visa application and issuance system operated by the
 
 ---
 
-## 2. Visa Types Available for e-Visa Application {#section-2}
+## 2. Visa Types Available for e-Visa Application
 
 Not all Korean visas can be applied for through the e-Visa system. The main available types include:
 
@@ -64,7 +64,7 @@ Not all Korean visas can be applied for through the e-Visa system. The main avai
 
 ---
 
-## 3. Eligible Countries {#section-3}
+## 3. Eligible Countries
 
 The e-Visa system is open to most nationalities worldwide — over 150 countries. However, some nationalities are restricted and must apply at an embassy.
 
@@ -78,7 +78,7 @@ The e-Visa system is open to most nationalities worldwide — over 150 countries
 
 ---
 
-## 4. Step-by-Step Application Process {#section-4}
+## 4. Step-by-Step Application Process
 
 ### Step 1: Access the e-Visa Portal
 
@@ -114,7 +114,7 @@ The e-Visa system is open to most nationalities worldwide — over 150 countries
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Documents Required for All Visa Types
 
@@ -137,7 +137,7 @@ The e-Visa system is open to most nationalities worldwide — over 150 countries
 
 ---
 
-## 6. Processing Times {#section-6}
+## 6. Processing Times
 
 | Visa Type | Typical Processing Time |
 |---|---|
@@ -150,7 +150,7 @@ The e-Visa system is open to most nationalities worldwide — over 150 countries
 
 ---
 
-## 7. How to Receive Your e-Visa {#section-7}
+## 7. How to Receive Your e-Visa
 
 The e-Visa is issued as a **PDF document** — not a physical sticker in your passport.
 
@@ -163,7 +163,7 @@ The e-Visa is issued as a **PDF document** — not a physical sticker in your pa
 
 ---
 
-## 8. What to Do If Your e-Visa Is Rejected {#section-8}
+## 8. What to Do If Your e-Visa Is Rejected
 
 | Response | Details |
 |---|---|
@@ -176,7 +176,7 @@ The e-Visa is issued as a **PDF document** — not a physical sticker in your pa
 
 ---
 
-## 9. e-Visa vs. Embassy Application: Comparison {#section-9}
+## 9. e-Visa vs. Embassy Application: Comparison
 
 | Item | e-Visa | Embassy Application |
 |---|---|---|
@@ -189,7 +189,7 @@ The e-Visa is issued as a **PDF document** — not a physical sticker in your pa
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Is an e-Visa legally equivalent to a regular sticker visa?**
 A. Yes. An e-Visa carries the same legal validity as a traditional visa sticker. Print it out or display it on a device at the immigration counter.
@@ -208,7 +208,7 @@ A. No. The e-Visa is linked to your passport number. After getting a new passpor
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The e-Visa system is convenient, but documentation errors or incomplete applications can result in a rejection that affects future visa applications. For important visas — employment, marriage, student — professional guidance significantly reduces the risk.
 

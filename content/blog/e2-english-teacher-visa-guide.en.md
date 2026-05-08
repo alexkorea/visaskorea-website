@@ -28,7 +28,7 @@ The E-2 visa is issued to foreigners who teach English conversation at Korean sc
 
 ---
 
-## 1. What Is the E-2 Visa? {#section-1}
+## 1. What Is the E-2 Visa?
 
 The E-2 (Conversation Instructor) visa is issued to foreigners who provide foreign language conversation instruction at accredited institutions, including public and private schools, language academies (hagwons), universities, and corporations.
 
@@ -42,7 +42,7 @@ The E-2 (Conversation Instructor) visa is issued to foreigners who provide forei
 
 ---
 
-## 2. Eligibility Requirements {#section-2}
+## 2. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -56,7 +56,7 @@ The E-2 (Conversation Instructor) visa is issued to foreigners who provide forei
 
 ---
 
-## 3. Eligible Native English-Speaking Countries {#section-3}
+## 3. Eligible Native English-Speaking Countries
 
 Per Ministry of Justice guidelines, E-2 visa applications are accepted from citizens of the following countries.
 
@@ -74,7 +74,7 @@ Per Ministry of Justice guidelines, E-2 visa applications are accepted from citi
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Applying from Abroad (New Entry)
 
@@ -103,7 +103,7 @@ Per Ministry of Justice guidelines, E-2 visa applications are accepted from citi
 
 ---
 
-## 5. Medical Exam and Criminal Background Check {#section-5}
+## 5. Medical Exam and Criminal Background Check
 
 ### Medical Examination
 
@@ -124,7 +124,7 @@ Per Ministry of Justice guidelines, E-2 visa applications are accepted from citi
 
 ---
 
-## 6. Application Procedure {#section-6}
+## 6. Application Procedure
 
 ### Applying from Abroad (New Entry)
 
@@ -149,7 +149,7 @@ Per Ministry of Justice guidelines, E-2 visa applications are accepted from citi
 
 ---
 
-## 7. E-2 Visa Renewal {#section-7}
+## 7. E-2 Visa Renewal
 
 | Item | Details |
 |---|---|
@@ -162,7 +162,7 @@ Per Ministry of Justice guidelines, E-2 visa applications are accepted from citi
 
 ---
 
-## 8. Family Accompaniment (F-3 Visa) {#section-8}
+## 8. Family Accompaniment (F-3 Visa)
 
 E-2 visa holders can bring their spouse and minor children to Korea on an F-3 dependent visa.
 
@@ -175,7 +175,7 @@ E-2 visa holders can bring their spouse and minor children to Korea on an F-3 de
 
 ---
 
-## 9. Transitioning from E-2 to Other Visas {#section-9}
+## 9. Transitioning from E-2 to Other Visas
 
 | Target Visa | Conditions |
 |---|---|
@@ -188,7 +188,7 @@ E-2 visa holders can bring their spouse and minor children to Korea on an F-3 de
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I get an E-2 visa if my degree is not in English or education?**
 A. Yes. The E-2 visa places no restriction on the field of your degree. Any bachelor's degree from an accredited 4-year institution qualifies, regardless of major.
@@ -207,7 +207,7 @@ A. Working at more than one institution simultaneously requires advance **multi-
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The E-2 visa involves complex document requirements, including apostilles, medical examinations, and criminal background checks. Professional guidance helps avoid visa rejections and entry denials.
 

@@ -28,7 +28,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 1. 외국인 개통 조건 {#section-1}
+## 1. 외국인 개통 조건
 
 외국인이 한국에서 휴대폰을 개통하려면 다음 조건이 필요합니다.
 
@@ -44,7 +44,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 2. 선불(프리페이드) vs 후불(정기계약) {#section-2}
+## 2. 선불(프리페이드) vs 후불(정기계약)
 
 | 항목 | 선불 | 후불 |
 |---|---|---|
@@ -57,7 +57,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 3. 이동통신 3사 비교 {#section-3}
+## 3. 이동통신 3사 비교
 
 | 통신사 | 특징 |
 |---|---|
@@ -69,7 +69,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 4. 알뜰폰 (MVNO) 활용법 {#section-4}
+## 4. 알뜰폰 (MVNO) 활용법
 
 알뜰폰은 3대 이동통신사의 망을 빌려 저렴하게 서비스를 제공하는 사업자입니다.
 
@@ -85,7 +85,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 5. 공항 유심 구매 {#section-5}
+## 5. 공항 유심 구매
 
 인천국제공항과 김포공항에서는 입국 즉시 유심을 구매할 수 있습니다.
 
@@ -101,7 +101,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 6. 개통 절차 (대리점 방문) {#section-6}
+## 6. 개통 절차 (대리점 방문)
 
 | 단계 | 내용 |
 |---|---|
@@ -116,7 +116,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 7. 외국인 본인 인증 방법 {#section-7}
+## 7. 외국인 본인 인증 방법
 
 한국에서는 다양한 서비스 이용 시 본인 인증이 필요합니다.
 
@@ -132,7 +132,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 8. 주요 요금제 비교 {#section-8}
+## 8. 주요 요금제 비교
 
 | 구분 | 요금대 | 데이터 |
 |---|---|---|
@@ -146,7 +146,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 9. 이심 (eSIM) 사용 가능 여부 {#section-9}
+## 9. 이심 (eSIM) 사용 가능 여부
 
 | 항목 | 내용 |
 |---|---|
@@ -158,7 +158,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 외국인등록증(ARC) 없이 한국에서 유심을 살 수 있나요?**
 A. 네, 여권으로 선불 유심 구매는 가능합니다. 단, 후불 정기계약은 원칙적으로 ARC가 필요합니다. 편의점이나 공항에서 선불 유심을 구매할 수 있습니다.
@@ -177,7 +177,7 @@ A. 네, 한국 은행 계좌와 연동된 경우 SMS 인증을 통해 인터넷�
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 한국 거주 외국인의 통신 서비스 개통은 체류자격과 연관된 여러 실무 문제와 맞닿아 있습니다. 비전행정사사무소에서는 외국인 등록, 체류자격 관련 모든 절차를 전문적으로 지원합니다.
 

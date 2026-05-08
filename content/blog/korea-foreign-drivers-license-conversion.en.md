@@ -28,7 +28,7 @@ Foreign nationals on long-term stays in Korea can convert their home country dri
 
 ---
 
-## 1. What Is Foreign Driver's License Conversion? {#section-1}
+## 1. What Is Foreign Driver's License Conversion?
 
 Foreign driver's license conversion is the process of exchanging your home country license for a Korean driver's license. Holding a Korean license allows you to drive domestically during long-term stays without needing to renew an International Driving Permit.
 
@@ -39,7 +39,7 @@ Benefits of conversion:
 
 ---
 
-## 2. Countries Eligible for No-Test Conversion {#section-2}
+## 2. Countries Eligible for No-Test Conversion
 
 Holders of licenses from countries with mutual recognition agreements with Korea can convert without written or road tests.
 
@@ -54,7 +54,7 @@ Holders of licenses from countries with mutual recognition agreements with Korea
 
 ---
 
-## 3. Countries Requiring Tests {#section-3}
+## 3. Countries Requiring Tests
 
 Applicants from countries without a mutual recognition agreement with Korea may be required to pass a written test, skills test, or both.
 
@@ -66,7 +66,7 @@ Applicants from countries without a mutual recognition agreement with Korea may 
 
 ---
 
-## 4. Eligibility Requirements {#section-4}
+## 4. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -77,7 +77,7 @@ Applicants from countries without a mutual recognition agreement with Korea may 
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 | Document | Notes |
 |---|---|
@@ -93,7 +93,7 @@ Applicants from countries without a mutual recognition agreement with Korea may 
 
 ---
 
-## 6. Where and How to Apply {#section-6}
+## 6. Where and How to Apply
 
 ### Application Locations
 
@@ -113,7 +113,7 @@ Applicants from countries without a mutual recognition agreement with Korea may 
 
 ---
 
-## 7. Validity and Renewal After Conversion {#section-7}
+## 7. Validity and Renewal After Conversion
 
 | Item | Details |
 |---|---|
@@ -123,7 +123,7 @@ Applicants from countries without a mutual recognition agreement with Korea may 
 
 ---
 
-## 8. Consequences of Driving Without a Valid License {#section-8}
+## 8. Consequences of Driving Without a Valid License
 
 | Situation | Details |
 |---|---|
@@ -133,7 +133,7 @@ Applicants from countries without a mutual recognition agreement with Korea may 
 
 ---
 
-## 9. International Driving Permit (IDP) Usage {#section-9}
+## 9. International Driving Permit (IDP) Usage
 
 An IDP is a temporary driving authorization issued in your home country.
 
@@ -146,7 +146,7 @@ An IDP is a temporary driving authorization issued in your home country.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I drive in Korea immediately on my foreign license?**
 A. Yes. For up to 1 year after entry, you may drive using an IDP (International Driving Permit) or your home country license with a certified Korean translation. After 1 year, you must convert to a Korean license.
@@ -165,7 +165,7 @@ A. As of 2024, China does not have a mutual recognition agreement with Korea, so
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Driver's license conversion is a practical living service closely tied to your visa status. If you need help with license conversion alongside visa status matters, alien registration, or other administrative services, we're here to help.
 

@@ -20,7 +20,7 @@ Foreign companies looking to establish a presence in Korea without setting up a 
 <li>No minimum capital requirement for branch or liaison office registration</li>
 </ul></div>
 
-## Branch Office vs. Liaison Office {#types}
+## Branch Office vs. Liaison Office
 
 | Feature | Branch Office (지점) | Liaison Office (연락사무소) |
 |---|---|---|
@@ -33,7 +33,7 @@ Foreign companies looking to establish a presence in Korea without setting up a 
 
 The branch office is the most common choice for foreign companies entering the Korean market who need to invoice clients and generate revenue. The liaison office suits companies that only need a local point of contact for communication, procurement, or market research.
 
-## Registration Requirements {#requirements}
+## Registration Requirements
 
 ### Branch Office
 - Parent company must be a validly incorporated legal entity in its home country
@@ -47,7 +47,7 @@ The branch office is the most common choice for foreign companies entering the K
 - Representative must be designated
 - Cannot issue invoices or conclude contracts in Korea
 
-## Required Documents {#documents}
+## Required Documents
 
 ### From the Parent Company (apostilled or consularized)
 
@@ -70,7 +70,7 @@ The branch office is the most common choice for foreign companies entering the K
 
 All foreign documents must be **apostilled** (for Hague Convention member countries) or **notarized and consularized** (for non-member countries), then translated into Korean by a certified translator.
 
-## Registration Process {#process}
+## Registration Process
 
 1. **Prepare foreign documents**: Gather incorporation certificate, board resolution, articles of association — apostille all documents
 2. **Korean translation**: All apostilled documents must be translated into Korean
@@ -81,7 +81,7 @@ All foreign documents must be **apostilled** (for Hague Convention member countr
 
 **Timeline**: Document preparation 2–4 weeks (including apostille), court registration 1–2 weeks, tax registration 1 week. Total: approximately 4–7 weeks from start to operational.
 
-## Visa for Branch Office Staff (D-7) {#visa}
+## Visa for Branch Office Staff (D-7)
 
 Foreign nationals dispatched from the parent company's headquarters to work at the Korean branch qualify for the **D-7 Intra-Company Transferee visa**.
 
@@ -101,7 +101,7 @@ Foreign nationals dispatched from the parent company's headquarters to work at t
 
 The D-7 visa is initially issued for 1–2 years and is renewable as long as the dispatch relationship continues.
 
-## FAQ {#faq}
+## FAQ
 
 **Q. Does a branch office need to file corporate tax returns in Korea?**
 Yes. A branch office conducting business in Korea is a permanent establishment and must file Korean corporate income tax returns. Profits attributable to Korean activities are taxable. A liaison office with purely non-commercial activities typically does not need to file.

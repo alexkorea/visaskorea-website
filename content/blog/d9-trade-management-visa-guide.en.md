@@ -30,7 +30,7 @@ If you plan to run an import/export business in Korea or manage a Korean branch 
 
 ---
 
-## 1. What Is the D-9 Visa? {#section-1}
+## 1. What Is the D-9 Visa?
 
 D-9 is the "Trade/Business Management" status under Korea's Immigration Act. It is issued to foreign nationals who operate a trading company or profit-making business in Korea, or who serve as the representative or executive of a Korean entity on behalf of a foreign company.
 
@@ -42,7 +42,7 @@ Key features:
 
 ---
 
-## 2. D-9 Subtypes {#section-2}
+## 2. D-9 Subtypes
 
 D-9 is divided into two categories based on the type of business activity:
 
@@ -55,7 +55,7 @@ D-9-1 requires demonstrable trade (import/export) track records. D-9-3 focuses o
 
 ---
 
-## 3. Eligibility and Trade Volume Requirements {#section-3}
+## 3. Eligibility and Trade Volume Requirements
 
 ### D-9-1 (Trade Management)
 
@@ -79,7 +79,7 @@ D-9-1 requires demonstrable trade (import/export) track records. D-9-3 focuses o
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Applicant Documents
 
@@ -105,7 +105,7 @@ D-9-1 requires demonstrable trade (import/export) track records. D-9-3 focuses o
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Establish a Korean entity or business** — Incorporate a company or register an individual business
 2. **Prepare trade records or business plan** — Gather import/export evidence or detailed business plan
@@ -116,7 +116,7 @@ D-9-1 requires demonstrable trade (import/export) track records. D-9-3 focuses o
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -128,7 +128,7 @@ If trade volume is insufficient or the business has effectively ceased, renewal 
 
 ---
 
-## 7. Spouse and Family Accompanying {#section-7}
+## 7. Spouse and Family Accompanying
 
 The spouse and minor children of D-9 holders may accompany them to Korea on F-3 (accompanying person) status.
 
@@ -140,7 +140,7 @@ The spouse and minor children of D-9 holders may accompany them to Korea on F-3 
 
 ---
 
-## 8. Transitioning from D-9 to Long-Term Stay or Permanent Residency {#section-8}
+## 8. Transitioning from D-9 to Long-Term Stay or Permanent Residency
 
 D-9 offers several pathways to long-term and permanent residency.
 
@@ -155,7 +155,7 @@ The F-2-7 points system scores Korean language ability, annual income, length of
 
 ---
 
-## 9. D-9 vs D-8 vs D-7 Comparison {#section-9}
+## 9. D-9 vs D-8 vs D-7 Comparison
 
 | | D-9 Trade Management | D-8 Corporate Investment | D-7 Intra-Company Transfer |
 |--|--|--|--|
@@ -168,7 +168,7 @@ The F-2-7 points system scores Korean language ability, annual income, length of
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Do I have to be in trade to get D-9?**
 A. D-9-1 (Trade Management) requires import/export track records. However, D-9-3 (General Business Management) covers non-trade profit-making businesses as well. Either way, real business operations must be demonstrated.
@@ -187,7 +187,7 @@ A. There is no direct D-9 → F-5 path, but if you accumulate enough points duri
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 For D-9 visa applications, determining whether D-9-1 or D-9-3 fits your situation, how to document trade volume, and planning for long-term status or permanent residency are all critical decisions that benefit from expert guidance.
 

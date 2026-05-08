@@ -28,7 +28,7 @@ Korea's National Health Insurance (NHI) is mandatory for foreign nationals who m
 
 ---
 
-## 1. Mandatory Enrollment for Foreigners {#section-1}
+## 1. Mandatory Enrollment for Foreigners
 
 Since July 2019, foreign nationals staying in Korea for 6 months or longer are **required** to enroll in the National Health Insurance (NHI).
 
@@ -39,7 +39,7 @@ Key points:
 
 ---
 
-## 2. Who Must Enroll vs. Who Is Exempt {#section-2}
+## 2. Who Must Enroll vs. Who Is Exempt
 
 ### Mandatory Enrollment
 
@@ -61,7 +61,7 @@ Key points:
 
 ---
 
-## 3. Employee-Insured vs. Locally-Insured {#section-3}
+## 3. Employee-Insured vs. Locally-Insured
 
 | | Employee-Insured | Locally-Insured |
 |---|---|---|
@@ -72,7 +72,7 @@ Key points:
 
 ---
 
-## 4. How Premiums Are Calculated {#section-4}
+## 4. How Premiums Are Calculated
 
 ### Employee-Insured Premiums
 
@@ -92,7 +92,7 @@ Key points:
 
 ---
 
-## 5. How to Enroll {#section-5}
+## 5. How to Enroll
 
 ### Employee-Insured
 
@@ -109,7 +109,7 @@ Key points:
 
 ---
 
-## 6. What NHI Covers {#section-6}
+## 6. What NHI Covers
 
 NHI covers a portion of medical costs across many categories.
 
@@ -125,7 +125,7 @@ NHI covers a portion of medical costs across many categories.
 
 ---
 
-## 7. Consequences of Not Enrolling {#section-7}
+## 7. Consequences of Not Enrolling
 
 | Issue | Details |
 |---|---|
@@ -135,7 +135,7 @@ NHI covers a portion of medical costs across many categories.
 
 ---
 
-## 8. Special Provisions for Foreigners {#section-8}
+## 8. Special Provisions for Foreigners
 
 | Provision | Who It Applies To |
 |---|---|
@@ -146,7 +146,7 @@ NHI covers a portion of medical costs across many categories.
 
 ---
 
-## 9. How Health Insurance Affects Your Visa {#section-9}
+## 9. How Health Insurance Affects Your Visa
 
 NHI enrollment and premium payment status can affect your visa extension and status change reviews.
 
@@ -158,7 +158,7 @@ NHI enrollment and premium payment status can affect your visa extension and sta
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Do I need health insurance if I'm on a short-term work visa (C-4) or tourist visa?**
 A. No. Foreigners planning to stay less than 6 months are not required to enroll. However, once you switch to a long-term work visa (E-7, E-9, etc.), enrollment becomes mandatory immediately.
@@ -177,7 +177,7 @@ A. Without NHI, you pay 100% of medical costs, which can be 3–5 times higher t
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Health insurance enrollment is a basic requirement for safe living in Korea. For foreigners, the enrollment process and premium calculation can be complex — expert support tied to your visa status can make a real difference.
 

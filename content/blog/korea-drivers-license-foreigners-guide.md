@@ -28,7 +28,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 1. 한국 운전면허 종류 {#section-1}
+## 1. 한국 운전면허 종류
 
 한국 운전면허는 1종(대형·보통·소형·특수)과 2종(보통·소형·원동기)으로 나뉩니다.
 
@@ -43,7 +43,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 2. 외국 면허 한국 면허 변환 (교환발급) {#section-2}
+## 2. 외국 면허 한국 면허 변환 (교환발급)
 
 외국 운전면허를 보유한 경우, 시험 없이 또는 간소한 절차로 한국 면허로 교환할 수 있습니다.
 
@@ -68,7 +68,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 3. 새로 취득: 시험 절차 {#section-3}
+## 3. 새로 취득: 시험 절차
 
 한국에서 처음 운전면허를 취득하는 경우 다음 단계를 따릅니다.
 
@@ -83,7 +83,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 4. 필기시험 안내 {#section-4}
+## 4. 필기시험 안내
 
 | 항목 | 내용 |
 |---|---|
@@ -102,7 +102,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 5. 기능시험 안내 {#section-5}
+## 5. 기능시험 안내
 
 | 항목 | 내용 |
 |---|---|
@@ -112,7 +112,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 6. 도로주행시험 안내 {#section-6}
+## 6. 도로주행시험 안내
 
 | 항목 | 내용 |
 |---|---|
@@ -124,7 +124,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 7. 비용 및 발급 절차 {#section-7}
+## 7. 비용 및 발급 절차
 
 | 항목 | 비용 (참고) |
 |---|---|
@@ -143,7 +143,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 8. 국제운전면허증 발급 {#section-8}
+## 8. 국제운전면허증 발급
 
 한국 운전면허증 보유자는 한국에서 국제운전면허증을 발급받을 수 있습니다.
 
@@ -159,7 +159,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 9. 면허 유지 및 갱신 {#section-9}
+## 9. 면허 유지 및 갱신
 
 | 항목 | 내용 |
 |---|---|
@@ -170,7 +170,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 일본이나 미국 면허가 있으면 시험 없이 바로 한국 면허로 바꿀 수 있나요?**
 A. 네. 미국, 일본, 영국, 독일, 캐나다, 프랑스, 호주 등 상호 협정 체결국 면허 보유자는 필기·기능·도로주행 시험 없이 서류 제출만으로 한국 면허로 교환할 수 있습니다.
@@ -189,7 +189,7 @@ A. 국제운전면허증을 발급받으면 제네바 협약 가입국(약 100�
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 운전면허는 한국 생활의 편리성을 크게 높여주는 필수 항목입니다. 외국 면허 교환 발급이나 시험 절차에 대한 궁금한 점은 언제든지 상담받을 수 있습니다.
 

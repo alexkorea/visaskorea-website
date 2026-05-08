@@ -28,7 +28,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 1. 社会統合プログラムとは？ {#section-1}
+## 1. 社会統合プログラムとは？
 
 韓国社会統合プログラム（KIIP）は、法務部出入国・外国人政策本部が主管する移民者向けの社会統合教育制度です。
 
@@ -49,7 +49,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 2. 申請対象・資格 {#section-2}
+## 2. 申請対象・資格
 
 | 対象 | 要件 |
 |---|---|
@@ -63,7 +63,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 3. プログラム段階とカリキュラム {#section-3}
+## 3. プログラム段階とカリキュラム
 
 | 段階 | レベル | 時間 | 内容 |
 |---|---|---|---|
@@ -78,7 +78,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 4. 事前評価と段階配定 {#section-4}
+## 4. 事前評価と段階配定
 
 申請者はKIIP事前評価を受け、自分の韓国語レベルに応じた段階から教育を開始できます。
 
@@ -101,7 +101,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 5. 申請方法と手順 {#section-5}
+## 5. 申請方法と手順
 
 ### STEP 1：socinet.go.kr で会員登録
 
@@ -129,7 +129,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 6. 教育機関と授業形式 {#section-6}
+## 6. 教育機関と授業形式
 
 | 機関の種類 | 例 |
 |---|---|
@@ -148,7 +148,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 7. 修了特典：永住権・帰化との連携 {#section-7}
+## 7. 修了特典：永住権・帰化との連携
 
 ### F-5永住権の特典
 
@@ -173,7 +173,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 8. 修了証の発行と有効期限 {#section-8}
+## 8. 修了証の発行と有効期限
 
 | 項目 | 内容 |
 |---|---|
@@ -184,7 +184,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 9. 費用とサポート {#section-9}
+## 9. 費用とサポート
 
 | 項目 | 内容 |
 |---|---|
@@ -195,7 +195,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 10. よくある質問（FAQ） {#section-10}
+## 10. よくある質問（FAQ）
 
 **Q. KIIPは参加必須ですか？**
 A. 任意参加のプログラムです。ただし、F-5永住権や帰化を目指している方にとっては試験免除などの実質的な特典があるため、積極的に参加することをお勧めします。
@@ -214,7 +214,7 @@ A. 修了済みの段階は有効です。KIIPの修了実績は外国人登録�
 
 ---
 
-## 11. 相談案内 {#section-11}
+## 11. 相談案内
 
 社会統合プログラムは、永住権・帰化申請と密接に連動した重要な制度です。ご自身の目標に合った受講戦略を立てることが、長期滞在・永住・帰化への最短ルートとなります。
 

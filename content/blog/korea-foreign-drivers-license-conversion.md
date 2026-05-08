@@ -28,7 +28,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 1. 외국 운전면허 전환이란? {#section-1}
+## 1. 외국 운전면허 전환이란?
 
 외국 운전면허 전환은 본국에서 취득한 운전면허를 대한민국 운전면허로 교체하는 절차입니다. 한국 운전면허를 보유하면 장기 체류 기간에도 별도의 국제 운전면허증 없이 국내 운전이 가능합니다.
 
@@ -39,7 +39,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 2. 무시험 전환 가능 국가 {#section-2}
+## 2. 무시험 전환 가능 국가
 
 한국과 운전면허 상호인정 협정을 체결한 국가는 면허 시험 없이 전환이 가능합니다.
 
@@ -54,7 +54,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 3. 시험 필요 국가 {#section-3}
+## 3. 시험 필요 국가
 
 위의 상호인정 협정 국가에 해당하지 않는 국가 출신자는 일부 필기 또는 기능 시험이 요구될 수 있습니다.
 
@@ -66,7 +66,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 4. 신청 자격 요건 {#section-4}
+## 4. 신청 자격 요건
 
 | 요건 | 내용 |
 |---|---|
@@ -77,7 +77,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 5. 필요 서류 {#section-5}
+## 5. 필요 서류
 
 | 서류 | 비고 |
 |---|---|
@@ -93,7 +93,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 6. 신청 장소 및 절차 {#section-6}
+## 6. 신청 장소 및 절차
 
 ### 신청 장소
 
@@ -113,7 +113,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 7. 전환 후 유효 기간 및 갱신 {#section-7}
+## 7. 전환 후 유효 기간 및 갱신
 
 | 항목 | 내용 |
 |---|---|
@@ -123,7 +123,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 8. 운전면허 없이 운전 시 불이익 {#section-8}
+## 8. 운전면허 없이 운전 시 불이익
 
 | 상황 | 내용 |
 |---|---|
@@ -133,7 +133,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 9. 국제 운전면허증(IDP) 이용 {#section-9}
+## 9. 국제 운전면허증(IDP) 이용
 
 국제 운전면허증은 외국에서 발급받은 임시 운전 허가증입니다.
 
@@ -146,7 +146,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 한국에서 외국 운전면허로 바로 운전할 수 있나요?**
 A. 네. 입국 후 1년간은 본국에서 발급한 국제 운전면허증(IDP) 또는 외국 면허증과 공증된 번역본으로 운전이 가능합니다. 단, 1년 경과 후에는 한국 면허로 전환이 필요합니다.
@@ -165,7 +165,7 @@ A. 2024년 기준 중국은 한국과 상호인정 협정이 체결되지 않아
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 운전면허 전환은 체류자격과 연관된 생활 편의 서비스입니다. 운전면허 전환과 함께 체류자격, 외국인 등록 등 한국 생활 전반에 대한 도움이 필요하신 경우 언제든지 상담해드립니다.
 

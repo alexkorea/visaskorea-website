@@ -28,7 +28,7 @@ If you're living in Korea, a local bank account is essential for receiving salar
 
 ---
 
-## 1. Can Foreigners Open a Bank Account? {#section-1}
+## 1. Can Foreigners Open a Bank Account?
 
 Most foreigners with legal status in Korea can open a bank account.
 
@@ -41,7 +41,7 @@ Most foreigners with legal status in Korea can open a bank account.
 
 ---
 
-## 2. Major Banks Available to Foreigners {#section-2}
+## 2. Major Banks Available to Foreigners
 
 Major Korean banks offer account opening for foreign nationals.
 
@@ -58,7 +58,7 @@ Major Korean banks offer account opening for foreign nationals.
 
 ---
 
-## 3. Opening an Account Without an ARC {#section-3}
+## 3. Opening an Account Without an ARC
 
 Some banks allow foreigners to open accounts without an ARC.
 
@@ -72,7 +72,7 @@ Some banks allow foreigners to open accounts without an ARC.
 
 ---
 
-## 4. Opening an Account with an ARC {#section-4}
+## 4. Opening an Account with an ARC
 
 ARC holders can open full-featured accounts at virtually all major Korean banks — on par with domestic Korean customers.
 
@@ -84,7 +84,7 @@ ARC holders can open full-featured accounts at virtually all major Korean banks 
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 | Document | Notes |
 |---|---|
@@ -96,7 +96,7 @@ ARC holders can open full-featured accounts at virtually all major Korean banks 
 
 ---
 
-## 6. Bank Comparison by Feature {#section-6}
+## 6. Bank Comparison by Feature
 
 | Bank | English | Chinese | Japanese | Mobile Banking |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ ARC holders can open full-featured accounts at virtually all major Korean banks 
 
 ---
 
-## 7. Setting Up Internet/Mobile Banking {#section-7}
+## 7. Setting Up Internet/Mobile Banking
 
 Online and mobile banking is available to foreigners, though a financial certificate may be required.
 
@@ -125,7 +125,7 @@ Online and mobile banking is available to foreigners, though a financial certifi
 
 ---
 
-## 8. Getting a Debit or Credit Card {#section-8}
+## 8. Getting a Debit or Credit Card
 
 | Card Type | Requirements | Notes |
 |---|---|---|
@@ -135,7 +135,7 @@ Online and mobile banking is available to foreigners, though a financial certifi
 
 ---
 
-## 9. International Money Transfers {#section-9}
+## 9. International Money Transfers
 
 There are several ways to send money internationally from Korea.
 
@@ -148,7 +148,7 @@ There are several ways to send money internationally from Korea.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I open a bank account without an ARC when I first arrive?**
 A. Yes. Some banks such as Hana Bank and Shinhan Bank allow account opening with just a passport and visa. However, there may be transfer limit restrictions. It's best to update your account once your ARC is issued.
@@ -167,7 +167,7 @@ A. Start with a debit card and build transaction history in Korea. After 6–12 
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Opening a Korean bank account is a key step in settling into life in Korea alongside getting your ARC. Required documents and bank conditions vary by visa type — professional guidance can help streamline the process.
 

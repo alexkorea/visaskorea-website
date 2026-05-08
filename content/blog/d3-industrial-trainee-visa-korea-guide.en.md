@@ -28,7 +28,7 @@ The D-3 (Industrial Trainee) visa is issued to foreign nationals who enter Korea
 
 ---
 
-## 1. What Is the D-3 Visa? {#section-1}
+## 1. What Is the D-3 Visa?
 
 D-3 is the "Industrial Trainee" status under Korea's Immigration Act. It is issued for the purpose of acquiring production and manufacturing technology and skills at a Korean industrial facility. It is a training status — not employment — and is typically operated through the dispatch of employees from overseas parent companies or government cooperation programs.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Eligible Industries and Training Fields {#section-2}
+## 2. Eligible Industries and Training Fields
 
 | Industry | Key Training Areas |
 |---|---|
@@ -54,7 +54,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -66,7 +66,7 @@ Key features:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -89,7 +89,7 @@ Key features:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Conclude industrial training contract with Korean institution**
 2. **Institution applies for Certificate of Visa Issuance Authorization** — at MOJ or immigration office
@@ -101,7 +101,7 @@ Key features:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -111,7 +111,7 @@ Key features:
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Permitted Activities | Restrictions |
 |---|---|
@@ -121,7 +121,7 @@ Key features:
 
 ---
 
-## 8. D-3 vs E-9 Comparison {#section-8}
+## 8. D-3 vs E-9 Comparison
 
 | | D-3 Industrial Trainee | E-9 Non-Professional Employment |
 |--|--|--|
@@ -133,7 +133,7 @@ Key features:
 
 ---
 
-## 9. Transitioning from D-3 to Other Statuses {#section-9}
+## 9. Transitioning from D-3 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -143,7 +143,7 @@ Key features:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I receive a wage on the D-3 visa?**
 A. No. The D-3 is a training — not employment — visa, so wages are not permitted. A training allowance (living expense stipend) may be paid during the training period, but employment-level wages or the formation of an employment relationship are not allowed.
@@ -162,7 +162,7 @@ A. Yes. D-3 stay periods are counted toward F-2-7 stay duration points. However,
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The D-3 Industrial Trainee visa requires a demonstrably genuine training purpose and a complex Certificate of Visa Issuance Authorization process. Getting professional support from drafting the training plan to submitting the visa application can make the process go much more smoothly.
 

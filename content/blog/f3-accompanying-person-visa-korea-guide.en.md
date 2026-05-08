@@ -27,7 +27,7 @@ The F-3 (Accompanying Person) visa allows the spouse and minor children of forei
 
 ---
 
-## 1. What Is the F-3 Visa? {#section-1}
+## 1. What Is the F-3 Visa?
 
 F-3 is the "Accompanying Person" status under Korea's Immigration Act. It is issued to the spouse and minor children of foreign nationals who are lawfully residing in Korea, allowing the family to live together in Korea.
 
@@ -39,7 +39,7 @@ Key features:
 
 ---
 
-## 2. Eligibility: Which Visa Holders Can Sponsor F-3? {#section-2}
+## 2. Eligibility: Which Visa Holders Can Sponsor F-3?
 
 F-3 can be sponsored by foreign nationals holding the following visa types:
 
@@ -62,7 +62,7 @@ F-3 can be sponsored by foreign nationals holding the following visa types:
 
 ---
 
-## 3. Required Documents {#section-3}
+## 3. Required Documents
 
 ### Common Documents
 
@@ -84,7 +84,7 @@ F-3 can be sponsored by foreign nationals holding the following visa types:
 
 ---
 
-## 4. Application Process {#section-4}
+## 4. Application Process
 
 1. **Prepare family relationship documents** — Notarize or apostille marriage/birth certificates
 2. **Apply at Korean embassy/consulate** — If the dependent is abroad
@@ -95,7 +95,7 @@ F-3 can be sponsored by foreign nationals holding the following visa types:
 
 ---
 
-## 5. Stay Period and Extension {#section-5}
+## 5. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -107,7 +107,7 @@ If the primary visa holder leaves Korea or loses their status, F-3 extension may
 
 ---
 
-## 6. Work Authorization {#section-6}
+## 6. Work Authorization
 
 F-3 does not permit employment by default.
 
@@ -123,7 +123,7 @@ If an F-3 spouse wants to work in Korea, they must either:
 
 ---
 
-## 7. Transitioning from F-3 to Other Statuses {#section-7}
+## 7. Transitioning from F-3 to Other Statuses
 
 F-3 can transition to various other statuses depending on circumstances.
 
@@ -136,7 +136,7 @@ F-3 can transition to various other statuses depending on circumstances.
 
 ---
 
-## 8. F-3 vs F-1 vs F-6 Comparison {#section-8}
+## 8. F-3 vs F-1 vs F-6 Comparison
 
 | | F-3 Accompanying | F-1 Family Visit | F-6 Marriage Immigration |
 |--|--|--|--|
@@ -148,7 +148,7 @@ F-3 can transition to various other statuses depending on circumstances.
 
 ---
 
-## 9. Frequently Asked Questions {#section-9}
+## 9. Frequently Asked Questions
 
 **Q. Can the spouse of an E-7 visa holder come to Korea on F-3?**
 A. Yes. The spouse of an E-7 holder can stay in Korea on F-3 (Accompanying Person) status. Required documents include a notarized marriage certificate and a copy of the primary holder's foreign registration card.
@@ -167,7 +167,7 @@ A. Yes — F-3 stay periods are included in F-2-7 point calculations. If you acc
 
 ---
 
-## 10. Consultation {#section-10}
+## 10. Consultation
 
 F-3 visa preparation depends on the primary visa holder's visa type, how the family relationship is documented, and any plans for future employment or permanent residency. Consulting together with the primary visa holder's renewal or F-2-7/F-5 planning makes the process more efficient.
 

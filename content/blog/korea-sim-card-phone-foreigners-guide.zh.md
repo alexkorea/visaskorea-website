@@ -28,7 +28,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 1. 外国人开通条件 {#section-1}
+## 1. 外国人开通条件
 
 外国人在韩国办理手机开通通常需要以下条件：
 
@@ -44,7 +44,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 2. 预付费与后付费对比 {#section-2}
+## 2. 预付费与后付费对比
 
 | 项目 | 预付费 | 后付费 |
 |---|---|---|
@@ -57,7 +57,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 3. 三大运营商比较 {#section-3}
+## 3. 三大运营商比较
 
 | 运营商 | 特点 |
 |---|---|
@@ -69,7 +69,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 4. 虚拟运营商（MVNO）使用指南 {#section-4}
+## 4. 虚拟运营商（MVNO）使用指南
 
 虚拟运营商是租用三大运营商网络资源、以更低价格提供服务的运营商。
 
@@ -85,7 +85,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 5. 机场SIM卡购买 {#section-5}
+## 5. 机场SIM卡购买
 
 在仁川国际机场和金浦机场，可在入境后立即购买SIM卡。
 
@@ -101,7 +101,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 6. 开通流程（到店办理） {#section-6}
+## 6. 开通流程（到店办理）
 
 | 步骤 | 内容 |
 |---|---|
@@ -116,7 +116,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 7. 外国人身份认证方法 {#section-7}
+## 7. 外国人身份认证方法
 
 在韩国使用各类服务时通常需要进行身份认证。
 
@@ -132,7 +132,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 8. 主要套餐价格概览 {#section-8}
+## 8. 主要套餐价格概览
 
 | 类别 | 月费 | 流量 |
 |---|---|---|
@@ -146,7 +146,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 9. eSIM（虚拟SIM）使用情况 {#section-9}
+## 9. eSIM（虚拟SIM）使用情况
 
 | 项目 | 内容 |
 |---|---|
@@ -158,7 +158,7 @@ slug: "korea-sim-card-phone-foreigners-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 没有外国人登记证也能在韩国买SIM卡吗？**
 A. 可以。凭护照即可在便利店、机场和部分运营商门店购买预付费SIM卡。后付费合约套餐原则上需要外国人登记证。
@@ -177,7 +177,7 @@ A. 可以。与韩国银行账户绑定后，可通过短信验证使用网银�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 在韩国办理通信服务与居留资格和外国人登记密切相关。飞展行政士事务所为外国人登记及签证相关全程手续提供专业支持。
 

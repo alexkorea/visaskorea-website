@@ -28,7 +28,7 @@ The F-2-7 visa (points-based residence visa) allows qualified foreign nationals 
 
 ---
 
-## 1. What Is the F-2-7 Visa? {#section-1}
+## 1. What Is the F-2-7 Visa?
 
 F-2-7 is a subtype of the F-2 (Residency) visa, granted to high-value foreign nationals who pass a points-based evaluation by the Ministry of Justice.
 
@@ -42,7 +42,7 @@ F-2-7 is a subtype of the F-2 (Residency) visa, granted to high-value foreign na
 
 ---
 
-## 2. Eligibility {#section-2}
+## 2. Eligibility
 
 | Requirement | Details |
 |---|---|
@@ -53,7 +53,7 @@ F-2-7 is a subtype of the F-2 (Residency) visa, granted to high-value foreign na
 
 ---
 
-## 3. Core Scoring Categories {#section-3}
+## 3. Core Scoring Categories
 
 The core categories award up to 130 points out of the 200-point maximum.
 
@@ -103,7 +103,7 @@ The core categories award up to 130 points out of the 200-point maximum.
 
 ---
 
-## 4. Bonus Points (Up to +40) {#section-4}
+## 4. Bonus Points (Up to +40)
 
 | Bonus Category | Points |
 |---|---|
@@ -119,7 +119,7 @@ The core categories award up to 130 points out of the 200-point maximum.
 
 ---
 
-## 5. Deductions (Up to -70) {#section-5}
+## 5. Deductions (Up to -70)
 
 | Deduction Reason | Points |
 |---|---|
@@ -131,7 +131,7 @@ The core categories award up to 130 points out of the 200-point maximum.
 
 ---
 
-## 6. How to Calculate Your Score {#section-6}
+## 6. How to Calculate Your Score
 
 **Final Score = Core Points + Bonus Points − Deductions ≥ 80**
 
@@ -150,7 +150,7 @@ The core categories award up to 130 points out of the 200-point maximum.
 
 ---
 
-## 7. Application Process {#section-7}
+## 7. Application Process
 
 ### STEP 1: Pre-calculate your score
 
@@ -174,7 +174,7 @@ If approved, your residency status is changed to F-2-7.
 
 ---
 
-## 8. Required Documents {#section-8}
+## 8. Required Documents
 
 | Document | Notes |
 |---|---|
@@ -187,7 +187,7 @@ If approved, your residency status is changed to F-2-7.
 
 ---
 
-## 9. From F-2-7 to F-5 Permanent Residency {#section-9}
+## 9. From F-2-7 to F-5 Permanent Residency
 
 Holding the F-2-7 visa opens the path to F-5 permanent residency.
 
@@ -202,7 +202,7 @@ Holding the F-2-7 visa opens the path to F-5 permanent residency.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Which scoring category is easiest to improve to reach 80 points?**
 A. Income (max 60 pts) and Korean language (max 20 pts) carry the most weight. If your income is stable, earning TOPIK Level 5 or completing KIIP can add 15–20 points.
@@ -221,7 +221,7 @@ A. Not automatically — the final score just needs to total 80+. However, serio
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Calculating your F-2-7 score accurately — and building a strategy to close any gaps — is best done with professional guidance. Mistaking your score or missing a deduction can result in an unexpected rejection.
 

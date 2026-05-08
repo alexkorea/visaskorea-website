@@ -28,7 +28,7 @@ The F-1 (Family Visit/Cohabitation) visa is for foreign nationals who wish to li
 
 ---
 
-## 1. What Is the F-1 Visa? {#section-1}
+## 1. What Is the F-1 Visa?
 
 F-1 is the "Family Visit/Cohabitation" status under Korea's Immigration Act. It is issued to foreign nationals living with or visiting family members (spouse, parents, children, etc.) who are lawfully staying in Korea or who hold Korean nationality.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Eligibility and Target Applicants {#section-2}
+## 2. Eligibility and Target Applicants
 
 F-1 targets foreign nationals whose family members are lawfully staying in Korea or hold Korean nationality.
 
@@ -56,7 +56,7 @@ F-1 targets foreign nationals whose family members are lawfully staying in Korea
 
 ---
 
-## 3. F-1 Subtypes {#section-3}
+## 3. F-1 Subtypes
 
 F-1 is divided into several subcategories based on the applicant's relationship:
 
@@ -70,7 +70,7 @@ F-1 is divided into several subcategories based on the applicant's relationship:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -94,7 +94,7 @@ F-1 is divided into several subcategories based on the applicant's relationship:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Prepare family relationship documents** — Notarized or apostilled documents proving the relationship
 2. **Apply at a Korean embassy/consulate** — If applying from abroad
@@ -105,7 +105,7 @@ F-1 is divided into several subcategories based on the applicant's relationship:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -117,7 +117,7 @@ If the sponsoring family member's residency status changes or they leave Korea, 
 
 ---
 
-## 7. Work Authorization {#section-7}
+## 7. Work Authorization
 
 F-1 does not permit employment as a default.
 
@@ -131,7 +131,7 @@ If employment is needed, a separate work permit must be obtained, or a change to
 
 ---
 
-## 8. Transitioning from F-1 to Other Statuses {#section-8}
+## 8. Transitioning from F-1 to Other Statuses
 
 F-1 can transition to various other statuses depending on circumstances.
 
@@ -144,7 +144,7 @@ F-1 can transition to various other statuses depending on circumstances.
 
 ---
 
-## 9. F-1 vs F-3 vs F-6 Comparison {#section-9}
+## 9. F-1 vs F-3 vs F-6 Comparison
 
 | | F-1 Family Visit | F-3 Accompanying Person | F-6 Marriage Immigration |
 |--|--|--|--|
@@ -155,7 +155,7 @@ F-1 can transition to various other statuses depending on circumstances.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I work part-time on F-1 in Korea?**
 A. F-1 does not permit employment by default. To work part-time, you must apply separately for a part-time work permit. Working without this permit is a violation of the Immigration Act.
@@ -174,7 +174,7 @@ A. Yes — foreign national parents of Korean citizens can apply for F-1-3 or F-
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 F-1 Family Visit visa outcomes depend heavily on how family relationships are documented, the sponsor's residency status, and any plans for future employment or permanent residency. Choosing the right visa category and preparing the correct documents requires careful guidance.
 

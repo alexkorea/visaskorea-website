@@ -27,7 +27,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 1. Creating an Account and Logging In {#section-1}
+## 1. Creating an Account and Logging In
 
 | Item | Details |
 |---|---|
@@ -45,7 +45,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 2. Available Online Services {#section-2}
+## 2. Available Online Services
 
 | Service | Online Available? |
 |---|---|
@@ -63,7 +63,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 3. How to Apply for Alien Registration {#section-3}
+## 3. How to Apply for Alien Registration
 
 | Step | Action |
 |---|---|
@@ -84,7 +84,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 4. How to Extend Your Stay {#section-4}
+## 4. How to Extend Your Stay
 
 | Step | Action |
 |---|---|
@@ -102,7 +102,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 5. How to Change Your Visa Status {#section-5}
+## 5. How to Change Your Visa Status
 
 | Step | Action |
 |---|---|
@@ -119,7 +119,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 6. How to Apply for a Re-Entry Permit {#section-6}
+## 6. How to Apply for a Re-Entry Permit
 
 | Item | Details |
 |---|---|
@@ -133,7 +133,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 7. Immigration Office Locations Nationwide {#section-7}
+## 7. Immigration Office Locations Nationwide
 
 | Region | Office | Address |
 |---|---|---|
@@ -149,7 +149,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 8. Tips for Using Hi Korea Effectively {#section-8}
+## 8. Tips for Using Hi Korea Effectively
 
 | Tip | Details |
 |---|---|
@@ -162,7 +162,7 @@ Hi Korea (hikorea.go.kr) is the official online portal operated by the Korea Imm
 
 ---
 
-## 9. Frequently Asked Questions {#section-9}
+## 9. Frequently Asked Questions
 
 **Q. Can alien registration be fully completed online through Hi Korea?**
 A. You can submit your application online, but you must visit an immigration office in person to pick up your ARC when it's ready.
@@ -181,7 +181,7 @@ A. Check the rejection reason in [My Applications], correct or supplement your d
 
 ---
 
-## 10. Consultation {#section-10}
+## 10. Consultation
 
 If you need expert help using Hi Korea, filing visa applications, or handling status changes, Vision Administrative Office is here to help.
 

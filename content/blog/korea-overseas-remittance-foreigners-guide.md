@@ -27,7 +27,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 1. 해외송금 기본 조건 {#section-1}
+## 1. 해외송금 기본 조건
 
 | 항목 | 내용 |
 |---|---|
@@ -41,7 +41,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 2. 은행 해외송금 {#section-2}
+## 2. 은행 해외송금
 
 | 은행 | 서비스명 | 특징 |
 |---|---|---|
@@ -63,7 +63,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 3. 핀테크 송금 서비스 (Wise 등) {#section-3}
+## 3. 핀테크 송금 서비스 (Wise 등)
 
 | 서비스 | 특징 | 수수료 |
 |---|---|---|
@@ -77,7 +77,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 4. 편의점·소매점 송금 {#section-4}
+## 4. 편의점·소매점 송금
 
 | 서비스 | 위치 | 대상국 |
 |---|---|---|
@@ -90,7 +90,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 5. 주요 송금 서비스 수수료 비교 {#section-5}
+## 5. 주요 송금 서비스 수수료 비교
 
 *100만 원(약 700달러)을 미국 달러로 송금하는 경우 예시*
 
@@ -106,7 +106,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 6. 송금 한도 및 신고 의무 {#section-6}
+## 6. 송금 한도 및 신고 의무
 
 | 구분 | 내용 |
 |---|---|
@@ -120,7 +120,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 7. 환율 절약 팁 {#section-7}
+## 7. 환율 절약 팁
 
 | 팁 | 내용 |
 |---|---|
@@ -132,7 +132,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 8. 국가별 송금 특이사항 {#section-8}
+## 8. 국가별 송금 특이사항
 
 | 대상국 | 특이사항 |
 |---|---|
@@ -147,7 +147,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 9. 자주 묻는 질문 (FAQ) {#section-9}
+## 9. 자주 묻는 질문 (FAQ)
 
 **Q. 한국 은행 계좌 없이 해외송금이 가능한가요?**
 A. 가능합니다. 웨스턴유니온이나 편의점 머니그램을 이용하면 현금으로도 해외송금을 보낼 수 있습니다. 다만 수수료가 높고 한도가 낮을 수 있습니다.
@@ -166,7 +166,7 @@ A. 중국은 외환 수령 연 5만 달러 한도가 있으며, 수령자가 실
 
 ---
 
-## 10. 상담 안내 {#section-10}
+## 10. 상담 안내
 
 한국 체류자격이나 금융 관련 외국인 생활 정착에 궁금한 사항이 있으시면 비전행정사사무소에 문의하세요.
 

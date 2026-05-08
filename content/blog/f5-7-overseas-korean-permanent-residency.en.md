@@ -29,7 +29,7 @@ Of all the pathways to Korean permanent residency, F-5-7 is the most direct for 
 
 ---
 
-## 1. What Is F-5-7? — The Overseas Korean PR Category {#section-1}
+## 1. What Is F-5-7? — The Overseas Korean PR Category
 
 F-5 (Permanent Residency) has multiple sub-categories in Korean immigration law. F-5-7 is the one specifically designed for foreign nationals of Korean descent who hold F-4 status.
 
@@ -43,7 +43,7 @@ It is grounded in the Act on the Immigration and Legal Status of Overseas Korean
 
 ---
 
-## 2. Eligibility Requirements {#section-2}
+## 2. Eligibility Requirements
 
 All of the following conditions must be met to apply for F-5-7:
 
@@ -58,7 +58,7 @@ All of the following conditions must be met to apply for F-5-7:
 
 ---
 
-## 3. How to Calculate Your 2-Year Residence Period {#section-3}
+## 3. How to Calculate Your 2-Year Residence Period
 
 ### Days That Count
 - Days physically present in Korea while on F-4 status
@@ -75,7 +75,7 @@ For a straightforward application, aim for at least 180 days of domestic presenc
 
 ---
 
-## 4. Income and Financial Self-Sufficiency Requirements {#section-4}
+## 4. Income and Financial Self-Sufficiency Requirements
 
 F-5-7 does not have a statutory minimum income figure, but immigration officers assess your ability to support yourself without relying on public assistance.
 
@@ -93,7 +93,7 @@ F-5-7 does not have a statutory minimum income figure, but immigration officers 
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Core Documents
 
@@ -123,7 +123,7 @@ F-5-7 does not have a statutory minimum income figure, but immigration officers 
 
 ---
 
-## 6. Application Procedure {#section-6}
+## 6. Application Procedure
 
 F-5-7 is applied for domestically — not at an overseas consulate.
 
@@ -136,7 +136,7 @@ F-5-7 is applied for domestically — not at an overseas consulate.
 
 ---
 
-## 7. F-5-7 vs F-2-7 vs F-5-6 — Comparison {#section-7}
+## 7. F-5-7 vs F-2-7 vs F-5-6 — Comparison
 
 | | F-5-7 Overseas Korean PR | F-2-7 Points-Based Long-Term | F-5-6 Overseas Korean PR |
 |--|--|--|--|
@@ -151,7 +151,7 @@ F-5-7 is applied for domestically — not at an overseas consulate.
 
 ---
 
-## 8. What Changes After Permanent Residency {#section-8}
+## 8. What Changes After Permanent Residency
 
 F-5 permanent residency significantly changes how you relate to Korean immigration requirements.
 
@@ -168,7 +168,7 @@ F-5 permanent residency significantly changes how you relate to Korean immigrati
 
 ---
 
-## 9. Frequently Asked Questions {#section-9}
+## 9. Frequently Asked Questions
 
 **Q. I've had F-4 for 2 years but traveled abroad frequently for work. Am I eligible?**
 A. What matters is the number of days you were physically in Korea, not how long you've held F-4 status. Pull your entry/exit record from Hi Korea to count your actual in-Korea days. If you're above 730 days total, you should qualify.
@@ -187,7 +187,7 @@ A. The card itself is valid for 10 years and must be renewed at expiry. But the 
 
 ---
 
-## 10. Consultation {#section-10}
+## 10. Consultation
 
 The most common rejection reasons for F-5-7 are insufficient domestic residence days and incomplete financial documentation. If you've had frequent overseas travel or irregular income, a professional review before applying will save significant time.
 

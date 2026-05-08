@@ -28,7 +28,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 1. 外国人登记是什么？ {#section-1}
+## 1. 外国人登记是什么？
 
 外国人登记是长期在韩居留的外国人依据《出入境管理法》向管辖出入境·外国人厅登记个人信息的程序。登记完成后发放外国人登记证（ARC）。
 
@@ -39,7 +39,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 2. 必须登记的对象 {#section-2}
+## 2. 必须登记的对象
 
 | 类别 | 内容 |
 |---|---|
@@ -49,7 +49,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 3. 申请期限 {#section-3}
+## 3. 申请期限
 
 | 情况 | 期限 |
 |---|---|
@@ -61,7 +61,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 4. 申请地点 {#section-4}
+## 4. 申请地点
 
 | 申请地点 | 内容 |
 |---|---|
@@ -71,7 +71,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 5. 所需材料 {#section-5}
+## 5. 所需材料
 
 ### 共同所需材料
 
@@ -95,7 +95,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 6. 申请流程 {#section-6}
+## 6. 申请流程
 
 1. **准备材料** — 根据在留资格准备相应材料
 2. **前往出入境·外国人厅** — 居住地管辖事务所（建议通过HiKorea预约）
@@ -106,7 +106,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 7. 外国人登记证（ARC）发放 {#section-7}
+## 7. 外国人登记证（ARC）发放
 
 | 项目 | 内容 |
 |---|---|
@@ -122,7 +122,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 8. 登记证更新及补办 {#section-8}
+## 8. 登记证更新及补办
 
 | 情况 | 处理方式 |
 |---|---|
@@ -134,7 +134,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 9. 有了登记证可以做什么？ {#section-9}
+## 9. 有了登记证可以做什么？
 
 外国人登记证（ARC）是在韩生活全方面所需的身份证件。
 
@@ -149,7 +149,7 @@ slug: "korea-alien-registration-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 入境后几天内必须完成外国人登记？**
 A. 须在入境之日起90天内完成外国人登记。第91天起可能被处以罚款，请尽早申请。
@@ -168,7 +168,7 @@ A. 立即向管辖出入境·外国人厅申报丢失并申请补办，放置不
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 外国人登记是开始在韩生活的第一步。各在留资格所需材料不同，错过期限可能面临罚款，建议寻求专业人士的帮助。
 

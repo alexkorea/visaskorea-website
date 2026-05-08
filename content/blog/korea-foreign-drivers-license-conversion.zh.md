@@ -28,7 +28,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 1. 外国驾照转换是什么？ {#section-1}
+## 1. 外国驾照转换是什么？
 
 外国驾照转换是将本国驾照兑换为大韩民国驾照的程序。持有韩国驾照后，长期居留期间无需另行续期国际驾照即可在韩国内驾车。
 
@@ -39,7 +39,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 2. 可免试转换的国家 {#section-2}
+## 2. 可免试转换的国家
 
 与韩国签订驾照相互认可协议的国家，持证人可免考试直接转换。
 
@@ -54,7 +54,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 3. 需要考试的国家 {#section-3}
+## 3. 需要考试的国家
 
 不在相互认可协议国家范围内的国家，可能需要参加笔试、路考或两者兼考。
 
@@ -66,7 +66,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 4. 申请资格要求 {#section-4}
+## 4. 申请资格要求
 
 | 要求 | 内容 |
 |---|---|
@@ -77,7 +77,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 5. 所需材料 {#section-5}
+## 5. 所需材料
 
 | 材料 | 备注 |
 |---|---|
@@ -93,7 +93,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 6. 申请地点及流程 {#section-6}
+## 6. 申请地点及流程
 
 ### 申请地点
 
@@ -113,7 +113,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 7. 转换后有效期及续期 {#section-7}
+## 7. 转换后有效期及续期
 
 | 项目 | 内容 |
 |---|---|
@@ -123,7 +123,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 8. 无驾照驾车的不利后果 {#section-8}
+## 8. 无驾照驾车的不利后果
 
 | 情况 | 内容 |
 |---|---|
@@ -133,7 +133,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 9. 国际驾照（IDP）的使用 {#section-9}
+## 9. 国际驾照（IDP）的使用
 
 国际驾照是本国颁发的临时驾车许可证。
 
@@ -146,7 +146,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 持外国驾照可以在韩国直接开车吗？**
 A. 可以。入境后1年内，持国际驾照（IDP）或外国驾照加公证韩语翻译件即可驾车。满1年后须转换为韩国驾照。
@@ -165,7 +165,7 @@ A. 截至2024年，中国与韩国尚未签订相互认可协议，因此需要�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 驾照转换是与在留资格密切相关的生活便民服务。如需在驾照转换的同时获得在留资格、外国人登记等综合行政服务支持，欢迎随时咨询。
 

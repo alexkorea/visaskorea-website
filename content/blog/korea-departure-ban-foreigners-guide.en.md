@@ -28,7 +28,7 @@ Foreigners in Korea can be placed under a departure ban (출국금지) if certai
 
 ---
 
-## 1. What Is a Departure Ban? {#section-1}
+## 1. What Is a Departure Ban?
 
 A departure ban is an administrative measure that temporarily prohibits a person from leaving South Korea. It is enforced under the Immigration Act and related regulations.
 
@@ -41,7 +41,7 @@ A departure ban is an administrative measure that temporarily prohibits a person
 
 ---
 
-## 2. Common Reasons for a Departure Ban {#section-2}
+## 2. Common Reasons for a Departure Ban
 
 | Category | Specific Reasons |
 |---|---|
@@ -55,7 +55,7 @@ A departure ban is an administrative measure that temporarily prohibits a person
 
 ---
 
-## 3. How to Check If You Have a Departure Ban {#section-3}
+## 3. How to Check If You Have a Departure Ban
 
 | Method | Details |
 |---|---|
@@ -68,7 +68,7 @@ A departure ban is an administrative measure that temporarily prohibits a person
 
 ---
 
-## 4. Duration and Extension {#section-4}
+## 4. Duration and Extension
 
 | Reason | Initial Duration | Extension |
 |---|---|---|
@@ -78,7 +78,7 @@ A departure ban is an administrative measure that temporarily prohibits a person
 
 ---
 
-## 5. How to Apply for Removal of a Departure Ban {#section-5}
+## 5. How to Apply for Removal of a Departure Ban
 
 The departure ban can be lifted once the underlying cause is resolved.
 
@@ -108,7 +108,7 @@ The departure ban can be lifted once the underlying cause is resolved.
 
 ---
 
-## 6. Filing an Objection or Administrative Review {#section-6}
+## 6. Filing an Objection or Administrative Review
 
 If you believe the departure ban is unlawful or unreasonable, you may challenge it.
 
@@ -121,7 +121,7 @@ If you believe the departure ban is unlawful or unreasonable, you may challenge 
 
 ---
 
-## 7. Managing Your Visa Status During a Departure Ban {#section-7}
+## 7. Managing Your Visa Status During a Departure Ban
 
 Maintaining legal status is critical when you cannot leave Korea.
 
@@ -135,7 +135,7 @@ Maintaining legal status is critical when you cannot leave Korea.
 
 ---
 
-## 8. How to Prevent a Departure Ban {#section-8}
+## 8. How to Prevent a Departure Ban
 
 | Prevention | Action |
 |---|---|
@@ -147,7 +147,7 @@ Maintaining legal status is critical when you cannot leave Korea.
 
 ---
 
-## 9. Emergency Departure Situations {#section-9}
+## 9. Emergency Departure Situations
 
 If you have an urgent need to leave Korea — medical emergency, family crisis — you may apply for a temporary departure permit.
 
@@ -160,7 +160,7 @@ If you have an urgent need to leave Korea — medical emergency, family crisis �
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. How can I find out if I have a departure ban before going to the airport?**
 A. Check your status on Hi Korea (hikorea.go.kr) or visit your local immigration office in person. We recommend checking at least two weeks before any major travel.
@@ -179,7 +179,7 @@ A. Leaving Korea after a ban is lifted is generally fine. However, any criminal 
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 A departure ban can have serious implications for your life and business in Korea. Professional assistance can help you navigate the removal process efficiently and protect your legal status.
 

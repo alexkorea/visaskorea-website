@@ -28,7 +28,7 @@ Foreign workers legally employed in Korea are subject to the same four major soc
 
 ---
 
-## 1. What Are the 4 Major Insurances? {#section-1}
+## 1. What Are the 4 Major Insurances?
 
 Korea's four major social insurances are state-mandated programs that provide financial protection in key life situations.
 
@@ -41,7 +41,7 @@ Korea's four major social insurances are state-mandated programs that provide fi
 
 ---
 
-## 2. Mandatory Enrollment for Foreign Workers {#section-2}
+## 2. Mandatory Enrollment for Foreign Workers
 
 | Insurance | Applies to Foreigners | Notes |
 |---|---|---|
@@ -52,7 +52,7 @@ Korea's four major social insurances are state-mandated programs that provide fi
 
 ---
 
-## 3. Health Insurance {#section-3}
+## 3. Health Insurance
 
 ### Employee Premium Rates (2026)
 
@@ -71,7 +71,7 @@ Korea's four major social insurances are state-mandated programs that provide fi
 
 ---
 
-## 4. National Pension {#section-4}
+## 4. National Pension
 
 ### National Pension Rates (2026)
 
@@ -96,7 +96,7 @@ Nationals of countries with social security agreements — including the USA, Ge
 
 ---
 
-## 5. Employment Insurance {#section-5}
+## 5. Employment Insurance
 
 ### Employment Insurance Rates (2026)
 
@@ -124,7 +124,7 @@ Nationals of countries with social security agreements — including the USA, Ge
 
 ---
 
-## 6. Industrial Accident Insurance {#section-6}
+## 6. Industrial Accident Insurance
 
 Industrial accident insurance covers injuries, illness, and death arising from work activities. **All employed foreigners are covered without exception.**
 
@@ -137,7 +137,7 @@ Industrial accident insurance covers injuries, illness, and death arising from w
 
 ---
 
-## 7. Premium Summary {#section-7}
+## 7. Premium Summary
 
 Sample employee premium burden for a monthly salary of KRW 3,000,000:
 
@@ -153,7 +153,7 @@ Sample employee premium burden for a monthly salary of KRW 3,000,000:
 
 ---
 
-## 8. Social Security Agreement Exemptions {#section-8}
+## 8. Social Security Agreement Exemptions
 
 Korea has bilateral social security agreements with numerous countries, allowing their nationals to apply for national pension exemptions.
 
@@ -168,7 +168,7 @@ Korea has bilateral social security agreements with numerous countries, allowing
 
 ---
 
-## 9. National Pension Lump-Sum Refund {#section-9}
+## 9. National Pension Lump-Sum Refund
 
 Foreigners who leave Korea with fewer than 10 years of national pension contributions can claim a **lump-sum refund** of their contributions.
 
@@ -181,7 +181,7 @@ Foreigners who leave Korea with fewer than 10 years of national pension contribu
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. What happens if an employer doesn't register employees for the 4 major insurances?**
 A. Employers who fail to report insurance enrollment face fines and back-premium assessments. Employees lose access to all benefits. Always verify your enrollment status as soon as you start work.
@@ -200,7 +200,7 @@ A. Under the Korea–US Social Security Agreement, Americans who are already con
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Enrollment in Korea's four major social insurances varies depending on your visa type and nationality. For complex matters such as exemption applications, lump-sum refunds, and unemployment benefits, professional guidance can save significant time and hassle.
 

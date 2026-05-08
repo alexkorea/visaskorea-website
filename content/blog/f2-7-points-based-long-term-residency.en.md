@@ -30,7 +30,7 @@ Unlike employment visas (E-series), F-2-7 is not tied to an employer or occupati
 
 ---
 
-## 1. What Is F-2-7? — The Points-Based Residency System {#section-1}
+## 1. What Is F-2-7? — The Points-Based Residency System
 
 F-2-7 is a sub-category of the F-2 (Residence) status under Korea's Immigration Act. The Ministry of Justice evaluates applicants against a published scoring table, and those reaching **80 points or above** receive long-term residency authorization.
 
@@ -43,7 +43,7 @@ F-2-7 is a sub-category of the F-2 (Residence) status under Korea's Immigration 
 
 ---
 
-## 2. Scoring Table — Standard Categories (Up to 130 Points) {#section-2}
+## 2. Scoring Table — Standard Categories (Up to 130 Points)
 
 ### Age (Up to 25 Points)
 
@@ -99,7 +99,7 @@ Income is measured as a **multiple of Korea's GNI (Gross National Income) per ca
 
 ---
 
-## 3. Scoring Table — Bonus Points (Up to 40 Points) {#section-3}
+## 3. Scoring Table — Bonus Points (Up to 40 Points)
 
 Bonus points add on top of the standard categories:
 
@@ -113,7 +113,7 @@ Bonus points add on top of the standard categories:
 
 ---
 
-## 4. Scoring Table — Deduction Items (Up to -70 Points) {#section-4}
+## 4. Scoring Table — Deduction Items (Up to -70 Points)
 
 Immigration violations or compliance failures reduce your score:
 
@@ -129,7 +129,7 @@ A clean compliance record is as important as a high positive score. Applicants w
 
 ---
 
-## 5. Practical Strategies to Boost Your Score {#section-5}
+## 5. Practical Strategies to Boost Your Score
 
 ### Fastest Score Improvements
 
@@ -145,7 +145,7 @@ Identify your lowest-scoring items and address them strategically. Common paths:
 
 ---
 
-## 6. Who Can Apply — and Who Cannot {#section-6}
+## 6. Who Can Apply — and Who Cannot
 
 ### Who Can Apply
 
@@ -161,7 +161,7 @@ Identify your lowest-scoring items and address them strategically. Common paths:
 
 ---
 
-## 7. Required Documents {#section-7}
+## 7. Required Documents
 
 ### Core Documents
 
@@ -186,7 +186,7 @@ Identify your lowest-scoring items and address them strategically. Common paths:
 
 ---
 
-## 8. Application Procedure {#section-8}
+## 8. Application Procedure
 
 1. **Calculate your score** — use the official F-2-7 scoring table
 2. **Gather evidence** — collect supporting documents for all claimed point categories
@@ -196,7 +196,7 @@ Identify your lowest-scoring items and address them strategically. Common paths:
 
 ---
 
-## 9. From F-2-7 to F-5 Permanent Residency {#section-9}
+## 9. From F-2-7 to F-5 Permanent Residency
 
 After maintaining F-2-7 for 3+ years, you become eligible for F-5-16 (points-based permanent residency).
 
@@ -209,7 +209,7 @@ F-2-7 → F-5 is the primary route for long-term working professionals without K
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I change from E-7 directly to F-2-7?**
 A. Yes. If you score 80+ while on E-7 status, you can apply to change your status to F-2-7. Once on F-2-7, you're free from employer and occupation restrictions.
@@ -228,7 +228,7 @@ A. F-4 requires Korean ancestry (parents or grandparents held Korean citizenship
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The most common pitfalls in F-2-7 applications are incorrect point calculations and missing income documentation. Deduction items that applicants overlook can push a borderline 83-point application below the threshold.
 

@@ -28,7 +28,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 1. 外国免許証切り替えとは？ {#section-1}
+## 1. 外国免許証切り替えとは？
 
 外国免許証切り替えとは、母国で取得した運転免許証を韓国の運転免許証に交換する手続きです。韓国の免許証を持てば、長期滞在中も国際運転免許証（IDP）を更新することなく国内で運転できます。
 
@@ -39,7 +39,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 2. 試験免除で切り替えができる国 {#section-2}
+## 2. 試験免除で切り替えができる国
 
 韓国と相互認定協定を締結している国の免許保有者は、試験なしで切り替えができます。
 
@@ -54,7 +54,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 3. 試験が必要な国 {#section-3}
+## 3. 試験が必要な国
 
 相互認定協定締結国以外の国からの申請者は、筆記試験・技能試験のいずれかまたは両方が必要になる場合があります。
 
@@ -66,7 +66,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 4. 申請資格要件 {#section-4}
+## 4. 申請資格要件
 
 | 要件 | 内容 |
 |---|---|
@@ -77,7 +77,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 5. 必要書類 {#section-5}
+## 5. 必要書類
 
 | 書類 | 備考 |
 |---|---|
@@ -93,7 +93,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 6. 申請場所と手続き {#section-6}
+## 6. 申請場所と手続き
 
 ### 申請場所
 
@@ -113,7 +113,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 7. 切り替え後の有効期間と更新 {#section-7}
+## 7. 切り替え後の有効期間と更新
 
 | 項目 | 内容 |
 |---|---|
@@ -123,7 +123,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 8. 無免許運転の場合の不利益 {#section-8}
+## 8. 無免許運転の場合の不利益
 
 | 状況 | 内容 |
 |---|---|
@@ -133,7 +133,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 9. 国際運転免許証（IDP）の利用 {#section-9}
+## 9. 国際運転免許証（IDP）の利用
 
 国際運転免許証は、母国で発行される仮の運転許可証です。
 
@@ -146,7 +146,7 @@ slug: "korea-foreign-drivers-license-conversion"
 
 ---
 
-## 10. よくある質問（FAQ） {#section-10}
+## 10. よくある質問（FAQ）
 
 **Q. 外国の免許証でそのまま韓国で運転できますか？**
 A. はい。入国後1年間は、国際運転免許証（IDP）または外国免許証と認証済みの韓国語翻訳を持っていれば運転できます。1年経過後は韓国の免許証への切り替えが必要です。
@@ -165,7 +165,7 @@ A. はい。日本は韓国と相互認定協定を締結しているため、�
 
 ---
 
-## 11. 相談案内 {#section-11}
+## 11. 相談案内
 
 運転免許証の切り替えは在留資格と密接に関連した生活便宜サービスです。免許切り替えとともに在留資格・外国人登録など韓国生活全般のサポートが必要な場合は、いつでもご相談ください。
 

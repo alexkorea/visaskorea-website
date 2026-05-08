@@ -30,7 +30,7 @@ Workers from 16 participating countries who pass the Korean language test (EPS-T
 
 ---
 
-## 1. What Is the E-9 Visa? {#section-1}
+## 1. What Is the E-9 Visa?
 
 E-9 is the "Non-Professional Employment" status under Korea's Immigration Act. It is issued to foreign workers placed through the Employment Permit System (EPS) to work in designated unskilled/semi-skilled sectors at Korean small and medium enterprises.
 
@@ -43,7 +43,7 @@ Key features:
 
 ---
 
-## 2. Eligibility — Participating Countries and Language Test {#section-2}
+## 2. Eligibility — Participating Countries and Language Test
 
 ### EPS Participating Countries (16 countries)
 
@@ -68,7 +68,7 @@ Nationals of countries not on this list are not eligible for E-9.
 
 ---
 
-## 3. Permitted Job Sectors {#section-3}
+## 3. Permitted Job Sectors
 
 E-9 restricts employment to the following sectors:
 
@@ -85,7 +85,7 @@ Business size requirement: Manufacturing employers must generally be SMEs with f
 
 ---
 
-## 4. Employment Permit System (EPS) Process {#section-4}
+## 4. Employment Permit System (EPS) Process
 
 E-9 employment follows this sequence:
 
@@ -106,7 +106,7 @@ E-9 employment follows this sequence:
 
 ---
 
-## 5. Stay Period and Extension {#section-5}
+## 5. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -119,7 +119,7 @@ After the employment period ends, the worker must return to their home country. 
 
 ---
 
-## 6. Workplace Change Restrictions {#section-6}
+## 6. Workplace Change Restrictions
 
 E-9 workers are generally required to remain at the workplace specified at the time of entry. Changes are permitted only in limited circumstances.
 
@@ -134,7 +134,7 @@ E-9 workers are generally required to remain at the workplace specified at the t
 
 ---
 
-## 7. Annual Quota System {#section-7}
+## 7. Annual Quota System
 
 E-9 visa issuance is subject to annual quotas by country and sector.
 
@@ -148,7 +148,7 @@ Quotas are adjusted annually by sector and country.
 
 ---
 
-## 8. Transitioning from E-9 to E-7-4 Skilled Worker {#section-8}
+## 8. Transitioning from E-9 to E-7-4 Skilled Worker
 
 After working in Korea for a qualifying period on E-9, workers may transition to E-7-4 (Skilled Worker) status. E-7-4 loosens employment restrictions and opens a path to long-term residency.
 
@@ -166,7 +166,7 @@ After obtaining E-7-4, transitioning to F-2-7 (points-based residency) and then 
 
 ---
 
-## 9. E-9 vs H-2 Comparison {#section-9}
+## 9. E-9 vs H-2 Comparison
 
 | | E-9 Non-Professional | H-2 Working Visit |
 |--|--|--|
@@ -181,7 +181,7 @@ If H-2 is available (ethnic Korean from China/CIS), it generally offers more fle
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. If I pass EPS-TOPIK, can I go to Korea immediately?**
 A. Not automatically. Passing EPS-TOPIK registers you in the job-seeker database. You must wait for a Korean employer to select you. Passing the test does not guarantee entry.
@@ -200,7 +200,7 @@ A. If you marry a Korean national, you can apply for F-6 (Marriage Immigration) 
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 E-9 visa placement is managed entirely through the government EPS system, but navigating workplace changes, E-7-4 transitions, and long-term residency planning requires expert guidance tailored to your situation.
 

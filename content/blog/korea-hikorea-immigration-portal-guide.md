@@ -27,7 +27,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 1. 하이코리아 회원가입 및 로그인 {#section-1}
+## 1. 하이코리아 회원가입 및 로그인
 
 | 항목 | 내용 |
 |---|---|
@@ -45,7 +45,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 2. 주요 온라인 서비스 목록 {#section-2}
+## 2. 주요 온라인 서비스 목록
 
 | 서비스 | 온라인 가능 여부 |
 |---|---|
@@ -63,7 +63,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 3. 외국인등록 신청 방법 {#section-3}
+## 3. 외국인등록 신청 방법
 
 | 단계 | 내용 |
 |---|---|
@@ -84,7 +84,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 4. 체류기간 연장 신청 방법 {#section-4}
+## 4. 체류기간 연장 신청 방법
 
 | 단계 | 내용 |
 |---|---|
@@ -102,7 +102,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 5. 체류자격 변경 신청 방법 {#section-5}
+## 5. 체류자격 변경 신청 방법
 
 | 단계 | 내용 |
 |---|---|
@@ -119,7 +119,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 6. 재입국허가 신청 방법 {#section-6}
+## 6. 재입국허가 신청 방법
 
 | 항목 | 내용 |
 |---|---|
@@ -133,7 +133,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 7. 전국 출입국관리사무소 위치 {#section-7}
+## 7. 전국 출입국관리사무소 위치
 
 | 지역 | 사무소 | 주소 |
 |---|---|---|
@@ -149,7 +149,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 8. 하이코리아 활용 팁 {#section-8}
+## 8. 하이코리아 활용 팁
 
 | 팁 | 내용 |
 |---|---|
@@ -162,7 +162,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 9. 자주 묻는 질문 (FAQ) {#section-9}
+## 9. 자주 묻는 질문 (FAQ)
 
 **Q. 외국인등록 신청을 하이코리아에서 온라인으로 완전히 처리할 수 있나요?**
 A. 신청서 제출은 온라인으로 가능하지만, 최종 외국인등록증 수령은 출입국관리사무소를 직접 방문해야 합니다.
@@ -181,7 +181,7 @@ A. 하이코리아 [나의 신청내역]에서 거절 사유를 확인한 후 �
 
 ---
 
-## 10. 상담 안내 {#section-10}
+## 10. 상담 안내
 
 하이코리아 이용 방법이나 비자 신청·체류자격 변경에 대해 전문적인 도움이 필요하시면 비전행정사사무소에 문의하세요.
 

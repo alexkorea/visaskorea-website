@@ -30,7 +30,7 @@ F-5 is not a single category. It is **a family of 16+ sub-codes**, each with a d
 
 ---
 
-## 1. What Is F-5 Permanent Residency? {#section-1}
+## 1. What Is F-5 Permanent Residency?
 
 F-5 is the Korean immigration status that grants indefinite residency without requiring naturalization. It is the most stable long-term status available to foreign nationals in Korea.
 
@@ -46,7 +46,7 @@ F-5 is not an extension — it's a permanent status. Once granted, you do not ne
 
 ---
 
-## 2. All Major F-5 Pathways at a Glance {#section-2}
+## 2. All Major F-5 Pathways at a Glance
 
 | Code | Target Group | Core Requirement |
 |---|---|---|
@@ -61,7 +61,7 @@ This guide focuses on the four most commonly used pathways: F-5-1, F-5-5, F-5-7,
 
 ---
 
-## 3. F-5-1 — Long-Term Resident Permanent Residency {#section-3}
+## 3. F-5-1 — Long-Term Resident Permanent Residency
 
 F-5-1 is the general permanent residency pathway for foreign nationals who have built long-term legal residency in Korea, regardless of visa category.
 
@@ -80,7 +80,7 @@ Holders of E-7, D-7, D-8, F-2, and most other work/investment statuses can apply
 
 ---
 
-## 4. F-5-5 — Investor Permanent Residency (D-8 Route) {#section-4}
+## 4. F-5-5 — Investor Permanent Residency (D-8 Route)
 
 F-5-5 is the dedicated permanent residency pathway for D-8 corporate investors who have operated a Korean business over the long term.
 
@@ -100,7 +100,7 @@ See the [D-8 Corporate Investment Visa Guide](/en/blog/d8-corporate-investment-v
 
 ---
 
-## 5. F-5-7 — Overseas Korean Permanent Residency (F-4 Route) {#section-5}
+## 5. F-5-7 — Overseas Korean Permanent Residency (F-4 Route)
 
 F-5-7 is for ethnic Koreans abroad (F-4 visa holders) who have established domestic residence in Korea.
 
@@ -119,7 +119,7 @@ See the [F-4 Overseas Korean Visa Guide](/en/blog/f4-overseas-korean-visa-guide)
 
 ---
 
-## 6. F-5-16 — Points-Based Permanent Residency (F-2-7 Route) {#section-6}
+## 6. F-5-16 — Points-Based Permanent Residency (F-2-7 Route)
 
 F-5-16 is the permanent residency route for foreign nationals who hold F-2-7 (points-based long-term residency) and have maintained it for several years.
 
@@ -138,7 +138,7 @@ See the [F-2-7 Points-Based Long-Term Residency Guide](/en/blog/f2-7-points-base
 
 ---
 
-## 7. Common Requirements: Income, Conduct, and Tax {#section-7}
+## 7. Common Requirements: Income, Conduct, and Tax
 
 Every F-5 pathway shares these baseline standards:
 
@@ -163,7 +163,7 @@ Every F-5 pathway shares these baseline standards:
 
 ---
 
-## 8. Application Procedure {#section-8}
+## 8. Application Procedure
 
 1. **Confirm eligibility** — verify you meet your chosen pathway's requirements
 2. **Prepare documents** — pathway-specific evidence + common documents
@@ -185,7 +185,7 @@ Every F-5 pathway shares these baseline standards:
 
 ---
 
-## 9. What Changes After You Get F-5 {#section-9}
+## 9. What Changes After You Get F-5
 
 | Area | Before F-5 | After F-5 |
 |---|---|---|
@@ -199,7 +199,7 @@ Every F-5 pathway shares these baseline standards:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Does getting F-5 mean I have to give up my current citizenship?**
 A. No. F-5 is a residency status, not naturalization. You keep your original citizenship while living in Korea permanently.
@@ -218,7 +218,7 @@ A. No. F-5-16 is permanent status — there is no periodic re-scoring. You only 
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Choosing the right F-5 pathway and preparing the correct documents are the two points where most applications go wrong. A mismatched pathway means months of delay; incomplete income evidence leads to document supplement requests that push your timeline back further.
 

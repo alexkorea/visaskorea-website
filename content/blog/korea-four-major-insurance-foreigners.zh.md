@@ -28,7 +28,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 1. 什么是四大保险？ {#section-1}
+## 1. 什么是四大保险？
 
 四大保险是国家依法强制参保的四种社会保险制度。
 
@@ -41,7 +41,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 2. 外国劳动者四大保险参保义务 {#section-2}
+## 2. 外国劳动者四大保险参保义务
 
 | 保险 | 外国人适用情况 | 备注 |
 |---|---|---|
@@ -52,7 +52,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 3. 健康保险 {#section-3}
+## 3. 健康保险
 
 ### 职场参保人保险费（2026年标准）
 
@@ -71,7 +71,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 4. 国民年金 {#section-4}
+## 4. 国民年金
 
 ### 国民年金保险费（2026年标准）
 
@@ -96,7 +96,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 5. 雇用保险 {#section-5}
+## 5. 雇用保险
 
 ### 雇用保险保险费（2026年标准）
 
@@ -124,7 +124,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 6. 产业灾害补偿保险 {#section-6}
+## 6. 产业灾害补偿保险
 
 产业灾害补偿保险是对工作中发生的伤害、疾病及死亡进行补偿的制度，**对全体在韩就业外国人强制适用**。
 
@@ -137,7 +137,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 7. 四大保险费用汇总 {#section-7}
+## 7. 四大保险费用汇总
 
 以月薪300万韩元为基准，劳动者负担保险费示例：
 
@@ -153,7 +153,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 8. 社会保障协定国家免缴 {#section-8}
+## 8. 社会保障协定国家免缴
 
 韩国与多个国家签订了社会保障协定，相关国家公民可申请免缴国民年金及部分保险。
 
@@ -168,7 +168,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 9. 国民年金一次性退还申请 {#section-9}
+## 9. 国民年金一次性退还申请
 
 外国人离开韩国时，若国民年金参保不足10年，可申请**一次性退还**已缴纳金额。
 
@@ -181,7 +181,7 @@ slug: "korea-four-major-insurance-foreigners"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 未参加四大保险会怎样？**
 A. 雇主若未办理四大保险申报，将被处以罚款并追缴保险费。劳动者也将无法享受相关保障，因此入职后应立即确认参保情况。
@@ -200,7 +200,7 @@ A. 根据韩美社会保障协定，已缴纳美国社会保障税并能提供�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 外国人参加韩国四大社会保险，因在留资格及国籍不同而存在差异。保险费免缴申请、一次性退还及失业救济金等复杂事项，建议寻求专业人士的协助。
 

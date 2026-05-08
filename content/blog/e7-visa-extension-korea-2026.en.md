@@ -20,7 +20,7 @@ The E-7 (Specific Activities) visa must be renewed before it expires if you wish
 <li>Occupation and employer changes require a separate visa change application</li>
 </ul></div>
 
-## Who Can Extend an E-7 Visa? {#eligibility}
+## Who Can Extend an E-7 Visa?
 
 You may apply for an E-7 extension if:
 
@@ -31,7 +31,7 @@ You may apply for an E-7 extension if:
 
 If you have changed employers or occupation codes, you cannot simply extend — you must apply for a new E-7 visa. An administrative scrivener (행정사) can advise whether your situation qualifies as a genuine extension or requires a new application.
 
-## Required Documents for E-7 Visa Extension {#documents}
+## Required Documents for E-7 Visa Extension
 
 | Document | Notes |
 |---|---|
@@ -48,7 +48,7 @@ If you have changed employers or occupation codes, you cannot simply extend — 
 
 Some occupation codes require additional documents. For example, IT specialists (E-7-1) may need to submit evidence of degree or certification, while manufacturing skill workers (E-7-3) may need a skills verification letter.
 
-## Application Process {#process}
+## Application Process
 
 1. **Prepare documents**: Gather all items above; check that employer-issued documents are within the 3-month validity window
 2. **Complete the application form**: Use the unified visa application form available at the immigration office or HiKorea (www.hikorea.go.kr)
@@ -57,7 +57,7 @@ Some occupation codes require additional documents. For example, IT specialists 
 5. **Biometrics (if required)**: First-time ARC holders may need to register fingerprints
 6. **Receive decision**: You'll receive an SMS notification; collect the new ARC from the immigration office or via mail
 
-## Timeline and Fees {#timeline}
+## Timeline and Fees
 
 | Stage | Duration |
 |---|---|
@@ -74,7 +74,7 @@ Some occupation codes require additional documents. For example, IT specialists 
 
 > You may continue working while your extension application is pending, as long as you filed before your current status expired.
 
-## Common Rejection Reasons {#rejection}
+## Common Rejection Reasons
 
 Understanding why E-7 extensions get rejected helps you avoid the same pitfalls:
 
@@ -95,7 +95,7 @@ Beyond the minimum documents, these additions can materially improve approval ch
 - **Evidence of ongoing qualifications**: Renewed certifications, language test results, or training completion records
 - **Bank statements**: Showing consistent salary deposits matching the employment contract
 
-## FAQ {#faq}
+## FAQ
 
 **Q. Can I apply for an E-7 extension online?**
 The online HiKorea portal supports some visa extension types, but E-7 extensions typically still require in-person submission at the immigration office. Confirm with your local office before visiting.

@@ -28,7 +28,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 1. 什么是在留资格外活动许可？ {#section-1}
+## 1. 什么是在留资格外活动许可？
 
 在留资格外活动许可，是指外国人为合法从事超出现有签证许可范围的活动，向法务部出入境管理局申请并取得的许可。
 
@@ -43,7 +43,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 2. 何时需要许可 vs. 无需许可 {#section-2}
+## 2. 何时需要许可 vs. 无需许可
 
 | 需要许可 | 无需许可 |
 |---|---|
@@ -54,7 +54,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 3. 需要申请许可的签证类型 {#section-3}
+## 3. 需要申请许可的签证类型
 
 以下签证持有人若希望从事签证范围以外的有偿活动，须取得许可：
 
@@ -69,7 +69,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 4. 留学生兼职许可（每周20小时） {#section-4}
+## 4. 留学生兼职许可（每周20小时）
 
 持D-2签证的在读大学生，满足以下条件可取得兼职许可，每周可工作不超过20小时。
 
@@ -89,7 +89,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 5. 所需材料 {#section-5}
+## 5. 所需材料
 
 ### 共同材料
 
@@ -119,7 +119,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 6. 申请方式及流程 {#section-6}
+## 6. 申请方式及流程
 
 ### 申请方式
 
@@ -138,7 +138,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 7. 未经许可就业的处罚 {#section-7}
+## 7. 未经许可就业的处罚
 
 未取得在留资格外活动许可擅自就业或从事经营活动，将违反《出入境管理法》并受到严厉处罚。
 
@@ -150,7 +150,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 8. 注意事项 {#section-8}
+## 8. 注意事项
 
 | 注意事项 | 内容 |
 |---|---|
@@ -161,7 +161,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 9. 特殊情况说明 {#section-9}
+## 9. 特殊情况说明
 
 ### 配偶及家属（F-1、F-3）
 
@@ -177,7 +177,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 持语言研修签证（D-4）可以打工兼职吗？**
 A. 不可以。D-4签证只允许语言研修，打工兼职须事先取得在留资格外活动许可。部分D-4-1（机构研修）签证持有人可在有限条件下从事兼职。
@@ -196,7 +196,7 @@ A. 自首的处理结果因情况而异，有时仅受行政处罚，有时可�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 在留资格外活动许可的申请资格因签证种类和活动内容不同而有所差异。未经许可就业可能导致签证被撤销及驱逐出境，活动前务必咨询专业人士确认。
 

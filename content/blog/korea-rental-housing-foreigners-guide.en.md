@@ -28,7 +28,7 @@ Korea's rental system — especially jeonse (전세), a lump-sum deposit-based l
 
 ---
 
-## 1. Understanding Korea's Rental Types {#section-1}
+## 1. Understanding Korea's Rental Types
 
 Korea has three main residential rental structures.
 
@@ -40,7 +40,7 @@ Korea has three main residential rental structures.
 
 ---
 
-## 2. Jeonse vs. Monthly Rent Compared {#section-2}
+## 2. Jeonse vs. Monthly Rent Compared
 
 | Item | Jeonse | Monthly Rent (Wolse) |
 |---|---|---|
@@ -54,7 +54,7 @@ Korea has three main residential rental structures.
 
 ---
 
-## 3. Rental Contract Procedure {#section-3}
+## 3. Rental Contract Procedure
 
 | Step | Action |
 |---|---|
@@ -67,7 +67,7 @@ Korea has three main residential rental structures.
 
 ---
 
-## 4. Move-In Registration & Confirmed Date (Deposit Protection) {#section-4}
+## 4. Move-In Registration & Confirmed Date (Deposit Protection)
 
 These two steps are critical for legally protecting your deposit.
 
@@ -82,7 +82,7 @@ These two steps are critical for legally protecting your deposit.
 
 ---
 
-## 5. Key Provisions of the Housing Lease Protection Act {#section-5}
+## 5. Key Provisions of the Housing Lease Protection Act
 
 Korea's **Housing Lease Protection Act (주택임대차보호법)** strongly protects tenants' rights.
 
@@ -96,7 +96,7 @@ Korea's **Housing Lease Protection Act (주택임대차보호법)** strongly pro
 
 ---
 
-## 6. What Foreigners Need to Know {#section-6}
+## 6. What Foreigners Need to Know
 
 | Issue | Details |
 |---|---|
@@ -108,7 +108,7 @@ Korea's **Housing Lease Protection Act (주택임대차보호법)** strongly pro
 
 ---
 
-## 7. Jeonse Fraud Prevention {#section-7}
+## 7. Jeonse Fraud Prevention
 
 Jeonse fraud (전세 사기) has surged in recent years. Always verify the following.
 
@@ -122,7 +122,7 @@ Jeonse fraud (전세 사기) has surged in recent years. Always verify the follo
 
 ---
 
-## 8. Using Real Estate Apps and Agents {#section-8}
+## 8. Using Real Estate Apps and Agents
 
 | Option | Features |
 |---|---|
@@ -135,7 +135,7 @@ Jeonse fraud (전세 사기) has surged in recent years. Always verify the follo
 
 ---
 
-## 9. Moving Out and Getting Your Deposit Back {#section-9}
+## 9. Moving Out and Getting Your Deposit Back
 
 | Item | Details |
 |---|---|
@@ -146,7 +146,7 @@ Jeonse fraud (전세 사기) has surged in recent years. Always verify the follo
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can foreigners enter a jeonse contract in Korea?**
 A. Yes. As long as you have a valid alien registration card (ARC), you can sign a jeonse contract, complete move-in registration, and obtain a confirmed date — all the same as a Korean resident.
@@ -165,7 +165,7 @@ A. Always have the contract explained to you in full before signing — either t
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Korea's rental system involves unfamiliar laws and practices that can be challenging for foreigners. Vision Administrative Office provides expert advice on residence-related legal issues and daily life support for foreign nationals in Korea.
 

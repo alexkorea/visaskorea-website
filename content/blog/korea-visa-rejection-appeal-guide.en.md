@@ -28,7 +28,7 @@ A Korean visa rejection does not mean the end of the road. Depending on the circ
 
 ---
 
-## 1. What Is a Visa Rejection? {#section-1}
+## 1. What Is a Visa Rejection?
 
 A visa rejection (non-issuance) is an official decision by a Korean overseas mission or the Ministry of Justice to deny a visa application.
 
@@ -40,7 +40,7 @@ A visa rejection (non-issuance) is an official decision by a Korean overseas mis
 
 ---
 
-## 2. Common Reasons for Visa Rejection {#section-2}
+## 2. Common Reasons for Visa Rejection
 
 | Category | Specific Reasons |
 |---|---|
@@ -54,7 +54,7 @@ A visa rejection (non-issuance) is an official decision by a Korean overseas mis
 
 ---
 
-## 3. How to Check Your Rejection Notice {#section-3}
+## 3. How to Check Your Rejection Notice
 
 | Application Channel | How to Check |
 |---|---|
@@ -67,7 +67,7 @@ A visa rejection (non-issuance) is an official decision by a Korean overseas mis
 
 ---
 
-## 4. Appeal vs. Reapplication: Choosing the Right Path {#section-4}
+## 4. Appeal vs. Reapplication: Choosing the Right Path
 
 | Option | Description | Best When |
 |---|---|---|
@@ -78,7 +78,7 @@ A visa rejection (non-issuance) is an official decision by a Korean overseas mis
 
 ---
 
-## 5. Filing a Formal Objection {#section-5}
+## 5. Filing a Formal Objection
 
 ### For Embassy/Consulate Rejections
 
@@ -100,7 +100,7 @@ A visa rejection (non-issuance) is an official decision by a Korean overseas mis
 
 ---
 
-## 6. Administrative Review Procedure {#section-6}
+## 6. Administrative Review Procedure
 
 An administrative review is the official channel for challenging a visa refusal you believe was unlawful or unreasonable.
 
@@ -121,7 +121,7 @@ An administrative review is the official channel for challenging a visa refusal 
 
 ---
 
-## 7. Administrative Litigation Procedure {#section-7}
+## 7. Administrative Litigation Procedure
 
 If the administrative review fails or the legal rights violation is clear, you may file an administrative lawsuit.
 
@@ -137,7 +137,7 @@ If the administrative review fails or the legal rights violation is clear, you m
 
 ---
 
-## 8. Reapplication Strategy {#section-8}
+## 8. Reapplication Strategy
 
 In many cases, reapplication after addressing the deficiencies is more practical than filing an appeal.
 
@@ -161,7 +161,7 @@ In many cases, reapplication after addressing the deficiencies is more practical
 
 ---
 
-## 9. Tips by Visa Type {#section-9}
+## 9. Tips by Visa Type
 
 | Visa Type | Common Rejection Reason | Key Counter-Measure |
 |---|---|---|
@@ -174,7 +174,7 @@ In many cases, reapplication after addressing the deficiencies is more practical
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. How long should I wait before reapplying after a rejection?**
 A. There is no mandatory waiting period, but reapplying immediately with the same documents will likely result in another rejection. We recommend waiting 1–3 months and preparing substantially improved documents.
@@ -193,7 +193,7 @@ A. You must depart before your authorized stay expires. Consult a professional i
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 A visa rejection requires careful legal and administrative judgment. Whether you pursue an appeal, administrative review, or a fresh reapplication, professional guidance significantly improves your chances of success.
 

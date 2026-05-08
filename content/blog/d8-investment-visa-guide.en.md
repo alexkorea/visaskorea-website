@@ -18,7 +18,7 @@ slug: "d8-investment-visa-guide"
 
 <img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=800" alt="Multinational business meeting" />
 
-## What Is the D-8 Corporate Investment Visa? {#what}
+## What Is the D-8 Corporate Investment Visa?
 
 The D-8 Corporate Investment Visa is a residence status issued to foreign nationals who invest in the Republic of Korea under the **Foreign Investment Promotion Act (FIPA)** and engage in management, administration, or specialized technical activities at the invested company. The Korean government actively encourages foreign direct investment, and the D-8 visa serves as one of the key institutional mechanisms supporting this policy. Through this visa, foreign investors can legally reside in Korea while operating as the CEO, executive, or technical specialist of their invested enterprise.
 
@@ -28,7 +28,7 @@ The D-8 visa is issued based on the Foreign-Invested Enterprise Registration Cer
 
 &nbsp;
 
-## Who Needs a D-8 Visa? {#who}
+## Who Needs a D-8 Visa?
 
 The D-8 Corporate Investment Visa is designed for foreign nationals who wish to start a business in Korea or invest in an existing Korean company and participate in its management. Specifically, the following individuals are eligible: representatives of overseas companies entering the Korean market, foreign tech professionals looking to launch startups in Korea, and overseas investors who wish to invest a minimum amount and actively participate in business management.
 
@@ -40,7 +40,7 @@ Additionally, foreign nationals currently residing in Korea on other visa types 
 
 &nbsp;
 
-## D-8 Visa Subtypes {#subtypes}
+## D-8 Visa Subtypes
 
 The D-8 Corporate Investment Visa is divided into several subtypes based on the method of investment and the nature of activities. Each subtype has different qualification requirements and investment conditions, so it is crucial to identify the correct subtype for your situation.
 
@@ -59,7 +59,7 @@ The D-8 Corporate Investment Visa is divided into several subtypes based on the 
 
 &nbsp;
 
-## Eligibility and Investment Requirements {#eligibility}
+## Eligibility and Investment Requirements
 
 To apply for a D-8 Corporate Investment Visa, all of the following core requirements must be met. Below is a detailed breakdown of each requirement, including investment amount, equity ratio, and business premises.
 
@@ -82,7 +82,7 @@ Regarding the business premises requirement, the key point is that the space mus
 
 &nbsp;
 
-## Required Documents (Detailed) {#documents}
+## Required Documents (Detailed)
 
 The D-8 visa application requires a substantial number of documents. Even a single missing document can delay processing or result in rejection, so please ensure thorough preparation based on the checklist below.
 

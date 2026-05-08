@@ -27,7 +27,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 1. 海外汇款基本条件 {#section-1}
+## 1. 海外汇款基本条件
 
 | 项目 | 内容 |
 |---|---|
@@ -41,7 +41,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 2. 银行汇款 {#section-2}
+## 2. 银行汇款
 
 | 银行 | 服务名称 | 特点 |
 |---|---|---|
@@ -63,7 +63,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 3. 金融科技汇款服务（Wise等） {#section-3}
+## 3. 金融科技汇款服务（Wise等）
 
 | 服务 | 特点 | 手续费 |
 |---|---|---|
@@ -77,7 +77,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 4. 便利店汇款 {#section-4}
+## 4. 便利店汇款
 
 | 服务 | 位置 | 目的地国 |
 |---|---|---|
@@ -89,7 +89,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 5. 主要汇款服务手续费对比 {#section-5}
+## 5. 主要汇款服务手续费对比
 
 *示例：100万韩元（约700美元）汇至美国*
 
@@ -105,7 +105,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 6. 汇款限额及申报义务 {#section-6}
+## 6. 汇款限额及申报义务
 
 | 类别 | 内容 |
 |---|---|
@@ -119,7 +119,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 7. 汇率节省技巧 {#section-7}
+## 7. 汇率节省技巧
 
 | 技巧 | 内容 |
 |---|---|
@@ -131,7 +131,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 8. 各目的地国特殊事项 {#section-8}
+## 8. 各目的地国特殊事项
 
 | 目的地国 | 特殊注意事项 |
 |---|---|
@@ -146,7 +146,7 @@ slug: "korea-overseas-remittance-foreigners-guide"
 
 ---
 
-## 9. 常见问题解答 {#section-9}
+## 9. 常见问题解答
 
 **Q. 没有韩国银行账户可以汇款吗？**
 A. 可以。西联汇款和便利店MoneyGram允许以现金方式汇款，无需银行账户。但手续费较高，且汇款限额可能更低。
@@ -165,7 +165,7 @@ A. 中国个人外汇年收入限额为5万美元，收款人需持有实名认�
 
 ---
 
-## 10. 咨询指南 {#section-10}
+## 10. 咨询指南
 
 如有签证、居留资格或在韩生活定居相关问题，欢迎联系飞展行政士事务所。
 

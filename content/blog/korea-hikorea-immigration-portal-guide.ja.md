@@ -27,7 +27,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 1. 会員登録とログイン {#section-1}
+## 1. 会員登録とログイン
 
 | 項目 | 内容 |
 |---|---|
@@ -45,7 +45,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 2. 主なオンラインサービス一覧 {#section-2}
+## 2. 主なオンラインサービス一覧
 
 | サービス | オンライン可否 |
 |---|---|
@@ -63,7 +63,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 3. 外国人登録の申請方法 {#section-3}
+## 3. 外国人登録の申請方法
 
 | ステップ | 内容 |
 |---|---|
@@ -84,7 +84,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 4. 在留期間延長の申請方法 {#section-4}
+## 4. 在留期間延長の申請方法
 
 | ステップ | 内容 |
 |---|---|
@@ -102,7 +102,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 5. 在留資格変更の申請方法 {#section-5}
+## 5. 在留資格変更の申請方法
 
 | ステップ | 内容 |
 |---|---|
@@ -119,7 +119,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 6. 再入国許可の申請方法 {#section-6}
+## 6. 再入国許可の申請方法
 
 | 項目 | 内容 |
 |---|---|
@@ -133,7 +133,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 7. 全国入国管理局の所在地 {#section-7}
+## 7. 全国入国管理局の所在地
 
 | 地域 | 事務所 | 住所 |
 |---|---|---|
@@ -149,7 +149,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 8. ハイコリア活用のコツ {#section-8}
+## 8. ハイコリア活用のコツ
 
 | コツ | 内容 |
 |---|---|
@@ -162,7 +162,7 @@ slug: "korea-hikorea-immigration-portal-guide"
 
 ---
 
-## 9. よくある質問（FAQ） {#section-9}
+## 9. よくある質問（FAQ）
 
 **Q. 外国人登録はハイコリアで完全にオンライン完結できますか？**
 A. 申請書の提出はオンラインで可能ですが、外国人登録証の受取には入国管理局への訪問が必要です。
@@ -181,7 +181,7 @@ A. [マイ申請内訳] で却下理由を確認し、書類を補完して再�
 
 ---
 
-## 10. 相談案内 {#section-10}
+## 10. 相談案内
 
 ハイコリアの利用方法・ビザ申請・在留資格変更に関するご相談は、ビジョン行政書士事務所にお気軽にどうぞ。
 

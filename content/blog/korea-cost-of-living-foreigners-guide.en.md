@@ -29,7 +29,7 @@ Korea offers a high standard of living at relatively reasonable costs compared t
 
 ---
 
-## 1. Monthly Budget Summary (Single Person) {#section-1}
+## 1. Monthly Budget Summary (Single Person)
 
 | Category | Budget | Mid-range | Comfortable |
 |---|---|---|---|
@@ -46,7 +46,7 @@ Korea offers a high standard of living at relatively reasonable costs compared t
 
 ---
 
-## 2. Housing Costs {#section-2}
+## 2. Housing Costs
 
 Housing is the largest expense. Korea's main rental types are jeonse (전세), wolse (월세), and deposit-plus-monthly rent (보증부월세).
 
@@ -61,7 +61,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 3. Food and Groceries {#section-3}
+## 3. Food and Groceries
 
 | Item | Average Cost |
 |---|---|
@@ -77,7 +77,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 4. Transportation {#section-4}
+## 4. Transportation
 
 | Mode | Cost |
 |---|---|
@@ -93,7 +93,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 5. Phone and Internet {#section-5}
+## 5. Phone and Internet
 
 | Plan | Monthly Cost | Data |
 |---|---|---|
@@ -107,7 +107,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 6. Utilities and Maintenance Fees {#section-6}
+## 6. Utilities and Maintenance Fees
 
 | Item | Monthly Average (Single) |
 |---|---|
@@ -122,7 +122,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 7. Healthcare {#section-7}
+## 7. Healthcare
 
 | Item | With NHIS | Without Insurance |
 |---|---|---|
@@ -137,7 +137,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 8. Leisure and Entertainment {#section-8}
+## 8. Leisure and Entertainment
 
 | Item | Cost |
 |---|---|
@@ -152,7 +152,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 9. City-by-City Cost Comparison {#section-9}
+## 9. City-by-City Cost Comparison
 
 | City | Cost Level | Key Notes |
 |---|---|---|
@@ -165,7 +165,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 10. Money-Saving Tips {#section-10}
+## 10. Money-Saving Tips
 
 | Tip | Details |
 |---|---|
@@ -179,7 +179,7 @@ Housing is the largest expense. Korea's main rental types are jeonse (전세), w
 
 ---
 
-## 11. Frequently Asked Questions {#section-11}
+## 11. Frequently Asked Questions
 
 **Q. How much does it cost to live alone in Seoul per month?**
 A. On a tight budget: KRW 1,000,000–1,300,000. Average: KRW 1,500,000–2,000,000. Comfortable: KRW 2,500,000+. Housing is the biggest variable.
@@ -198,7 +198,7 @@ A. Yes. Services like Hana Bank Global Remittance, Shinhan overseas transfer, Wi
 
 ---
 
-## 12. Consultation {#section-12}
+## 12. Consultation
 
 If you need expert support on visa eligibility, residency status, or general life settlement in Korea, Vision Administrative Office is here to help.
 

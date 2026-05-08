@@ -28,7 +28,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 1. 外国人の国民健康保険加入 {#section-1}
+## 1. 外国人の国民健康保険加入
 
 韓国に6か月以上合法的に在留する外国人は、国民健康保険（NHIS）への加入が義務付けられています。
 
@@ -44,7 +44,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 2. 韓国の三段階医療制度 {#section-2}
+## 2. 韓国の三段階医療制度
 
 | 機関タイプ | 規模 | 特徴 |
 |---|---|---|
@@ -56,7 +56,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 3. 受診手順 {#section-3}
+## 3. 受診手順
 
 | ステップ | 内容 |
 |---|---|
@@ -69,7 +69,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 4. 外国人がよく利用する医療機関 {#section-4}
+## 4. 外国人がよく利用する医療機関
 
 | 病院タイプ | 特徴 |
 |---|---|
@@ -82,7 +82,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 5. 救急医療の利用方法 {#section-5}
+## 5. 救急医療の利用方法
 
 | 状況 | 対応 |
 |---|---|
@@ -95,7 +95,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 6. よく使う医療用語（韓/日/英） {#section-6}
+## 6. よく使う医療用語（韓/日/英）
 
 | 韓国語 | 日本語 | 英語 |
 |---|---|---|
@@ -112,7 +112,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 7. 処方箋と薬局の利用 {#section-7}
+## 7. 処方箋と薬局の利用
 
 | 項目 | 内容 |
 |---|---|
@@ -124,7 +124,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 8. 自己負担額と節約のコツ {#section-8}
+## 8. 自己負担額と節約のコツ
 
 | コツ | 内容 |
 |---|---|
@@ -136,7 +136,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 9. 長期処方と慢性疾患の管理 {#section-9}
+## 9. 長期処方と慢性疾患の管理
 
 | 項目 | 内容 |
 |---|---|
@@ -147,7 +147,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 10. よくある質問（FAQ） {#section-10}
+## 10. よくある質問（FAQ）
 
 **Q. 健康保険なしで受診するとどのくらいかかりますか？**
 A. 保険未加入の場合は全額自己負担です。地域クリニックの受診費用は5〜15万ウォン程度、救急室は20〜50万ウォン以上かかる場合があります。
@@ -166,7 +166,7 @@ A. 精神健康医学科のクリニックや国立精神健康センター（02
 
 ---
 
-## 11. 相談案内 {#section-11}
+## 11. 相談案内
 
 在留資格と健康保険加入資格の関係や、日常生活の定着に関することでご不明な点があれば、ビジョン行政書士事務所にお気軽にご相談ください。
 

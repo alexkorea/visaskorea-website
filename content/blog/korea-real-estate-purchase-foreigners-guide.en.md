@@ -28,7 +28,7 @@ Foreigners can purchase real estate in Korea, but there are reporting obligation
 
 ---
 
-## 1. Can Foreigners Buy Property in Korea? {#section-1}
+## 1. Can Foreigners Buy Property in Korea?
 
 Under Korea's Foreigner's Land Acquisition Act and the Real Estate Transaction Reporting Act, foreigners are generally permitted to acquire land and buildings in Korea.
 
@@ -42,7 +42,7 @@ Under Korea's Foreigner's Land Acquisition Act and the Real Estate Transaction R
 
 ---
 
-## 2. Restrictions by Property Type {#section-2}
+## 2. Restrictions by Property Type
 
 ### Residential Property (Apartments/Houses)
 
@@ -62,7 +62,7 @@ Under the Foreigner's Land Acquisition Act, foreigners must report land purchase
 
 ---
 
-## 3. Step-by-Step Buying Process {#section-3}
+## 3. Step-by-Step Buying Process
 
 | Step | Details |
 |---|---|
@@ -76,7 +76,7 @@ Under the Foreigner's Land Acquisition Act, foreigners must report land purchase
 
 ---
 
-## 4. Reporting Obligations {#section-4}
+## 4. Reporting Obligations
 
 ### Real Estate Transaction Report
 
@@ -97,7 +97,7 @@ Under the Foreigner's Land Acquisition Act, foreigners must report land purchase
 
 ---
 
-## 5. Property Acquisition Taxes {#section-5}
+## 5. Property Acquisition Taxes
 
 Foreigners pay the same acquisition-related taxes as Korean nationals.
 
@@ -121,7 +121,7 @@ Foreigners pay the same acquisition-related taxes as Korean nationals.
 
 ---
 
-## 6. Bringing in Foreign Funds {#section-6}
+## 6. Bringing in Foreign Funds
 
 Foreign funds brought into Korea for property purchase must comply with the Foreign Exchange Transactions Act.
 
@@ -134,7 +134,7 @@ Foreign funds brought into Korea for property purchase must comply with the Fore
 
 ---
 
-## 7. Can Foreigners Get a Mortgage? {#section-7}
+## 7. Can Foreigners Get a Mortgage?
 
 Foreigners with stable visa status can apply for a mortgage (LTV-based) at Korean banks. However, income verification requirements are stricter than for Korean nationals.
 
@@ -149,7 +149,7 @@ Foreigners with stable visa status can apply for a mortgage (LTV-based) at Korea
 
 ---
 
-## 8. Rental Income Tax {#section-8}
+## 8. Rental Income Tax
 
 If you rent out your property, rental income is subject to Korean income tax.
 
@@ -162,7 +162,7 @@ If you rent out your property, rental income is subject to Korean income tax.
 
 ---
 
-## 9. Capital Gains Tax When Selling {#section-9}
+## 9. Capital Gains Tax When Selling
 
 Capital gains from property sales are subject to tax at rates that depend on holding period and number of properties.
 
@@ -177,7 +177,7 @@ Capital gains from property sales are subject to tax at rates that depend on hol
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can a foreigner on a tourist visa (C-3) buy property in Korea?**
 A. Legally possible, but short-stay visa holders cannot access mortgages and face complex reporting requirements. In practice, most foreign property buyers hold long-stay visas (F-2, F-5, etc.).
@@ -196,7 +196,7 @@ A. Yes. Foreign corporations can purchase real estate in Korea, subject to addit
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Buying real estate in Korea as a foreigner involves overlapping obligations — reporting, taxation, and foreign exchange regulations. Professional guidance ensures a smooth, compliant transaction.
 

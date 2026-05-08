@@ -28,7 +28,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 1. 외국인 국민건강보험 가입 {#section-1}
+## 1. 외국인 국민건강보험 가입
 
 한국에 6개월 이상 체류하는 외국인은 국민건강보험(NHIS)에 의무 가입해야 합니다.
 
@@ -44,7 +44,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 2. 한국 의료 기관 체계 {#section-2}
+## 2. 한국 의료 기관 체계
 
 | 기관 유형 | 규모 | 특징 |
 |---|---|---|
@@ -56,7 +56,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 3. 병원 이용 절차 {#section-3}
+## 3. 병원 이용 절차
 
 | 단계 | 내용 |
 |---|---|
@@ -69,7 +69,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 4. 외국인이 자주 이용하는 병원 유형 {#section-4}
+## 4. 외국인이 자주 이용하는 병원 유형
 
 | 병원 유형 | 특징 |
 |---|---|
@@ -82,7 +82,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 5. 응급 의료 이용 방법 {#section-5}
+## 5. 응급 의료 이용 방법
 
 | 상황 | 대응 |
 |---|---|
@@ -95,7 +95,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 6. 자주 사용하는 의료 용어 (한/영) {#section-6}
+## 6. 자주 사용하는 의료 용어 (한/영)
 
 | 한국어 | English |
 |---|---|
@@ -112,7 +112,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 7. 처방전과 약국 이용 {#section-7}
+## 7. 처방전과 약국 이용
 
 | 항목 | 내용 |
 |---|---|
@@ -124,7 +124,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 8. 의료비 본인 부담 및 절감 팁 {#section-8}
+## 8. 의료비 본인 부담 및 절감 팁
 
 | 팁 | 내용 |
 |---|---|
@@ -136,7 +136,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 9. 장기 처방·만성질환 관리 {#section-9}
+## 9. 장기 처방·만성질환 관리
 
 | 항목 | 내용 |
 |---|---|
@@ -147,7 +147,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 건강보험 없이 병원을 이용하면 얼마나 드나요?**
 A. 건강보험 미가입 시 진료비 전액을 본인이 부담해야 합니다. 의원급 진료는 5~15만 원, 응급실 이용은 20~50만 원 이상 발생할 수 있습니다.
@@ -166,7 +166,7 @@ A. 정신건강의학과 의원 또는 국립정신건강센터(02-2204-0200)에
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 한국의 건강보험 가입 자격, 체류자격과 의료 서비스 이용 관계에 대해 궁금한 사항이 있다면 비전행정사사무소에 문의하세요. 체류자격 관련 전반적인 생활 정착을 전문적으로 지원합니다.
 

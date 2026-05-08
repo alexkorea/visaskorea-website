@@ -28,7 +28,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 1. 반환일시금이란? {#section-1}
+## 1. 반환일시금이란?
 
 반환일시금(返還一時金)은 국민연금 가입자가 연금 수급 요건(10년 이상 납부 + 만 60세)을 충족하지 못한 채 한국을 영구적으로 떠나는 경우, 납부한 보험료 원금과 이자를 일시에 돌려받는 제도입니다.
 
@@ -42,7 +42,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 2. 신청 대상 및 조건 {#section-2}
+## 2. 신청 대상 및 조건
 
 ### 신청 자격
 
@@ -63,7 +63,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 3. 수령 금액 계산 방법 {#section-3}
+## 3. 수령 금액 계산 방법
 
 반환일시금 수령액은 납부한 보험료 원금에 법정 이자율을 적용하여 계산합니다.
 
@@ -95,7 +95,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 4. 신청 서류 {#section-4}
+## 4. 신청 서류
 
 | 서류 | 비고 |
 |---|---|
@@ -109,7 +109,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 5. 신청 방법 및 절차 {#section-5}
+## 5. 신청 방법 및 절차
 
 ### 신청 방법 3가지
 
@@ -134,7 +134,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 6. 신청 시기 (출국 전 vs. 출국 후) {#section-6}
+## 6. 신청 시기 (출국 전 vs. 출국 후)
 
 | 시기 | 가능 여부 | 비고 |
 |---|---|---|
@@ -148,7 +148,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 7. 사회보장협정 국가 주의사항 {#section-7}
+## 7. 사회보장협정 국가 주의사항
 
 한국과 사회보장협정을 체결한 국가의 국민은 반환일시금 수령에 특별한 규정이 적용될 수 있습니다.
 
@@ -172,7 +172,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 8. 반환일시금 vs. 연금 수령 {#section-8}
+## 8. 반환일시금 vs. 연금 수령
 
 가입 기간이 10년 이상인 경우 반환일시금 대신 노령연금을 선택할 수 있습니다.
 
@@ -186,7 +186,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 9. 세금 공제 여부 {#section-9}
+## 9. 세금 공제 여부
 
 반환일시금 수령 시 세금 공제가 적용됩니다.
 
@@ -201,7 +201,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 이미 출국했는데 반환일시금을 신청할 수 있나요?**
 A. 네. 해외에서도 국민연금공단 온라인 서비스(www.nps.or.kr) 또는 우편으로 신청할 수 있습니다. 해외 은행 계좌로 송금도 가능합니다.
@@ -220,7 +220,7 @@ A. 네. 외국인 가입자가 사망한 경우 유족이 반환일시금(유족
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 국민연금 반환일시금은 외국인 근로자가 한국을 떠날 때 챙겨야 할 중요한 권리입니다. 사회보장협정 적용 여부, 해외 송금 절차 등 복잡한 사항은 전문가의 도움을 받으시면 더욱 원활하게 처리하실 수 있습니다.
 

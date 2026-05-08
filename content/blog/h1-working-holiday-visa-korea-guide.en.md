@@ -28,7 +28,7 @@ Korea's Working Holiday Visa (H-1) is a special visa issued to young people from
 
 ---
 
-## 1. What Is the Working Holiday Visa (H-1)? {#section-1}
+## 1. What Is the Working Holiday Visa (H-1)?
 
 The H-1 visa is a status of stay issued to young nationals (ages 18–30, or up to 35 for some countries) of countries that have signed a working holiday agreement with Korea.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Countries with Working Holiday Agreements {#section-2}
+## 2. Countries with Working Holiday Agreements
 
 Korea currently has working holiday agreements with many countries worldwide.
 
@@ -55,7 +55,7 @@ Korea currently has working holiday agreements with many countries worldwide.
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -68,7 +68,7 @@ Korea currently has working holiday agreements with many countries worldwide.
 
 ---
 
-## 4. How to Apply {#section-4}
+## 4. How to Apply
 
 The H-1 visa must be applied for **in your home country** — applying after entering Korea is not possible.
 
@@ -80,7 +80,7 @@ The H-1 visa must be applied for **in your home country** — applying after ent
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 | Document | Notes |
 |---|---|
@@ -96,7 +96,7 @@ The H-1 visa must be applied for **in your home country** — applying after ent
 
 ---
 
-## 6. Stay Duration and Work Scope {#section-6}
+## 6. Stay Duration and Work Scope
 
 | Item | Details |
 |---|---|
@@ -108,7 +108,7 @@ The H-1 visa must be applied for **in your home country** — applying after ent
 
 ---
 
-## 7. Restricted Work Types {#section-7}
+## 7. Restricted Work Types
 
 Certain types of work are restricted under the working holiday visa.
 
@@ -120,7 +120,7 @@ Certain types of work are restricted under the working holiday visa.
 
 ---
 
-## 8. Important Cautions {#section-8}
+## 8. Important Cautions
 
 | Caution | Details |
 |---|---|
@@ -132,7 +132,7 @@ Certain types of work are restricted under the working holiday visa.
 
 ---
 
-## 9. Changing from H-1 to Another Status {#section-9}
+## 9. Changing from H-1 to Another Status
 
 Some working holiday visa holders change to a different status within Korea due to employment, marriage, or other circumstances.
 
@@ -146,7 +146,7 @@ Some working holiday visa holders change to a different status within Korea due 
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I apply for a working holiday visa inside Korea?**
 A. No. The H-1 visa must be applied for at a Korean embassy or consulate in your home country. It cannot be applied for after entering Korea.
@@ -165,7 +165,7 @@ A. The H-1 visa permits employment (working for an employer), but operating a re
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The working holiday visa is applied for in your home country, but if status change issues or other stay-related matters arise during your time in Korea, professional support may be needed.
 

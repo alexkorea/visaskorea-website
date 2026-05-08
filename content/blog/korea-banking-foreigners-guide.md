@@ -26,7 +26,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 1. 한국 주요 은행 비교 {#section-1}
+## 1. 한국 주요 은행 비교
 
 | 은행 | 특징 | 외국인 서비스 | 외국어 지원 |
 |---|---|---|---|
@@ -39,7 +39,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 2. 외국인 계좌 개설 조건 및 서류 {#section-2}
+## 2. 외국인 계좌 개설 조건 및 서류
 
 ### 기본 조건
 
@@ -61,7 +61,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 3. 은행별 계좌 개설 가이드 {#section-3}
+## 3. 은행별 계좌 개설 가이드
 
 ### KB국민은행
 - 전국 지점에서 외국인 계좌 개설 가능
@@ -86,7 +86,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 4. 인터넷뱅킹·모바일뱅킹 설정 {#section-4}
+## 4. 인터넷뱅킹·모바일뱅킹 설정
 
 | 항목 | 내용 |
 |---|---|
@@ -101,7 +101,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 5. 해외 송금 방법 {#section-5}
+## 5. 해외 송금 방법
 
 | 방법 | 수수료 | 특징 |
 |---|---|---|
@@ -118,7 +118,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 6. ATM 이용 방법 {#section-6}
+## 6. ATM 이용 방법
 
 | 항목 | 내용 |
 |---|---|
@@ -132,7 +132,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 7. 카카오뱅크·토스 인터넷 전문은행 {#section-7}
+## 7. 카카오뱅크·토스 인터넷 전문은행
 
 ### 카카오뱅크 (Kakao Bank)
 
@@ -156,7 +156,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 8. 자주 묻는 질문 (FAQ) {#section-8}
+## 8. 자주 묻는 질문 (FAQ)
 
 **Q. ARC 없이 한국 은행 계좌를 개설할 수 있나요?**
 A. 일부 은행에서 여권과 비자만으로 계좌 개설이 가능하지만, 이용 범위가 제한될 수 있습니다. 정식 거주를 위해서는 ARC 발급 후 개설을 권장합니다.
@@ -175,7 +175,7 @@ A. 대부분의 은행 앱은 SMS 인증을 위해 한국 전화번호가 필요
 
 ---
 
-## 9. 상담 안내 {#section-9}
+## 9. 상담 안내
 
 한국 체류자격(비자) 및 생활 정착에 대한 전문 상담이 필요하시면 비전행정사사무소에 문의하세요.
 

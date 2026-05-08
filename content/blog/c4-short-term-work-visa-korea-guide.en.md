@@ -28,7 +28,7 @@ The C-4 (Short-Term Work) visa is issued to foreign nationals who engage in comp
 
 ---
 
-## 1. What Is the C-4 Visa? {#section-1}
+## 1. What Is the C-4 Visa?
 
 C-4 is the "Short-Term Work" status under Korea's Immigration Act. It is issued to foreign nationals who engage in compensated employment activities in Korea for a short period. It is limited to stays of 90 days or less and is distinct from long-term work visas (the E-series).
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Permitted Activities and Fields {#section-2}
+## 2. Permitted Activities and Fields
 
 | Field | Key Activities |
 |---|---|
@@ -54,7 +54,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -65,7 +65,7 @@ Key features:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -81,7 +81,7 @@ Key features:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Conclude contract with Korean employer/institution**
 2. **Apply for C-4 visa at Korean embassy/consulate**
@@ -94,7 +94,7 @@ Key features:
 
 ---
 
-## 6. Stay Period {#section-6}
+## 6. Stay Period
 
 | Item | Details |
 |---|---|
@@ -106,7 +106,7 @@ Key features:
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Permitted Activities | Restrictions |
 |---|---|
@@ -116,7 +116,7 @@ Key features:
 
 ---
 
-## 8. C-4 vs C-3 and E-7 Comparison {#section-8}
+## 8. C-4 vs C-3 and E-7 Comparison
 
 | | C-4 Short-Term Work | C-3 Short-Term Visit | E-7 Designated Activities |
 |--|--|--|--|
@@ -127,7 +127,7 @@ Key features:
 
 ---
 
-## 9. Transitioning from C-4 to Other Statuses {#section-9}
+## 9. Transitioning from C-4 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -138,7 +138,7 @@ Key features:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. I entered on a visa-free C-3 stay. Can I work for pay during my visit?**
 A. No. The C-3 (Short-Term Visit) status does not permit compensated employment. To engage in paid short-term work, you must obtain a C-4 visa in advance before entering Korea.
@@ -157,7 +157,7 @@ A. C-4 is limited to short-term work of 90 days or less. E-7 is for long-term pr
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The C-4 Short-Term Work visa has a short activity window and a relatively simple process, but the appropriate visa category can vary depending on the nature of the work and the form of compensation. Choosing the right visa from the start — especially with an eye toward potential long-term employment — is important.
 

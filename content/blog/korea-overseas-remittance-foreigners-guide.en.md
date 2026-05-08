@@ -27,7 +27,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 1. Basic Requirements for Overseas Transfers {#section-1}
+## 1. Basic Requirements for Overseas Transfers
 
 | Item | Details |
 |---|---|
@@ -41,7 +41,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 2. Bank Wire Transfers {#section-2}
+## 2. Bank Wire Transfers
 
 | Bank | Service | Notes |
 |---|---|---|
@@ -63,7 +63,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 3. Fintech Remittance Services (Wise, etc.) {#section-3}
+## 3. Fintech Remittance Services (Wise, etc.)
 
 | Service | Features | Fees |
 |---|---|---|
@@ -77,7 +77,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 4. Convenience Store Remittance {#section-4}
+## 4. Convenience Store Remittance
 
 | Service | Location | Destinations |
 |---|---|---|
@@ -89,7 +89,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 5. Fee Comparison: Major Services {#section-5}
+## 5. Fee Comparison: Major Services
 
 *Example: sending KRW 1,000,000 (approx. USD 700) to the United States*
 
@@ -105,7 +105,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 6. Transfer Limits and Reporting Requirements {#section-6}
+## 6. Transfer Limits and Reporting Requirements
 
 | Category | Details |
 |---|---|
@@ -119,7 +119,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 7. Tips to Save on Exchange Rates {#section-7}
+## 7. Tips to Save on Exchange Rates
 
 | Tip | Details |
 |---|---|
@@ -131,7 +131,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 8. Country-Specific Notes {#section-8}
+## 8. Country-Specific Notes
 
 | Destination | Key Notes |
 |---|---|
@@ -146,7 +146,7 @@ Foreigners living in Korea often need to send money home — for family support,
 
 ---
 
-## 9. Frequently Asked Questions {#section-9}
+## 9. Frequently Asked Questions
 
 **Q. Can I send money overseas without a Korean bank account?**
 A. Yes. Western Union and convenience store MoneyGram allow cash remittance without a bank account. However, fees are higher and limits may be lower.
@@ -165,7 +165,7 @@ A. Yes — China imposes a USD 50,000/year limit on individual forex receipts. T
 
 ---
 
-## 10. Consultation {#section-10}
+## 10. Consultation
 
 If you need help with visa status, residency procedures, or general life settlement in Korea, Vision Administrative Office provides expert support.
 

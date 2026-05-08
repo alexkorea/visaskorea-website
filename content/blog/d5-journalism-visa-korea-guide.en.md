@@ -28,7 +28,7 @@ The D-5 (Journalism) visa is issued to foreign journalists and correspondents af
 
 ---
 
-## 1. What Is the D-5 Visa? {#section-1}
+## 1. What Is the D-5 Visa?
 
 D-5 is the "Journalism" status under Korea's Immigration Act. It is issued to journalists and correspondents employed by overseas media organizations who reside in Korea to conduct press and reporting activities.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Permitted Activities and Fields {#section-2}
+## 2. Permitted Activities and Fields
 
 | Field | Key Activities |
 |---|---|
@@ -54,7 +54,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -65,7 +65,7 @@ Key features:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -81,7 +81,7 @@ Key features:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Media organization finalizes dispatch and appoints Korea correspondent**
 2. **Apply for D-5 visa at Korean embassy/consulate**
@@ -92,7 +92,7 @@ Key features:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -102,7 +102,7 @@ Key features:
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Permitted Activities | Restrictions |
 |---|---|
@@ -112,7 +112,7 @@ Key features:
 
 ---
 
-## 8. Transitioning from D-5 to Other Statuses {#section-8}
+## 8. Transitioning from D-5 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -122,7 +122,7 @@ Key features:
 
 ---
 
-## 9. Key Notes for D-5 Holders {#section-9}
+## 9. Key Notes for D-5 Holders
 
 | Item | Note |
 |---|---|
@@ -133,7 +133,7 @@ Key features:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can a freelance journalist get a D-5 visa?**
 A. Generally not. D-5 is for correspondents and journalists affiliated with official overseas media organizations. Freelancers without an institutional affiliation cannot typically obtain D-5, and alternative statuses should be explored depending on the nature of their activities.
@@ -152,7 +152,7 @@ A. Yes. D-5 stay periods are included in F-2-7 point calculations. Meeting 80+ p
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The key elements of the D-5 Journalism visa are verifying the form of official dispatch from the affiliated media organization and confirming the scope of permitted press activities. For complex situations such as changing affiliated organizations, dual affiliations, or long-term residency transitions, consulting with a specialist is strongly recommended.
 

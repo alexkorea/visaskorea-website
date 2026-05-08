@@ -20,7 +20,7 @@ The **E-7-3 Skilled Technical Worker visa** is a subcategory of the E-7 (Specifi
 <li>Salary must meet or exceed the occupation-specific minimum floor set by KIS</li>
 </ul></div>
 
-## E-7-3 vs E-7-1 vs E-7-4 {#categories}
+## E-7-3 vs E-7-1 vs E-7-4
 
 | | E-7-1 (Professional) | E-7-3 (Skilled Worker) | E-7-4 (Ethnic Korean) |
 |---|---|---|---|
@@ -32,7 +32,7 @@ The **E-7-3 Skilled Technical Worker visa** is a subcategory of the E-7 (Specifi
 
 The E-7-4 is specifically for ethnic Korean workers (overseas Koreans) in the same types of skilled manufacturing roles. If you are an ethnic Korean and hold an F-4 visa, you do not need the E-7-4 — the F-4 allows you to work freely.
 
-## Eligibility Requirements {#eligibility}
+## Eligibility Requirements
 
 To qualify for the E-7-3 visa, you must meet **all** of the following:
 
@@ -46,7 +46,7 @@ To qualify for the E-7-3 visa, you must meet **all** of the following:
 
 Unlike E-7-1 professional visas, E-7-3 and E-7-4 slots are subject to a quota per employer. The quota is generally calculated as a percentage of the employer's total workforce, with separate limits for small, medium, and large companies. Your employer must confirm they have available quota before sponsoring your application.
 
-## Qualifying Occupations {#occupations}
+## Qualifying Occupations
 
 The Korean Immigration Service publishes a list of qualifying E-7-3 occupation codes. Common examples include:
 
@@ -62,7 +62,7 @@ The Korean Immigration Service publishes a list of qualifying E-7-3 occupation c
 
 The complete list with KIS occupation codes is updated periodically. Confirm your specific occupation is on the approved list before applying.
 
-## Required Documents {#documents}
+## Required Documents
 
 ### Applicant Documents
 
@@ -86,7 +86,7 @@ The complete list with KIS occupation codes is updated periodically. Confirm you
 | Employer's insurance subscription certificate | 4 major insurance programs |
 | Company's workforce roster | To verify E-7-3/E-7-4 headcount |
 
-## Application Process {#process}
+## Application Process
 
 1. **Quota confirmation**: Employer verifies E-7-3 quota availability with the immigration office
 2. **Document preparation**: Applicant gathers work experience certificates; employer prepares company documents
@@ -94,7 +94,7 @@ The complete list with KIS occupation codes is updated periodically. Confirm you
 4. **Review period**: 2–4 weeks standard
 5. **ARC issuance**: After approval, register at immigration office to receive Alien Registration Card
 
-## Salary Requirements {#salary}
+## Salary Requirements
 
 The E-7-3 salary floor is set by the Korean Immigration Service and updated periodically. As of 2026:
 
@@ -105,7 +105,7 @@ The E-7-3 salary floor is set by the Korean Immigration Service and updated peri
 
 Employers who offer below-minimum salary will have the application denied regardless of other qualifications.
 
-## FAQ {#faq}
+## FAQ
 
 **Q. Can I apply for E-7-3 if I have a degree but only 3 years of experience?**
 The standard requirement is 5 years of experience regardless of degree. A degree combined with experience may help in exceptional cases reviewed individually, but the baseline standard is 5 years of relevant work.

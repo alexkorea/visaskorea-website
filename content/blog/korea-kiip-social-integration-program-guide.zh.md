@@ -28,7 +28,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 1. 什么是KIIP？ {#section-1}
+## 1. 什么是KIIP？
 
 韩国社会融合项目（KIIP）是韩国法务部出入境·外国人政策本部主办的移民社会融合教育制度。
 
@@ -49,7 +49,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 2. 申请对象与资格 {#section-2}
+## 2. 申请对象与资格
 
 | 对象 | 条件 |
 |---|---|
@@ -63,7 +63,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 3. 课程阶段与教学内容 {#section-3}
+## 3. 课程阶段与教学内容
 
 | 阶段 | 级别 | 学时 | 内容 |
 |---|---|---|---|
@@ -78,7 +78,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 4. 预测评与阶段分配 {#section-4}
+## 4. 预测评与阶段分配
 
 申请者须通过KIIP预测评，根据本人韩语水平从相应阶段开始学习。
 
@@ -101,7 +101,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 5. 申请方法与步骤 {#section-5}
+## 5. 申请方法与步骤
 
 ### STEP 1：在socinet.go.kr注册账号
 
@@ -129,7 +129,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 6. 教育机构与授课方式 {#section-6}
+## 6. 教育机构与授课方式
 
 | 机构类型 | 举例 |
 |---|---|
@@ -148,7 +148,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 7. 修读福利：永居签证·归化联动 {#section-7}
+## 7. 修读福利：永居签证·归化联动
 
 ### F-5永居签证福利
 
@@ -173,7 +173,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 8. 结业证书发放与有效期 {#section-8}
+## 8. 结业证书发放与有效期
 
 | 项目 | 内容 |
 |---|---|
@@ -184,7 +184,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 9. 费用与支持 {#section-9}
+## 9. 费用与支持
 
 | 项目 | 内容 |
 |---|---|
@@ -195,7 +195,7 @@ slug: "korea-kiip-social-integration-program-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. KIIP是强制参加的吗？**
 A. 不是，参与完全自愿。但如果您计划申请F-5永居签证或归化，完成KIIP可获得考试豁免等实质福利，强烈建议参加。
@@ -214,7 +214,7 @@ A. 有效。KIIP进度与外国人登记号绑定，与签证类别无关。变�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 KIIP与永居签证和归化申请密切相关，制定符合个人在留目标的KIIP修读计划至关重要。
 

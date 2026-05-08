@@ -28,7 +28,7 @@ Foreign nationals earning income in Korea are required to pay Korean income tax.
 
 ---
 
-## 1. Tax Obligations for Foreigners {#section-1}
+## 1. Tax Obligations for Foreigners
 
 Foreign nationals earning income in Korea are subject to Korean income tax based on their residency status and the type of income earned.
 
@@ -39,7 +39,7 @@ Foreign nationals earning income in Korea are subject to Korean income tax based
 
 ---
 
-## 2. Resident vs. Non-Resident Status {#section-2}
+## 2. Resident vs. Non-Resident Status
 
 Your residency status for tax purposes determines the scope of your tax obligations.
 
@@ -54,7 +54,7 @@ If you stay in Korea for 183 or more days in a given tax year, you are classifie
 
 ---
 
-## 3. Withholding Tax on Employment Income {#section-3}
+## 3. Withholding Tax on Employment Income
 
 Foreign employees at Korean companies have income tax withheld from their monthly salary.
 
@@ -80,7 +80,7 @@ Foreign employees at Korean companies have income tax withheld from their monthl
 
 ---
 
-## 4. The 19% Flat Tax Rate Option for Foreigners {#section-4}
+## 4. The 19% Flat Tax Rate Option for Foreigners
 
 Foreign workers can elect to pay a flat 19% tax rate on their employment income (excluding local income tax) for up to **20 years** from their first entry into Korea.
 
@@ -100,7 +100,7 @@ Foreign workers can elect to pay a flat 19% tax rate on their employment income 
 
 ---
 
-## 5. Comprehensive Income Tax Filing (May) {#section-5}
+## 5. Comprehensive Income Tax Filing (May)
 
 The annual comprehensive income tax filing takes place every year from May 1–31.
 
@@ -128,7 +128,7 @@ The annual comprehensive income tax filing takes place every year from May 1–3
 
 ---
 
-## 6. Tax Treaty Benefits {#section-6}
+## 6. Tax Treaty Benefits
 
 Korea has tax treaties with approximately 90 countries. Under these treaties, certain types of income may be taxed at reduced rates or exempted entirely.
 
@@ -155,7 +155,7 @@ Korea has tax treaties with approximately 90 countries. Under these treaties, ce
 
 ---
 
-## 7. Year-End Tax Settlement for Foreign Workers {#section-7}
+## 7. Year-End Tax Settlement for Foreign Workers
 
 The year-end tax settlement (연말정산) process runs from January to February each year and applies to foreign workers as well.
 
@@ -178,7 +178,7 @@ The year-end tax settlement (연말정산) process runs from January to February
 
 ---
 
-## 8. Rental and Business Income {#section-8}
+## 8. Rental and Business Income
 
 Foreigners with rental or business income in Korea must file a comprehensive income tax return in May.
 
@@ -191,7 +191,7 @@ Foreigners with rental or business income in Korea must file a comprehensive inc
 
 ---
 
-## 9. Avoiding Double Taxation: Foreign Tax Credit {#section-9}
+## 9. Avoiding Double Taxation: Foreign Tax Credit
 
 Resident foreigners who pay tax in both Korea and their home country can claim a foreign tax credit to avoid double taxation.
 
@@ -204,7 +204,7 @@ Resident foreigners who pay tax in both Korea and their home country can claim a
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Do all foreigners need to file a comprehensive income tax return?**
 A. If you have only employment income from one employer and year-end settlement was completed, no separate filing is needed. However, if you have freelance, rental, dividend, or interest income, you must file in May.
@@ -223,7 +223,7 @@ A. If you have outstanding unpaid taxes, you should settle them before departure
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Korean income tax for foreigners involves residency determination, treaty applications, flat-rate elections, and double-taxation issues — all of which interact with each other. Professional guidance from a tax specialist ensures accurate filing and maximum legal savings.
 

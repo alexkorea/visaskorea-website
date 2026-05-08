@@ -30,7 +30,7 @@ Nationals of countries with visa-free agreements with Korea can enter without a 
 
 ---
 
-## 1. What Is the C-3 Visa? {#section-1}
+## 1. What Is the C-3 Visa?
 
 C-3 is the "Short-Term Visit" status under Korea's Immigration Act. It is issued to foreigners visiting Korea for commercial, tourism, family visit, conference, or cultural purposes for stays of 90 days or less.
 
@@ -42,7 +42,7 @@ Key features:
 
 ---
 
-## 2. C-3 Subcategories {#section-2}
+## 2. C-3 Subcategories
 
 C-3 is subdivided by purpose of visit:
 
@@ -61,7 +61,7 @@ Apply under the subcategory that matches your purpose. Conducting activities out
 
 ---
 
-## 3. Eligibility and Common Requirements {#section-3}
+## 3. Eligibility and Common Requirements
 
 Most foreigners without grounds for entry denial are eligible to apply for a C-3 visa.
 
@@ -79,7 +79,7 @@ Nationals of certain countries may be required to submit additional documents.
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -104,7 +104,7 @@ Individual embassies and consulates may require additional documents. Check the 
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 The C-3 visa application follows these steps:
 
@@ -118,7 +118,7 @@ In some countries, online e-visa application is available.
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -130,7 +130,7 @@ C-3 extensions are very limited. If you need a longer stay, the proper route is 
 
 ---
 
-## 7. C-3 Multiple-Entry Visa {#section-7}
+## 7. C-3 Multiple-Entry Visa
 
 C-3 visas are issued as either single-entry or multiple-entry.
 
@@ -153,7 +153,7 @@ Diplomatic and official visitors, and those with corporate invitations, are ofte
 
 ---
 
-## 8. Visa-Free Entry vs C-3 Comparison {#section-8}
+## 8. Visa-Free Entry vs C-3 Comparison
 
 | | Visa-Free Entry (VWP) | C-3 Visa |
 |---|---|---|
@@ -169,7 +169,7 @@ Check the Korean Ministry of Foreign Affairs for the current list of visa-exempt
 
 ---
 
-## 9. Can You Change Status from C-3 Inside Korea? {#section-9}
+## 9. Can You Change Status from C-3 Inside Korea?
 
 In principle, changing immigration status while on C-3 inside Korea is restricted. Exceptions apply in specific situations.
 
@@ -184,7 +184,7 @@ If you plan to work or study in Korea, obtain the appropriate visa before enteri
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. I'm visiting Korea for tourism on a C-3 visa. Can I do part-time work while I'm there?**
 A. No. C-3 prohibits all forms of employment, including part-time work. Any unauthorized work can result in deportation and a future entry ban. If you intend to work, you must obtain the appropriate work visa (E-7, E-9, etc.) before entry.
@@ -203,7 +203,7 @@ A. Yes. If you legally complete the marriage registration in Korea while on C-3,
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 While the C-3 visa is designed for short-term visits, complications arise when applicants have overstay histories, complex relationships, or need to transition to long-term status during their stay.
 

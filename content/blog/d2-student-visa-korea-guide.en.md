@@ -30,7 +30,7 @@ D-2 is not a language study visa — **it covers formal degree-seeking study** a
 
 ---
 
-## 1. What Is D-2? — Scope of the Student Visa {#section-1}
+## 1. What Is D-2? — Scope of the Student Visa
 
 D-2 is the "Student" status under Korea's Immigration Act. It covers foreign nationals enrolled in degree-granting programs at accredited Korean educational institutions.
 
@@ -50,7 +50,7 @@ If you are in Korea only for language courses, not for a degree program, D-4 (Ge
 
 ---
 
-## 2. Admission Requirements — University, Graduate School, Research {#section-2}
+## 2. Admission Requirements — University, Graduate School, Research
 
 The prerequisite for D-2 is **receiving an official admission offer from a Korean Ministry of Education-accredited institution**.
 
@@ -74,7 +74,7 @@ Requirements vary by institution, but most international applicants must show:
 
 ---
 
-## 3. Financial Proof Requirements {#section-3}
+## 3. Financial Proof Requirements
 
 Financial capacity is a key factor in D-2 visa review. You must demonstrate you can sustain yourself throughout your studies.
 
@@ -92,7 +92,7 @@ Scholarship recipients can substitute scholarship award letters to satisfy some 
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Core Documents
 
@@ -116,7 +116,7 @@ Scholarship recipients can substitute scholarship award letters to satisfy some 
 
 ---
 
-## 5. Application Procedure {#section-5}
+## 5. Application Procedure
 
 ### From Overseas
 
@@ -136,7 +136,7 @@ If already in Korea on another visa:
 
 ---
 
-## 6. Part-Time Work While Studying — Time-Limited Employment Permit {#section-6}
+## 6. Part-Time Work While Studying — Time-Limited Employment Permit
 
 D-2 holders may work part-time under specific conditions, but require a **separate Part-Time Employment Permit** from immigration authorities.
 
@@ -153,7 +153,7 @@ Working without a permit is classified as illegal employment — this can result
 
 ---
 
-## 7. Stay Period and Extension {#section-7}
+## 7. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -165,7 +165,7 @@ Consistently poor grades or attendance well below the institution's minimum can 
 
 ---
 
-## 8. Post-Graduation Visa Pathways {#section-8}
+## 8. Post-Graduation Visa Pathways
 
 After completing your degree in Korea, several options are available for continued residence:
 
@@ -189,7 +189,7 @@ See the [E-7 Specialty Employment Visa Guide](/en/blog/e7-specific-activities-vi
 
 ---
 
-## 9. D-2 vs D-4 — Degree Study vs Language Training {#section-9}
+## 9. D-2 vs D-4 — Degree Study vs Language Training
 
 | | D-2 Student | D-4 General Training |
 |--|--|--|
@@ -203,7 +203,7 @@ Many students begin on D-4 for language study, gain admission to a Korean univer
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I apply for D-2 before receiving an admission letter?**
 A. No. The admission letter from the Korean institution is a required document for the D-2 application. Some universities issue conditional admission letters — contact the international office directly for the exact document they provide.
@@ -222,7 +222,7 @@ A. You can apply for a D-10 (Job Seeker) visa after graduation, which allows you
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 D-2 visa preparation spans admission documents, financial proof, and part-time work permits. If your goal is long-term residence in Korea after graduation, designing a roadmap from enrollment through the post-graduation visa transition is essential from day one.
 

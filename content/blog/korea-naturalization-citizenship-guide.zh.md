@@ -28,7 +28,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 1. 什么是归化？ {#section-1}
+## 1. 什么是归化？
 
 归化是外国人取得大韩民国国籍的程序。归化完成后，将成为大韩民国国民，享有选举权、担任公职等全部法律权利。
 
@@ -39,7 +39,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 2. 归化种类及条件 {#section-2}
+## 2. 归化种类及条件
 
 | 种类 | 主要条件 | 居留期间要求 |
 |---|---|---|
@@ -51,7 +51,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 3. 一般归化要求详解 {#section-3}
+## 3. 一般归化要求详解
 
 一般归化须同时满足以下全部条件：
 
@@ -68,7 +68,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 4. 简易归化适用对象 {#section-4}
+## 4. 简易归化适用对象
 
 简易归化的居留期间要求低于一般归化。
 
@@ -91,7 +91,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 5. 特别归化适用对象 {#section-5}
+## 5. 特别归化适用对象
 
 特别归化可为对国家·社会有卓越贡献的外国人豁免或减少居留期间要求。
 
@@ -103,7 +103,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 6. 归化申请流程 {#section-6}
+## 6. 归化申请流程
 
 1. **确认资格** — 确认归化类型及居留期间、申请条件是否满足
 2. **准备材料** — 准备对应归化类型的全部材料
@@ -116,7 +116,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 7. 所需材料 {#section-7}
+## 7. 所需材料
 
 ### 共同材料
 
@@ -135,7 +135,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 8. 归化审查项目 {#section-8}
+## 8. 归化审查项目
 
 | 审查项目 | 内容 |
 |---|---|
@@ -148,7 +148,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 9. 归化后双重国籍处理 {#section-9}
+## 9. 归化后双重国籍处理
 
 大韩民国原则上不允许双重国籍。
 
@@ -163,7 +163,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 取得韩国国籍后必须放弃本国国籍吗？**
 A. 一般归化者须在归化后1年内放弃外国国籍。但婚姻归化者及部分特别归化者允许双重国籍。国籍法修订后，在一定条件下可认定双重国籍，建议咨询专业人士。
@@ -182,7 +182,7 @@ A. 可以。了解被拒原因并补足相关条件后可重新申请，也可�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 归化涉及复杂的国籍法要求、漫长的材料准备及审查期，专业人士的协助至关重要。尤其是简易归化、特别归化资格认定及双重国籍处理问题，必须事先咨询专业人士。
 

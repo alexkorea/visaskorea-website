@@ -28,7 +28,7 @@ The E-10 (Vessel Crew) visa is issued to foreign seafarers who are employed as c
 
 ---
 
-## 1. What Is the E-10 Visa? {#section-1}
+## 1. What Is the E-10 Visa?
 
 E-10 is the "Vessel Crew" status under Korea's Immigration Act, issued to foreign nationals who serve as crew members on Korean-flagged vessels or vessels covered by relevant international conventions.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Eligible Vessels and Industries {#section-2}
+## 2. Eligible Vessels and Industries
 
 | Vessel Type | Key Positions |
 |---|---|
@@ -54,7 +54,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -66,7 +66,7 @@ Key features:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -83,7 +83,7 @@ Key features:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Sign crew employment contract with shipping company or shipowner**
 2. **Shipping company/shipowner applies to MOJ for Certificate of Visa Issuance Authorization**
@@ -95,7 +95,7 @@ Key features:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -107,7 +107,7 @@ Key features:
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Permitted Activities | Restrictions |
 |---|---|
@@ -117,7 +117,7 @@ Key features:
 
 ---
 
-## 8. E-10 vs E-9 Comparison {#section-8}
+## 8. E-10 vs E-9 Comparison
 
 | | E-10 Vessel Crew | E-9 Non-Professional Employment |
 |--|--|--|
@@ -129,7 +129,7 @@ Key features:
 
 ---
 
-## 9. Transitioning from E-10 to Other Statuses {#section-9}
+## 9. Transitioning from E-10 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -141,7 +141,7 @@ Key features:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Is a maritime certificate required to apply for E-10?**
 A. It depends on the position. Positions such as navigator and engineer require the relevant certificates. General crew positions such as deck hands may qualify with work experience and an employment contract.
@@ -160,7 +160,7 @@ A. Yes. E-10 stay periods are included in F-2-7 point calculations. Meeting 80+ 
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The E-10 Vessel Crew visa involves the Certificate of Visa Issuance Authorization process and compliance with the Seafarers Act, which can be complex. While the process is generally initiated by the shipping company, individual crew members seeking stay management support or long-term residency transition planning should consult with a specialist.
 

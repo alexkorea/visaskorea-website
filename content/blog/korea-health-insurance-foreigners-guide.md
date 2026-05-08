@@ -28,7 +28,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 1. 외국인 건강보험 가입 의무화 {#section-1}
+## 1. 외국인 건강보험 가입 의무화
 
 2019년 7월부터 한국에 6개월 이상 체류하는 외국인은 국민건강보험에 **의무 가입**해야 합니다.
 
@@ -39,7 +39,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 2. 가입 대상 및 제외 대상 {#section-2}
+## 2. 가입 대상 및 제외 대상
 
 ### 의무 가입 대상
 
@@ -61,7 +61,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 3. 직장가입자 vs. 지역가입자 {#section-3}
+## 3. 직장가입자 vs. 지역가입자
 
 | 구분 | 직장가입자 | 지역가입자 |
 |---|---|---|
@@ -72,7 +72,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 4. 보험료 계산 방법 {#section-4}
+## 4. 보험료 계산 방법
 
 ### 직장가입자 보험료
 
@@ -92,7 +92,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 5. 가입 신청 방법 {#section-5}
+## 5. 가입 신청 방법
 
 ### 직장가입자
 
@@ -109,7 +109,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 6. 건강보험 적용 범위 {#section-6}
+## 6. 건강보험 적용 범위
 
 건강보험이 적용되면 다음 의료비의 일부를 보험에서 부담합니다.
 
@@ -125,7 +125,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 7. 건강보험 미가입 시 불이익 {#section-7}
+## 7. 건강보험 미가입 시 불이익
 
 | 항목 | 내용 |
 |---|---|
@@ -135,7 +135,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 8. 외국인 건강보험 특례 {#section-8}
+## 8. 외국인 건강보험 특례
 
 | 특례 내용 | 대상 |
 |---|---|
@@ -146,7 +146,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 9. 건강보험과 비자 연계 {#section-9}
+## 9. 건강보험과 비자 연계
 
 건강보험 관련 사항은 비자(체류자격) 연장 및 변경 심사 시 영향을 줄 수 있습니다.
 
@@ -158,7 +158,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 단기 취업비자(C-4)나 관광 비자로 입국한 경우에도 건강보험에 가입해야 하나요?**
 A. 아닙니다. 6개월 미만 체류 예정인 단기 체류자는 건강보험 의무 가입 대상이 아닙니다. 다만, 장기 취업 비자(E-7, E-9 등)로 전환 시 즉시 가입 대상이 됩니다.
@@ -177,7 +177,7 @@ A. 건강보험 미가입 시 외래 진료비 전액을 본인이 부담해야 
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 건강보험 가입은 한국에서의 안전한 생활을 위한 기본 조건입니다. 외국인의 경우 가입 방법과 보험료 산정이 복잡할 수 있으므로, 체류자격 전문가의 도움을 받는 것이 효율적입니다.
 

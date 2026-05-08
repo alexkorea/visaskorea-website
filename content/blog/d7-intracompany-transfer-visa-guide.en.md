@@ -30,7 +30,7 @@ Multinational corporations sending key personnel to Korean operations rely on D-
 
 ---
 
-## 1. What Is D-7? — The Legal Basis of Intra-Company Transfer {#section-1}
+## 1. What Is D-7? — The Legal Basis of Intra-Company Transfer
 
 D-7 is the "Intra-Company Transfer" status under Korea's Immigration Act. It legally recognizes personnel moves within corporate groups that span national borders.
 
@@ -42,7 +42,7 @@ The essential condition: **the employee remains employed within the same corpora
 
 ---
 
-## 2. Corporate Relationship Requirements — 50% Shareholding {#section-2}
+## 2. Corporate Relationship Requirements — 50% Shareholding
 
 D-7's gateway condition is that a **substantial capital relationship** must exist between the overseas company and the Korean company.
 
@@ -58,7 +58,7 @@ Pure commercial relationships — supplier/buyer contracts, franchise agreements
 
 ---
 
-## 3. Eligible Positions and Roles {#section-3}
+## 3. Eligible Positions and Roles
 
 D-7 does not cover all job functions. The transferred employee must hold a qualifying role.
 
@@ -74,7 +74,7 @@ Routine clerical, production, or service roles that could be filled through loca
 
 ---
 
-## 4. Pre-Assignment Employment Requirement {#section-4}
+## 4. Pre-Assignment Employment Requirement
 
 Before being transferred to Korea, the applicant must have been continuously employed by the sending overseas company for a minimum period.
 
@@ -88,7 +88,7 @@ Short-term contractors, freelancers, and individuals hired expressly for the Kor
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Core Applicant Documents
 
@@ -113,7 +113,7 @@ Short-term contractors, freelancers, and individuals hired expressly for the Kor
 
 ---
 
-## 6. Application Procedure {#section-6}
+## 6. Application Procedure
 
 ### From Overseas
 
@@ -132,7 +132,7 @@ If already in Korea on another visa:
 
 ---
 
-## 7. Stay Period and Extension {#section-7}
+## 7. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -144,7 +144,7 @@ At each extension, you must demonstrate the corporate relationship is still acti
 
 ---
 
-## 8. D-7 vs D-8 — Key Differences {#section-8}
+## 8. D-7 vs D-8 — Key Differences
 
 | | D-7 Intra-Company Transfer | D-8 Corporate Investment |
 |--|--|--|
@@ -163,7 +163,7 @@ An overseas HQ sends a C-suite executive to serve as CEO of its Korean subsidiar
 
 ---
 
-## 9. D-7 to Permanent Residency {#section-9}
+## 9. D-7 to Permanent Residency
 
 D-7 has no dedicated permanent residency category, but two routes are available:
 
@@ -176,7 +176,7 @@ Time spent on D-7 counts toward the 5-year lawful stay requirement for F-5-1. Th
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Our overseas company owns 49% of the Korean entity. Can I still apply for D-7?**
 A. The standard requirement is 50%+. However, if the actual control structure shows effective management authority, the outcome may differ. Consult a specialist before applying.
@@ -195,7 +195,7 @@ A. Changing the Korean host entity is a change in the transfer arrangement. You 
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The most challenging part of D-7 applications is demonstrating the corporate relationship clearly — especially for complex group structures, joint ventures, or cases where shareholding sits just below the 50% threshold.
 

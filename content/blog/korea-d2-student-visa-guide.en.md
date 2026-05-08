@@ -28,7 +28,7 @@ The D-2 visa is issued to foreign students enrolled in a regular degree program 
 
 ---
 
-## 1. What Is the D-2 Student Visa? {#section-1}
+## 1. What Is the D-2 Student Visa?
 
 The D-2 (Study) visa is issued to foreign students enrolled in a regular degree program at a Ministry of Education-accredited institution.
 
@@ -42,7 +42,7 @@ The D-2 (Study) visa is issued to foreign students enrolled in a regular degree 
 
 ---
 
-## 2. D-2 Visa Sub-Types {#section-2}
+## 2. D-2 Visa Sub-Types
 
 | Sub-type | Description |
 |---|---|
@@ -57,7 +57,7 @@ The D-2 (Study) visa is issued to foreign students enrolled in a regular degree 
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -68,7 +68,7 @@ The D-2 (Study) visa is issued to foreign students enrolled in a regular degree 
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Applying from Abroad (New Entry)
 
@@ -94,7 +94,7 @@ The D-2 (Study) visa is issued to foreign students enrolled in a regular degree 
 
 ---
 
-## 5. Application Procedure {#section-5}
+## 5. Application Procedure
 
 | Step | Action |
 |---|---|
@@ -107,7 +107,7 @@ The D-2 (Study) visa is issued to foreign students enrolled in a regular degree 
 
 ---
 
-## 6. Foreigner Registration After Arrival {#section-6}
+## 6. Foreigner Registration After Arrival
 
 You must complete **foreigner registration** at your local immigration office within 90 days of arrival.
 
@@ -121,7 +121,7 @@ You must complete **foreigner registration** at your local immigration office wi
 
 ---
 
-## 7. D-2 Visa Renewal {#section-7}
+## 7. D-2 Visa Renewal
 
 | Item | Details |
 |---|---|
@@ -134,7 +134,7 @@ You must complete **foreigner registration** at your local immigration office wi
 
 ---
 
-## 8. Part-Time Work Permit {#section-8}
+## 8. Part-Time Work Permit
 
 D-2 visa holders may work part-time after receiving a **part-time employment permit** from the immigration office.
 
@@ -150,7 +150,7 @@ D-2 visa holders may work part-time after receiving a **part-time employment per
 
 ---
 
-## 9. Post-Graduation Visa Transitions {#section-9}
+## 9. Post-Graduation Visa Transitions
 
 | Target Visa | Conditions |
 |---|---|
@@ -163,7 +163,7 @@ D-2 visa holders may work part-time after receiving a **part-time employment per
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I work part-time during the semester on my D-2 visa?**
 A. Yes, but you must first obtain a part-time employment permit. During the semester, you are limited to 20 hours per week. During vacation periods, there is no hourly restriction.
@@ -182,7 +182,7 @@ A. After receiving admission from a Korean university, apply for a visa status c
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Student visa applications, renewals, part-time work permits, and post-graduation visa transitions can be complex. Vision Administrative Office provides expert consultation on all aspects of student visa status.
 

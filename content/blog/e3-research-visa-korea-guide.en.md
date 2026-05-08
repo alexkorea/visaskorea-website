@@ -30,7 +30,7 @@ While the E-1 (Professor) visa focuses on teaching and lecturing, E-3 is specifi
 
 ---
 
-## 1. What Is the E-3 Visa? {#section-1}
+## 1. What Is the E-3 Visa?
 
 E-3 is the "Research" status under Korea's Immigration Act. It is issued to foreign nationals conducting specialized research in natural sciences, engineering, social sciences, and other disciplines at public or private research institutions or corporate research labs in Korea.
 
@@ -42,7 +42,7 @@ Key features:
 
 ---
 
-## 2. Eligibility {#section-2}
+## 2. Eligibility
 
 To obtain an E-3 visa, the following requirements must be met.
 
@@ -65,7 +65,7 @@ To obtain an E-3 visa, the following requirements must be met.
 
 ---
 
-## 3. Eligible Sponsoring Institutions {#section-3}
+## 3. Eligible Sponsoring Institutions
 
 The following types of institutions can sponsor E-3 visa applications:
 
@@ -81,7 +81,7 @@ The following types of institutions can sponsor E-3 visa applications:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Applicant Documents
 
@@ -106,7 +106,7 @@ The following types of institutions can sponsor E-3 visa applications:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Complete research contract with the institution** — Finalize agreement with a research institution or corporate R&D lab
 2. **Obtain sponsorship documents** — Institution issues invitation letter and supporting documents
@@ -117,7 +117,7 @@ The following types of institutions can sponsor E-3 visa applications:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -129,7 +129,7 @@ If the research contract ends, transferring to another institution requires new 
 
 ---
 
-## 7. Spouse and Family Accompanying {#section-7}
+## 7. Spouse and Family Accompanying
 
 The spouse and minor children of E-3 holders may accompany them to Korea on F-3 (accompanying person) status.
 
@@ -141,7 +141,7 @@ The spouse and minor children of E-3 holders may accompany them to Korea on F-3 
 
 ---
 
-## 8. Transitioning from E-3 to Long-Term Stay or Permanent Residency {#section-8}
+## 8. Transitioning from E-3 to Long-Term Stay or Permanent Residency
 
 E-3 stay periods are counted toward the F-2-7 points-based residency threshold, providing a clear path toward permanent residency.
 
@@ -155,7 +155,7 @@ The F-2-7 points system scores Korean language ability, annual income, advanced 
 
 ---
 
-## 9. E-3 vs E-1 vs E-7 Comparison {#section-9}
+## 9. E-3 vs E-1 vs E-7 Comparison
 
 | | E-3 Research | E-1 Professor | E-7 Designated Activities |
 |--|--|--|--|
@@ -167,7 +167,7 @@ The F-2-7 points system scores Korean language ability, annual income, advanced 
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I get E-3 without a doctoral degree?**
 A. A master's degree combined with 3 or more years of relevant research experience may be accepted. However, the review tends to be stricter than for doctoral holders — strong research outputs (papers, patents) significantly help your case.
@@ -186,7 +186,7 @@ A. There is no direct E-3 → F-5 path, but if you meet the F-2-7 points thresho
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 E-3 visa outcomes depend heavily on whether the sponsoring institution qualifies, how the research contract is structured, and how academic credentials and research experience are documented. If you are planning a long-term stay through F-2-7 or F-5, expert guidance from the beginning is strongly recommended.
 

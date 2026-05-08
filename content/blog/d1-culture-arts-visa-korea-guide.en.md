@@ -28,7 +28,7 @@ The D-1 (Culture and Arts) visa is issued to foreign nationals who engage in aca
 
 ---
 
-## 1. What Is the D-1 Visa? {#section-1}
+## 1. What Is the D-1 Visa?
 
 D-1 is the "Culture and Arts" status under Korea's Immigration Act. It is issued for the purpose of conducting academic or artistic activities (purely academic or artistic pursuits) in Korea.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Permitted Activities and Fields {#section-2}
+## 2. Permitted Activities and Fields
 
 | Field | Key Activities |
 |---|---|
@@ -55,7 +55,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -66,7 +66,7 @@ Key features:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -82,7 +82,7 @@ Key features:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Finalize activity plan and inviting institution**
 2. **Apply for D-1 visa at Korean embassy/consulate** or **change status at immigration office**
@@ -92,7 +92,7 @@ Key features:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -102,7 +102,7 @@ Key features:
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Permitted Activities | Restrictions |
 |---|---|
@@ -112,7 +112,7 @@ Key features:
 
 ---
 
-## 8. D-1 vs E-6 Comparison {#section-8}
+## 8. D-1 vs E-6 Comparison
 
 | | D-1 Culture and Arts | E-6 Arts and Entertainment |
 |--|--|--|
@@ -123,7 +123,7 @@ Key features:
 
 ---
 
-## 9. Transitioning from D-1 to Other Statuses {#section-9}
+## 9. Transitioning from D-1 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -134,7 +134,7 @@ Key features:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I sell artwork or hold an exhibition in Korea on D-1?**
 A. Non-profit or small-scale artistic exhibitions are generally permitted. However, if the primary purpose becomes commercial sales activity, a work visa or other status may be needed. Given the ambiguity, professional consultation is recommended based on your specific situation.
@@ -153,7 +153,7 @@ A. Yes. D-1 stay periods are included in F-2-7 point calculations. Meeting 80+ p
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The key question for the D-1 Culture and Arts visa is whether your planned activities qualify as purely artistic or academic. When the line between commercial and non-commercial activity is unclear, consulting with a specialist to select the appropriate status is important.
 

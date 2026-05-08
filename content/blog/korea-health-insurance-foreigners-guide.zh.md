@@ -28,7 +28,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 1. 外国人参加健康保险强制化 {#section-1}
+## 1. 外国人参加健康保险强制化
 
 自2019年7月起，在韩国居留6个月以上的外国人须**强制**参加国民健康保险。
 
@@ -39,7 +39,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 2. 参保对象及豁免对象 {#section-2}
+## 2. 参保对象及豁免对象
 
 ### 强制参保对象
 
@@ -61,7 +61,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 3. 职场被保险人与地域被保险人 {#section-3}
+## 3. 职场被保险人与地域被保险人
 
 | 区分 | 职场被保险人 | 地域被保险人 |
 |---|---|---|
@@ -72,7 +72,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 4. 保费计算方法 {#section-4}
+## 4. 保费计算方法
 
 ### 职场被保险人保费
 
@@ -92,7 +92,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 5. 参保申请方法 {#section-5}
+## 5. 参保申请方法
 
 ### 职场被保险人
 
@@ -109,7 +109,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 6. 健康保险保障范围 {#section-6}
+## 6. 健康保险保障范围
 
 加入健康保险后，以下医疗费用的部分金额由保险承担。
 
@@ -125,7 +125,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 7. 未参保的不利后果 {#section-7}
+## 7. 未参保的不利后果
 
 | 项目 | 内容 |
 |---|---|
@@ -135,7 +135,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 8. 外国人健康保险特例 {#section-8}
+## 8. 外国人健康保险特例
 
 | 特例内容 | 适用对象 |
 |---|---|
@@ -146,7 +146,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 9. 健康保险与签证的关联 {#section-9}
+## 9. 健康保险与签证的关联
 
 健康保险参保及缴费情况可能影响签证延期及资格变更审查。
 
@@ -158,7 +158,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 持短期就业签证（C-4）或旅游签证入境，也需要参加健康保险吗？**
 A. 不需要。预计居留不足6个月的短期居留者不是强制参保对象。但转换为长期就业签证（E-7、E-9等）后须立即参保。
@@ -177,7 +177,7 @@ A. 未参保时须全额自付医疗费用，可能是参保者费用的3~5倍�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 参加健康保险是在韩安全生活的基本条件。外国人的参保方式和保费计算较为复杂，寻求在留资格专家的帮助将更加高效。
 

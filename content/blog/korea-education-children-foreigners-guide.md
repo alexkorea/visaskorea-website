@@ -27,7 +27,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 1. 외국인 자녀의 교육 권리 {#section-1}
+## 1. 외국인 자녀의 교육 권리
 
 | 항목 | 내용 |
 |---|---|
@@ -41,7 +41,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 2. 공립학교 입학 절차 {#section-2}
+## 2. 공립학교 입학 절차
 
 | 단계 | 내용 |
 |---|---|
@@ -60,7 +60,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 3. 한국어 특별학급 및 지원 프로그램 {#section-3}
+## 3. 한국어 특별학급 및 지원 프로그램
 
 | 프로그램 | 내용 |
 |---|---|
@@ -74,7 +74,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 4. 외국인학교 vs 국제학교 비교 {#section-4}
+## 4. 외국인학교 vs 국제학교 비교
 
 | 항목 | 외국인학교 | 국제학교 |
 |---|---|---|
@@ -87,7 +87,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 5. 주요 외국인·국제학교 목록 {#section-5}
+## 5. 주요 외국인·국제학교 목록
 
 | 학교 | 유형 | 위치 | 특징 |
 |---|---|---|---|
@@ -105,7 +105,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 6. 학비·교육비 비교 {#section-6}
+## 6. 학비·교육비 비교
 
 | 학교 유형 | 연간 학비 | 특징 |
 |---|---|---|
@@ -118,7 +118,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 7. 대학 입시 및 진학 정보 {#section-7}
+## 7. 대학 입시 및 진학 정보
 
 | 항목 | 내용 |
 |---|---|
@@ -130,7 +130,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 8. 방과후 활동·학원 {#section-8}
+## 8. 방과후 활동·학원
 
 | 항목 | 내용 |
 |---|---|
@@ -142,7 +142,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 9. 자주 묻는 질문 (FAQ) {#section-9}
+## 9. 자주 묻는 질문 (FAQ)
 
 **Q. 외국인 자녀도 한국 공립학교에 입학할 수 있나요?**
 A. 네. 외국인등록증을 보유한 외국인 자녀는 공립 초·중·고등학교에 입학할 법적 권리가 있습니다. 수업료는 초·중학교의 경우 의무교육으로 무료입니다.
@@ -161,7 +161,7 @@ A. 외국 고등학교 졸업 증명 서류와 TOPIK 또는 영어 성적을 준
 
 ---
 
-## 10. 상담 안내 {#section-10}
+## 10. 상담 안내
 
 한국 체류자격(비자)과 가족 생활 정착에 관한 전문 상담이 필요하시면 비전행정사사무소에 문의하세요.
 

@@ -28,7 +28,7 @@ Foreign nationals in Korea who wish to engage in activities (employment, busines
 
 ---
 
-## 1. What Is the Activities Outside Visa Status Permit? {#section-1}
+## 1. What Is the Activities Outside Visa Status Permit?
 
 The Activities Outside Visa Status Permit allows foreign nationals to legally engage in activities that go beyond the scope of their current visa. It is issued by the Korea Immigration Service under the Ministry of Justice.
 
@@ -43,7 +43,7 @@ For example, a language trainee (D-4 visa) who wants to work a part-time job at 
 
 ---
 
-## 2. When Is a Permit Required vs. Not Required? {#section-2}
+## 2. When Is a Permit Required vs. Not Required?
 
 | Permit Required | Permit NOT Required |
 |---|---|
@@ -54,7 +54,7 @@ For example, a language trainee (D-4 visa) who wants to work a part-time job at 
 
 ---
 
-## 3. Visa Types That Require the Permit {#section-3}
+## 3. Visa Types That Require the Permit
 
 Foreign nationals on the following visas must obtain a permit before engaging in paid activities outside their visa scope:
 
@@ -69,7 +69,7 @@ Foreign nationals on the following visas must obtain a permit before engaging in
 
 ---
 
-## 4. Part-Time Work Permit for Students (20 Hours/Week) {#section-4}
+## 4. Part-Time Work Permit for Students (20 Hours/Week)
 
 University students on a D-2 visa who meet the following requirements can obtain a part-time work permit allowing up to 20 hours of work per week.
 
@@ -89,7 +89,7 @@ The permit must be renewed within 1 month before each semester begins.
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Common Documents
 
@@ -119,7 +119,7 @@ The permit must be renewed within 1 month before each semester begins.
 
 ---
 
-## 6. How to Apply {#section-6}
+## 6. How to Apply
 
 ### Application Methods
 
@@ -138,7 +138,7 @@ The permit must be renewed within 1 month before each semester begins.
 
 ---
 
-## 7. Penalties for Working Without a Permit {#section-7}
+## 7. Penalties for Working Without a Permit
 
 Working or operating a business without the required permit violates the Immigration Act and leads to serious consequences.
 
@@ -150,7 +150,7 @@ Working or operating a business without the required permit violates the Immigra
 
 ---
 
-## 8. Important Cautions {#section-8}
+## 8. Important Cautions
 
 | Caution | Details |
 |---|---|
@@ -161,7 +161,7 @@ Working or operating a business without the required permit violates the Immigra
 
 ---
 
-## 9. Special Cases {#section-9}
+## 9. Special Cases
 
 ### Spouses and Dependents (F-1, F-3)
 
@@ -177,7 +177,7 @@ Paid platform-based work (food delivery, translation, etc.) is considered employ
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I work part-time on a language trainee visa (D-4)?**
 A. No. The D-4 visa only permits language training. Working part-time requires an activities outside visa status permit. However, some D-4-1 (institutional trainee) visa holders may have limited part-time work access.
@@ -196,7 +196,7 @@ A. The outcome of self-reporting varies by circumstances. In some cases, it resu
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Eligibility for the Activities Outside Visa Status Permit depends on your current visa type and the nature of the activity. Working without the permit risks visa cancellation and deportation. Always verify your situation with a professional before starting any work.
 

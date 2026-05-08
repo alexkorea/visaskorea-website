@@ -28,7 +28,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 1. 韩国驾驶证种类 {#section-1}
+## 1. 韩国驾驶证种类
 
 韩国驾驶证分为1种和2种。
 
@@ -45,7 +45,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 2. 外国驾照换领韩国驾照 {#section-2}
+## 2. 外国驾照换领韩国驾照
 
 持有有效外国驾照者，可在减免考试的条件下申请换领韩国驾照。
 
@@ -81,7 +81,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 3. 新考驾照：考试流程 {#section-3}
+## 3. 新考驾照：考试流程
 
 无外国驾照者须完成全部考试流程。
 
@@ -95,7 +95,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 4. 笔试指南 {#section-4}
+## 4. 笔试指南
 
 ### 考试概要
 
@@ -118,7 +118,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 5. 场地考试指南 {#section-5}
+## 5. 场地考试指南
 
 场地考试在考试所封闭场地内进行。
 
@@ -131,7 +131,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 6. 道路驾驶考试指南 {#section-6}
+## 6. 道路驾驶考试指南
 
 道路驾驶考试在考试所附近的公开道路上进行。
 
@@ -144,7 +144,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 7. 考试费用 {#section-7}
+## 7. 考试费用
 
 | 项目 | 大约费用 |
 |---|---|
@@ -157,7 +157,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 8. 国际驾照 {#section-8}
+## 8. 国际驾照
 
 持有有效韩国驾照者，可申请国际驾驶执照（국제운전면허증）用于在海外驾车。
 
@@ -173,7 +173,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 9. 驾照更新 {#section-9}
+## 9. 驾照更新
 
 | 项目 | 详情 |
 |---|---|
@@ -185,7 +185,7 @@ slug: "korea-drivers-license-foreigners-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 持外国驾照在韩国可以开车吗？**
 A. 自入境之日起1年内可凭外国驾照驾车。1年后须取得韩国驾照。依据《维也纳公约》发放的国际驾驶执照同样有效1年。
@@ -204,7 +204,7 @@ A. 没有强制要求，但道路驾驶考试前必须完成10小时道路练习
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 外国人在韩取得驾驶证的流程因国籍、签证类型及是否持有外国驾照而有所不同。如遇换证或资格认定等复杂情况，建议寻求专业人士的协助。
 

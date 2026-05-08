@@ -26,7 +26,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 1. 韩国主要银行对比 {#section-1}
+## 1. 韩国主要银行对比
 
 | 银行 | 特色 | 外国人服务 | 外语支持 |
 |---|---|---|---|
@@ -39,7 +39,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 2. 外国人开户条件与所需材料 {#section-2}
+## 2. 外国人开户条件与所需材料
 
 ### 基本条件
 
@@ -61,7 +61,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 3. 各银行开户指南 {#section-3}
+## 3. 各银行开户指南
 
 ### KB国民银行
 - 全国各支行均可开户
@@ -86,7 +86,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 4. 网上银行·手机银行设置 {#section-4}
+## 4. 网上银行·手机银行设置
 
 | 项目 | 内容 |
 |---|---|
@@ -101,7 +101,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 5. 海外汇款方法 {#section-5}
+## 5. 海外汇款方法
 
 | 方式 | 手续费 | 特点 |
 |---|---|---|
@@ -118,7 +118,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 6. ATM使用方法 {#section-6}
+## 6. ATM使用方法
 
 | 项目 | 内容 |
 |---|---|
@@ -132,7 +132,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 7. Kakao银行·Toss纯网络银行 {#section-7}
+## 7. Kakao银行·Toss纯网络银行
 
 ### Kakao银行
 
@@ -156,7 +156,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 8. 常见问题解答 {#section-8}
+## 8. 常见问题解答
 
 **Q. 没有ARC能在韩国开户吗？**
 A. 部分银行接受仅凭护照和签证开户，但账户功能可能受限。为享受完整金融服务，建议拿到ARC后再开户。
@@ -175,7 +175,7 @@ A. 大多数银行APP需要韩国手机号进行短信验证。部分银行支�
 
 ---
 
-## 9. 咨询指南 {#section-9}
+## 9. 咨询指南
 
 如有签证、居留资格或在韩生活定居相关问题，欢迎联系飞展行政士事务所。
 

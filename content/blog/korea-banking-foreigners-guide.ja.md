@@ -26,7 +26,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 1. 韓国の主要銀行比較 {#section-1}
+## 1. 韓国の主要銀行比較
 
 | 銀行 | 特徴 | 外国人サービス | 言語対応 |
 |---|---|---|---|
@@ -39,7 +39,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 2. 外国人の口座開設条件と必要書類 {#section-2}
+## 2. 外国人の口座開設条件と必要書類
 
 ### 基本条件
 
@@ -61,7 +61,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 3. 銀行別口座開設ガイド {#section-3}
+## 3. 銀行別口座開設ガイド
 
 ### KB国民銀行
 - 全国どの支店でも外国人口座開設可能
@@ -86,7 +86,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 4. インターネット・モバイルバンキングの設定 {#section-4}
+## 4. インターネット・モバイルバンキングの設定
 
 | 項目 | 内容 |
 |---|---|
@@ -101,7 +101,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 5. 海外送金の方法 {#section-5}
+## 5. 海外送金の方法
 
 | 方法 | 手数料 | 特徴 |
 |---|---|---|
@@ -118,7 +118,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 6. ATMの利用方法 {#section-6}
+## 6. ATMの利用方法
 
 | 項目 | 内容 |
 |---|---|
@@ -132,7 +132,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 7. KakaoBank・Toss — オンライン専業銀行 {#section-7}
+## 7. KakaoBank・Toss — オンライン専業銀行
 
 ### KakaoBank
 
@@ -156,7 +156,7 @@ slug: "korea-banking-foreigners-guide"
 
 ---
 
-## 8. よくある質問（FAQ） {#section-8}
+## 8. よくある質問（FAQ）
 
 **Q. ARCなしで韓国の銀行口座を開設できますか？**
 A. 一部の銀行ではパスポートとビザのみで開設できますが、利用できるサービスが制限される場合があります。フル機能を使うには、ARC取得後に開設することをお勧めします。
@@ -175,7 +175,7 @@ A. ほとんどの銀行アプリはSMS認証に韓国番号が必要です。�
 
 ---
 
-## 9. 相談案内 {#section-9}
+## 9. 相談案内
 
 韓国の在留資格（ビザ）および生活定着に関する専門相談はビジョン行政書士事務所にお問い合わせください。
 

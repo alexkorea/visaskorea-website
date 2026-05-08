@@ -20,7 +20,7 @@ Setting up a **foreign-invested company (외국인투자기업)** in Korea under
 <li>After FDI registration, D-8 visa allows investor to reside and manage the company in Korea</li>
 </ul></div>
 
-## What Is FDI Registration? {#what}
+## What Is FDI Registration?
 
 Under Korean law, a **Foreign-Invested Enterprise (FIE)** is a Korean legal entity where at least 10% of equity is held by a foreign national or foreign corporation, AND the total invested amount is at least KRW 100 million. Once registered with the government as a foreign-invested enterprise, the company receives an **FDI Registration Certificate (외국인투자기업 등록증)**, which is the key document for:
 
@@ -30,7 +30,7 @@ Under Korean law, a **Foreign-Invested Enterprise (FIE)** is a Korean legal enti
 
 This is distinct from simply incorporating a Korean company: a foreign national can set up a standard Korean corporation without FIPA registration, but without the FDI certificate, they cannot apply for the D-8 visa.
 
-## FDI Requirements {#requirements}
+## FDI Requirements
 
 | Requirement | Detail |
 |---|---|
@@ -46,7 +46,7 @@ A small number of industries are restricted or require advance approval:
 - Agriculture and fisheries (with limits)
 - Check the current FDI industry classification table (외국인투자 업종 분류표) before selecting your business line
 
-## Step-by-Step Process {#process}
+## Step-by-Step Process
 
 ### Stage 1: Pre-establishment
 1. **Business planning**: Define your Korean business scope, industry code, and company structure
@@ -67,7 +67,7 @@ A small number of industries are restricted or require advance approval:
 
 **Total timeline**: 6–10 weeks from start to D-8 visa approval, assuming no complications with remittance documentation.
 
-## Required Documents {#documents}
+## Required Documents
 
 ### For FDI Registration
 
@@ -90,7 +90,7 @@ A small number of industries are restricted or require advance approval:
 | Investor's passport | — |
 | Investor's qualifications | Degree, career history — demonstrating management capability |
 
-## D-8 Visa Connection {#visa}
+## D-8 Visa Connection
 
 Once FDI registration is complete, the investor can apply for the **D-8 Corporate Investment Visa** at the immigration office (or at a Korean embassy overseas if the investor is outside Korea).
 
@@ -104,7 +104,7 @@ Once FDI registration is complete, the investor can apply for the **D-8 Corporat
 - You are a Korean national setting up a company (you don't need a visa to work in your own country)
 - You are dispatched from an overseas parent company to a Korean branch (that is the D-7 visa scenario)
 
-## FAQ {#faq}
+## FAQ
 
 **Q. Does the KRW 100 million have to stay in the company permanently?**
 No. Once remittance is verified and FDI registration is complete, the funds become normal business operating capital. They can be used for business expenses — rent, salaries, equipment. They do not need to sit idle in a bank account.

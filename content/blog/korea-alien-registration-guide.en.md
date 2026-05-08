@@ -28,7 +28,7 @@ All foreign nationals planning to stay in Korea for more than 90 days must compl
 
 ---
 
-## 1. What Is Alien Registration? {#section-1}
+## 1. What Is Alien Registration?
 
 Alien registration is the process under Korea's Immigration Act by which foreign nationals with long-term stays register their personal information at the competent immigration office. An Alien Registration Card (ARC) is issued upon completion.
 
@@ -39,7 +39,7 @@ Key purposes:
 
 ---
 
-## 2. Who Must Register {#section-2}
+## 2. Who Must Register
 
 | Category | Details |
 |---|---|
@@ -49,7 +49,7 @@ Key purposes:
 
 ---
 
-## 3. Application Deadline {#section-3}
+## 3. Application Deadline
 
 | Situation | Deadline |
 |---|---|
@@ -61,7 +61,7 @@ Key purposes:
 
 ---
 
-## 4. Where to Apply {#section-4}
+## 4. Where to Apply
 
 | Location | Details |
 |---|---|
@@ -71,7 +71,7 @@ Key purposes:
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Common Documents
 
@@ -95,7 +95,7 @@ Key purposes:
 
 ---
 
-## 6. Application Process {#section-6}
+## 6. Application Process
 
 1. **Prepare documents** — Gather status-specific documents
 2. **Visit immigration office** — Local office with jurisdiction (appointment via HiKorea recommended)
@@ -106,7 +106,7 @@ Key purposes:
 
 ---
 
-## 7. ARC Issuance {#section-7}
+## 7. ARC Issuance
 
 | Item | Details |
 |---|---|
@@ -122,7 +122,7 @@ Your ARC contains the following information:
 
 ---
 
-## 8. ARC Renewal and Reissuance {#section-8}
+## 8. ARC Renewal and Reissuance
 
 | Situation | Process |
 |---|---|
@@ -134,7 +134,7 @@ Your ARC contains the following information:
 
 ---
 
-## 9. What Can You Do with an ARC? {#section-9}
+## 9. What Can You Do with an ARC?
 
 The Alien Registration Card (ARC) serves as official ID for all aspects of life in Korea.
 
@@ -149,7 +149,7 @@ The Alien Registration Card (ARC) serves as official ID for all aspects of life 
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. How many days after entry do I have to register?**
 A. You must complete alien registration within 90 days of entry. A fine may be imposed from day 91 onward, so apply as early as possible.
@@ -168,7 +168,7 @@ A. Report the loss immediately to your competent immigration office and apply fo
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Alien registration is the starting point for life in Korea. Since required documents vary by status and missing the deadline can result in fines, getting professional support is the safe approach.
 

@@ -27,7 +27,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 1. Educational Rights for Foreign Children {#section-1}
+## 1. Educational Rights for Foreign Children
 
 | Item | Details |
 |---|---|
@@ -41,7 +41,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 2. Public School Enrollment Process {#section-2}
+## 2. Public School Enrollment Process
 
 | Step | Action |
 |---|---|
@@ -60,7 +60,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 3. Korean Language Support Programs {#section-3}
+## 3. Korean Language Support Programs
 
 | Program | Details |
 |---|---|
@@ -74,7 +74,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 4. Foreign Schools vs International Schools {#section-4}
+## 4. Foreign Schools vs International Schools
 
 | Item | Foreign School | International School |
 |---|---|---|
@@ -87,7 +87,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 5. Major Foreign and International Schools {#section-5}
+## 5. Major Foreign and International Schools
 
 | School | Type | Location | Curriculum |
 |---|---|---|---|
@@ -105,7 +105,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 6. School Fee Comparison {#section-6}
+## 6. School Fee Comparison
 
 | School type | Annual Cost | Notes |
 |---|---|---|
@@ -118,7 +118,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 7. University Admission for Foreigners {#section-7}
+## 7. University Admission for Foreigners
 
 | Item | Details |
 |---|---|
@@ -130,7 +130,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 8. After-School Activities and Tutoring {#section-8}
+## 8. After-School Activities and Tutoring
 
 | Item | Details |
 |---|---|
@@ -142,7 +142,7 @@ Foreign children in Korea have a legal right to attend public schools. In additi
 
 ---
 
-## 9. Frequently Asked Questions {#section-9}
+## 9. Frequently Asked Questions
 
 **Q. Can foreign children attend Korean public schools?**
 A. Yes — foreign children with an ARC have a legal right to enroll in public elementary, middle, and high schools. Elementary and middle school is free as compulsory education.
@@ -161,7 +161,7 @@ A. Yes — with a foreign high school diploma, transcripts, and TOPIK or English
 
 ---
 
-## 10. Consultation {#section-10}
+## 10. Consultation
 
 For questions about visa status, family residency procedures, or general life settlement in Korea, Vision Administrative Office provides expert support.
 

@@ -30,7 +30,7 @@ Unlike the D-7 intra-company transfer visa, **D-8 does not require a pre-existin
 
 ---
 
-## 1. What Is D-8? — The Legal Basis of Corporate Investment Visa {#section-1}
+## 1. What Is D-8? — The Legal Basis of Corporate Investment Visa
 
 The D-8 visa is issued under the Foreign Investment Promotion Act to foreign nationals making direct investment in Korea.
 
@@ -46,7 +46,7 @@ The defining characteristic: **the investor contributes their own capital to a K
 
 ---
 
-## 2. Investment Requirements — Minimum ₩100 Million {#section-2}
+## 2. Investment Requirements — Minimum ₩100 Million
 
 D-8 requires registration as a foreign direct investment under the Foreign Investment Promotion Act.
 
@@ -69,7 +69,7 @@ The investment must be actually remitted into the company's dedicated account. L
 
 ---
 
-## 3. Permitted Industries and Roles {#section-3}
+## 3. Permitted Industries and Roles
 
 D-8 has very few industry restrictions. Some sectors face limits on foreign ownership:
 
@@ -87,7 +87,7 @@ Working for unrelated companies while on D-8 is prohibited.
 
 ---
 
-## 4. Employment Requirements {#section-4}
+## 4. Employment Requirements
 
 Sustaining D-8 status at renewal requires meeting either an employment or a revenue benchmark:
 
@@ -100,7 +100,7 @@ Newly established companies may receive a grace period of up to 2 years on these
 
 ---
 
-## 5. Company Setup Process Overview {#section-5}
+## 5. Company Setup Process Overview
 
 A Korean legal entity must be established (or already exist) before or concurrent with the D-8 visa application.
 
@@ -116,7 +116,7 @@ A Korean legal entity must be established (or already exist) before or concurren
 
 ---
 
-## 6. Required Documents {#section-6}
+## 6. Required Documents
 
 ### From the Applicant
 
@@ -139,7 +139,7 @@ A Korean legal entity must be established (or already exist) before or concurren
 
 ---
 
-## 7. Application Procedure {#section-7}
+## 7. Application Procedure
 
 ### From Overseas
 
@@ -158,7 +158,7 @@ If already in Korea on another visa:
 
 ---
 
-## 8. D-8 vs D-7 — Side-by-Side Comparison {#section-8}
+## 8. D-8 vs D-7 — Side-by-Side Comparison
 
 | | D-8 Corporate Investment | D-7 Intra-Company Transfer |
 |--|--|--|
@@ -176,7 +176,7 @@ If already in Korea on another visa:
 
 ---
 
-## 9. D-8 to F-5 Permanent Residency {#section-9}
+## 9. D-8 to F-5 Permanent Residency
 
 Long-term D-8 holders have a dedicated path to permanent residency:
 
@@ -190,7 +190,7 @@ F-5-5 is the investor-specific permanent residency category. After operating a D
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I apply for D-8 before establishing the company?**
 A. In principle, the company must be established and the investment registered before the visa application. A common approach: enter on B-2 (tourist) status, set up the company domestically, then change to D-8.
@@ -209,7 +209,7 @@ A. Without a Venture Business Certificate, the general ₩100M minimum applies. 
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 D-8 involves interconnected steps — company setup, foreign investment registration, and visa application — that must be coordinated carefully. Errors in investment structure, industry selection, or employment planning can cause problems at renewal.
 

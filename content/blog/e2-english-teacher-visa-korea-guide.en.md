@@ -30,7 +30,7 @@ E-2 is a specialized visa with strict nationality, degree, and employer requirem
 
 ---
 
-## 1. What Is E-2? — Scope of the Conversation Instructor Visa {#section-1}
+## 1. What Is E-2? — Scope of the Conversation Instructor Visa
 
 E-2 is the "Conversation Instructor" status under Korea's Immigration Act. It allows qualified native English speakers to deliver English language instruction in Korea.
 
@@ -45,7 +45,7 @@ E-2 covers English only. Teaching other foreign languages (Chinese, Japanese, Fr
 
 ---
 
-## 2. Nationality Requirements — The 7 Eligible Countries {#section-2}
+## 2. Nationality Requirements — The 7 Eligible Countries
 
 E-2 visas are issued **only to nationals of these seven native English-speaking countries**:
 
@@ -63,7 +63,7 @@ Nationals of any other country — even countries where English is widely spoken
 
 ---
 
-## 3. Educational Requirements — Bachelor's Degree Minimum {#section-3}
+## 3. Educational Requirements — Bachelor's Degree Minimum
 
 All E-2 applicants must hold at least a **4-year bachelor's degree** from an accredited university.
 
@@ -77,7 +77,7 @@ A 2-year associate degree does not satisfy E-2 requirements. Applicants without 
 
 ---
 
-## 4. Criminal Background Check — The Critical E-2 Document {#section-4}
+## 4. Criminal Background Check — The Critical E-2 Document
 
 The criminal background check (CBC) is the most distinctive requirement of E-2 applications and the most common source of delays.
 
@@ -104,7 +104,7 @@ Any criminal history — particularly drug offenses, sexual offenses, or violent
 
 ---
 
-## 5. Employer Requirements — Academies, Schools, Universities {#section-5}
+## 5. Employer Requirements — Academies, Schools, Universities
 
 E-2 requires a qualifying **sponsoring employer**. Freelance English instruction or self-employment does not qualify for E-2.
 
@@ -121,7 +121,7 @@ Unregistered tutoring operations, informal "English café" setups, or academies 
 
 ---
 
-## 6. Complete Document Checklist {#section-6}
+## 6. Complete Document Checklist
 
 ### Applicant Documents
 
@@ -145,7 +145,7 @@ Unregistered tutoring operations, informal "English café" setups, or academies 
 
 ---
 
-## 7. Application Procedure {#section-7}
+## 7. Application Procedure
 
 ### From Overseas
 
@@ -165,7 +165,7 @@ If already in Korea on another valid visa:
 
 ---
 
-## 8. Stay Period and Renewal {#section-8}
+## 8. Stay Period and Renewal
 
 | Item | Details |
 |---|---|
@@ -179,7 +179,7 @@ Start renewal preparations at least one month before expiry.
 
 ---
 
-## 9. From E-2 to Long-Term Residency — F-2-7 Pathway {#section-9}
+## 9. From E-2 to Long-Term Residency — F-2-7 Pathway
 
 After several years on E-2, transitioning to F-2-7 (points-based long-term residency) is a realistic path to longer-term stability in Korea.
 
@@ -199,7 +199,7 @@ See the [F-2-7 Points-Based Long-Term Residency Guide](/en/blog/f2-7-points-base
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. I'm a Canadian permanent resident (PR) but not a citizen. Can I get E-2?**
 A. No. E-2 is for **citizens** of the 7 qualifying countries, not permanent residents. Without Canadian citizenship, you don't qualify for E-2.
@@ -218,7 +218,7 @@ A. E-7 is open to more nationalities but requires a qualifying job offer in a de
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 E-2 applications fail most often due to criminal background check delays or incomplete sponsorship documents from the employer's side. Starting the CBC process 3–4 months early and choosing a properly registered employer are the two most important steps.
 

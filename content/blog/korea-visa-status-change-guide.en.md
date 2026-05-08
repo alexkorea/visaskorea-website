@@ -28,7 +28,7 @@ Foreign nationals currently staying in Korea who wish to engage in activities di
 
 ---
 
-## 1. What Is a Visa Status Change? {#section-1}
+## 1. What Is a Visa Status Change?
 
 A visa status change is the procedure of changing your current visa type (status of stay) to a different category. For example, converting from a student visa (D-2) after graduation to a work visa (E-7), or changing to a marriage immigration visa (F-6) after getting married.
 
@@ -39,7 +39,7 @@ Key characteristics:
 
 ---
 
-## 2. Status Change vs. Visa Extension {#section-2}
+## 2. Status Change vs. Visa Extension
 
 | | Status Change | Visa Extension |
 |---|---|---|
@@ -50,7 +50,7 @@ Key characteristics:
 
 ---
 
-## 3. Common Status Change Cases {#section-3}
+## 3. Common Status Change Cases
 
 | From | To | Common Reason |
 |---|---|---|
@@ -65,7 +65,7 @@ Key characteristics:
 
 ---
 
-## 4. Application Timing and Conditions {#section-4}
+## 4. Application Timing and Conditions
 
 | Item | Details |
 |---|---|
@@ -78,7 +78,7 @@ Key characteristics:
 
 ---
 
-## 5. Where and How to Apply {#section-5}
+## 5. Where and How to Apply
 
 ### In-Person Application
 
@@ -96,7 +96,7 @@ Key characteristics:
 
 ---
 
-## 6. Common Required Documents {#section-6}
+## 6. Common Required Documents
 
 | Document | Notes |
 |---|---|
@@ -108,7 +108,7 @@ Key characteristics:
 
 ---
 
-## 7. Additional Documents by Status {#section-7}
+## 7. Additional Documents by Status
 
 | Status | Additional Documents |
 |---|---|
@@ -122,7 +122,7 @@ Key characteristics:
 
 ---
 
-## 8. Application Process {#section-8}
+## 8. Application Process
 
 1. **Check eligibility** — Confirm you meet the requirements for the target status
 2. **Prepare documents** — Gather common + status-specific documents
@@ -134,7 +134,7 @@ Key characteristics:
 
 ---
 
-## 9. Processing Time and Fees {#section-9}
+## 9. Processing Time and Fees
 
 | Item | Details |
 |---|---|
@@ -146,7 +146,7 @@ Key characteristics:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I change from a tourist (C-3) visa to a student visa inside Korea?**
 A. In principle, those who entered visa-free or for short-term visits face restrictions on status changes. However, exceptions may apply in special cases such as university admission — professional consultation is recommended.
@@ -165,7 +165,7 @@ A. Changing from F-6 to F-2 involves a comprehensive review of marriage duration
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Visa status changes are subject to stricter review than extensions, and a denial can lead to illegal stay — thorough preparation beforehand is essential. For particularly stringent statuses such as E-7, F-2, and F-5, professional support is the safe choice.
 

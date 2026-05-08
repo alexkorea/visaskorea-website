@@ -28,7 +28,7 @@ Unlike the D-8 corporate investor visa, which requires direct investment, the D-
 
 ---
 
-## 1. When Is D-7 the Right Visa? {#section-1}
+## 1. When Is D-7 the Right Visa?
 
 D-7 applies when an employee is transferred *within* a corporate group — from a foreign entity to a Korean entity. Typical scenarios:
 
@@ -42,7 +42,7 @@ Key distinction: **The person must already be employed at the foreign entity and
 
 ---
 
-## 2. Qualifying Corporate Relationships {#section-2}
+## 2. Qualifying Corporate Relationships
 
 Korean immigration authorities recognize the following relationship types:
 
@@ -61,7 +61,7 @@ Proving the relationship requires official documents: share registers, corporate
 
 ---
 
-## 3. Position & Salary Requirements {#section-3}
+## 3. Position & Salary Requirements
 
 D-7 is restricted to **managers, specialists, and essential knowledge personnel**.
 
@@ -85,7 +85,7 @@ Most applicants should have worked at the foreign entity for **at least 1 year**
 
 ---
 
-## 4. Duration and Extension {#section-4}
+## 4. Duration and Extension
 
 ### Initial Stay Period
 
@@ -105,7 +105,7 @@ There is no legal cap on extensions. Assignees who have been in Korea for 5+ yea
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Overseas Consulate Application (Visa Application)
 
@@ -131,7 +131,7 @@ If already in Korea on another visa, you may change status domestically. Add:
 
 ---
 
-## 6. Application Procedure {#section-6}
+## 6. Application Procedure
 
 ### From Overseas
 
@@ -148,7 +148,7 @@ If already in Korea on another visa, you may change status domestically. Add:
 
 ---
 
-## 7. D-7 vs D-8 — The Most Common Confusion {#section-7}
+## 7. D-7 vs D-8 — The Most Common Confusion
 
 Many applicants arrive from multinational companies unsure whether they need D-7 or D-8.
 
@@ -175,7 +175,7 @@ Many applicants arrive from multinational companies unsure whether they need D-7
 
 ---
 
-## 8. Frequently Asked Questions {#section-8}
+## 8. Frequently Asked Questions
 
 **Q. Can I work part-time for another company while on D-7?**
 A. No. D-7 binds you to the purposes of the specific assignment. Working for unaffiliated companies violates your visa conditions.
@@ -194,7 +194,7 @@ A. Identify the reason — usually insufficient corporate relationship proof, po
 
 ---
 
-## 9. Consultation {#section-9}
+## 9. Consultation
 
 D-7 applications involve layers of corporate documentation, translation, and notarization requirements that differ by country. The most common failure points are:
 

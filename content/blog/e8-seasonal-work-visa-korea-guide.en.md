@@ -28,7 +28,7 @@ The E-8 (Seasonal Work) visa is issued to foreign workers who enter Korea to per
 
 ---
 
-## 1. What Is the E-8 Visa? {#section-1}
+## 1. What Is the E-8 Visa?
 
 E-8 is the "Seasonal Work" status under Korea's Immigration Act. It permits foreign workers to work short-term in industries with seasonally concentrated labor needs — primarily agriculture, fisheries, and livestock farming.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Eligible Industries and Occupations {#section-2}
+## 2. Eligible Industries and Occupations
 
 | Industry | Key Tasks |
 |---|---|
@@ -53,7 +53,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -65,7 +65,7 @@ Key features:
 
 ---
 
-## 4. Program Overview and Entry Process {#section-4}
+## 4. Program Overview and Entry Process
 
 The E-8 visa is not applied for directly by individuals — it is issued only through local government-run programs.
 
@@ -78,7 +78,7 @@ The E-8 visa is not applied for directly by individuals — it is issued only th
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Common Documents
 
@@ -93,7 +93,7 @@ The E-8 visa is not applied for directly by individuals — it is issued only th
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -105,7 +105,7 @@ The E-8 visa is not applied for directly by individuals — it is issued only th
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Permitted Activities | Restrictions |
 |---|---|
@@ -115,7 +115,7 @@ The E-8 visa is not applied for directly by individuals — it is issued only th
 
 ---
 
-## 8. E-8 vs E-9 Comparison {#section-8}
+## 8. E-8 vs E-9 Comparison
 
 | | E-8 Seasonal Work | E-9 Non-Professional Employment |
 |--|--|--|
@@ -127,7 +127,7 @@ The E-8 visa is not applied for directly by individuals — it is issued only th
 
 ---
 
-## 9. Transitioning from E-8 to Other Statuses {#section-9}
+## 9. Transitioning from E-8 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -139,7 +139,7 @@ The E-8 visa is not applied for directly by individuals — it is issued only th
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I apply for the E-8 visa directly on my own?**
 A. No. The E-8 visa is only issued through local government-run seasonal work programs. You cannot apply directly at a Korean embassy without first being selected through the program.
@@ -158,7 +158,7 @@ A. Overstaying can result in forced deportation and an entry ban. Re-entering Ko
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The E-8 Seasonal Work visa requires participation in a local government-run program, and the conditions vary by municipality. If you are considering long-term employment or a status change, consulting with a specialist in advance is important.
 

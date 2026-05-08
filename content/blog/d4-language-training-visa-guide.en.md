@@ -30,7 +30,7 @@ Unlike D-2, D-4 is for non-degree training. It is often the first step for peopl
 
 ---
 
-## 1. What Is the D-4 Visa? {#section-1}
+## 1. What Is the D-4 Visa?
 
 D-4 is the "General Training" status under Korea's Immigration Act. It is issued to foreign nationals who enroll in training or educational programs at MOJ-recognized institutions — without pursuing a formal academic degree.
 
@@ -42,7 +42,7 @@ Key features:
 
 ---
 
-## 2. Eligibility Requirements {#section-2}
+## 2. Eligibility Requirements
 
 ### Core Requirements
 
@@ -61,7 +61,7 @@ Key features:
 
 ---
 
-## 3. Approved Institution Types {#section-3}
+## 3. Approved Institution Types
 
 To receive D-4 status, enrollment must be at an MOJ-recognized institution.
 
@@ -78,7 +78,7 @@ To receive D-4 status, enrollment must be at an MOJ-recognized institution.
 
 ---
 
-## 4. Financial Proof Requirements {#section-4}
+## 4. Financial Proof Requirements
 
 Financial capacity is a key factor in D-4 visa review.
 
@@ -94,7 +94,7 @@ Standards vary by consulate — verify requirements at your local Korean consula
 
 ---
 
-## 5. Required Documents and Application Procedure {#section-5}
+## 5. Required Documents and Application Procedure
 
 ### Required Documents
 
@@ -119,7 +119,7 @@ Standards vary by consulate — verify requirements at your local Korean consula
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -131,7 +131,7 @@ Many D-4 holders use the period to prepare for university admission (D-2) or job
 
 ---
 
-## 7. Part-Time Work Permission {#section-7}
+## 7. Part-Time Work Permission
 
 D-4 restricts employment by default, but limited part-time work is available after meeting conditions.
 
@@ -148,7 +148,7 @@ Working without a permit is a visa violation and can result in deportation.
 
 ---
 
-## 8. Transitioning from D-4 to D-2, E-7, or F-2 {#section-8}
+## 8. Transitioning from D-4 to D-2, E-7, or F-2
 
 D-4 can be a launching pad for longer-term stay in Korea.
 
@@ -166,7 +166,7 @@ See the [D-2 Student Visa Guide](/en/blog/d2-student-visa-korea-guide) for detai
 
 ---
 
-## 9. D-4 vs D-2 Comparison {#section-9}
+## 9. D-4 vs D-2 Comparison
 
 | | D-4 General Training | D-2 Study |
 |--|--|--|
@@ -179,7 +179,7 @@ See the [D-2 Student Visa Guide](/en/blog/d2-student-visa-korea-guide) for detai
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. I don't know any Korean. Can I still come on D-4 and study at a language school?**
 A. Yes. There is no Korean language requirement for D-4. Most people who come on D-4 are starting from zero Korean. Language courses begin at the beginner level.
@@ -198,7 +198,7 @@ A. Yes. If you receive an admission letter for a degree program from a Korean un
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 D-4 visa planning involves choosing an eligible institution, preparing financial documentation, managing the part-time work allowance, and planning your transition to D-2 or E-7. Those who plan to study Korean and then pursue employment or higher education in Korea benefit most from clear long-term planning from the start.
 

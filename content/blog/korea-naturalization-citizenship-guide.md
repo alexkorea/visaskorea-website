@@ -28,7 +28,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 1. 귀화란? {#section-1}
+## 1. 귀화란?
 
 귀화는 외국인이 대한민국 국적을 취득하는 절차입니다. 귀화가 완료되면 대한민국 국민으로서 선거권, 공무원 임용 자격 등 모든 법적 권리를 갖게 됩니다.
 
@@ -39,7 +39,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 2. 귀화 종류 및 조건 {#section-2}
+## 2. 귀화 종류 및 조건
 
 | 종류 | 주요 조건 | 거주 기간 요건 |
 |---|---|---|
@@ -51,7 +51,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 3. 일반귀화 요건 상세 {#section-3}
+## 3. 일반귀화 요건 상세
 
 일반귀화는 다음 요건을 모두 충족해야 합니다:
 
@@ -68,7 +68,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 4. 간이귀화 대상 {#section-4}
+## 4. 간이귀화 대상
 
 간이귀화는 일반귀화보다 거주 기간 요건이 완화됩니다.
 
@@ -91,7 +91,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 5. 특별귀화 대상 {#section-5}
+## 5. 특별귀화 대상
 
 특별귀화는 국가·사회에 뚜렷한 공헌이 있는 외국인에게 거주 기간 요건을 면제하거나 완화하여 부여합니다.
 
@@ -103,7 +103,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 6. 귀화 신청 절차 {#section-6}
+## 6. 귀화 신청 절차
 
 1. **요건 확인** — 귀화 유형 및 거주 기간, 자격 요건 확인
 2. **서류 준비** — 귀화 유형에 맞는 서류 일체 준비
@@ -116,7 +116,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 7. 필요 서류 {#section-7}
+## 7. 필요 서류
 
 ### 공통 서류
 
@@ -135,7 +135,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 8. 귀화 심사 항목 {#section-8}
+## 8. 귀화 심사 항목
 
 | 심사 항목 | 내용 |
 |---|---|
@@ -148,7 +148,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 9. 귀화 후 이중국적 처리 {#section-9}
+## 9. 귀화 후 이중국적 처리
 
 대한민국은 원칙적으로 이중국적을 허용하지 않습니다.
 
@@ -163,7 +163,7 @@ slug: "korea-naturalization-citizenship-guide"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 한국 국적을 취득하면 반드시 본국 국적을 포기해야 하나요?**
 A. 일반귀화자는 귀화 후 1년 이내에 외국 국적을 포기해야 합니다. 다만, 결혼귀화자 및 일부 특별귀화자는 이중국적이 허용됩니다. 국적법 개정으로 조건에 따라 이중국적이 인정될 수 있으므로 전문가 상담을 권장합니다.
@@ -182,7 +182,7 @@ A. 네. 불허 사유를 파악하고 해당 요건을 보완한 후 다시 신�
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 귀화는 국적법상 요건이 복잡하고, 서류 준비 및 심사 기간이 길어 전문가의 도움이 매우 중요합니다. 특히 간이귀화·특별귀화 대상 여부와 이중국적 처리 문제는 사전 상담이 필수적입니다.
 

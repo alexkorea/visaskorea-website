@@ -30,7 +30,7 @@ The Korean government conducts a strict review of the genuineness of the marriag
 
 ---
 
-## 1. What Is the F-6 Visa? {#section-1}
+## 1. What Is the F-6 Visa?
 
 F-6 is the "Marriage Immigration" status under Korea's Immigration Act. It is issued to foreign spouses of Korean nationals.
 
@@ -43,7 +43,7 @@ Key features:
 
 ---
 
-## 2. Eligibility Requirements {#section-2}
+## 2. Eligibility Requirements
 
 To qualify for F-6, all of the following must apply:
 
@@ -64,7 +64,7 @@ To qualify for F-6, all of the following must apply:
 
 ---
 
-## 3. Genuine Relationship Review {#section-3}
+## 3. Genuine Relationship Review
 
 The Ministry of Justice scrutinizes the authenticity of the marriage as part of the F-6 review process.
 
@@ -84,7 +84,7 @@ A consular interview or immigration office meeting may be required. Couples may 
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Documents from the Foreign Applicant
 
@@ -111,7 +111,7 @@ A consular interview or immigration office meeting may be required. Couples may 
 
 ---
 
-## 5. Application Procedure {#section-5}
+## 5. Application Procedure
 
 ### Applying from Abroad (Initial Visa)
 
@@ -131,7 +131,7 @@ If the foreign national is currently in Korea on another visa:
 
 ---
 
-## 6. Income and Financial Requirements — Korean Spouse {#section-6}
+## 6. Income and Financial Requirements — Korean Spouse
 
 The Korean spouse must demonstrate sufficient financial capacity to support the foreign spouse.
 
@@ -147,7 +147,7 @@ Falling below the income threshold significantly increases the risk of visa deni
 
 ---
 
-## 7. Stay Period and Extension {#section-7}
+## 7. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -158,7 +158,7 @@ Falling below the income threshold significantly increases the risk of visa deni
 
 ---
 
-## 8. Staying After Divorce, Separation, or Death of Spouse {#section-8}
+## 8. Staying After Divorce, Separation, or Death of Spouse
 
 F-6 is premised on an ongoing marital relationship. Divorce, separation, or the death of the Korean spouse affects the visa.
 
@@ -179,7 +179,7 @@ Situations involving divorce, separation, or bereavement vary significantly by i
 
 ---
 
-## 9. From F-6 to F-5 Permanent Residency {#section-9}
+## 9. From F-6 to F-5 Permanent Residency
 
 After meeting the requirements while on F-6 status, transition to F-5 (Permanent Residency) is available.
 
@@ -196,7 +196,7 @@ See the [F-5 Permanent Residency Complete Guide](/en/blog/f5-permanent-residency
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. We married abroad — do we also need to register the marriage in Korea?**
 A. Yes. After the marriage is legally completed in your home country, you must also file a marriage registration at a Korean local government office. Submit the Korean marriage registration form together with the foreign marriage certificate (translated and notarized).
@@ -215,7 +215,7 @@ A. It depends on the reason for divorce and whether you are raising Korean-natio
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The F-6 Marriage Immigration visa involves many variables: proving the genuineness of the relationship, the Korean sponsor's income review, and managing status if the marriage breaks down. Document strategy varies significantly by individual circumstance, and professional guidance is strongly recommended.
 

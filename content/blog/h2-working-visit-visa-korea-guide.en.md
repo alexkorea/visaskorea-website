@@ -30,7 +30,7 @@ Unlike F-4, H-2 **restricts employment to non-professional sectors** (manufactur
 
 ---
 
-## 1. What Is H-2? — Working Visit Status Explained {#section-1}
+## 1. What Is H-2? — Working Visit Status Explained
 
 H-2 is the "Working Visit" status under Korea's Immigration Act. It enables ethnic Koreans living abroad to visit Korea and work in designated non-professional job sectors.
 
@@ -42,7 +42,7 @@ Key characteristics:
 
 ---
 
-## 2. Eligibility — Nationality and Ancestry Requirements {#section-2}
+## 2. Eligibility — Nationality and Ancestry Requirements
 
 H-2 is not available to all overseas Koreans. Only ethnic Koreans residing in **specific designated countries** are eligible.
 
@@ -66,7 +66,7 @@ Overseas Koreans in Western countries (USA, Canada, Australia) qualify for F-4 (
 
 ---
 
-## 3. Permitted Job Sectors {#section-3}
+## 3. Permitted Job Sectors
 
 H-2 restricts employment to **non-professional, unskilled and semi-skilled occupations**.
 
@@ -91,7 +91,7 @@ For professional-level work, F-4 or E-7 are the appropriate visa categories.
 
 ---
 
-## 4. Annual Quota System {#section-4}
+## 4. Annual Quota System
 
 H-2 issuance is capped by an **annual quota** set by the Ministry of Justice (MOJ). Once the quota for a given year is exhausted, no additional H-2 visas are issued until the following year's quota opens.
 
@@ -105,7 +105,7 @@ Monitor the Korean consulate in your country or the MOJ immigration website for 
 
 ---
 
-## 5. Required Documents and Application Procedure {#section-5}
+## 5. Required Documents and Application Procedure
 
 ### Required Documents
 
@@ -128,7 +128,7 @@ Monitor the Korean consulate in your country or the MOJ immigration website for 
 
 ---
 
-## 6. Korea Immigration and Integration Program (KIIP) — H-2 Benefits {#section-6}
+## 6. Korea Immigration and Integration Program (KIIP) — H-2 Benefits
 
 H-2 holders who complete the Korea Immigration and Integration Program (사회통합프로그램, KIIP) gain meaningful benefits for their long-term stay.
 
@@ -144,7 +144,7 @@ KIIP is offered free of charge at immigration offices and designated educational
 
 ---
 
-## 7. Stay Period and Extension {#section-7}
+## 7. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -156,7 +156,7 @@ Long-term H-2 residence combined with KIIP completion creates a realistic path t
 
 ---
 
-## 8. From H-2 to F-4 and F-5 {#section-8}
+## 8. From H-2 to F-4 and F-5
 
 H-2 is a temporary status. For those seeking long-term stability in Korea, these transition routes are available:
 
@@ -175,7 +175,7 @@ See the [F-4 Overseas Korean Visa Guide](/en/blog/f4-overseas-korean-visa-guide)
 
 ---
 
-## 9. H-2 vs F-4 — Key Differences {#section-9}
+## 9. H-2 vs F-4 — Key Differences
 
 | | H-2 Working Visit | F-4 Overseas Korean |
 |--|--|--|
@@ -189,7 +189,7 @@ If you qualify for F-4, it is generally a better option than H-2: no quota, broa
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. I'm ethnic Korean (조선족) from China. Do I need Korean language skills for H-2?**
 A. H-2 does not have a Korean language requirement. However, completing KIIP and improving your Korean significantly helps with F-4 transition and long-term prospects.
@@ -208,7 +208,7 @@ A. H-2 is primarily an individual work permit. F-3 accompanying family status fo
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 H-2 applications involve verifying ethnic Korean ancestry, confirming quota availability, and understanding permitted employment sectors. The F-4 transition strategy and long-term residency planning also depend heavily on individual circumstances.
 

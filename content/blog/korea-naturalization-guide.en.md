@@ -28,7 +28,7 @@ Acquiring Korean nationality grants permanent residence without a visa and equal
 
 ---
 
-## 1. Overview of Naturalization Types {#section-1}
+## 1. Overview of Naturalization Types
 
 | Type | Main Applicants | Minimum Residence Requirement |
 |---|---|---|
@@ -38,7 +38,7 @@ Acquiring Korean nationality grants permanent residence without a visa and equal
 
 ---
 
-## 2. General Naturalization Requirements {#section-2}
+## 2. General Naturalization Requirements
 
 Under Article 5 of the Nationality Act, all of the following conditions must be met.
 
@@ -56,7 +56,7 @@ Under Article 5 of the Nationality Act, all of the following conditions must be 
 
 ---
 
-## 3. Simplified Naturalization Requirements {#section-3}
+## 3. Simplified Naturalization Requirements
 
 Under Article 6 of the Nationality Act, the residence requirement is reduced if any of the following apply.
 
@@ -79,7 +79,7 @@ Those whose parent(s) were Korean nationals (e.g., second-generation diaspora) m
 
 ---
 
-## 4. Special Naturalization Requirements {#section-4}
+## 4. Special Naturalization Requirements
 
 Under Article 7 of the Nationality Act, the following applicants may apply without meeting the standard residence requirement.
 
@@ -91,7 +91,7 @@ Under Article 7 of the Nationality Act, the following applicants may apply witho
 
 ---
 
-## 5. Naturalization Test Guide {#section-5}
+## 5. Naturalization Test Guide
 
 ### Naturalization Aptitude Test (KINAT)
 
@@ -107,7 +107,7 @@ Under Article 7 of the Nationality Act, the following applicants may apply witho
 
 ---
 
-## 6. Required Documents {#section-6}
+## 6. Required Documents
 
 | Document | Notes |
 |---|---|
@@ -126,7 +126,7 @@ Under Article 7 of the Nationality Act, the following applicants may apply witho
 
 ---
 
-## 7. Application Procedure {#section-7}
+## 7. Application Procedure
 
 | Step | Content | Estimated Time |
 |---|---|---|
@@ -143,7 +143,7 @@ Under Article 7 of the Nationality Act, the following applicants may apply witho
 
 ---
 
-## 8. Post-Naturalization Steps {#section-8}
+## 8. Post-Naturalization Steps
 
 After naturalization approval, complete the following steps in order:
 
@@ -155,7 +155,7 @@ After naturalization approval, complete the following steps in order:
 
 ---
 
-## 9. Dual Nationality Rules {#section-9}
+## 9. Dual Nationality Rules
 
 Korea generally does not permit dual nationality, but exceptions exist for the following:
 
@@ -170,7 +170,7 @@ Korea generally does not permit dual nationality, but exceptions exist for the f
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. What happens if my alien registration card expires while my naturalization application is pending?**
 A. Your visa status is maintained during the review period after submission. However, you should still renew your alien registration card separately to keep it valid.
@@ -189,7 +189,7 @@ A. No. You may apply for naturalization directly without holding an F-5 visa. In
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Naturalization requirements and documents vary by application type, and the review process is lengthy. Professional support — especially for notarizing and apostilling home-country documents and preparing for the interview — significantly reduces the risk of rejection.
 

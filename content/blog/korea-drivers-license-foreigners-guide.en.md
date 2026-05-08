@@ -28,7 +28,7 @@ Foreigners residing long-term in Korea can obtain a Korean driver's license from
 
 ---
 
-## 1. Types of Korean Driver's License {#section-1}
+## 1. Types of Korean Driver's License
 
 Korean driver's licenses are divided into Class 1 and Class 2.
 
@@ -45,7 +45,7 @@ Korean driver's licenses are divided into Class 1 and Class 2.
 
 ---
 
-## 2. Converting a Foreign License to a Korean License {#section-2}
+## 2. Converting a Foreign License to a Korean License
 
 If you hold a valid foreign driver's license, you may be able to exchange it for a Korean license with reduced requirements.
 
@@ -81,7 +81,7 @@ Nationals of non-treaty countries must pass the **written test only**; the skill
 
 ---
 
-## 3. New License: Test Procedure {#section-3}
+## 3. New License: Test Procedure
 
 If you do not hold a foreign license, you must complete the full licensing process.
 
@@ -95,7 +95,7 @@ If you do not hold a foreign license, you must complete the full licensing proce
 
 ---
 
-## 4. Written Test Guide {#section-4}
+## 4. Written Test Guide
 
 ### Test Overview
 
@@ -118,7 +118,7 @@ If you do not hold a foreign license, you must complete the full licensing proce
 
 ---
 
-## 5. Skills Test Guide {#section-5}
+## 5. Skills Test Guide
 
 The skills test is conducted on a closed course at the examination center.
 
@@ -131,7 +131,7 @@ The skills test is conducted on a closed course at the examination center.
 
 ---
 
-## 6. Road Driving Test Guide {#section-6}
+## 6. Road Driving Test Guide
 
 The road driving test takes place on public roads near the examination center.
 
@@ -144,7 +144,7 @@ The road driving test takes place on public roads near the examination center.
 
 ---
 
-## 7. Test Fees {#section-7}
+## 7. Test Fees
 
 | Item | Approximate Fee |
 |---|---|
@@ -157,7 +157,7 @@ The road driving test takes place on public roads near the examination center.
 
 ---
 
-## 8. International Driver's License {#section-8}
+## 8. International Driver's License
 
 With a valid Korean driver's license, you can obtain an International Driver's License (국제운전면허증) for driving abroad.
 
@@ -173,7 +173,7 @@ With a valid Korean driver's license, you can obtain an International Driver's L
 
 ---
 
-## 9. License Renewal {#section-9}
+## 9. License Renewal
 
 | Item | Details |
 |---|---|
@@ -185,7 +185,7 @@ With a valid Korean driver's license, you can obtain an International Driver's L
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I drive in Korea with my foreign license?**
 A. You may drive with a foreign license for up to 1 year from your entry date. After that, you must obtain a Korean license. International driver's licenses issued under the Vienna Convention are also valid for 1 year.
@@ -204,7 +204,7 @@ A. Attending a driving school is not mandatory, but the 10-hour road driving pra
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The driver's license process for foreigners varies by nationality, visa type, and whether you hold a foreign license. For complex cases involving license conversion or status issues, professional guidance is recommended.
 

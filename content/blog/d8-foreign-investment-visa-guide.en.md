@@ -30,7 +30,7 @@ Both foreign individuals who directly establish a Korean company and those sent 
 
 ---
 
-## 1. What Is the D-8 Visa? {#section-1}
+## 1. What Is the D-8 Visa?
 
 D-8 is the "Corporate Investment" status under Korea's Immigration Act. It is issued to foreign investors who have invested in Korea under the Foreign Investment Promotion Act, and to essential professional personnel working at registered foreign-invested companies.
 
@@ -42,7 +42,7 @@ Key features:
 
 ---
 
-## 2. D-8 Subtypes {#section-2}
+## 2. D-8 Subtypes
 
 D-8 is subdivided based on investment structure and the applicant's role:
 
@@ -57,7 +57,7 @@ D-8-3 and D-8-4 are primarily used as startup visa categories.
 
 ---
 
-## 3. Minimum Investment and Requirements {#section-3}
+## 3. Minimum Investment and Requirements
 
 ### General Investment (D-8-1, D-8-2)
 
@@ -86,7 +86,7 @@ D-8-3 and D-8-4 are primarily used as startup visa categories.
 
 ---
 
-## 4. Foreign-Invested Company Registration Process {#section-4}
+## 4. Foreign-Invested Company Registration Process
 
 Before applying for a D-8 visa, registration as a foreign-invested company is required.
 
@@ -98,7 +98,7 @@ Before applying for a D-8 visa, registration as a foreign-invested company is re
 
 ---
 
-## 5. Required Documents {#section-5}
+## 5. Required Documents
 
 ### Applicant Documents
 
@@ -123,7 +123,7 @@ Before applying for a D-8 visa, registration as a foreign-invested company is re
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -135,7 +135,7 @@ D-8 status becomes difficult to maintain if the investment is withdrawn or the c
 
 ---
 
-## 7. Spouse and Family Accompanying {#section-7}
+## 7. Spouse and Family Accompanying
 
 The spouse and minor children of D-8 holders may accompany them to Korea on F-3 (accompanying person) status.
 
@@ -147,7 +147,7 @@ The spouse and minor children of D-8 holders may accompany them to Korea on F-3 
 
 ---
 
-## 8. Transitioning from D-8 to Long-Term Stay or Permanent Residency {#section-8}
+## 8. Transitioning from D-8 to Long-Term Stay or Permanent Residency
 
 D-8 offers pathways to long-term and permanent residency.
 
@@ -161,7 +161,7 @@ F-5-9 (Investor Immigration PR) requires investment of KRW 3 billion or more und
 
 ---
 
-## 9. D-8 vs D-9 vs D-7 Comparison {#section-9}
+## 9. D-8 vs D-9 vs D-7 Comparison
 
 | | D-8 Corporate Investment | D-9 Trade/Business Management | D-7 Intra-Company Transfer |
 |--|--|--|--|
@@ -173,7 +173,7 @@ F-5-9 (Investor Immigration PR) requires investment of KRW 3 billion or more und
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. If I establish a company in Korea, do I automatically qualify for D-8?**
 A. No. After incorporating the company, you must complete registration as a foreign-invested company under the Foreign Investment Promotion Act and deposit at least KRW 100M in capital before applying for D-8.
@@ -192,7 +192,7 @@ A. You would need to meet the F-5-9 investor immigration requirements: KRW 3 bil
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 D-8 visa applications involve complex legal and financial procedures including foreign-invested company registration, company establishment, and investment capital documentation. Expert consultation is especially important for transitioning from D-8-4 to D-8-3, navigating F-5 investor PR requirements, and managing ongoing compliance.
 

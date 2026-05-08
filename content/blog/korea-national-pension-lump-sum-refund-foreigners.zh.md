@@ -28,7 +28,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 1. 什么是一次性退还？ {#section-1}
+## 1. 什么是一次性退还？
 
 国民年金一次性退还，是指不满足年金受领条件（缴纳满10年+年满60岁）的外国人在永久离开韩国时，将已缴纳的保险费本金及利息一次性退还的制度。
 
@@ -42,7 +42,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 2. 申请对象及条件 {#section-2}
+## 2. 申请对象及条件
 
 ### 申请资格
 
@@ -63,7 +63,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 3. 退还金额计算方法 {#section-3}
+## 3. 退还金额计算方法
 
 一次性退还金额为已缴本金加法定利率利息之和。
 
@@ -91,7 +91,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 4. 所需材料 {#section-4}
+## 4. 所需材料
 
 | 材料 | 备注 |
 |---|---|
@@ -105,7 +105,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 5. 申请方式及流程 {#section-5}
+## 5. 申请方式及流程
 
 ### 三种申请方式
 
@@ -129,7 +129,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 6. 申请时机（出境前 vs. 出境后） {#section-6}
+## 6. 申请时机（出境前 vs. 出境后）
 
 | 申请时机 | 是否可行 | 备注 |
 |---|---|---|
@@ -143,7 +143,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 7. 社会保障协定国家注意事项 {#section-7}
+## 7. 社会保障协定国家注意事项
 
 韩国与多个国家签订了社会保障协定，相关国家公民的一次性退还申请可能适用特殊规定。
 
@@ -167,7 +167,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 8. 一次性退还 vs. 按月领取年金 {#section-8}
+## 8. 一次性退还 vs. 按月领取年金
 
 缴纳满10年者可选择一次性退还或按月领取老龄年金。
 
@@ -181,7 +181,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 9. 税款扣除情况 {#section-9}
+## 9. 税款扣除情况
 
 一次性退还款项中，利息部分须缴纳预扣税。
 
@@ -195,7 +195,7 @@ slug: "korea-national-pension-lump-sum-refund-foreigners"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 已经出境，还能申请一次性退还吗？**
 A. 可以。可通过www.nps.or.kr网上申请，或在境外邮寄申请，亦可申请国际汇款。
@@ -214,7 +214,7 @@ A. 可以。已故外国参保者的遗属可申请遗属一次性退还金。�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 国民年金一次性退还是在韩外国劳动者离境时不可忽视的重要权益。涉及社会保障协定适用、境外汇款及税务等复杂事项，专业人士的协助可帮助您更顺利地完成申请。
 

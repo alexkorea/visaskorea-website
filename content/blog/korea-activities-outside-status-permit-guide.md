@@ -28,7 +28,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 1. 체류자격외활동허가란? {#section-1}
+## 1. 체류자격외활동허가란?
 
 체류자격외활동허가란 외국인이 현재 체류자격(비자)의 범위를 초과하는 활동을 합법적으로 하기 위해 법무부 출입국관리사무소로부터 받아야 하는 허가입니다.
 
@@ -43,7 +43,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 2. 허가가 필요한 경우 vs. 불필요한 경우 {#section-2}
+## 2. 허가가 필요한 경우 vs. 불필요한 경우
 
 | 허가 필요 | 허가 불필요 |
 |---|---|
@@ -54,7 +54,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 3. 허가 신청 대상 비자 유형 {#section-3}
+## 3. 허가 신청 대상 비자 유형
 
 다음 비자 소지자가 비자 외 유급 활동을 하려면 허가를 받아야 합니다.
 
@@ -69,7 +69,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 4. 시간제 취업 허가 (주 20시간 기준) {#section-4}
+## 4. 시간제 취업 허가 (주 20시간 기준)
 
 대학교 재학 중인 유학생(D-2)은 일정 요건을 충족하면 시간제 취업 허가를 받아 주 20시간 이내로 아르바이트를 할 수 있습니다.
 
@@ -89,7 +89,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 5. 신청 서류 {#section-5}
+## 5. 신청 서류
 
 ### 공통 서류
 
@@ -119,7 +119,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 6. 신청 방법 및 절차 {#section-6}
+## 6. 신청 방법 및 절차
 
 ### 신청 방법
 
@@ -138,7 +138,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 7. 허가 없이 취업 시 처벌 {#section-7}
+## 7. 허가 없이 취업 시 처벌
 
 체류자격외활동허가 없이 취업 또는 사업 활동을 하면 출입국관리법 위반으로 처벌받습니다.
 
@@ -150,7 +150,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 8. 체류자격외활동 허가 주의사항 {#section-8}
+## 8. 체류자격외활동 허가 주의사항
 
 | 주의사항 | 내용 |
 |---|---|
@@ -161,7 +161,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 9. 특수 케이스 안내 {#section-9}
+## 9. 특수 케이스 안내
 
 ### 배우자·가족의 경우 (F-1, F-3)
 
@@ -177,7 +177,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 10. 자주 묻는 질문 (FAQ) {#section-10}
+## 10. 자주 묻는 질문 (FAQ)
 
 **Q. 어학연수 비자(D-4)로 아르바이트를 해도 되나요?**
 A. 안 됩니다. D-4 비자는 어학 연수만 허용되며, 아르바이트를 하려면 체류자격외활동허가를 받아야 합니다. 단, 일부 D-4-1(기관 연수)은 시간제 취업이 제한적으로 허용됩니다.
@@ -196,7 +196,7 @@ A. 자진 신고 시 상황에 따라 처벌이 달라질 수 있습니다. 단�
 
 ---
 
-## 11. 상담 안내 {#section-11}
+## 11. 상담 안내
 
 체류자격외활동허가는 비자 종류와 활동 내용에 따라 신청 가능 여부와 요건이 달라집니다. 불법 취업으로 처벌받으면 체류자격 취소와 입국금지로 이어질 수 있으므로, 활동 전 반드시 전문가 확인을 받으시기 바랍니다.
 

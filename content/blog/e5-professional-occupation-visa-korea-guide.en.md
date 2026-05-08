@@ -28,7 +28,7 @@ The E-5 (Professional Occupation) visa is issued to foreign professionals who ho
 
 ---
 
-## 1. What Is the E-5 Visa? {#section-1}
+## 1. What Is the E-5 Visa?
 
 E-5 is the "Professional Occupation" status under Korea's Immigration Act. It is issued to professionals who hold qualifications obtained under foreign law and wish to perform professional duties in Korea within the scope of those qualifications.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Eligible Professions {#section-2}
+## 2. Eligible Professions
 
 | Profession | Notes |
 |---|---|
@@ -55,7 +55,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -66,7 +66,7 @@ Key features:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -83,7 +83,7 @@ Key features:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Verify eligibility and scope of activities** — Review relevant professional laws and immigration regulations
 2. **Confirm employment institution or affiliation**
@@ -94,7 +94,7 @@ Key features:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -104,7 +104,7 @@ Key features:
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 The scope of E-5 activities depends on the profession and applicable laws.
 
@@ -116,7 +116,7 @@ The scope of E-5 activities depends on the profession and applicable laws.
 
 ---
 
-## 8. Transitioning from E-5 to Other Statuses {#section-8}
+## 8. Transitioning from E-5 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -127,7 +127,7 @@ The scope of E-5 activities depends on the profession and applicable laws.
 
 ---
 
-## 9. E-5 vs E-7 Comparison {#section-9}
+## 9. E-5 vs E-7 Comparison
 
 | | E-5 Professional Occupation | E-7 Designated Activities |
 |--|--|--|
@@ -138,7 +138,7 @@ The scope of E-5 activities depends on the profession and applicable laws.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. I'm a US-licensed attorney. Can I practice law in Korea on E-5?**
 A. Foreign attorneys can advise on foreign law in Korea under E-5. However, advising on Korean law or representing clients in Korean courts requires a Korean bar admission. Separate registration as a "Foreign Legal Consultant" under the Foreign Legal Consultants Act may also be required.
@@ -157,7 +157,7 @@ A. Yes — E-5 stay periods are included in F-2-7 point calculations. With 80+ p
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The E-5 Professional Occupation visa process requires careful preliminary work — reviewing applicable professional laws, confirming the scope of recognized credentials, and establishing an appropriate affiliated institution. Verifying exactly what your foreign credentials entitle you to do in Korea before applying is critical.
 

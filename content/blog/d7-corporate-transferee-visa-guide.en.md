@@ -30,7 +30,7 @@ Unlike the E-7, which applies to individuals hired directly by Korean companies,
 
 ---
 
-## 1. What Is the D-7 Visa? {#section-1}
+## 1. What Is the D-7 Visa?
 
 D-7 is the "Intra-Company Transfer" status under Korea's Immigration Act. It is issued to employees of foreign companies who are transferred or seconded to a Korean branch, subsidiary, joint venture, or affiliate to work there.
 
@@ -42,7 +42,7 @@ Key features:
 
 ---
 
-## 2. Eligibility Requirements {#section-2}
+## 2. Eligibility Requirements
 
 The following requirements must be met for a D-7 visa:
 
@@ -65,7 +65,7 @@ The following requirements must be met for a D-7 visa:
 
 ---
 
-## 3. Eligible Industries and Positions {#section-3}
+## 3. Eligible Industries and Positions
 
 D-7 applies across many industries, but the position and role of the transferee are central to the review.
 
@@ -80,7 +80,7 @@ D-7 applies across many industries, but the position and role of the transferee 
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Applicant Documents
 
@@ -105,7 +105,7 @@ D-7 applies across many industries, but the position and role of the transferee 
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Korean entity prepares invitation letter and supporting documents**
 2. **Apply for D-7 visa at Korean embassy/consulate** (if currently abroad)
@@ -116,7 +116,7 @@ D-7 applies across many industries, but the position and role of the transferee 
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -128,7 +128,7 @@ D-7 holders must depart or change to another status when the secondment ends.
 
 ---
 
-## 7. Spouse and Family Accompanying {#section-7}
+## 7. Spouse and Family Accompanying
 
 The spouse and minor children of D-7 holders may accompany them to Korea on F-3 (accompanying person) status.
 
@@ -143,7 +143,7 @@ Spouses who wish to work in Korea must obtain separate work authorization, as F-
 
 ---
 
-## 8. Transitioning from D-7 to E-7 or Long-Term Status {#section-8}
+## 8. Transitioning from D-7 to E-7 or Long-Term Status
 
 Options exist for those who wish to continue living and working in Korea after the secondment ends.
 
@@ -158,7 +158,7 @@ Transitioning from D-7 to E-7 requires a direct employment contract with the Kor
 
 ---
 
-## 9. D-7 vs E-7 Comparison {#section-9}
+## 9. D-7 vs E-7 Comparison
 
 | | D-7 Intra-Company Transfer | E-7 Specific Activities |
 |--|--|--|
@@ -173,7 +173,7 @@ D-7 is appropriate while the secondment relationship with the foreign headquarte
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. I worked at the foreign headquarters for only 6 months before transferring to Korea. Can I get D-7?**
 A. The standard requirement is 1 year. A 6-month history may be considered by examiners in exceptional circumstances, but denial is likely. If possible, complete 1 year at the headquarters, or explore alternative visa categories such as E-7.
@@ -192,7 +192,7 @@ A. No. D-7 permits work only at the specified Korean entity. Any other employmen
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 D-7 visa applications require careful preparation of documents proving the relationship between the foreign headquarters and the Korean entity, the structure of the secondment, and the nature of the work. Expert guidance is especially important for those planning to extend their Korea stay or transition to E-7 after their secondment ends.
 

@@ -28,7 +28,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 1. 外国人国民健康保险加入 {#section-1}
+## 1. 外国人国民健康保险加入
 
 在韩国合法居留满6个月以上的外国人须强制加入国民健康保险（NHIS）。
 
@@ -44,7 +44,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 2. 韩国医疗机构三级体系 {#section-2}
+## 2. 韩国医疗机构三级体系
 
 | 机构类型 | 规模 | 特点 |
 |---|---|---|
@@ -56,7 +56,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 3. 就诊流程 {#section-3}
+## 3. 就诊流程
 
 | 步骤 | 内容 |
 |---|---|
@@ -69,7 +69,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 4. 外国人常用的医院类型 {#section-4}
+## 4. 外国人常用的医院类型
 
 | 医院类型 | 特点 |
 |---|---|
@@ -82,7 +82,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 5. 急诊就医方法 {#section-5}
+## 5. 急诊就医方法
 
 | 情况 | 应对方式 |
 |---|---|
@@ -95,7 +95,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 6. 常用医疗术语（中/韩/英对照） {#section-6}
+## 6. 常用医疗术语（中/韩/英对照）
 
 | 中文 | 韩语 | 英语 |
 |---|---|---|
@@ -112,7 +112,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 7. 处方与药房使用 {#section-7}
+## 7. 处方与药房使用
 
 | 项目 | 内容 |
 |---|---|
@@ -124,7 +124,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 8. 医疗费自付及省钱技巧 {#section-8}
+## 8. 医疗费自付及省钱技巧
 
 | 技巧 | 内容 |
 |---|---|
@@ -136,7 +136,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 9. 长期处方与慢性病管理 {#section-9}
+## 9. 长期处方与慢性病管理
 
 | 项目 | 内容 |
 |---|---|
@@ -147,7 +147,7 @@ slug: "korea-healthcare-foreigners-practical-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 没有健康保险就医要花多少钱？**
 A. 未加入医保须自付全额费用。社区诊所就诊费用约5—15万韩元，急诊就诊可达20—50万韩元以上。
@@ -166,7 +166,7 @@ A. 可前往精神健康医学科诊所或联系国立精神健康中心（02-22
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 如有关于签证状态与健康保险加入资格的疑问，或需要居留资格相关生活定居支持，欢迎联系飞展行政士事务所。
 

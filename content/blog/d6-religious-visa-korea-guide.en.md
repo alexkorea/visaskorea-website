@@ -28,7 +28,7 @@ The D-6 (Religious) visa is issued to foreign nationals dispatched by a foreign 
 
 ---
 
-## 1. What Is the D-6 Visa? {#section-1}
+## 1. What Is the D-6 Visa?
 
 D-6 is the "Religious" status under Korea's Immigration Act. It is issued to foreign nationals who are dispatched by a foreign religious or social welfare organization to conduct religious or social welfare activities in Korea.
 
@@ -40,7 +40,7 @@ Key features:
 
 ---
 
-## 2. Permitted Activities and Fields {#section-2}
+## 2. Permitted Activities and Fields
 
 | Field | Key Activities |
 |---|---|
@@ -54,7 +54,7 @@ Key features:
 
 ---
 
-## 3. Eligibility Requirements {#section-3}
+## 3. Eligibility Requirements
 
 | Requirement | Details |
 |---|---|
@@ -65,7 +65,7 @@ Key features:
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Common Documents
 
@@ -82,7 +82,7 @@ Key features:
 
 ---
 
-## 5. Application Process {#section-5}
+## 5. Application Process
 
 1. **Confirm Korean religious institution/affiliation and finalize dispatch**
 2. **Apply for D-6 visa at Korean embassy/consulate** or **change status at immigration office**
@@ -92,7 +92,7 @@ Key features:
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -102,7 +102,7 @@ Key features:
 
 ---
 
-## 7. Permitted Activities and Restrictions {#section-7}
+## 7. Permitted Activities and Restrictions
 
 | Permitted Activities | Restrictions |
 |---|---|
@@ -112,7 +112,7 @@ Key features:
 
 ---
 
-## 8. Transitioning from D-6 to Other Statuses {#section-8}
+## 8. Transitioning from D-6 to Other Statuses
 
 | Situation | Transition Path |
 |---|---|
@@ -122,7 +122,7 @@ Key features:
 
 ---
 
-## 9. Key Notes for D-6 Holders {#section-9}
+## 9. Key Notes for D-6 Holders
 
 | Item | Note |
 |---|---|
@@ -133,7 +133,7 @@ Key features:
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can missionaries get a D-6 visa?**
 A. Yes. Foreign nationals dispatched by an overseas religious organization or missionary society to conduct missionary work in Korea can apply for D-6. A dispatch confirmation letter and confirmation from the affiliated Korean denomination or missionary society are required.
@@ -152,7 +152,7 @@ A. Yes. D-6 stay periods are included in F-2-7 point calculations. Meeting 80+ p
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The D-6 Religious visa requires careful preliminary verification — confirming the affiliated religious organization, the appropriateness of the dispatch structure, and the scope of permitted activities. Verifying the proper dispatch form and Korean affiliation before applying is essential.
 

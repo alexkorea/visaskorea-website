@@ -28,7 +28,7 @@ If you've been working in Korea and contributing to the National Pension Service
 
 ---
 
-## 1. What Is the Lump-Sum Refund? {#section-1}
+## 1. What Is the Lump-Sum Refund?
 
 The national pension lump-sum refund is a one-time payment of all your accumulated pension contributions (plus interest) to foreign nationals who do not qualify for regular pension payments — that is, those who contributed for fewer than 10 years or are under age 60 — when they permanently leave Korea.
 
@@ -42,7 +42,7 @@ The national pension lump-sum refund is a one-time payment of all your accumulat
 
 ---
 
-## 2. Eligibility and Conditions {#section-2}
+## 2. Eligibility and Conditions
 
 ### Who Qualifies
 
@@ -63,7 +63,7 @@ The national pension lump-sum refund is a one-time payment of all your accumulat
 
 ---
 
-## 3. How the Refund Amount Is Calculated {#section-3}
+## 3. How the Refund Amount Is Calculated
 
 The refund equals total contributions paid plus interest calculated at the statutory rate.
 
@@ -91,7 +91,7 @@ The interest rate is announced by the NPS each year and is based on 1-year fixed
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 | Document | Notes |
 |---|---|
@@ -104,7 +104,7 @@ The interest rate is announced by the NPS each year and is based on 1-year fixed
 
 ---
 
-## 5. How to Apply {#section-5}
+## 5. How to Apply
 
 ### Three Ways to Apply
 
@@ -128,7 +128,7 @@ If you've already left Korea, you can request the refund be sent directly to you
 
 ---
 
-## 6. When to Apply: Before vs. After Departure {#section-6}
+## 6. When to Apply: Before vs. After Departure
 
 | Timing | Possible | Notes |
 |---|---|---|
@@ -142,7 +142,7 @@ If you apply before leaving, payment is still processed after your departure is 
 
 ---
 
-## 7. Social Security Agreement Countries {#section-7}
+## 7. Social Security Agreement Countries
 
 Korea has bilateral social security agreements with numerous countries. These agreements may affect your eligibility for the lump-sum refund.
 
@@ -166,7 +166,7 @@ Korea has bilateral social security agreements with numerous countries. These ag
 
 ---
 
-## 8. Lump-Sum Refund vs. Pension Payments {#section-8}
+## 8. Lump-Sum Refund vs. Pension Payments
 
 If you've contributed for 10 or more years, you may have a choice between a lump-sum refund and monthly pension payments.
 
@@ -180,7 +180,7 @@ If you've contributed for 10 or more years, you may have a choice between a lump
 
 ---
 
-## 9. Tax Deductions {#section-9}
+## 9. Tax Deductions
 
 A portion of the lump-sum refund is subject to withholding tax.
 
@@ -194,7 +194,7 @@ A portion of the lump-sum refund is subject to withholding tax.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. I already left Korea. Can I still apply for the lump-sum refund?**
 A. Yes. You can apply online at www.nps.or.kr or by mail from anywhere in the world. International bank transfers are also available.
@@ -213,7 +213,7 @@ A. Yes. Bereaved family members of a deceased foreign enrollee can claim a survi
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 The national pension lump-sum refund is an important right for foreign workers leaving Korea. Social security agreement applicability, overseas transfer procedures, and tax implications can be complex — professional assistance makes the process much smoother.
 

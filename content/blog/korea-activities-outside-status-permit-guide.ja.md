@@ -28,7 +28,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 1. 在留資格外活動許可とは？ {#section-1}
+## 1. 在留資格外活動許可とは？
 
 在留資格外活動許可とは、外国人が現在の在留資格（ビザ）の範囲を超えた活動を合法的に行うために、法務部出入国管理事務所から取得する必要がある許可です。
 
@@ -43,7 +43,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 2. 許可が必要な場合・不要な場合 {#section-2}
+## 2. 許可が必要な場合・不要な場合
 
 | 許可が必要 | 許可が不要 |
 |---|---|
@@ -54,7 +54,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 3. 許可申請が必要なビザの種類 {#section-3}
+## 3. 許可申請が必要なビザの種類
 
 以下のビザを持つ方がビザの範囲外で有償活動をしたい場合、許可が必要です：
 
@@ -69,7 +69,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 4. 留学生のアルバイト許可（週20時間） {#section-4}
+## 4. 留学生のアルバイト許可（週20時間）
 
 大学在学中のD-2ビザ保持者が一定の要件を満たすと、週20時間以内のアルバイトが可能なアルバイト許可を取得できます。
 
@@ -89,7 +89,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 5. 必要書類 {#section-5}
+## 5. 必要書類
 
 ### 共通書類
 
@@ -119,7 +119,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 6. 申請方法と手続き {#section-6}
+## 6. 申請方法と手続き
 
 ### 申請方法
 
@@ -138,7 +138,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 7. 許可なく就労した場合の罰則 {#section-7}
+## 7. 許可なく就労した場合の罰則
 
 許可なく就労または事業活動を行うと、出入国管理法違反として厳しく処罰されます。
 
@@ -150,7 +150,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 8. 注意事項 {#section-8}
+## 8. 注意事項
 
 | 注意事項 | 内容 |
 |---|---|
@@ -161,7 +161,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 9. 特殊なケース {#section-9}
+## 9. 特殊なケース
 
 ### 配偶者・家族（F-1、F-3）
 
@@ -177,7 +177,7 @@ slug: "korea-activities-outside-status-permit-guide"
 
 ---
 
-## 10. よくある質問（FAQ） {#section-10}
+## 10. よくある質問（FAQ）
 
 **Q. 語学研修ビザ（D-4）でアルバイトをしてもよいですか？**
 A. いいえ。D-4ビザは語学研修のみ許可されており、アルバイトをするには在留資格外活動許可が必要です。一部のD-4-1（機関研修）ビザ保持者には限定的なアルバイトが認められる場合があります。
@@ -196,7 +196,7 @@ A. 自首の結果は状況によって異なります。行政処分にとど�
 
 ---
 
-## 11. 相談案内 {#section-11}
+## 11. 相談案内
 
 在留資格外活動許可の申請可否は、ビザの種類と活動内容によって異なります。無許可就労は在留資格の取消や強制退去につながる恐れがあるため、活動前に必ず専門家にご確認ください。
 

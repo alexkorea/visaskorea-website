@@ -28,7 +28,7 @@ For foreign nationals who have lived in Korea for an extended period, acquiring 
 
 ---
 
-## 1. What Is Naturalization? {#section-1}
+## 1. What Is Naturalization?
 
 Naturalization is the process by which a foreign national acquires Korean citizenship. Once naturalized, you become a full national of the Republic of Korea with rights including voting rights and eligibility for public office.
 
@@ -39,7 +39,7 @@ Under Korea's Nationality Act, naturalization is divided into three types:
 
 ---
 
-## 2. Types of Naturalization and Requirements {#section-2}
+## 2. Types of Naturalization and Requirements
 
 | Type | Key Conditions | Residency Requirement |
 |---|---|---|
@@ -51,7 +51,7 @@ Under Korea's Nationality Act, naturalization is divided into three types:
 
 ---
 
-## 3. General Naturalization in Detail {#section-3}
+## 3. General Naturalization in Detail
 
 General naturalization requires satisfying all of the following:
 
@@ -68,7 +68,7 @@ General naturalization requires satisfying all of the following:
 
 ---
 
-## 4. Simplified Naturalization Eligibility {#section-4}
+## 4. Simplified Naturalization Eligibility
 
 Simplified naturalization has shorter residency requirements than general naturalization.
 
@@ -91,7 +91,7 @@ Simplified naturalization has shorter residency requirements than general natura
 
 ---
 
-## 5. Special Naturalization Eligibility {#section-5}
+## 5. Special Naturalization Eligibility
 
 Special naturalization may waive or reduce residency requirements for those who have made outstanding contributions to Korea.
 
@@ -103,7 +103,7 @@ Special naturalization may waive or reduce residency requirements for those who 
 
 ---
 
-## 6. Naturalization Application Process {#section-6}
+## 6. Naturalization Application Process
 
 1. **Check eligibility** — Confirm which naturalization type applies and that all requirements are met
 2. **Prepare documents** — Gather all required documents for the applicable type
@@ -116,7 +116,7 @@ Special naturalization may waive or reduce residency requirements for those who 
 
 ---
 
-## 7. Required Documents {#section-7}
+## 7. Required Documents
 
 ### Common Documents
 
@@ -135,7 +135,7 @@ Special naturalization may waive or reduce residency requirements for those who 
 
 ---
 
-## 8. Review Criteria {#section-8}
+## 8. Review Criteria
 
 | Criterion | Details |
 |---|---|
@@ -148,7 +148,7 @@ Special naturalization may waive or reduce residency requirements for those who 
 
 ---
 
-## 9. Dual Citizenship After Naturalization {#section-9}
+## 9. Dual Citizenship After Naturalization
 
 Korea does not generally permit dual citizenship.
 
@@ -163,7 +163,7 @@ Korea does not generally permit dual citizenship.
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Do I have to give up my home country's citizenship after naturalization?**
 A. Under the standard rule, general naturalization applicants must renounce their foreign nationality within 1 year. However, marriage-based and certain special naturalization cases are permitted dual citizenship. The law allows exceptions in certain conditions — consulting a professional is recommended.
@@ -182,7 +182,7 @@ A. Yes. After identifying the reason for denial and addressing the relevant requ
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Naturalization involves complex legal requirements, lengthy document preparation, and an extended review period — professional guidance is strongly recommended. Questions about eligibility for simplified or special naturalization, and dual citizenship, require expert consultation.
 

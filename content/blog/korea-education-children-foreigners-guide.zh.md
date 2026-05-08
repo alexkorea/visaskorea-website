@@ -27,7 +27,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 1. 外国人子女的受教育权利 {#section-1}
+## 1. 外国人子女的受教育权利
 
 | 项目 | 内容 |
 |---|---|
@@ -41,7 +41,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 2. 公立学校入学手续 {#section-2}
+## 2. 公立学校入学手续
 
 | 步骤 | 内容 |
 |---|---|
@@ -60,7 +60,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 3. 韩语特别班及支援项目 {#section-3}
+## 3. 韩语特别班及支援项目
 
 | 项目 | 内容 |
 |---|---|
@@ -74,7 +74,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 4. 外国人学校vs国际学校对比 {#section-4}
+## 4. 外国人学校vs国际学校对比
 
 | 项目 | 外国人学校 | 国际学校 |
 |---|---|---|
@@ -87,7 +87,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 5. 主要外国人·国际学校一览 {#section-5}
+## 5. 主要外国人·国际学校一览
 
 | 学校 | 类型 | 位置 | 课程特色 |
 |---|---|---|---|
@@ -105,7 +105,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 6. 学费对比 {#section-6}
+## 6. 学费对比
 
 | 学校类型 | 年费用 | 备注 |
 |---|---|---|
@@ -118,7 +118,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 7. 大学升学信息 {#section-7}
+## 7. 大学升学信息
 
 | 项目 | 内容 |
 |---|---|
@@ -130,7 +130,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 8. 课外活动与补习班 {#section-8}
+## 8. 课外活动与补习班
 
 | 项目 | 内容 |
 |---|---|
@@ -142,7 +142,7 @@ slug: "korea-education-children-foreigners-guide"
 
 ---
 
-## 9. 常见问题解答 {#section-9}
+## 9. 常见问题解答
 
 **Q. 外国人子女可以就读韩国公立学校吗？**
 A. 可以。持外国人登记证的外国人子女依法享有就读公立小学、初中和高中的权利。小学和初中属义务教育，免收学费。
@@ -161,7 +161,7 @@ A. 凭境外高中毕业证、成绩单及TOPIK或英语成绩，可通过外国
 
 ---
 
-## 10. 咨询指南 {#section-10}
+## 10. 咨询指南
 
 如有签证、家庭居留资格或在韩生活定居相关问题，欢迎联系飞展行政士事务所。
 

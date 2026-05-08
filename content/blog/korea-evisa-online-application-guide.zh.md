@@ -28,7 +28,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 1. 什么是电子签证（e-Visa）？ {#section-1}
+## 1. 什么是电子签证（e-Visa）？
 
 韩国电子签证（e-Visa）是由法务部出入境·外国人政策本部运营的在线签证申请及签发系统，申请人无需亲赴大使馆或领事馆，即可在线申请并获取韩国签证。
 
@@ -42,7 +42,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 2. 可申请电子签证的签证类别 {#section-2}
+## 2. 可申请电子签证的签证类别
 
 并非所有韩国签证均可通过电子签证方式申请。主要可申请的签证类别如下：
 
@@ -64,7 +64,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 3. 可申请电子签证的国家 {#section-3}
+## 3. 可申请电子签证的国家
 
 电子签证系统对全球大多数国家开放（超过150个国家）。但部分国籍受限，必须通过大使馆申请。
 
@@ -78,7 +78,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 4. 电子签证申请步骤详解 {#section-4}
+## 4. 电子签证申请步骤详解
 
 ### 第1步：进入电子签证门户
 
@@ -114,7 +114,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 5. 所需材料 {#section-5}
+## 5. 所需材料
 
 ### 共同所需材料
 
@@ -137,7 +137,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 6. 签证审核时间 {#section-6}
+## 6. 签证审核时间
 
 | 签证类型 | 通常审核时间 |
 |---|---|
@@ -150,7 +150,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 7. 电子签证的获取方式 {#section-7}
+## 7. 电子签证的获取方式
 
 电子签证以**PDF电子文件**形式签发，而非护照上的贴纸签证。
 
@@ -163,7 +163,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 8. 签证被拒后的应对措施 {#section-8}
+## 8. 签证被拒后的应对措施
 
 | 应对措施 | 内容 |
 |---|---|
@@ -176,7 +176,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 9. 电子签证 vs. 使馆直接申请对比 {#section-9}
+## 9. 电子签证 vs. 使馆直接申请对比
 
 | 项目 | 电子签证 | 使馆直接申请 |
 |---|---|---|
@@ -189,7 +189,7 @@ slug: "korea-evisa-online-application-guide"
 
 ---
 
-## 10. 常见问题解答 {#section-10}
+## 10. 常见问题解答
 
 **Q. 电子签证与普通贴纸签证具有同等法律效力吗？**
 A. 是的。电子签证与普通签证贴纸具有相同的法律效力。入境审查时出示打印件或电子设备显示均可。
@@ -208,7 +208,7 @@ A. 不能。电子签证与护照号码绑定，换发新护照后须重新申�
 
 ---
 
-## 11. 咨询指南 {#section-11}
+## 11. 咨询指南
 
 电子签证虽然便捷，但因材料不足或填写错误导致被拒，可能对日后的签证申请产生不利影响。对于就业、结婚、留学等重要签证，专业人士的协助可大幅降低被拒风险。
 

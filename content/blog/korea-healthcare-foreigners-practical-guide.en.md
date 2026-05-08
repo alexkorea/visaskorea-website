@@ -28,7 +28,7 @@ Korea has one of the world's best healthcare systems, and foreigners enrolled in
 
 ---
 
-## 1. National Health Insurance for Foreigners {#section-1}
+## 1. National Health Insurance for Foreigners
 
 Foreign nationals who have been legally residing in Korea for 6 months or more must enroll in the National Health Insurance (NHIS).
 
@@ -44,7 +44,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 2. Korea's Three-Tier Medical System {#section-2}
+## 2. Korea's Three-Tier Medical System
 
 | Tier | Facility type | Characteristics |
 |---|---|---|
@@ -56,7 +56,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 3. How to Visit a Doctor {#section-3}
+## 3. How to Visit a Doctor
 
 | Step | Action |
 |---|---|
@@ -69,7 +69,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 4. Hospital Types Commonly Used by Foreigners {#section-4}
+## 4. Hospital Types Commonly Used by Foreigners
 
 | Hospital type | Features |
 |---|---|
@@ -82,7 +82,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 5. Emergency Medical Care {#section-5}
+## 5. Emergency Medical Care
 
 | Situation | What to do |
 |---|---|
@@ -95,7 +95,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 6. Common Medical Terms (Korean / English) {#section-6}
+## 6. Common Medical Terms (Korean / English)
 
 | Korean | English |
 |---|---|
@@ -112,7 +112,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 7. Prescriptions and Pharmacies {#section-7}
+## 7. Prescriptions and Pharmacies
 
 | Item | Details |
 |---|---|
@@ -124,7 +124,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 8. Out-of-Pocket Costs and Money-Saving Tips {#section-8}
+## 8. Out-of-Pocket Costs and Money-Saving Tips
 
 | Tip | Details |
 |---|---|
@@ -136,7 +136,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 9. Long-Term Prescriptions and Chronic Condition Management {#section-9}
+## 9. Long-Term Prescriptions and Chronic Condition Management
 
 | Item | Details |
 |---|---|
@@ -147,7 +147,7 @@ Foreign nationals who have been legally residing in Korea for 6 months or more m
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. How much does a hospital visit cost without health insurance?**
 A. Without insurance, you pay the full cost. A visit to a local clinic typically costs KRW 50,000–150,000; an emergency room visit can run KRW 200,000–500,000 or more.
@@ -166,7 +166,7 @@ A. You can visit a psychiatry clinic (정신건강의학과) or contact the Nati
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 If you have questions about health insurance eligibility based on your visa status or residency, Vision Administrative Office provides expert support for all residency-related procedures and daily life settlement for foreigners.
 

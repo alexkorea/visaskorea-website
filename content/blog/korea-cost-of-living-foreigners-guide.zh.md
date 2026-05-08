@@ -29,7 +29,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 1. 月均生活费汇总（单人） {#section-1}
+## 1. 月均生活费汇总（单人）
 
 | 项目 | 节省型 | 普通型 | 舒适型 |
 |---|---|---|---|
@@ -46,7 +46,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 2. 住房费用 {#section-2}
+## 2. 住房费用
 
 住房是生活费中占比最大的部分。韩国主要租房方式分为全租（전세）、月租（월세）和押金+月租（보증부월세）。
 
@@ -61,7 +61,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 3. 餐饮费用 {#section-3}
+## 3. 餐饮费用
 
 | 项目 | 平均费用 |
 |---|---|
@@ -77,7 +77,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 4. 交通费用 {#section-4}
+## 4. 交通费用
 
 | 交通方式 | 费用 |
 |---|---|
@@ -93,7 +93,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 5. 通信费用 {#section-5}
+## 5. 通信费用
 
 | 套餐 | 月费 | 数据量 |
 |---|---|---|
@@ -107,7 +107,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 6. 公共费用·管理费 {#section-6}
+## 6. 公共费用·管理费
 
 | 项目 | 单人月均 |
 |---|---|
@@ -122,7 +122,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 7. 医疗费用 {#section-7}
+## 7. 医疗费用
 
 | 项目 | 有健康保险 | 无健康保险 |
 |---|---|---|
@@ -137,7 +137,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 8. 休闲娱乐费用 {#section-8}
+## 8. 休闲娱乐费用
 
 | 项目 | 费用 |
 |---|---|
@@ -152,7 +152,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 9. 各城市生活费对比 {#section-9}
+## 9. 各城市生活费对比
 
 | 城市 | 费用水平 | 特点 |
 |---|---|---|
@@ -165,7 +165,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 10. 节省开支小贴士 {#section-10}
+## 10. 节省开支小贴士
 
 | 技巧 | 内容 |
 |---|---|
@@ -179,7 +179,7 @@ slug: "korea-cost-of-living-foreigners-guide"
 
 ---
 
-## 11. 常见问题解答 {#section-11}
+## 11. 常见问题解答
 
 **Q. 在首尔一个人生活每月需要多少钱？**
 A. 节约生活约需100—130万韩元，普通生活约需150—200万韩元，舒适生活需250万韩元以上。住房费是最大变量。
@@ -198,7 +198,7 @@ A. 可以。韩亚银行全球汇款、新韩银行海外汇款、Wise、西联�
 
 ---
 
-## 12. 咨询指南 {#section-12}
+## 12. 咨询指南
 
 如需签证资格、居留身份或生活定居方面的专业咨询，欢迎联系飞展行政士事务所。
 

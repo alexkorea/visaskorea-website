@@ -30,7 +30,7 @@ D-10 does **not** allow you to work — it is a **job-searching** status. You ca
 
 ---
 
-## 1. What Is D-10? — The Job Seeker Status {#section-1}
+## 1. What Is D-10? — The Job Seeker Status
 
 D-10 is the "Job Seeker" status under Korea's Immigration Act. It maintains your legal residency in Korea while you search for employment — keeping you from falling into overstay while the job hunt is in progress.
 
@@ -41,7 +41,7 @@ Key characteristics:
 
 ---
 
-## 2. Eligibility — Who Can Apply {#section-2}
+## 2. Eligibility — Who Can Apply
 
 D-10 is not open to all foreign nationals. You must meet at least one of the following eligibility conditions:
 
@@ -59,7 +59,7 @@ You must be in valid legal status at the time of application. Those who have alr
 
 ---
 
-## 3. Financial Requirements {#section-3}
+## 3. Financial Requirements
 
 Since D-10 prohibits employment, you must show you can financially support yourself during the job search period.
 
@@ -73,7 +73,7 @@ Severance pay or savings from a previous Korean job are commonly used to meet th
 
 ---
 
-## 4. Required Documents {#section-4}
+## 4. Required Documents
 
 ### Core Documents
 
@@ -96,7 +96,7 @@ Severance pay or savings from a previous Korean job are commonly used to meet th
 
 ---
 
-## 5. Application Procedure {#section-5}
+## 5. Application Procedure
 
 D-10 is primarily obtained through an in-Korea status change:
 
@@ -110,7 +110,7 @@ Apply before your current visa expires — status changes after expiry are gener
 
 ---
 
-## 6. Stay Period and Extension {#section-6}
+## 6. Stay Period and Extension
 
 | Item | Details |
 |---|---|
@@ -122,7 +122,7 @@ If 2 years pass without securing employment, D-10 extension is no longer availab
 
 ---
 
-## 7. What You Can and Cannot Do on D-10 {#section-7}
+## 7. What You Can and Cannot Do on D-10
 
 | Permitted Activities | Prohibited Activities |
 |---|---|
@@ -136,7 +136,7 @@ Using D-10 time productively to study for TOPIK will strengthen a future F-2-7 a
 
 ---
 
-## 8. After Landing a Job — D-10 to E-7 Transition {#section-8}
+## 8. After Landing a Job — D-10 to E-7 Transition
 
 When you receive a qualifying job offer, you must transition to the appropriate work visa before starting.
 
@@ -153,7 +153,7 @@ See the [E-7 Specialty Employment Visa Guide](/en/blog/e7-specific-activities-vi
 
 ---
 
-## 9. Can You Apply for F-2-7 Directly from D-10? {#section-9}
+## 9. Can You Apply for F-2-7 Directly from D-10?
 
 Theoretically yes — if you score 80+ on the F-2-7 table while on D-10 status, you can apply for F-2-7.
 
@@ -166,7 +166,7 @@ See the [F-2-7 Points-Based Long-Term Residency Guide](/en/blog/f2-7-points-base
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I convert to D-10 before my E-7 visa expires?**
 A. Yes, and this is the recommended approach. Convert to D-10 while your current visa is still valid. Attempting conversion after expiry is generally not accepted.
@@ -185,7 +185,7 @@ A. Yes. D-10 is a legal status, so time spent on D-10 counts toward the 5-year l
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 D-10 eligibility assessment is nuanced — the qualifying criteria differ by category, and the required documents vary significantly between a Korean university graduate, an overseas high-level degree holder, and an E-visa expiry case.
 

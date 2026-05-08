@@ -28,7 +28,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 1. 外国人健康保険加入の義務化 {#section-1}
+## 1. 外国人健康保険加入の義務化
 
 2019年7月より、韓国に6ヶ月以上滞在する外国人は国民健康保険への**義務加入**が必要となりました。
 
@@ -39,7 +39,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 2. 加入対象者と除外対象者 {#section-2}
+## 2. 加入対象者と除外対象者
 
 ### 義務加入対象
 
@@ -61,7 +61,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 3. 職場加入者と地域加入者 {#section-3}
+## 3. 職場加入者と地域加入者
 
 | | 職場加入者 | 地域加入者 |
 |---|---|---|
@@ -72,7 +72,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 4. 保険料の計算方法 {#section-4}
+## 4. 保険料の計算方法
 
 ### 職場加入者の保険料
 
@@ -92,7 +92,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 5. 加入申請の方法 {#section-5}
+## 5. 加入申請の方法
 
 ### 職場加入者
 
@@ -109,7 +109,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 6. 健康保険の適用範囲 {#section-6}
+## 6. 健康保険の適用範囲
 
 健康保険に加入すると、以下の医療費の一部が保険から支給されます。
 
@@ -125,7 +125,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 7. 未加入の場合の不利益 {#section-7}
+## 7. 未加入の場合の不利益
 
 | 項目 | 内容 |
 |---|---|
@@ -135,7 +135,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 8. 外国人向けの特例措置 {#section-8}
+## 8. 外国人向けの特例措置
 
 | 特例内容 | 対象者 |
 |---|---|
@@ -146,7 +146,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 9. 健康保険とビザの関係 {#section-9}
+## 9. 健康保険とビザの関係
 
 健康保険の加入状況や保険料の納付状況は、ビザ更新や在留資格変更の審査に影響することがあります。
 
@@ -158,7 +158,7 @@ slug: "korea-health-insurance-foreigners-guide"
 
 ---
 
-## 10. よくある質問（FAQ） {#section-10}
+## 10. よくある質問（FAQ）
 
 **Q. 短期就労ビザ（C-4）や観光ビザで入国した場合も健康保険に加入する必要がありますか？**
 A. いいえ。6ヶ月未満の滞在予定の短期滞在者は義務加入の対象外です。ただし、長期就労ビザ（E-7、E-9等）に変更した場合は直ちに加入が必要です。
@@ -177,7 +177,7 @@ A. 未加入の場合、医療費の全額を自己負担します。保険加�
 
 ---
 
-## 11. 相談案内 {#section-11}
+## 11. 相談案内
 
 健康保険への加入は、韓国で安全に生活するための基本条件です。外国人にとって加入方法や保険料の計算は複雑になりがちなため、在留資格の専門家のサポートを受けることが効率的です。
 

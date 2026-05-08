@@ -28,7 +28,7 @@ The Korea Immigration & Integration Program (KIIP) is a government-operated educ
 
 ---
 
-## 1. What Is KIIP? {#section-1}
+## 1. What Is KIIP?
 
 The Korea Immigration & Integration Program (KIIP) is a Ministry of Justice initiative designed to help immigrants adapt to and thrive in Korean society.
 
@@ -49,7 +49,7 @@ The Korea Immigration & Integration Program (KIIP) is a Ministry of Justice init
 
 ---
 
-## 2. Eligibility {#section-2}
+## 2. Eligibility
 
 | Applicant | Requirement |
 |---|---|
@@ -63,7 +63,7 @@ The Korea Immigration & Integration Program (KIIP) is a Ministry of Justice init
 
 ---
 
-## 3. Program Stages and Curriculum {#section-3}
+## 3. Program Stages and Curriculum
 
 | Stage | Level | Hours | Content |
 |---|---|---|---|
@@ -78,7 +78,7 @@ The Korea Immigration & Integration Program (KIIP) is a Ministry of Justice init
 
 ---
 
-## 4. Placement Test and Stage Assignment {#section-4}
+## 4. Placement Test and Stage Assignment
 
 All applicants take an online placement test at socinet.go.kr to determine their entry stage.
 
@@ -100,7 +100,7 @@ All applicants take an online placement test at socinet.go.kr to determine their
 
 ---
 
-## 5. How to Apply {#section-5}
+## 5. How to Apply
 
 ### STEP 1: Register at socinet.go.kr
 
@@ -128,7 +128,7 @@ Upon completing all required stages, download your certificate of completion fro
 
 ---
 
-## 6. Education Providers and Class Formats {#section-6}
+## 6. Education Providers and Class Formats
 
 | Provider Type | Examples |
 |---|---|
@@ -147,7 +147,7 @@ Upon completing all required stages, download your certificate of completion fro
 
 ---
 
-## 7. Benefits: Permanent Residency and Naturalization {#section-7}
+## 7. Benefits: Permanent Residency and Naturalization
 
 KIIP completion is one of the most effective ways to strengthen an F-5 or naturalization application.
 
@@ -174,7 +174,7 @@ KIIP completion is one of the most effective ways to strengthen an F-5 or natura
 
 ---
 
-## 8. Certificate of Completion and Validity {#section-8}
+## 8. Certificate of Completion and Validity
 
 | Item | Details |
 |---|---|
@@ -185,7 +185,7 @@ KIIP completion is one of the most effective ways to strengthen an F-5 or natura
 
 ---
 
-## 9. Cost and Support {#section-9}
+## 9. Cost and Support
 
 | Item | Details |
 |---|---|
@@ -196,7 +196,7 @@ KIIP completion is one of the most effective ways to strengthen an F-5 or natura
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Is KIIP mandatory for foreigners in Korea?**
 A. No, participation is voluntary. However, if you plan to apply for F-5 permanent residency or naturalization, completing KIIP offers exam waivers and significantly strengthens your application.
@@ -215,7 +215,7 @@ A. Completed stages remain valid. Your progress is tied to your alien registrati
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 KIIP is closely linked to permanent residency and naturalization pathways. Planning your KIIP strategy alongside your long-term residency goals can save time and maximize your visa application benefits.
 

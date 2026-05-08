@@ -28,7 +28,7 @@ The F-5 permanent residence status allows foreigners to reside in Korea indefini
 
 ---
 
-## 1. What Is F-5 Permanent Residence? {#section-1}
+## 1. What Is F-5 Permanent Residence?
 
 F-5 permanent residence status is granted to foreigners who receive permanent residence permission in Korea and provides the following benefits.
 
@@ -44,7 +44,7 @@ F-5 permanent residence status is granted to foreigners who receive permanent re
 
 ---
 
-## 2. F-5 Eligibility Types {#section-2}
+## 2. F-5 Eligibility Types
 
 Under the Enforcement Decree of the Immigration Act, there are several pathways to F-5 status.
 
@@ -59,7 +59,7 @@ Under the Enforcement Decree of the Immigration Act, there are several pathways 
 
 ---
 
-## 3. General Permanent Residence (5-Year Residence Basis) {#section-3}
+## 3. General Permanent Residence (5-Year Residence Basis)
 
 Requirements under Appendix 1-3 of the Immigration Act Enforcement Decree.
 
@@ -75,7 +75,7 @@ Requirements under Appendix 1-3 of the Immigration Act Enforcement Decree.
 
 ---
 
-## 4. F-2-7 Points-Based Permanent Residence {#section-4}
+## 4. F-2-7 Points-Based Permanent Residence
 
 Holders of F-2-7 (points-based residence visa) may apply for F-5 after 3 additional years of residence.
 
@@ -90,7 +90,7 @@ Holders of F-2-7 (points-based residence visa) may apply for F-5 after 3 additio
 
 ---
 
-## 5. Marriage Migrant Permanent Residence {#section-5}
+## 5. Marriage Migrant Permanent Residence
 
 For foreigners currently in a valid marriage with a Korean national.
 
@@ -105,7 +105,7 @@ For foreigners currently in a valid marriage with a Korean national.
 
 ---
 
-## 6. Overseas Korean (F-4) Permanent Residence {#section-6}
+## 6. Overseas Korean (F-4) Permanent Residence
 
 F-4 visa holders can qualify for permanent residence with relatively relaxed requirements.
 
@@ -118,7 +118,7 @@ F-4 visa holders can qualify for permanent residence with relatively relaxed req
 
 ---
 
-## 7. Other Special Permanent Residence Routes {#section-7}
+## 7. Other Special Permanent Residence Routes
 
 | Applicant | Summary of Requirements |
 |---|---|
@@ -129,7 +129,7 @@ F-4 visa holders can qualify for permanent residence with relatively relaxed req
 
 ---
 
-## 8. Required Documents {#section-8}
+## 8. Required Documents
 
 | Document | Notes |
 |---|---|
@@ -147,7 +147,7 @@ F-4 visa holders can qualify for permanent residence with relatively relaxed req
 
 ---
 
-## 9. Application Procedure {#section-9}
+## 9. Application Procedure
 
 | Step | Content | Estimated Time |
 |---|---|---|
@@ -160,7 +160,7 @@ F-4 visa holders can qualify for permanent residence with relatively relaxed req
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Do I need to renew my visa after obtaining F-5 status?**
 A. No visa renewal is needed. However, you must renew your alien registration card every 3 years. The F-5 status itself is indefinite.
@@ -179,7 +179,7 @@ A. Self-sufficiency is a review criterion. Active employment with health insuran
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 F-5 permanent residence requirements vary depending on your visa type and personal circumstances. Applications are frequently rejected due to missing documents or miscalculated residence periods — professional review is strongly recommended.
 

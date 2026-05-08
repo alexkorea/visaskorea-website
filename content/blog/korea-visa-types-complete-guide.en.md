@@ -30,7 +30,7 @@ This guide organizes the most commonly used visa types by purpose, summarizes th
 
 ---
 
-## 1. Work Visas — For Employment in Korea {#section-1}
+## 1. Work Visas — For Employment in Korea
 
 Foreign nationals who wish to work in Korea need a work visa matched to their specific job type and qualifications.
 
@@ -48,7 +48,7 @@ Foreign nationals who wish to work in Korea need a work visa matched to their sp
 
 ---
 
-## 2. Investment and Business Visas — For Running a Business {#section-2}
+## 2. Investment and Business Visas — For Running a Business
 
 Entrepreneurs establishing a company in Korea or corporate employees transferred from overseas use these visa categories.
 
@@ -65,7 +65,7 @@ Entrepreneurs establishing a company in Korea or corporate employees transferred
 
 ---
 
-## 3. Study and Training Visas — For Academic Purposes {#section-3}
+## 3. Study and Training Visas — For Academic Purposes
 
 Foreigners pursuing degree programs or non-degree training in Korea require a study or training visa.
 
@@ -83,7 +83,7 @@ Foreigners pursuing degree programs or non-degree training in Korea require a st
 
 ---
 
-## 4. Overseas Korean and Family Visas — For Ethnic Koreans and Families {#section-4}
+## 4. Overseas Korean and Family Visas — For Ethnic Koreans and Families
 
 These visas are designed for ethnic Koreans holding foreign citizenship and for family members of Korean residents.
 
@@ -102,7 +102,7 @@ These visas are designed for ethnic Koreans holding foreign citizenship and for 
 
 ---
 
-## 5. Long-Term Residency Visas — For Extended Stay {#section-5}
+## 5. Long-Term Residency Visas — For Extended Stay
 
 For foreigners who wish to live in Korea long-term without being tied to a specific employer or job category.
 
@@ -120,7 +120,7 @@ F-2-7 is a critical intermediate step between work visas (such as E-7) and perma
 
 ---
 
-## 6. Short-Term Visit Visas — For Brief Stays {#section-6}
+## 6. Short-Term Visit Visas — For Brief Stays
 
 For tourism, short-term business visits, or visiting family in Korea.
 
@@ -136,7 +136,7 @@ Citizens of countries with visa-free agreements with Korea (USA, Japan, EU membe
 
 ---
 
-## 7. Permanent Residency (F-5) — Living in Korea Permanently {#section-7}
+## 7. Permanent Residency (F-5) — Living in Korea Permanently
 
 F-5 (Permanent Residency) status allows indefinite residence in Korea with full freedom to work and run a business.
 
@@ -155,7 +155,7 @@ F-5 (Permanent Residency) status allows indefinite residence in Korea with full 
 
 ---
 
-## 8. Visa Selection Guide — Which Visa Is Right for You? {#section-8}
+## 8. Visa Selection Guide — Which Visa Is Right for You?
 
 ### Recommended Visas by Situation
 
@@ -174,7 +174,7 @@ F-5 (Permanent Residency) status allows indefinite residence in Korea with full 
 
 ---
 
-## 9. Major Visa Transition Pathways {#section-9}
+## 9. Major Visa Transition Pathways
 
 Common step-by-step pathways that foreigners follow toward long-term or permanent residency in Korea.
 
@@ -192,7 +192,7 @@ Common step-by-step pathways that foreigners follow toward long-term or permanen
 
 ---
 
-## 10. Frequently Asked Questions {#section-10}
+## 10. Frequently Asked Questions
 
 **Q. Can I change from a tourist visa (B-2) to a work visa after entering Korea?**
 A. Yes, it is possible to apply for a status change from B-2 (tourist) to E-7, D-8, or other visa categories while inside Korea. However, engaging in employment activities immediately after entering on a tourist visa is a status violation.
@@ -211,7 +211,7 @@ A. Yes, a multiple-entry (M) visa allows multiple entries and exits within its v
 
 ---
 
-## 11. Consultation {#section-11}
+## 11. Consultation
 
 Choosing the wrong visa can lead to visa cancellation, forced deportation, or re-entry restrictions. If you're unsure which visa fits your situation — or planning a transition from your current status — consulting with a licensed immigration specialist is strongly recommended.
 

@@ -27,7 +27,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 1. カカオトーク（KakaoTalk）の設定 {#section-1}
+## 1. カカオトーク（KakaoTalk）の設定
 
 カカオトークは韓国で最も広く使われるメッセンジャーアプリです。海外の電話番号でも登録できます。
 
@@ -51,7 +51,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 2. カカオペイ（KakaoPay）の設定 {#section-2}
+## 2. カカオペイ（KakaoPay）の設定
 
 カカオペイはQRコード・バーコード決済が可能なモバイル決済サービスです。外国人も韓国の銀行口座と連携すれば利用できます。
 
@@ -75,7 +75,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 3. カカオマップ（KakaoMap）の活用 {#section-3}
+## 3. カカオマップ（KakaoMap）の活用
 
 カカオマップは韓国国内の位置検索・ルート案内に特化した地図サービスです。
 
@@ -93,7 +93,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 4. カカオT（KakaoT）タクシー呼び出し {#section-4}
+## 4. カカオT（KakaoT）タクシー呼び出し
 
 カカオTは韓国で最も多く使われているタクシー配車アプリです。
 
@@ -116,7 +116,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 5. カカオバンク（KakaoBank）口座開設 {#section-5}
+## 5. カカオバンク（KakaoBank）口座開設
 
 カカオバンクはモバイル専用のインターネット銀行です。一部の外国人も利用できます。
 
@@ -133,7 +133,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 6. カカオショッピング・ギフトサービス {#section-6}
+## 6. カカオショッピング・ギフトサービス
 
 | サービス | 内容 |
 |---|---|
@@ -145,7 +145,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 7. カカオを利用した本人確認 {#section-7}
+## 7. カカオを利用した本人確認
 
 | 確認方法 | 条件 | 活用場面 |
 |---|---|---|
@@ -156,7 +156,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 8. カカオアプリの言語設定 {#section-8}
+## 8. カカオアプリの言語設定
 
 | アプリ | 言語切替方法 |
 |---|---|
@@ -169,7 +169,7 @@ slug: "korea-kakao-apps-foreigners-guide"
 
 ---
 
-## 9. よくある質問（FAQ） {#section-9}
+## 9. よくある質問（FAQ）
 
 **Q. 海外の電話番号でカカオトークに登録できますか？**
 A. はい。カカオトークは海外番号でも登録可能です。ただし、カカオ認証書・カカオペイなど一部の金融サービスは韓国番号が必要です。
@@ -188,7 +188,7 @@ A. カカオ認証書（카카오인증서）を取得すれば、政府24（정
 
 ---
 
-## 10. 相談案内 {#section-10}
+## 10. 相談案内
 
 韓国での在留資格（ビザ）・生活定着に関するご相談は、ビジョン行政書士事務所にお気軽にどうぞ。
 
