@@ -288,7 +288,7 @@ export function Header({ locale, dict }: HeaderProps) {
                   <span className="font-serif text-primary">VISION</span> {{ ko: "행정사사무소", en: "Administrative Office", zh: "行政士事务所", ja: "行政書士事務所" }[locale]}
                 </SheetTitle>
               </SheetHeader>
-              <nav className="mt-6 flex flex-col gap-2">
+              <nav className="mt-6 flex flex-col gap-2 pl-8">
                 {navItems.map((item) => {
                   if (item.type === "link") {
                     return (
