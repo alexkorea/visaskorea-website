@@ -42,6 +42,8 @@ export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost | n
   const { data, content } = matter(fileContents)
   const processedContent = remark().use(remarkGfm).use(html, { sanitize: false }).processSync(content)
   const contentHtml = processedContent.toString()
+    .replace(/<h1(\s|>)/g, '<h2$1')
+    .replace(/<\/h1>/g, '</h2>')
     .replace(/<table/g, '<div style="overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.5rem 0"><table')
     .replace(/<\/table>/g, '</table></div>')
 

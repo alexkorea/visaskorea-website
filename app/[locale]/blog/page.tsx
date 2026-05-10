@@ -21,16 +21,16 @@ interface PageProps {
 
 const BLOG_SEO = {
   title: {
-    ko: "블로그",
-    en: "Blog",
-    zh: "博客",
-    ja: "ブログ",
+    ko: "비자·이민 전문 블로그 — 최신 가이드 모음",
+    en: "Visa & Immigration Expert Blog — Latest Guides",
+    zh: "签证·移民专业博客 — 最新指南合集",
+    ja: "ビザ・移民専門ブログ — 最新ガイド一覧",
   },
   description: {
-    ko: "비자, 이민, 법인 설립에 관한 최신 정보와 전문가 가이드를 확인하세요.",
-    en: "Check the latest information and expert guides on visas, immigration, and company setup.",
-    zh: "查看关于签证、移民和法人设立的最新信息和专家指南。",
-    ja: "ビザ、移民、法人設立に関する最新情報と専門家ガイドをご確認ください。",
+    ko: "한국 비자 신청·체류 연장·영주권·귀화·법인 설립에 관한 최신 정보와 행정사 전문 가이드를 한눈에 확인하세요. 비전행정사사무소가 직접 작성한 실무 중심 콘텐츠입니다.",
+    en: "Stay up to date with expert guides on Korean visa applications, residence extensions, permanent residency, naturalization, and company formation. Written by licensed administrative attorneys at Vision Admin Office.",
+    zh: "一站式获取韩国签证申请、居留延期、永久居留、归化及法人设立的最新专业指南。由飞展行政事务所持牌行政士亲自撰写，内容以实务操作为核心。",
+    ja: "韓国ビザ申請・在留延長・永住権・帰化・法人設立に関する最新の専門ガイドをまとめてご確認いただけます。ビジョン行政書士事務所の有資格行政士が実務に基づいて執筆しています。",
   },
 } as const;
 
