@@ -3,7 +3,7 @@ title: "E-7 비자 연장 및 급여 기준 실무 가이드 2026"
 date: "2026-05-18"
 category: "E-7 특정활동비자"
 excerpt: "E-7 비자를 연장하려면 고용유지, 적정 급여, 소득세 납부 등 요건을 충족해야 합니다. 2026년 최신 기준으로 E-7 연장 조건과 급여 기준을 정리합니다."
-image: "/images/visa-e7.png"
+image: "/slides/consultation.jpg"
 slug: "e7-visa-salary-extension-guide"
 ---
 
