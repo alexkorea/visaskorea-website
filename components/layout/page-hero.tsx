@@ -1,6 +1,6 @@
 export function PageHero({ title, subtitle, image }: { title: string; subtitle?: string; image: string }) {
   return (
-    <section className="relative min-h-[300px] flex items-center py-16">
+    <section className="relative min-h-[300px] flex items-center py-16 bg-gray-900">
       <div className="absolute inset-0">
         <img src={image} alt={title} className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-black/50" />
