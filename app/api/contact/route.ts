@@ -178,7 +178,7 @@ export async function POST(request: Request) {
     const notionPromise = saveToNotion({ name, email, phone, nationality, currentVisa, country, service, message })
       .catch((err) => console.error("Notion save error:", err))
 
-    // Notion CRM (unified)
+    // Notion CRM (legacy)
     const { saveToCRM } = await import("@/lib/notion-crm")
     const crmPromise = saveToCRM({
       brand: 'visaskorea', formType: 'contact',
@@ -189,7 +189,20 @@ export async function POST(request: Request) {
       rawPayload: body,
     }).catch((err) => console.error("CRM error:", err))
 
-    await Promise.all([telegramPromise, emailPromise, notionPromise, crmPromise])
+    // formconnection-crm intake (보스 msg 13668·13677)
+    const intakePromise = fetch("https://formconnection-crm.vercel.app/api/intake", {
+      method: "POST",
+      headers: { "Content-Type": "application/json",
+        ...(process.env.INTAKE_API_KEY ? { "x-api-key": process.env.INTAKE_API_KEY } : {}) },
+      body: JSON.stringify({
+        site: "visaskorea.co.kr", language: "ko",
+        name, email, phone, nationality,
+        current_visa: currentVisa,
+        service_interest: service, message, raw_payload: body,
+      }),
+    }).catch((err) => console.error("Intake error:", err))
+
+    await Promise.all([telegramPromise, emailPromise, notionPromise, crmPromise, intakePromise])
 
     return NextResponse.json({ success: true })
   } catch (error) {
