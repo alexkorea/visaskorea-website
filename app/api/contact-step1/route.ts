@@ -199,7 +199,31 @@ export async function POST(request: Request) {
       }),
     }).catch((err) => console.error("Admin email error:", err))
 
-    await Promise.all([emailPromise, telegramPromise, adminEmailPromise])
+    // formconnection-crm intake (보스 msg 13606·13618·13621 — 8개 사이트 통합)
+    const intakePromise = fetch("https://formconnection-crm.vercel.app/api/intake", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        ...(process.env.INTAKE_API_KEY ? { "x-api-key": process.env.INTAKE_API_KEY } : {}),
+      },
+      body: JSON.stringify({
+        site: "visaskorea.co.kr",
+        language: "ko",
+        name,
+        email,
+        phone: contact || undefined,
+        nationality: nationality || undefined,
+        kakao: snsType === "kakao" ? snsId : undefined,
+        wechat: snsType === "wechat" ? snsId : undefined,
+        line: snsType === "line" ? snsId : undefined,
+        whatsapp: snsType === "whatsapp" ? snsId : undefined,
+        service_interest: serviceRaw,
+        message,
+        raw_payload: { step: "step1", form: "consultation", services, snsType, snsId, inquiryId },
+      }),
+    }).catch((err) => console.error("Intake step1 error:", err))
+
+    await Promise.all([emailPromise, telegramPromise, adminEmailPromise, intakePromise])
 
     return NextResponse.json({ ok: true, inquiryId })
   } catch (error) {

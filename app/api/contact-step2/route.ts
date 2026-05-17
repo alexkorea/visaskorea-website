@@ -95,7 +95,25 @@ export async function POST(request: Request) {
       }
     ).catch((err) => console.error("Telegram error:", err))
 
-    await Promise.all([updatePromise, telegramPromise])
+    // formconnection-crm intake (보스 msg 13606·13618·13621): step2 상세 정보를 별도 row로 적재
+    // step1에서 이미 한 row 생성됨. step2는 같은 inquiryId를 message에 포함해 사람이 매칭.
+    const intakePromise = fetch("https://formconnection-crm.vercel.app/api/intake", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        ...(process.env.INTAKE_API_KEY ? { "x-api-key": process.env.INTAKE_API_KEY } : {}),
+      },
+      body: JSON.stringify({
+        site: "visaskorea.co.kr",
+        language: "ko",
+        name: `[step2 상세] inquiry ${inquiryId || "?"}`,
+        message: `Service: ${service}\n${detailsSummary}${additionalMessage ? `\n\n추가: ${additionalMessage}` : ""}`,
+        service_interest: service,
+        raw_payload: { step: "step2", inquiryId, details, additionalMessage },
+      }),
+    }).catch((err) => console.error("Intake step2 error:", err))
+
+    await Promise.all([updatePromise, telegramPromise, intakePromise])
 
     return NextResponse.json({ ok: true })
   } catch (error) {
