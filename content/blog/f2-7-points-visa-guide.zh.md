@@ -3,7 +3,7 @@ title: "韩国F-2-7积分制长期居留签证申请完全指南 2026"
 date: "2026-05-18"
 category: "F-2居住签证"
 excerpt: "F-2-7签证通过积分制审查，评估学历、收入、韩语能力等要素。本指南整理2026年最新申请标准。"
-image: "/images/visa-f2.png"
+image: "/slides/passport.jpg"
 slug: "f2-7-points-visa-guide"
 ---
 
