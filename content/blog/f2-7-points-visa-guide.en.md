@@ -3,7 +3,7 @@ title: "F-2-7 Points-Based Long-Term Residency Visa Guide Korea 2026"
 date: "2026-05-18"
 category: "F-2 Residency Visa"
 excerpt: "The F-2-7 visa grants long-term residency in Korea based on a points system evaluating education, income, Korean language ability, and more. Full 2026 guide."
-image: "/images/visa-f2.png"
+image: "/slides/passport.jpg"
 slug: "f2-7-points-visa-guide"
 ---
 
