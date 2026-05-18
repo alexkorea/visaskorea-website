@@ -60,7 +60,22 @@ export function getPostBySlug(slug: string, locale: string = 'ko'): BlogPost | n
 }
 
 export function getAllPosts(locale: string = 'ko'): BlogPost[] {
-  const slugs = getPostSlugs()
+  if (!fs.existsSync(postsDirectory)) return []
+  const files = fs.readdirSync(postsDirectory).filter(f => f.endsWith('.md'))
+
+  let slugs: string[]
+  if (locale === 'ko') {
+    // KO: only .md files without a locale suffix
+    slugs = files
+      .filter(f => !f.match(/\.(en|zh|ja|ko)\.md$/))
+      .map(f => f.replace(/\.md$/, ''))
+  } else {
+    // Other locales: only files with matching locale suffix
+    slugs = files
+      .filter(f => f.endsWith(`.${locale}.md`))
+      .map(f => f.replace(`.${locale}.md`, ''))
+  }
+
   return slugs
     .map(slug => {
       try { return getPostBySlug(slug, locale) }
