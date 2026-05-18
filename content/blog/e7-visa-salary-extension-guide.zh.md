@@ -3,7 +3,7 @@ title: "韩国E-7签证续签及薪资标准实务指南 2026"
 date: "2026-05-18"
 category: "E-7特定活动签证"
 excerpt: "续签韩国E-7签证需满足持续就业、职业薪资标准及纳税合规等条件。本指南整理2026年最新标准。"
-image: "/slides/consultation.jpg"
+image: "/images/visa-e7.png"
 slug: "e7-visa-salary-extension-guide"
 ---
 
