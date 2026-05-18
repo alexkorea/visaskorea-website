@@ -160,14 +160,16 @@ export default async function BlogDetailPage({ params }: PageProps) {
         <section className="py-12 md:py-16">
           <div className="mx-auto max-w-7xl px-4">
             <div className="flex flex-col gap-10 lg:flex-row">
-              {/* Main Content */}
-              <article
-                className="min-w-0 flex-1 prose prose-neutral dark:prose-invert max-w-none prose-headings:font-semibold prose-headings:tracking-tight prose-h2:mt-10 prose-h2:text-xl prose-p:leading-relaxed prose-p:text-muted-foreground prose-li:text-muted-foreground prose-strong:text-foreground prose-table:text-sm prose-th:bg-muted prose-th:px-4 prose-th:py-2 prose-td:px-4 prose-td:py-2 prose-td:border prose-th:border"
-                dangerouslySetInnerHTML={{
-                  __html: post.content,
-                }}
-              />
-              <InlineCTAForm />
+              {/* Main Content + Inline CTA */}
+              <div className="min-w-0 flex-1 flex flex-col gap-8">
+                <article
+                  className="prose prose-neutral dark:prose-invert max-w-none prose-headings:font-semibold prose-headings:tracking-tight prose-h2:mt-10 prose-h2:text-xl prose-p:leading-relaxed prose-p:text-muted-foreground prose-li:text-muted-foreground prose-strong:text-foreground prose-table:text-sm prose-th:bg-muted prose-th:px-4 prose-th:py-2 prose-td:px-4 prose-td:py-2 prose-td:border prose-th:border"
+                  dangerouslySetInnerHTML={{
+                    __html: post.content,
+                  }}
+                />
+                <InlineCTAForm />
+              </div>
 
               {/* Sidebar */}
               <aside className="w-full shrink-0 lg:w-72">
