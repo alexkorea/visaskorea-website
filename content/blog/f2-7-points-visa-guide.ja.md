@@ -3,7 +3,7 @@ title: "韓国F-2-7ポイント制長期在留ビザ申請完全ガイド 2026"
 date: "2026-05-18"
 category: "F-2居住ビザ"
 excerpt: "F-2-7ビザは学歴・収入・韓国語能力などをポイントで審査する長期在留資格です。2026年最新基準でまとめました。"
-image: "/slides/passport.jpg"
+image: "/images/visa-f2.png"
 slug: "f2-7-points-visa-guide"
 ---
 
