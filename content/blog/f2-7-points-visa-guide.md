@@ -3,7 +3,7 @@ title: "F-2-7 점수제 장기체류비자 신청 완벽 가이드 2026"
 date: "2026-05-18"
 category: "F-2 거주비자"
 excerpt: "F-2-7 비자는 점수제로 심사하는 장기체류 비자입니다. 배점 기준, 신청 자격, 구비서류를 2026년 기준으로 정리합니다."
-image: "/slides/passport.jpg"
+image: "/images/visa-f2.png"
 slug: "f2-7-points-visa-guide"
 ---
 
