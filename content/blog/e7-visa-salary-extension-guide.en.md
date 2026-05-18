@@ -3,7 +3,7 @@ title: "E-7 Visa Extension and Salary Requirements Guide Korea 2026"
 date: "2026-05-18"
 category: "E-7 Specific Activities Visa"
 excerpt: "Renewing an E-7 visa in Korea requires proof of continued employment, meeting salary thresholds by occupation, and tax compliance. This guide covers the 2026 standards."
-image: "/images/visa-e7.png"
+image: "/slides/consultation.jpg"
 slug: "e7-visa-salary-extension-guide"
 ---
 
