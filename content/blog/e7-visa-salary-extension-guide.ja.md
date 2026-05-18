@@ -3,7 +3,7 @@ title: "韓国E-7ビザ更新・給与基準実務ガイド 2026"
 date: "2026-05-18"
 category: "E-7特定活動ビザ"
 excerpt: "韓国E-7ビザの更新には継続雇用・職種別給与基準・納税義務の充足が必要です。2026年最新基準をまとめました。"
-image: "/slides/consultation.jpg"
+image: "/images/visa-e7.png"
 slug: "e7-visa-salary-extension-guide"
 ---
 
