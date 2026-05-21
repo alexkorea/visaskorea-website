@@ -158,9 +158,9 @@ export default async function BlogListPage({ params, searchParams }: PageProps) 
                                 post.category}
                             </Badge>
                           </div>
-                          <CardTitle className="line-clamp-2 text-lg group-hover:text-primary">
+                          <h2 className="line-clamp-2 text-lg font-semibold group-hover:text-primary">
                             {post.title}
-                          </CardTitle>
+                          </h2>
                         </CardHeader>
                         <CardContent>
                           <p className="line-clamp-3 text-sm text-muted-foreground">
