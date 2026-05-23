@@ -5,6 +5,7 @@ export const SITE_CONFIG = {
   shortName: "비전행정사사무소",
   domain: "https://visaskorea.co.kr",
   defaultLocale: "ko" as const,
+  keywords: ['D-8 visa', 'D-7 visa', 'E-7 visa', 'F-2-7 visa', 'F-5 visa', 'D-8 visa requirements', 'E-7 비자 직종', 'D-9-2 visa', 'E-6 visa', '한국본사 외국인초청비자'],
   locales: ["ko", "en", "zh", "ja"] as const,
   organization: {
     name: "비전행정사사무소",
