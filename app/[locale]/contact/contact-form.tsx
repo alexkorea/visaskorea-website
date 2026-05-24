@@ -2,6 +2,7 @@
 
 import { useState } from "react"
 import Link from "next/link"
+import { getQualifierTitle } from "@/lib/visa-qualifier"
 
 const services = [
   { value: "E-7 취업비자", label: "E-7 취업비자", sub: "Work Visa", icon: "💼" },
@@ -106,9 +107,20 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
             </svg>
           </div>
           <h2 className="text-2xl font-bold text-gray-900 mb-3 text-center">상담신청이 접수되었습니다.</h2>
-          <p className="text-gray-600 mb-6 text-center">
+          <p className="text-gray-600 mb-4 text-center">
             영업일 기준 1일 이내에 연락드리겠습니다.
           </p>
+
+          <div className="text-center mb-6">
+            <p className="text-sm text-gray-500 mb-3">더 정확한 상담을 위해 자격 정보를 입력해주시면 담당자가 미리 검토하고 연락드립니다.</p>
+            <Link
+              href={`/${locale}/contact/step2?service=${encodeURIComponent(selectedServices.join(','))}&inquiryId=${inquiryId}&name=${encodeURIComponent(submittedName)}&nationality=${encodeURIComponent(submittedNationality)}`}
+              className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-white px-8 h-12 rounded-lg font-semibold transition-colors text-base"
+            >
+              {getQualifierTitle(selectedServices)} →
+            </Link>
+            <p className="text-xs text-gray-400 mt-2">약 2분 소요 · 건너뛰셔도 됩니다</p>
+          </div>
 
           <div className="bg-blue-50 border border-blue-100 rounded-xl p-6 mb-6 text-left">
             <h3 className="font-bold text-blue-900 text-lg mb-3">비전행정사사무소</h3>
