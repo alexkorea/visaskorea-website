@@ -11,6 +11,7 @@ const services = [
   { value: "F-5 영주권", label: "F-5 영주권", sub: "Permanent Residency", icon: "🏅" },
   { value: "사범심사", label: "사범심사", sub: "불법체류·강제퇴거·출국명령 등", icon: "⚖️" },
   { value: "체류자격 변경", label: "체류자격 변경", sub: "Status Change", icon: "🔄" },
+  { value: "D-9-1 무역경영", label: "D-9-1 무역경영", sub: "Trade Management Visa", icon: "🤝" },
   { value: "D-9-2 설비파견", label: "D-9-2 설비파견", sub: "Export Equipment Visa", icon: "⚙️" },
   { value: "기타", label: "기타", sub: "Other", icon: "💬" },
 ]
