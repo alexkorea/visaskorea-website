@@ -106,21 +106,9 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
             </svg>
           </div>
           <h2 className="text-2xl font-bold text-gray-900 mb-3 text-center">상담신청이 접수되었습니다.</h2>
-          <p className="text-gray-600 mb-4 text-center">
-            {selectedServices.join(', ')} 신청을 해주셨습니다.
-            <br />
-            좀 더 자세한 정보를 입력해 주시면 정확한 상담이 가능합니다.
+          <p className="text-gray-600 mb-6 text-center">
+            영업일 기준 1일 이내에 연락드리겠습니다.
           </p>
-
-          <div className="text-center mb-6">
-            <Link
-              href={`/${locale}/contact/step2?service=${encodeURIComponent(selectedServices.join(','))}&inquiryId=${inquiryId}&name=${encodeURIComponent(submittedName)}&nationality=${encodeURIComponent(submittedNationality)}`}
-              className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-white px-8 h-12 rounded-lg font-semibold transition-colors text-lg"
-            >
-              상세정보 입력하기 →
-            </Link>
-            <p className="text-sm text-gray-400 mt-2">약 1분 소요</p>
-          </div>
 
           <div className="bg-blue-50 border border-blue-100 rounded-xl p-6 mb-6 text-left">
             <h3 className="font-bold text-blue-900 text-lg mb-3">비전행정사사무소</h3>
