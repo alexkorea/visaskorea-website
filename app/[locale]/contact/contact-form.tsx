@@ -1,48 +1,128 @@
 "use client"
 
-import { useState } from "react"
+import { useState, useRef, useEffect } from "react"
 
-const SERVICES = [
-  { value: "F-6 결혼이민", label: "F-6 결혼이민" },
-  { value: "F-4 재외동포", label: "F-4 재외동포" },
-  { value: "F-5 영주권", label: "F-5 영주권" },
-  { value: "F-2-7 거주(점수제)", label: "F-2-7 거주(점수제)" },
-  { value: "D-8 기업투자", label: "D-8 기업투자" },
-  { value: "D-7-1 주재 (외국기업 한국지점)", label: "D-7-1 주재 (외국기업 한국지점)" },
-  { value: "D-7-2 국내본사 해외지사 인력 전입", label: "D-7-2 국내본사 해외지사 인력 전입" },
-  { value: "D-9-1 무역경영", label: "D-9-1 무역경영" },
-  { value: "D-9-2 설비파견", label: "D-9-2 설비파견" },
-  { value: "E-6 예술흥행", label: "E-6 예술흥행" },
-  { value: "E-7 특정활동", label: "E-7 특정활동" },
-  { value: "외국인등록 (거소증/외등)", label: "외국인등록 (거소증/외등)" },
-  { value: "체류기간연장 (기타)", label: "체류기간연장 (기타)" },
-  { value: "F-6 결혼이민 연장", label: "F-6 결혼이민 연장" },
-  { value: "F-4 재외동포 연장", label: "F-4 재외동포 연장" },
-  { value: "F-5 영주권 갱신", label: "F-5 영주권 갱신" },
-  { value: "F-2-7 거주 연장", label: "F-2-7 거주 연장" },
-  { value: "D-8 기업투자 연장", label: "D-8 기업투자 연장" },
-  { value: "D-7 주재 연장", label: "D-7 주재 연장" },
-  { value: "D-9 무역경영 연장", label: "D-9 무역경영 연장" },
-  { value: "E-6 예술흥행 연장", label: "E-6 예술흥행 연장" },
-  { value: "E-7 특정활동 연장", label: "E-7 특정활동 연장" },
-  { value: "비자 변경", label: "비자 변경" },
-  { value: "기타 비자/체류", label: "기타 비자/체류" },
-  { value: "외국인직접투자(FDI) 법인", label: "외국인직접투자(FDI) 법인" },
-  { value: "외국법인 한국지점설치", label: "외국법인 한국지점설치" },
-  { value: "외국법인 한국연락사무소", label: "외국법인 한국연락사무소" },
-  { value: "외국법인 청산", label: "외국법인 청산" },
-  { value: "기타 법인업무", label: "기타 법인업무" },
-  { value: "사범심사", label: "사범심사" },
-  { value: "일반 외국인 행정업무", label: "일반 외국인 행정업무" },
-  { value: "서류 검토/작성", label: "서류 검토/작성" },
-  { value: "F-4 거소증 (국내거소신고)", label: "F-4 거소증 (국내거소신고)" },
-  { value: "관공서 통지서 대응", label: "관공서 통지서 대응" },
-  { value: "번역/공증", label: "번역/공증" },
-  { value: "기타 행정상담", label: "기타 행정상담" },
+const SERVICE_GROUPS = [
+  {
+    group: "비자취득",
+    options: [
+      "F-6 결혼이민",
+      "F-4 재외동포( 거소증 )",
+      "국적회복",
+      "F-5 영주권",
+      "F-2-7 거주(점수제)",
+      "D-8 기업투자",
+      "D-7-1 주재 (외국기업 한국지점)",
+      "D-7-2 국내본사 해외지사 인력 전입",
+      "D-9-1 무역경영",
+      "D-9-2 설비파견",
+      "E-6 예술흥행",
+      "E-7 특정활동",
+      "외국인등록 (거소증/외등)",
+    ],
+  },
+  {
+    group: "연장",
+    options: [
+      "체류기간연장 (기타)",
+      "F-6 결혼이민 연장",
+      "F-4 재외동포 연장",
+      "F-5 영주권 갱신",
+      "F-2-7 거주 연장",
+      "D-8 기업투자 연장",
+      "D-7 주재 연장",
+      "D-9 무역경영 연장",
+      "E-6 예술흥행 연장",
+      "E-7 특정활동 연장",
+    ],
+  },
+  {
+    group: "법인업무",
+    options: [
+      "외국인직접투자(FDI) 법인",
+      "외국법인 한국지점설치",
+      "외국법인 한국연락사무소",
+      "외국법인 폐업",
+    ],
+  },
+  {
+    group: "사범심사",
+    options: [
+      "사범심사",
+    ],
+  },
+  {
+    group: "행정",
+    options: [
+      "일반 외국인 행정업무",
+      "서류 검토/작성",
+      "기타",
+    ],
+  },
 ]
+
+function ServiceDropdown({ value, onChange }: { value: string; onChange: (v: string) => void }) {
+  const [open, setOpen] = useState(false)
+  const ref = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    function handleClick(e: MouseEvent) {
+      if (ref.current && !ref.current.contains(e.target as Node)) setOpen(false)
+    }
+    document.addEventListener("mousedown", handleClick)
+    return () => document.removeEventListener("mousedown", handleClick)
+  }, [])
+
+  return (
+    <div ref={ref} className="relative">
+      <button
+        type="button"
+        onClick={() => setOpen(!open)}
+        className="w-full border border-gray-300 rounded-lg px-4 py-2.5 text-sm text-left flex justify-between items-center bg-white focus:ring-2 focus:ring-primary focus:border-primary outline-none"
+      >
+        <span className={value ? "text-gray-900" : "text-gray-400"}>
+          {value || "선택하지 않으셔도 됩니다"}
+        </span>
+        <svg
+          className={`w-4 h-4 text-gray-400 transition-transform flex-shrink-0 ${open ? "rotate-180" : ""}`}
+          fill="none" viewBox="0 0 24 24" stroke="currentColor"
+        >
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+        </svg>
+      </button>
+      {open && (
+        <div className="absolute z-50 w-full mt-1 bg-white border border-gray-200 rounded-lg shadow-lg max-h-72 overflow-y-auto">
+          <div
+            onClick={() => { onChange(""); setOpen(false) }}
+            className="px-4 py-2.5 text-sm text-gray-400 hover:bg-gray-50 cursor-pointer"
+          >
+            선택하지 않으셔도 됩니다
+          </div>
+          {SERVICE_GROUPS.map((group) => (
+            <div key={group.group}>
+              <div className="px-4 py-1.5 text-xs font-bold text-blue-600 bg-blue-50 border-t border-gray-100">
+                {group.group}
+              </div>
+              {group.options.map((opt) => (
+                <div
+                  key={opt}
+                  onClick={() => { onChange(opt); setOpen(false) }}
+                  className={`px-4 py-2 text-sm cursor-pointer pl-6 hover:bg-gray-50 ${value === opt ? "bg-primary/5 text-primary font-medium" : "text-gray-700"}`}
+                >
+                  {opt}
+                </div>
+              ))}
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  )
+}
 
 export function ContactForm({ locale = "ko" }: { locale?: string }) {
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
+  const [selectedService, setSelectedService] = useState("")
 
   async function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
@@ -51,7 +131,6 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
     const name = (form.elements.namedItem("name") as HTMLInputElement).value
     const email = (form.elements.namedItem("email") as HTMLInputElement).value
     const contact = (form.elements.namedItem("contact") as HTMLInputElement).value
-    const service = (form.elements.namedItem("service") as HTMLSelectElement).value
     const message = (form.elements.namedItem("message") as HTMLTextAreaElement).value
 
     try {
@@ -60,7 +139,7 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
           name, email, contact,
-          services: service ? [service] : ["기타"],
+          services: selectedService ? [selectedService] : ["기타"],
           message,
         }),
       })
@@ -130,12 +209,7 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
 
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">희망 업무 <span className="text-gray-400 font-normal text-xs">(선택)</span></label>
-            <select name="service" className={inputClass + " bg-white"}>
-              <option value="">선택하지 않으셔도 됩니다</option>
-              {SERVICES.map((s) => (
-                <option key={s.value} value={s.value}>{s.label}</option>
-              ))}
-            </select>
+            <ServiceDropdown value={selectedService} onChange={setSelectedService} />
           </div>
 
           <div>
