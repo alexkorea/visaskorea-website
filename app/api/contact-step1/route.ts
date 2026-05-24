@@ -111,20 +111,21 @@ function buildEmailHtml(name: string, services: string[]): string {
 export async function POST(request: Request) {
   try {
     const body = await request.json()
-    const { name, email, contact, snsType, snsId, nationality, services } = body
+    const { name, email, contact, snsType, snsId, nationality, services, message: bodyMessage } = body
 
-    if (!name || !email || !services || services.length === 0) {
+    if (!name || !email) {
       return NextResponse.json({ ok: false, error: "Missing required fields" }, { status: 400 })
     }
 
-    const serviceRaw = Array.isArray(services) ? services.join(", ") : services
-    const svcList = Array.isArray(services) ? services.join(", ") : services
-    const svcArray = Array.isArray(services) ? services : [services]
+    const svcArray = Array.isArray(services) ? services : (services ? [services] : ["기타"])
+    const svcList = svcArray.join(", ")
+    const serviceRaw = svcList
     const inquiryId = `vsk-${Date.now()}`
 
     const messageParts: string[] = []
     if (snsType && snsId) messageParts.push(`SNS: ${snsType} - ${snsId}`)
     if (nationality) messageParts.push(`국적: ${nationality}`)
+    if (bodyMessage) messageParts.push(`문의내용: ${bodyMessage}`)
     const message = messageParts.length > 0 ? messageParts.join(" | ") : undefined
 
     // Defer all heavy work (Notion CRM + emails + Telegram) to after the response
@@ -151,8 +152,9 @@ export async function POST(request: Request) {
       if (snsType && snsId) telegramText += `SNS: ${snsType} - ${snsId}\n`
       if (nationality) telegramText += `국적: ${nationality}\n`
       telegramText += `희망 업무: ${svcList}\n`
+      if (bodyMessage) telegramText += `문의 내용: ${String(bodyMessage).slice(0, 300)}\n`
 
-      const adminEmailHtml = `<h2 style="color:#1e3a5f">[VisasKorea] 새 상담 신청</h2><table cellpadding="6" style="border-collapse:collapse;border:1px solid #ddd;font-family:Apple SD Gothic Neo,sans-serif"><tr><td><b>이름</b></td><td>${name}</td></tr><tr><td><b>이메일</b></td><td>${email}</td></tr>${contact ? `<tr><td><b>연락처</b></td><td>${contact}</td></tr>` : ''}${snsType && snsId ? `<tr><td><b>SNS</b></td><td>${snsType} - ${snsId}</td></tr>` : ''}${nationality ? `<tr><td><b>국적</b></td><td>${nationality}</td></tr>` : ''}<tr><td><b>희망 업무</b></td><td>${svcList}</td></tr><tr><td><b>접수 ID</b></td><td>${inquiryId}</td></tr></table><p style="color:#666;font-size:13px;margin-top:18px">자동 발송 — Notion CRM 자동 등록 완료</p>`
+      const adminEmailHtml = `<h2 style="color:#1e3a5f">[VisasKorea] 새 상담 신청</h2><table cellpadding="6" style="border-collapse:collapse;border:1px solid #ddd;font-family:Apple SD Gothic Neo,sans-serif"><tr><td><b>이름</b></td><td>${name}</td></tr><tr><td><b>이메일</b></td><td>${email}</td></tr>${contact ? `<tr><td><b>연락처</b></td><td>${contact}</td></tr>` : ''}${snsType && snsId ? `<tr><td><b>SNS</b></td><td>${snsType} - ${snsId}</td></tr>` : ''}${nationality ? `<tr><td><b>국적</b></td><td>${nationality}</td></tr>` : ''}<tr><td><b>희망 업무</b></td><td>${svcList}</td></tr>${bodyMessage ? `<tr><td><b>문의 내용</b></td><td>${String(bodyMessage).slice(0,500)}</td></tr>` : ''}<tr><td><b>접수 ID</b></td><td>${inquiryId}</td></tr></table><p style="color:#666;font-size:13px;margin-top:18px">자동 발송 — Notion CRM 자동 등록 완료</p>`
 
       await Promise.all([
         fetch("https://api.resend.com/emails", {
