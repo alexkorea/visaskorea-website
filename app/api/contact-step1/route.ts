@@ -62,10 +62,7 @@ const RESEND_API_KEY = process.env.RESEND_API_KEY || ""
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || ""
 const TELEGRAM_CHAT_ID = "5533847195"
 
-function buildEmailHtml(name: string, services: string[], inquiryId: string): string {
-  const serviceParam = encodeURIComponent(services.join(","))
-  const step2Url = `https://www.visaskorea.co.kr/contact/step2?service=${serviceParam}&inquiryId=${inquiryId}`
-
+function buildEmailHtml(name: string, services: string[]): string {
   return `<!DOCTYPE html>
 <html lang="ko">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"></head>
@@ -81,29 +78,14 @@ function buildEmailHtml(name: string, services: string[], inquiryId: string): st
         </tr>
         <tr>
           <td style="padding:40px;">
-            <h2 style="margin:0 0 8px;color:#1e3a5f;font-size:22px;font-weight:700;">${name}님, 비전행정사사무소에 상담요청해 주셔서 감사합니다.</h2>
+            <h2 style="margin:0 0 8px;color:#1e3a5f;font-size:22px;font-weight:700;">${name}님, 상담 신청이 접수되었습니다.</h2>
             <p style="margin:0 0 24px;color:#555;font-size:15px;line-height:1.6;">
-              상담 신청이 접수되었습니다.<br/>
-              맞춤 상담을 위해 아래 추가 정보를 입력해주세요.
+              영업일 기준 1일 이내에 담당자가 직접 연락드리겠습니다.
             </p>
             <div style="margin-bottom:24px;">
               <p style="margin:0 0 8px;color:#888;font-size:13px;">신청 서비스:</p>
               <p style="margin:0;color:#1e3a5f;font-size:14px;font-weight:600;">${services.join(" / ")}</p>
             </div>
-            <table width="100%" cellpadding="0" cellspacing="0">
-              <tr><td align="center" style="padding:8px 0 24px;">
-                <a href="${step2Url}" style="display:inline-block;background-color:#1e3a5f;color:#ffffff;text-decoration:none;padding:16px 40px;border-radius:8px;font-size:16px;font-weight:700;letter-spacing:0.5px;">
-                  상세 정보 입력하기 &rarr;
-                </a>
-              </td></tr>
-            </table>
-            
-${(() => {
-    const links = buildRelatedLinks(services);
-    const rows = links.map(l => `<tr><td style="padding:8px 0;border-bottom:1px solid #E5E7EB"><a href="${l.url}" style="color:#235099;text-decoration:none;font-size:14px">▶ ${l.label}</a></td></tr>`).join('');
-    return `<div style="margin:28px 0 16px;padding:18px;background:#F0F7FF;border-radius:10px;border-left:4px solid #235099"><h3 style="font-size:16px;color:#235099;font-weight:700;margin:0 0 12px">📚 관련 비자 정보 (참고)</h3><table cellpadding="0" cellspacing="0" style="width:100%;border-collapse:collapse">${rows}</table><p style="font-size:12px;color:#6B7280;margin:12px 0 0">상담 전 참고하시면 더 정확한 안내가 가능합니다.</p></div>`;
-  })()}
-<p style="margin:0;text-align:center;color:#999;font-size:13px;">약 1분 소요</p>
           </td>
         </tr>
         <tr>
@@ -180,7 +162,7 @@ export async function POST(request: Request) {
             from: "비전행정사사무소 <noreply@ko-visas.com>",
             to: [email],
             subject: "[비전행정사사무소] 비전행정사사무소에 상담요청해 주셔서 감사합니다.",
-            html: buildEmailHtml(name, svcArray, inquiryId),
+            html: buildEmailHtml(name, svcArray),
           }),
         }).catch((err) => console.error("Resend email error:", err)),
 
