@@ -19,14 +19,12 @@ type FieldDef = {
 
 const serviceFields: Record<string, FieldDef[]> = {
   "E-7 취업비자": [
-    { name: "nationality", label: "국적", type: "text", placeholder: "예: 미국, 중국, 일본", required: true },
     { name: "education", label: "학력", type: "select", options: ["고등학교 졸업", "전문대 졸업", "대학교 졸업", "석사", "박사"], required: true },
     { name: "experience", label: "경력 기간", type: "select", options: ["1년 미만", "1~3년", "3~5년", "5~10년", "10년 이상"], required: true },
     { name: "currentVisa", label: "현재 비자", type: "text", placeholder: "예: D-10, C-3, 없음", required: false },
     { name: "hasEmployer", label: "고용 회사 유무", type: "radio", options: ["예", "아니오", "협의 중"], required: true },
   ],
   "E-6 예술흥행비자": [
-    { name: "nationality", label: "국적", type: "text", placeholder: "예: 미국, 중국, 일본", required: true },
     { name: "activityField", label: "활동 분야", type: "select", options: ["연예/음악", "스포츠", "모델", "예술/공연", "기타"], required: true },
     { name: "hasInviter", label: "초청 기관 유무", type: "radio", options: ["예", "아니오"], required: true },
     { name: "contractPeriod", label: "계약 기간", type: "select", options: ["3개월 미만", "3~6개월", "6개월~1년", "1년 이상"], required: false },
@@ -86,6 +84,8 @@ function Step2Form() {
   const dict = getDictionary(locale as Locale)
   const serviceParam = searchParams.get("service") || ""
   const inquiryId = searchParams.get("inquiryId") || ""
+  const step1Name = searchParams.get("name") || ""
+  const step1Nationality = searchParams.get("nationality") || ""
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
   const [formData, setFormData] = useState<Record<string, string>>({})
 
@@ -168,13 +168,19 @@ function Step2Form() {
           </div>
 
           <div className="bg-white rounded-xl border border-gray-200 p-8 shadow-sm">
+            {(step1Name || step1Nationality) && (
+              <div className="bg-blue-50 border border-blue-100 rounded-lg px-4 py-3 mb-4 text-sm text-blue-800 flex flex-wrap gap-3">
+                {step1Name && <span>👤 <strong>{step1Name}</strong>님</span>}
+                {step1Nationality && <span>🌏 국적: <strong>{step1Nationality}</strong></span>}
+              </div>
+            )}
             <div className="flex items-center gap-2 mb-2 flex-wrap">
               {serviceList.map((svc) => (
                 <span key={svc} className="inline-flex items-center px-3 py-1 rounded-full bg-primary/10 text-primary text-xs font-medium">{svc}</span>
               ))}
             </div>
             <h2 className="text-xl font-bold text-gray-900 mb-1">상세 정보 입력</h2>
-            <p className="text-sm text-gray-500 mb-6">선택하신 서비스에 맞는 상세 정보를 입력해주세요.</p>
+            <p className="text-sm text-gray-500 mb-6">선택하신 서비스에 맞는 추가 정보를 입력해주세요.</p>
 
             <form onSubmit={handleSubmit} className="space-y-5">
               {sections.map((section, sectionIdx) => (
