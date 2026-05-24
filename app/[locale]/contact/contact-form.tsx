@@ -3,15 +3,15 @@
 import { useState } from "react"
 
 const SERVICES = [
-  { value: "E-7 취업비자", label: "E-7 취업비자 (Work Visa)" },
-  { value: "E-6 예술흥행비자", label: "E-6 예술흥행비자 (Entertainment Visa)" },
-  { value: "F-2 거주비자", label: "F-2 거주비자 (Residence Visa)" },
-  { value: "F-5 영주권", label: "F-5 영주권 (Permanent Residency)" },
-  { value: "사범심사", label: "사범심사 (불법체류·강제퇴거·출국명령 등)" },
-  { value: "체류자격 변경", label: "체류자격 변경 (Status Change)" },
-  { value: "D-9-1 무역경영", label: "D-9-1 무역경영 (Trade Management)" },
-  { value: "D-9-2 설비파견", label: "D-9-2 설비파견 (Equipment Dispatch)" },
-  { value: "기타", label: "기타 (Other)" },
+  { value: "D-8 기업투자비자", label: "D-8 기업투자비자" },
+  { value: "D-7 주재원비자", label: "D-7 주재원비자" },
+  { value: "E-7 특정활동", label: "E-7 특정활동" },
+  { value: "F-2-7 거주", label: "F-2-7 거주" },
+  { value: "F-5 영주권", label: "F-5 영주권" },
+  { value: "F-4 거소증", label: "F-4 거소증" },
+  { value: "F-6 결혼", label: "F-6 결혼" },
+  { value: "사범심사", label: "사범심사" },
+  { value: "기타", label: "기타" },
 ]
 
 export function ContactForm({ locale = "ko" }: { locale?: string }) {
