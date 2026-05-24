@@ -102,10 +102,16 @@ export const QUALIFIER_MAP: Record<string, QualifierDef> = {
   // ── D-7 주재원비자 ─────────────────────────────────────────
   "D-7 주재원비자": {
     title: "D-7 주재원 자격 확인",
-    description: "본국 회사에서 한국 법인으로 파견 가능 여부를 확인합니다.",
+    description: "파견 유형과 요건을 확인합니다. D-7-1(외국 본사 → 한국), D-7-2(국내 상장사 → 해외지사 직원 국내 복귀).",
     fields: [
+      { name: "dispatchType", label: "파견 유형", type: "select", required: true,
+        hint: "D-7-1: 외국 본사에서 한국 법인·지사로 파견 / D-7-2: 국내 상장사가 해외지사 직원을 한국 본사·계열사로 데려오는 경우",
+        options: [
+          "D-7-1: 외국 본사 → 한국 법인·지사 파견",
+          "D-7-2: 국내 상장사 → 해외지사 직원을 한국으로",
+          "잘 모름",
+        ] },
       { name: "overseasCompanyAge", label: "본국(해외) 회사 설립 연수", type: "select", required: true,
-        hint: "D-7-1: 외국 본사 파견, D-7-2: 국내 계열사 파견",
         options: ["1년 미만", "1~3년", "3년 이상"] },
       { name: "koreaEntityStatus", label: "한국 내 법인/지사 상태", type: "select", required: true,
         options: ["법인 설립 완료", "지사 설치 완료", "연락사무소 설치", "설립 예정"] },
@@ -291,12 +297,28 @@ export const QUALIFIER_MAP: Record<string, QualifierDef> = {
     fields: [
       { name: "equipmentType", label: "설비 유형", type: "text", required: true,
         placeholder: "예: 반도체 장비, 공장 설비, IT 인프라" },
-      { name: "contractCompany", label: "한국 계약 회사", type: "text", required: true,
-        placeholder: "한국 내 발주처 또는 수입처 회사명" },
+      { name: "contractCompany", label: "한국 계약 회사 (발주처)", type: "text", required: true,
+        placeholder: "한국 내 수입처 또는 발주처 회사명" },
       { name: "stayPeriod", label: "예정 체류 기간", type: "select", required: true,
         options: ["1개월 이하", "1~3개월", "3~6개월", "6개월 이상"] },
       { name: "techSpec", label: "전문 기술 분야", type: "text", required: false,
         placeholder: "예: 기계공학, 전기·전자, 소프트웨어" },
+    ],
+  },
+
+  // ── D-9-1 무역경영 ─────────────────────────────────────────
+  "D-9-1 무역경영": {
+    title: "D-9-1 무역경영 자격 확인",
+    description: "무역 경영 활동을 위한 체류 요건을 확인합니다.",
+    fields: [
+      { name: "tradeType", label: "무역 활동 유형", type: "select", required: true,
+        options: ["수출입 무역업", "구매 대리 (바이어 에이전트)", "시장 조사·개발", "기타 무역 경영"] },
+      { name: "koreanEntityStatus", label: "한국 내 사무소·법인 현황", type: "select", required: true,
+        options: ["법인 설립 완료", "지사 설치 완료", "연락사무소 운영", "없음 (개인 활동)"] },
+      { name: "overseasCompany", label: "본국(해외) 무역 회사명", type: "text", required: true,
+        placeholder: "해외 본사 또는 소속 무역 회사명" },
+      { name: "stayPeriod", label: "예정 체류 기간", type: "select", required: true,
+        options: ["3개월 이하", "3~6개월", "6개월~1년", "1년 이상 (연장 포함)"] },
     ],
   },
 
@@ -335,6 +357,8 @@ const SERVICE_ALIAS: Record<string, string> = {
   "출국명령": "사범심사",
   "입국금지": "사범심사",
   "체류자격 변경": "체류자격 변경",
+  "D-9-1 무역경영": "D-9-1 무역경영",
+  "D-9 무역경영": "D-9-1 무역경영",
   "D-9-2 설비파견": "D-9-2 설비파견",
   "D-9-2 수출설비": "D-9-2 설비파견",
 }
