@@ -9,7 +9,7 @@ const services = [
   { value: "E-6 예술흥행비자", label: "E-6 예술흥행비자", sub: "Entertainment Visa", icon: "🎭" },
   { value: "F-2 거주비자", label: "F-2 거주비자", sub: "Residence Visa", icon: "🏠" },
   { value: "F-5 영주권", label: "F-5 영주권", sub: "Permanent Residency", icon: "🏅" },
-  { value: "사범심사 대응", label: "사범심사 대응", sub: "Immigration Review", icon: "⚖️" },
+  { value: "사범심사", label: "사범심사", sub: "불법체류·강제퇴거·출국명령 등", icon: "⚖️" },
   { value: "체류자격 변경", label: "체류자격 변경", sub: "Status Change", icon: "🔄" },
   { value: "D-9-2 설비파견", label: "D-9-2 설비파견", sub: "Export Equipment Visa", icon: "⚙️" },
   { value: "기타", label: "기타", sub: "Other", icon: "💬" },
