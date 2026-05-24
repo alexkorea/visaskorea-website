@@ -49,6 +49,8 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
   const [selectedServices, setSelectedServices] = useState<string[]>([])
   const [status, setStatus] = useState<"idle" | "sending" | "sent" | "error">("idle")
   const [inquiryId, setInquiryId] = useState("")
+  const [submittedName, setSubmittedName] = useState("")
+  const [submittedNationality, setSubmittedNationality] = useState("")
 
   function toggleService(value: string) {
     setSelectedServices((prev) =>
@@ -63,13 +65,15 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
     const form = e.currentTarget
     const snsType = (form.elements.namedItem("snsType") as HTMLSelectElement).value
     const snsId = (form.elements.namedItem("snsId") as HTMLInputElement).value
+    const nameVal = (form.elements.namedItem("name") as HTMLInputElement).value
+    const nationalityVal = (form.elements.namedItem("nationality") as HTMLSelectElement).value
     const data = {
-      name: (form.elements.namedItem("name") as HTMLInputElement).value,
+      name: nameVal,
       email: (form.elements.namedItem("email") as HTMLInputElement).value,
       contact: (form.elements.namedItem("contact") as HTMLInputElement).value,
       snsType: snsType || undefined,
       snsId: snsId || undefined,
-      nationality: (form.elements.namedItem("nationality") as HTMLSelectElement).value,
+      nationality: nationalityVal,
       services: selectedServices,
     }
     try {
@@ -81,6 +85,8 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
       if (res.ok) {
         const result = await res.json()
         setInquiryId(result.inquiryId || "")
+        setSubmittedName(nameVal)
+        setSubmittedNationality(nationalityVal)
         setStatus("sent")
       } else {
         setStatus("error")
@@ -108,7 +114,7 @@ export function ContactForm({ locale = "ko" }: { locale?: string }) {
 
           <div className="text-center mb-6">
             <Link
-              href={`/${locale}/contact/step2?service=${encodeURIComponent(selectedServices.join(','))}&inquiryId=${inquiryId}`}
+              href={`/${locale}/contact/step2?service=${encodeURIComponent(selectedServices.join(','))}&inquiryId=${inquiryId}&name=${encodeURIComponent(submittedName)}&nationality=${encodeURIComponent(submittedNationality)}`}
               className="inline-flex items-center justify-center bg-primary hover:bg-primary/90 text-white px-8 h-12 rounded-lg font-semibold transition-colors text-lg"
             >
               상세정보 입력하기 →
