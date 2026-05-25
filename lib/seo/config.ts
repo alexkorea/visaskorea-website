@@ -56,7 +56,7 @@ export const DEFAULT_SEO: Record<
   }
 > = {
   ko: {
-    title: "비전행정사사무소 | 전문 비자 및 이민 컨설팅",
+    title: "비자 이민 전문 행정사 | D-8·D-7·E-7·F-2-7·F-5 영주권 — 비전행정사사무소",
     description:
       "대한민국 비자, 영주권, 법인 설립 전문 컨설팅. D-8, E-7, F-5 비자부터 외국인 투자법인 설립까지 원스톱 서비스를 제공합니다.",
     keywords: [
@@ -70,9 +70,9 @@ export const DEFAULT_SEO: Record<
     ],
   },
   en: {
-    title: "VISION Administrative Office | Visa & Immigration Consulting",
+    title: "Korea Visa Consulting | D-8 D-7 E-7 F-2-7 F-5 Visa Specialist — VISION Administrative Office",
     description:
-      "Expert visa, permanent residency, and corporate establishment consulting in South Korea. From D-8, E-7, F-5 visas to foreign investment company setup.",
+      "Korea D-8 investor visa, D-7 intracompany visa, E-7 specialty visa, F-2-7 points system visa, F-5 permanent residency — specialist administrative scrivener in Seoul. Initial consultation.",
     keywords: [
       "visa consulting",
       "immigration",
