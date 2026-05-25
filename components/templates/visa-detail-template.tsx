@@ -5,6 +5,7 @@ import { SEOBreadcrumb } from "@/components/seo/seo-breadcrumb";
 import { SEOFAQ } from "@/components/seo/seo-faq";
 import { ServicePageSchema } from "@/components/seo/page-schema";
 import { PageHero } from "@/components/layout/page-hero";
+import { VisaIntakeForm } from "@/components/visa-intake-form";
 import type { Locale } from "@/lib/seo";
 import type { Dictionary } from "@/lib/i18n/dictionaries";
 import type { FAQItem } from "@/lib/seo/structured-data";
@@ -260,6 +261,9 @@ export function VisaDetailTemplate({
                   className="pt-4"
                 />
               )}
+
+              {/* Visa Intake Form */}
+              <VisaIntakeForm visaSlug={visa.slug} visaLabel={visa.title} />
             </main>
 
             {/* Sidebar */}
