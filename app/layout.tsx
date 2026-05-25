@@ -18,6 +18,19 @@ const inter = Inter({
   display: "swap",
 });
 
+
+const JSON_LD = {
+  "@context": "https://schema.org",
+  "@type": "LegalService",
+  "name": "비전행정사사무소",
+  "alternateName": "Vision Administrative Office",
+  "url": "https://visaskorea.co.kr",
+  "description": "한국 비자·이민·영주권 전문 행정사사무소. F-2-7, F-5, F-4, E-7, D-8, D-7 비자 신청 및 사범심사 대행.",
+  "telephone": "+82-2-363-2251",
+  "address": { "@type": "PostalAddress", "streetAddress": "퇴계로 324, 3층", "addressLocality": "중구", "addressRegion": "서울특별시", "postalCode": "04614", "addressCountry": "KR" },
+  "openingHours": "Mo-Fr 09:30-17:30",
+  "priceRange": "$"
+};
 export const metadata: Metadata = {
   title: {
     template: `%s | ${SITE_CONFIG.name}`,
@@ -104,6 +117,9 @@ export default async function RootLayout({
 
   return (
     <html lang={htmlLang} suppressHydrationWarning>
+      <head>
+        <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(JSON_LD) }} />
+      </head>
       <body className={`${notoSansKR.variable} ${inter.variable} font-sans antialiased`}>
         <Script src="https://www.googletagmanager.com/gtag/js?id=G-13R66L3KTZ" strategy="afterInteractive" />
         <Script id="gtag-init" strategy="afterInteractive">
