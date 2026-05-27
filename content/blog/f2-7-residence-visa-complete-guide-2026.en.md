@@ -1,6 +1,6 @@
 ---
 title: "Korea F-2-7 Points-Based Residence Visa 2026 — Score Table, Eligibility & F-5 Path"
-date: "2026-05-26"
+date: "2026-05-27"
 category: "Points Visa"
 excerpt: "Complete 2026 guide to Korea's F-2-7 points-based residence visa. Covers the scoring table (80+ out of 170 required), eligibility categories, required documents, and how to convert to F-5 permanent residency."
 image: "/slides/consultation.jpg"
