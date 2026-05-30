@@ -1,6 +1,6 @@
 ---
 title: "韩国F-5永久居留权申请完全指南2026 — 资格·材料·流程"
-date: "2026-05-29"
+date: "2026-05-30"
 category: "永久居留"
 excerpt: "2026年韩国F-5永久居留权各申请途径的资格条件、所需材料和详细流程说明。"
 image: "/slides/consultation.jpg"
