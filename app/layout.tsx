@@ -89,7 +89,12 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  verification: {},
+  verification: {
+    other: {
+      'naver-site-verification': '821878d3936191cf689c49a3b381bd5d6120a2a3',
+      'msvalidate.01': '9040F35010B56E1A9C560DD7708280D7',
+    },
+  },
 }
 
 export const viewport: Viewport = {
