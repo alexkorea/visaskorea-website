@@ -1,6 +1,6 @@
 ---
 title: "F-5 Permanent Residency Korea 2026 — Requirements, Documents & Process"
-date: "2026-08-26"
+date: "2026-08-27"
 category: "Permanent Residency"
 excerpt: "Complete guide to Korea's F-5 permanent residency visa. Covers all application pathways, eligibility requirements, documents, and step-by-step procedures updated for 2026."
 image: "/slides/consultation.jpg"
